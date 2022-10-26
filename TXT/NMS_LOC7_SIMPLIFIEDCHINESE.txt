@@ -1062,8 +1062,8 @@ UI_CONFIRM_BASE_DELETE_HEADER	{确认删除基地}
 UI_CONFIRM_BASE_DELETE_BODY	{执行该操作将永久移除此基地。确定继续？}
 HAZARDBAR_DAMAGED	{受损}
 UI_TECH_BOOST_TITLE	{技术已增压！}
-UI_TECH_BOOST_BODY	{该槽位中的高压纳米线缆已使该技术处于增压状态。}
-UI_ALIEN_TECH_BOOST_BODY	{该槽位中的电基因肌肉系统已使该技术处于超充能状态。}
+UI_TECH_BOOST_BODY	{槽位中的高压纳米线缆已使该技术处于增压状态。}
+UI_ALIEN_TECH_BOOST_BODY	{槽位中的电基因肌肉系统已使该技术处于超充能状态。}
 OPTION_LANGUAGE	{语言}
 UI_POPUP_LANG_CHANGED_TITLE	{NO MAN'S SKY}
 UI_POPUP_LANG_CHANGED_MSG	{需要重启以使设置生效}
