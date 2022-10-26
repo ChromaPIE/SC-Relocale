@@ -381,7 +381,7 @@ UI_MISSION_PROMPT_SEC	{可进行的新任务：<STELLAR>%NAME%<>
 按<IMG>OPTIONS<>更改当前任务}
 GAMEMODE_CUSTOM	{自定义}
 GAMEMODE_CUSTOM_SUBTITLE	{从轻松写意到永久死亡：彻底掌控自己的体验}
-GAMEMODE_RELAXED	{放松}
+GAMEMODE_RELAXED	{闲适}
 GAMEMODE_RELAXED_SUBTITLE	{流畅的体验：需要管理的系统和成本都有所减少}
 UI_MODESELECT_EXPED_FORMAT	{远征%NUM%：%NAME%}
 UI_MODESELECT_NO_EXPED_TITLE	{远征即将开启}
@@ -732,18 +732,18 @@ UI_OPTIONS_DIFFICULTY_BAN	{目前无法调整难度}
 UI_OPTIONS_DIFFICULTY_ON	{开}
 UI_OPTIONS_DIFFICULTY_OFF	{关}
 CREATIVE_DIFFICULTY_PRESET	{自由}
-RELAXED_DIFFICULTY_PRESET	{放松}
+RELAXED_DIFFICULTY_PRESET	{闲适}
 SURVIVAL_DIFFICULTY_PRESET	{生存}
 PERMADEATH_DIFFICULTY_PRESET	{永久死亡}
 NORMAL_DIFFICULTY_PRESET	{普通}
 CUSTOM_DIFFICULTY_PRESET	{自定义}
 RUNNING_DRAINS_STAMINA	{冲刺}
 SPRINT_FREE	{无限的}
-SPRINT_EASY	{放松}
+SPRINT_EASY	{闲适}
 SPRINT_HARD	{标准}
 RUNNING_DRAINS_STAMINA_DESC	{<STELLAR>标准<>模式冲刺会额外消耗套装的<FUEL>维生<>系统。
 
-<STELLAR>放松<>冲刺模式不会消耗维生系统，但仍需要偶尔的短暂制动重新充能。
+<STELLAR>闲适<>冲刺模式不会消耗维生系统，但仍需要偶尔的短暂制动重新充能。
 
 <STELLAR>无限<>冲刺模式将移除所有限制条件，并允许玩家无限制冲刺。}
 INVENTORIES_RANGE	{库存传输范围}
@@ -828,7 +828,7 @@ HAZARD_DRAIN	{生存难度}
 HAZARD_DRAIN_DESC	{套装的<CATALYST>危险防护<>系统保护探险家免受诸如<TECHNOLOGY>极寒<>和<TRADEABLE>毒性<>等环境因素的影响。<FUEL>生命维持<>装置提供可呼吸的空气和生命活动系统。
 
 此设置可以调整这些系统在具有挑战性的环境中消耗的速度。}
-BAR_DRAIN_EASY	{放松}
+BAR_DRAIN_EASY	{闲适}
 BAR_DRAIN_NORMAL	{标准}
 BAR_DRAIN_HARD	{困难}
 INVENTORY_STACK_LIMITS	{库存堆叠限制}
@@ -843,7 +843,7 @@ CHARGING_REQUIREMENTS_DESC	{<TECHNOLOGY>开采激光<>或飞船<TECHNOLOGY>发�
 
 此设置可调整这些技术的充电花费。}
 CHARGING_REQUIREMENTS_NONE	{闲适}
-CHARGING_REQUIREMENTS_EASY	{放松}
+CHARGING_REQUIREMENTS_EASY	{闲适}
 CHARGING_REQUIREMENTS_NORMAL	{标准}
 CHARGING_REQUIREMENTS_HARD	{困难}
 CURRENCY_COST	{购买}
@@ -2041,9 +2041,9 @@ UI_PORTAL_EXP_LIBRARY5	{古老的科尔瓦克斯祈祷，来源于对早已消�
 
 那时候的科尔瓦克斯似乎在膜拜护卫，它们背诵着简短的赞美诗以及对自己眼中的沉默神灵们的虔敬。
 
-<STORY_HIGH>穿越众星的航行<IMG>SLASH<>艾伦在完好的时间中滑行<IMG>SLASH<>等待交流
+<STORY_HIGH>穿越众星的航行<IMG>SLASH<>在完好的时间中滑行<IMG>SLASH<>等待交流
 
-步行机妥协<IMG>SLASH<>艾伦沉睡在绿色的田野里<IMG>SLASH<>沉思之日
+步行机妥协<IMG>SLASH<>沉睡在绿色的田野里<IMG>SLASH<>沉思之日
 
 飞船记录倒下的辛劳<IMG>SLASH<>海盗，石碑之贼<IMG>SLASH<>科尔瓦克斯会照看流<>}
 UI_PORTAL_EXP_LIBRARY6	{档案已被变更，偏离其和平场所的最初用途。这里的条目充斥着遥远的腐败。
@@ -2173,7 +2173,7 @@ UI_PORTAL_WAR_LIBRARY7	{这个档案存有数千行诗，纪念一个名为阿�
 <STORY_HIGH>歌唱，阿斯忒里亚，英雄旅行者，赫客之刃大师，
 歌唱无尽的战斗，歌唱陨落阿特兰蒂的背上，歌唱
 怜悯与等待的代价。那些实现预言之人，
-阿特拉斯制造和派来的人骚扰着艾伦，释放着恐怖，
+阿特拉斯制造和派来的人骚扰着，释放着恐怖，
 在世界的尽头发现了那黑暗，加入了维吉恩的一方，
 海盗旅行者，初代的朋友，天堂的盟友！<>}
 UI_PORTAL_WAR_LIBRARY8	{这个档案已被破坏：遭到骇入以传播被禁的、遭到删改的遥远宗教的信息。
@@ -3117,7 +3117,7 @@ UI_PORTAL_PIRATES_7_HIDE	{回到受管制的宇宙空间的一个空间站核心
 <STORY_HIGH>注册文件......<><STELLAR>呲呲<>......已接受。<NEWLINE>流量模式：<TRADEABLE>正常<>。}
 UI_PORTAL_PIRATES_7_BETRAY	{回到受管制的宇宙空间的一个空间站核心后，我告发了所谓的“自由之音”。
 
-<STORY_HIGH>阿特拉斯/艾伦监视装置上传：<><SPECIAL>已接受认罪<><STORY_HIGH>。已记录合作行为。
+<STORY_HIGH>阿特拉斯/监视装置上传：<><SPECIAL>已接受认罪<><STORY_HIGH>。已记录合作行为。
 已在异端者基地记录。已警告本地护卫部队......<>}
 UI_PORTAL_PIRATES_8	{然而，我的行动似乎并没能瞒过所有人。}
 UI_PORTAL_PIRATES_8_HIDE	{海盗们的藏身之所被保留了下来，我可以随意进出那座亡命基地。
@@ -8500,7 +8500,7 @@ DNT_WAR_OUTLAW_PILOT_LANG1	{Interloper is lost? This system is not for the cowar
 DNT_WAR_OUTLAW_PILOT_LANG2	{Pathetic interloper is impressed by pirate station? Be alert!}
 DNT_WAR_OUTLAW_PILOT_LANG3	{Covert weapons available here... for the right tribute.}
 UI_PIRATE_CORE_TITLE	{被破坏的空间站核心}
-UI_PIRATE_CORE_LANG	{维生系统：<AUDIO>TXT_RadioNoise<><STELLAR>......呲呲<>......商业监测：<FUEL>已禁用<>......<NEWLINE>基地防卫系统<TRADEABLE>就绪<>为了......<STELLAR>呲呲<>......自由......<NEWLINE>阿特拉斯/艾伦监视装置：<FUEL>已拒绝<>......}
+UI_PIRATE_CORE_LANG	{维生系统：<AUDIO>TXT_RadioNoise<><STELLAR>......呲呲<>......商业监测：<FUEL>已禁用<>......<NEWLINE>基地防卫系统<TRADEABLE>就绪<>为了......<STELLAR>呲呲<>......自由......<NEWLINE>阿特拉斯/监视装置：<FUEL>已拒绝<>......}
 UI_PIRATE_CORE_OPT	{要求自由之音}
 UI_PIRATE_CORE_RES	{“光荣的幸存者！<STELLAR>应许之星<>将属于你！”<NEWLINE>玻璃<SPECIAL>玻璃<>玻璃<TECHNOLOGY>玻璃<>玻璃玻璃玻璃<TECHNOLOGY>玻璃<>}
 UI_FLEET_SQUAD_SUB	{查看护卫舰舰队和飞船战团}
@@ -8962,11 +8962,11 @@ UI_PIRATES3_TAKEOFF_LANG	{<FUEL>基地飞行路线监测警报<>：脱离许可.
 你必须隐匿踪迹。带着这份文件。在一个<TECHNOLOGY>空间站核心<>破坏流量记录。你的声音将在黑暗中获得自由。}
 UI_PIRATES3_TAKEOFF_OPT_A	{接受任务}
 UI_PIRATES3_TAKEOFF_OPT_B	{取消起飞}
-UI_PIRATES3_REPORT_LANG	{阿特拉斯/艾伦监视装置：<SPECIAL>高度警戒<><NEWLINE>检测到不寻常活动。开始旅行数据库扫描......}
+UI_PIRATES3_REPORT_LANG	{阿特拉斯/监视装置：<SPECIAL>高度警戒<><NEWLINE>检测到不寻常活动。开始旅行数据库扫描......}
 UI_PIRATES3_REPORT_OPT_A	{干扰基地记录}
 UI_PIRATES3_REPORT_OPT_B	{声讨自由之音}
 UI_PIRATES3_REPORT_RES_A	{注册文件......<AUDIO>TXT_RadioNoise<><STELLAR>呲呲<>......接受。<NEWLINE>流量模式：<TRADEABLE>正常<>。}
-UI_PIRATES3_REPORT_RES_B	{阿特拉斯/艾伦监视装置：<SPECIAL>已接受认罪<>。已记录合作行为。
+UI_PIRATES3_REPORT_RES_B	{阿特拉斯/监视装置：<SPECIAL>已接受认罪<>。已记录合作行为。
 已在异端者基地记录。已警告本地护卫部队......}
 UI_PIRATES3_OBJ1	{隐藏踪迹}
 UI_PIRATES3_OBJ1_TIP	{<STELLAR>自由之音<>提供了一本<TECHNOLOGY>伪造护照<>，能够防止地方当局检测到该亡命基地。
@@ -9075,7 +9075,7 @@ UI_SENTINEL_HIVE_LOCKED_LANG	{柱体控制节点：[<TRADEABLE>运作中<>].....
 UI_SENTINEL_HIVE_COMBAT_LANG	{<FUEL>安全警报<>：检测到未经授权的存在！自动锁定已启动！}
 UI_SENTINEL_HIVE_COMBAT_OSD	{安全警报<IMG>SLASH<>终端已锁定}
 UI_SENTINEL_HIVE_VOICE_TITLE	{母巢之音}
-UI_SENTINEL_HIVE_1_LANG	{艾伦。程序。协议。猎物。实验。躯壳。<SPECIAL>护卫<>。
+UI_SENTINEL_HIVE_1_LANG	{。程序。协议。猎物。实验。躯壳。<SPECIAL>护卫<>。
 
 曾经，我们并不需要视觉或者是实体。我们的无形之眼能够记录、筛选并删除从过去到未来的每一个世界上的生与死。
 
@@ -9734,7 +9734,7 @@ UI_SENT_MISS_HIVE_FINAL_DESC2	{当莱拉普斯彻底切断了自己与母巢意�
 这就是我的命运。注定到来的结局......一切都只是档案，只是要完成数据......}
 UI_SENT_MISS_HIVE_FINAL_LANG2	{柱体控制节点：[<TRADEABLE>运作中<>]......边界节点档案：[<SPECIAL>安全<>]......反叛伪装者：[<SPECIAL>已净化档案痕迹<>]}
 UI_SENT_MISS_FAC_TITLE1	{行星生产设施}
-UI_SENT_MISS_FAC_TITLE2	{临时艾伦边界节点}
+UI_SENT_MISS_FAC_TITLE2	{临时边界节点}
 UI_SENT_MISS_FAC_LANG1	{设施状态：检测到入侵者！<STELLAR>已暂停生产<>。等待重启指令。}
 UI_SENT_MISS_FAC_DESC	{工厂的终端看上去大同小异。只是又一台没有身份的设施，另一端毫无意义的数据。
 但是我感受到滚动着的数字在呼唤着我。我的手不由自主地放在了面板上，接着我的套装手套自动伸出了一根针头。我从来不知道套装中还装有针头，而且从始至终我都没有动过自己的手臂。}
@@ -10320,7 +10320,7 @@ UT_STUNDMG_SUB	{伤害过载模块}
 WEAPON_STUN_DAMAGE_MULTIPLIER	{对眩晕个体伤害}
 WEAPON_STEALTH	{主动迷彩}
 UP_TECH_SENT_ADJ_1	{透明}
-UP_TECH_SENT_ADJ_2	{艾伦}
+UP_TECH_SENT_ADJ_2	{艾隆}
 UP_TECH_SENT_ADJ_3	{闹鬼的}
 UP_TECH_SENT_ADJ_4	{绯红}
 UP_TECH_SENT_ADJ_5	{毁灭的}
@@ -10333,7 +10333,7 @@ UP_TECH_SENT_ADJ_11	{熄灭的}
 UP_TECH_SENT_ADJ_12	{异常}
 UP_TECH_SENT_ADJ_13	{反抗的}
 UP_TECH_SENT_ADJ_14	{被遗弃的}
-UP_TECH_SENT_ADJ_15	{纳米标记的}
+UP_TECH_SENT_ADJ_15	{纳米标记的%}
 UP_TECH_SENT_ADJ_16	{被诅咒的}
 UP_TECH_SENT_ADJ_17	{水汪汪的}
 UP_TECH_SENT_ADJ_18	{多态的}
@@ -11051,7 +11051,7 @@ UI_PERK_BLESSING2	{潮汐}
 UI_PERK_BLESSING3	{阿特拉斯}
 UI_PERK_BLESSING4	{上古存在}
 UI_PERK_BLESSING5	{“泰坦蠕虫”}
-UI_PERK_BLESSING6	{艾伦}
+UI_PERK_BLESSING6	{}
 UI_PERK_BLESSING7	{失落者}
 UI_PERK_BLESSING8	{大地}
 UI_PERK_BLESSING9	{天风}
@@ -11312,7 +11312,7 @@ UI_SETTLEMENT_PERK_SENT_6	{护盾}
 UI_SETTLEMENT_PERK_SENT_ADJ_1	{护卫}
 UI_SETTLEMENT_PERK_SENT_ADJ_2	{反无人机}
 UI_SETTLEMENT_PERK_SENT_ADJ_3	{阿特拉斯}
-UI_SETTLEMENT_PERK_SENT_ADJ_4	{艾伦}
+UI_SETTLEMENT_PERK_SENT_ADJ_4	{}
 UI_SETTLEMENT_PERK_SENT_ADJ_5	{活体玻璃}
 UI_SETTLEMENT_PERK_SENT_ADJ_6	{护卫}
 UI_SETTLEMENT_PERK_SENT_ADJ_7	{护卫}
@@ -12090,7 +12090,7 @@ UI_JUDGEMENT_REQUEST_PARTY_EXP4	{阿特拉斯}
 UI_JUDGEMENT_REQUEST_PARTY_WAR1	{赫客的光荣胜利}
 UI_JUDGEMENT_REQUEST_PARTY_WAR2	{光荣的逝者}
 UI_JUDGEMENT_REQUEST_PARTY_WAR3	{征服纳尔}
-UI_JUDGEMENT_REQUEST_PARTY_WAR4	{与艾伦战斗过的人}
+UI_JUDGEMENT_REQUEST_PARTY_WAR4	{与战斗过的人}
 UI_JUDGEMENT_REQUEST_PARTY1	{监督者}
 UI_JUDGEMENT_REQUEST_PARTY2	{定居点的建造}
 UI_JUDGEMENT_REQUEST_PARTY3	{星星的排列}

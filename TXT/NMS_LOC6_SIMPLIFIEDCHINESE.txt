@@ -636,7 +636,7 @@ UI_FRIGATE_ERROR_BUSY_OSD	{护卫舰正忙<IMG>SLASH<>无法解散}
 UI_FRIGATE_ERROR_SOLO_OSD	{无法解散整个舰队}
 UI_SPACE_STATION_CORE_NAME	{空间站核心}
 UI_SPACE_STATION_CORE_SUB	{飞行路线和着陆监督者}
-UI_SPACE_STATION_CORE_LANG	{维生系统：<TRADEABLE>稳定<>......商业监控：<TRADEABLE>在线<>......<NEWLINE>飞行路线管理：<TRADEABLE>84%效率<>......<NEWLINE>阿特拉斯/艾伦监视装置：<SPECIAL>工作正常<>......}
+UI_SPACE_STATION_CORE_LANG	{维生系统：<TRADEABLE>稳定<>......商业监控：<TRADEABLE>在线<>......<NEWLINE>飞行路线管理：<TRADEABLE>84%效率<>......<NEWLINE>阿特拉斯/艾隆监视装置：<SPECIAL>工作正常<>......}
 UI_SPACE_STATION_CORE_OPT	{输入超控代码}
 UI_SPACE_STATION_CORE_RES	{检测到假冒的代码......<AUDIO>UI_GameMode_Erase_Error<> <FUEL>拒绝访问<>
 玻璃<SPECIAL>玻璃<>玻璃<TECHNOLOGY>玻璃<>玻璃玻璃玻璃<TECHNOLOGY>玻璃<>}
@@ -8350,9 +8350,9 @@ EXP_LIBRARY4_LANG2	{第七集会。决不能倒下。决不能忘记。阿特拉
 旅行者回来了......会原谅......会阅读......会知晓......}
 EXP_LIBRARY5_DESC	{这里有从一个早已毁灭的集会的模糊回忆中恢复而来的古老的科尔瓦克斯祈祷词。
 当时的科尔瓦克斯人似乎崇拜护卫，会向它们沉默的众神吟诵赞美和见闻的短诗。}
-EXP_LIBRARY5_LANG	{穿越质量的航行<IMG>SLASH<>艾伦在完好的时间中滑行<IMG>SLASH<>等待交流
+EXP_LIBRARY5_LANG	{穿越质量的航行<IMG>SLASH<>艾隆在完好的时间中滑行<IMG>SLASH<>等待交流
 
-步行机妥协<IMG>SLASH<>艾伦沉睡在绿色的田野里<IMG>SLASH<>沉思之日
+步行机妥协<IMG>SLASH<>艾隆沉睡在绿色的田野里<IMG>SLASH<>沉思之日
 
 飞船记录倒下的辛劳<IMG>SLASH<> 海盗，石碑之贼<IMG>SLASH<>科尔瓦克斯会照看流}
 EXP_LIBRARY6_DESC	{档案已被变更，偏离其和平场所的最初用途。这里的条目充斥着遥远的腐败。 }
@@ -8489,7 +8489,7 @@ WAR_LIBRARY7_TITLE6	{致阿斯忒里亚：VI / VI}
 WAR_LIBRARY7_LANG	{歌唱，阿斯忒里亚，英雄旅行者，赫客之剑的大师，}
 WAR_LIBRARY7_LANG2	{无尽战斗，失落的阿特兰蒂之悲，}
 WAR_LIBRARY7_LANG3	{仁慈和等待的代价。预言实现者，}
-WAR_LIBRARY7_LANG4	{阿特拉斯制造和派来的人骚扰着艾伦，释放着恐怖，}
+WAR_LIBRARY7_LANG4	{阿特拉斯制造和派来的人骚扰着，释放着恐怖，}
 WAR_LIBRARY7_LANG5	{在世界的尽头发现了那黑暗，加入了维吉恩的一方，}
 WAR_LIBRARY7_LANG6	{海盗旅行者，初代的朋友，天堂的盟友！}
 WAR_LIBRARY8_DESC	{这个档案已被破坏：遭到骇入以传播被禁的、遭到删改的遥远宗教的信息。 }
@@ -8819,7 +8819,7 @@ EXP_CAPT_LOG_LANG_6	{日期<STELLAR><AUDIO>TXT_RadioNoise<>%DATE1%<> :: 必须�
 
 日期<STELLAR><AUDIO>TXT_RadioNoise<>%DATE3%<> :: 花园星球处处是草木，它的种子开始发芽了。机器苏醒了。我们该继续前进了。
 
-日期<STELLAR><AUDIO>TXT_RadioNoise<>%DATE4%<> :: 哎唷！艾伦之子一直跟着我们，到现在还是。一大波的记忆正在从一个恒星系漂浮到另一个恒星系。它记得照顾过它的人。它一直都记得科尔瓦克斯。
+日期<STELLAR><AUDIO>TXT_RadioNoise<>%DATE4%<> :: 哎唷！之子一直跟着我们，到现在还是。一大波的记忆正在从一个恒星系漂浮到另一个恒星系。它记得照顾过它的人。它一直都记得科尔瓦克斯。
 于是我们继续打理花园。于是我们寻找倒下的......}
 WAR_CAPT_LOG_LANG_1	{日期<STELLAR><AUDIO>TXT_RadioNoise<>%DATE1%<> :: 他们说可以战斗！可以复仇！但我们只找到浑身发抖的幸存者，全部是异教徒。嘎啦！这样有什么乐趣？
 
@@ -10989,21 +10989,21 @@ UI_PLAYER_TITLE_REALITY2	{希尔伯特的%NAME%}
 UI_PLAYER_TITLE_REALITY3	{卡吕普索的%NAME%}
 UI_PLAYER_TITLE_REALITY4	{赫斯珀洛斯的%NAME%}
 UI_PLAYER_TITLE_REALITY5	{许阿得斯的%NAME%}
-UI_PLAYER_TITLE_REALITY6	{伊克贾马蒂乌的%NAME%}
+UI_PLAYER_TITLE_REALITY6	{以伽玛丘的%NAME%}
 UI_PLAYER_TITLE_REALITY7	{布杜朗格的%NAME%}
-UI_PLAYER_TITLE_REALITY8	{基科尔加尔的%NAME%}
-UI_PLAYER_TITLE_REALITY9	{埃尔蒂安斯林的%NAME%}
+UI_PLAYER_TITLE_REALITY8	{基科尔戛勒的%NAME%}
+UI_PLAYER_TITLE_REALITY9	{埃天斯林的%NAME%}
 UI_PLAYER_TITLE_REALITY10	{艾森塔姆的%NAME%}
 UI_TITLE_OWNED_REALITY1	{-}
-UI_TITLE_OWNED_REALITY2	{前往希尔伯特处}
-UI_TITLE_OWNED_REALITY3	{前往卡吕普索处}
-UI_TITLE_OWNED_REALITY4	{前往赫斯珀洛斯处}
-UI_TITLE_OWNED_REALITY5	{前往许阿得斯处}
-UI_TITLE_OWNED_REALITY6	{前往伊克贾马蒂乌处}
-UI_TITLE_OWNED_REALITY7	{前往布杜朗格处}
-UI_TITLE_OWNED_REALITY8	{前往基科尔加尔处}
-UI_TITLE_OWNED_REALITY9	{前往埃尔蒂安斯林处}
-UI_TITLE_OWNED_REALITY10	{前往艾森塔姆处}
+UI_TITLE_OWNED_REALITY2	{前往希尔伯特}
+UI_TITLE_OWNED_REALITY3	{前往卡吕普索}
+UI_TITLE_OWNED_REALITY4	{前往赫斯珀洛斯}
+UI_TITLE_OWNED_REALITY5	{前往许阿得斯}
+UI_TITLE_OWNED_REALITY6	{前往以伽玛丘}
+UI_TITLE_OWNED_REALITY7	{前往布杜朗格}
+UI_TITLE_OWNED_REALITY8	{前往基科尔戛勒}
+UI_TITLE_OWNED_REALITY9	{前往埃天斯林}
+UI_TITLE_OWNED_REALITY10	{前往艾森塔姆}
 UI_PLAYER_TITLE_HUB_VISIT	{朝圣者%NAME%}
 UI_PLAYER_TDESC_HUB_VISIT	{访问一个特殊的恒星系}
 UI_TITLE_OWNED_HUB_VISIT	{访问了银河中枢}
@@ -11131,7 +11131,7 @@ UI_TITLE_OWNED_JM_SHIPS3	{击败%NUM%艘有敌意的飞船}
 UI_PLAYER_TDESC_JM_FIGHT	{消灭更多护卫}
 UI_PLAYER_TITLE_JM_FIGHT1	{通缉犯%NAME%}
 UI_PLAYER_TITLE_JM_FIGHT2	{护卫猎人%NAME%}
-UI_PLAYER_TITLE_JM_FIGHT3	{艾伦之祸%NAME%}
+UI_PLAYER_TITLE_JM_FIGHT3	{之祸%NAME%}
 UI_TITLE_OWNED_JM_FIGHT1	{击败%NUM%个护卫}
 UI_TITLE_OWNED_JM_FIGHT2	{击败%NUM%个护卫}
 UI_TITLE_OWNED_JM_FIGHT3	{击败%NUM%个护卫}

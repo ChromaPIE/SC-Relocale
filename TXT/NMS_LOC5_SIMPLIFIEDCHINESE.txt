@@ -4867,7 +4867,7 @@ UI_BASE_DETAIL_LINE1	{建造基地作为<TRADEABLE>藏身处<>，免遭严酷环
 UI_BASE_DETAIL_LINE2	{获取全新的<STELLAR>建筑设计图<>即可扩展基地}
 UI_BASE_DETAIL_LINE3	{探索过程中<TECHNOLOGY>返回基地<>以存储和处理物品}
 UI_BASE_EXTRA_DETAIL_TITLE	{套装指引提醒 <IMG>SLASH<> 扩展基地}
-UI_BASE_EXTRA_DETAIL_DESC	{从<STELLAR>建筑研究单位<>获取新的设计图。使用<TECHNOLOGY>先进技术<>和<TECHNOLOGY>大型建筑<>扩大基地。}
+UI_BASE_EXTRA_DETAIL_DESC	{从<STELLAR>建筑研究单位<>获取新的设计图。使用<TECHNOLOGY>先进技术<>和<TECHNOLOGY>大型建筑<>拓展基地。}
 UI_BASE_EXTRA_DETAIL_LINE1	{获取全新的<STELLAR>建筑设计图<>即可扩展基地}
 UI_BASE_EXTRA_DETAIL_LINE2	{挖掘<TECHNOLOGY>埋藏的技术<>以获取新设计图}
 UI_BASE_EXTRA_DETAIL_LINE3	{<FUEL>供能<>给你的基地以启用先进技术}

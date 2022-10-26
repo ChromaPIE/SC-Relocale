@@ -4339,7 +4339,7 @@ UI_REFINER_TECH_NAME	{精炼输出}
 UI_REFINER_TECH_NAME_L	{精炼输出}
 UI_MAINT_REFINE_DESC	{储存精炼所产生材料的料斗}
 UI_MAINT_REFINE_SUB	{存储料斗}
-REFINER_TITLE_HINT	{处理原料使其成为可使用产品和物质}
+REFINER_TITLE_HINT	{将原材料处理为可利用的产品及物质}
 REFINER_SUB	{自动精炼单位}
 REFINER1_NAME	{便携式精炼机}
 REFINER1_NAME_L	{便携式精炼机}
@@ -5181,7 +5181,7 @@ NPC_CORE_ACT2_4E_LANG	{“旅行者”是一场梦，一个理念，诉说的是
 
 朋友，不可胜数的我们行走于各个星球，渴望友谊。没人真心愿意孤身一人。但你与他人走得越近，伤害到自己和对方的风险也越高。
 
-宇宙中藏得最深的秘密不是玻璃，也不是艾伦或先祖。而是决定抛弃需要你的人这一最终的决定。它是原初的罪孽，是存在本身的根基。
+宇宙中藏得最深的秘密不是玻璃，也不是或先祖。而是决定抛弃需要你的人这一最终的决定。它是原初的罪孽，是存在本身的根基。
 
 旅行者，去探索群星吧。你的朋友们在等着你。它们会帮你让可怜的阿耳特弥斯安息的。完成后再回来找我，到时我们要好好聊一聊。}
 POLO_CORE_ACT2_6_LANG	{慢着，陌生人！你是谁？我们正在前往你的位置。报上名来，否则后果自负！我们会说到做到。我们不是吉克骗子！}
@@ -6989,7 +6989,7 @@ UI_CORE_ACT2_PORTAL_SUB	{掌控传送门网络}
 UI_CORE_ACT3_CENTRE_TITLE	{清除}
 UI_CORE_ACT3_CENTRE_SUB	{到达星系中心}
 UI_CORE_EPILOGUE_TITLE	{新的开始}
-UI_CORE_EPILOGUE_SUB	{世间无尽的时间......}
+UI_CORE_EPILOGUE_SUB	{时光漫漫难流转......}
 UI_CORE_CREATIVE_TITLE	{自由模式}
 UI_CORE_CREATIVE_SUB	{无任何约束条件，自由探索}
 UI_CORE_CREATIVE_OBJ	{UI_CORE_CREATIVE_TITLE}
@@ -7931,26 +7931,26 @@ UI_CORE_ACT1_STEP8_DESC	{阿耳特弥斯遭遇了可怕的事。它说自己被�
 UI_CORE_ACT1_STEP9_DESC	{阿波罗指出护卫也许和阿耳特弥斯的消失有关。它建议我们合作处理此事。如果护卫使用传送门网络，且我们能跟在它们后面进去的话，天知道在营救阿耳特弥斯的过程中还有什么秘密在等着我们......}
 UI_CORE_ACT1_STEP9_OBJ1	{找到阿波罗的联络人}
 UI_CORE_ACT1_STEP9_MARKER2	{阿波罗的联络人}
-UI_CORE_ACT1_STEP9_OBJ1_TIP	{阿波罗的联系人会协助你建造或扩大基地。找到联系人以了解更多详情。
+UI_CORE_ACT1_STEP9_OBJ1_TIP	{阿波罗的联系人会协助你建造或拓展基地。找到联系人以了解更多详情。
 在太空中，打开星系图（<IMG>QUICK_MENU<>）即可找到它们的位置。}
 UI_CORE_ACT1_STEP9_OBJ2	{抵达你的基地}
 UI_CORE_ACT1_STEP9_OBJ2_TIP	{返回早前的一座基地（标记于星系图）或使用<TECHNOLOGY>基地电脑<>于任意地点建造新的基地。
 建造新的基地不会移除现有的基地。}
 UI_CORE_ACT1_STEP9_OBJ3	{扩建你的新家，并雇佣工作人员}
 UI_CORE_ACT1_STEP9_OBJ3_TIP	{为专家研究员建造终端。在空间站招募人手。}
-UI_CORE_ACT1_STEP9_MSG0	{阿波罗的联系人会协助你扩大基地
+UI_CORE_ACT1_STEP9_MSG0	{阿波罗的联系人会协助你拓展基地
 从任意传送界标<STELLAR>传送<>到你的基地}
 UI_CORE_ACT1_STEP9_MSG1	{阿波罗的联络人准备了一座基地
 在星系图（<IMG>QUICK_MENU<>）上找到它。}
 UI_CORE_ACT1_STEP9_MSG1A	{阿波罗的联系人准备了一座基地
 登上<COMMODITY>空间站<>，找到阿波罗的联系人}
-UI_CORE_ACT1_STEP9_MSG1B	{阿波罗的联系人会协助你扩大基地
+UI_CORE_ACT1_STEP9_MSG1B	{阿波罗的联系人会协助你拓展基地
 在星系图（<IMG>QUICK_MENU<>）上找到它的位置。}
-UI_CORE_ACT1_STEP9_MSG1C	{阿波罗的联系人会协助你扩大基地
+UI_CORE_ACT1_STEP9_MSG1C	{阿波罗的联系人会协助你拓展基地
 登上<COMMODITY>空间站<>，找到阿波罗的联系人}
 UI_CORE_ACT1_STEP9_MSG2	{找到并认领一座基地}
 UI_CORE_ACT1_STEP9_MSG3	{扩建你的新家，并招募工作人员
-使用 <IMG>OPTIONS<> 访问任务日志并选择<STELLAR>扩大基地<>}
+使用 <IMG>OPTIONS<> 访问任务日志并选择<STELLAR>拓展基地<>}
 UI_CORE_ACT1_STEP9_MSG4	{为你的基地招募一名<TECHNOLOGY>科尔瓦克斯科学家<>
 使用 <IMG>OPTIONS<> 访问任务日志并选择<STELLAR>科学研究<>}
 UI_CORE_ACT1_STEP9_MSG5	{向阿波罗报告你的<STELLAR>基地<>和<STELLAR>工作人员<>的消息
@@ -9670,11 +9670,11 @@ NPC_EXO_BRIEF_RES_A_4	{抓紧时间，闯入者！别让护卫污染了你的世
 NPC_EXO_BRIEF_RES_B_4	{你能容忍护卫的仓库离我们如此近吗？格拉！}
 NPC_EXO_BRIEF_RET_LANG_4	{闯入者，别再停留了；我们的生命是短暂的，而我们的价值也稍纵即逝。但你若不完成我的任务，那你的生命将更加短暂！格拉！}
 NPC_EXO_BRIEF_RET_DESC_4	{技师要求我使用<TECHNOLOGY>强化艇雷达<>定位一座仓库并窃取其中的材料。它能使用这个物质创建<TECHNOLOGY>强化艇推进器<>。}
-NPC_EXO_WAIT_DESC_4	{%NAME%具有一种执念，据我所知是护卫。我曾经看到它用维吉恩语查看远古手迹，嘀咕各种名字，欧宾库勒、艾伦、阿特拉斯......
+NPC_EXO_WAIT_DESC_4	{%NAME%具有一种执念，据我所知是护卫。我曾经看到它用维吉恩语查看远古手迹，嘀咕各种名字，欧宾奎尔、艾隆、阿特拉斯......
 
 这是否是它的族人追捕它的原因？它究竟发现了什么秘密？它做了什么离经叛道的事情？}
 NPC_EXO_WAIT_OPT_A_4	{询问阿特拉斯的事}
-NPC_EXO_WAIT_OPT_B_4	{询问艾伦的事}
+NPC_EXO_WAIT_OPT_B_4	{询问的事}
 NPC_EXO_WAIT_RES_A_4	{%NAME%盯着我，它们的眼中散发着奇怪的光彩。它们拒绝回答。}
 NPC_EXO_WAIT_RES_B_4	{维吉恩盯着我，它们的眼中散发着奇怪的光彩。它们拒绝回答。}
 NPC_EXO_COMP_LANG_4	{你得到我需要的材料了吗，闯入者？那是由护卫亲手铸造的一种神圣元素！有了它的保护，护卫就看不到我们了。}
@@ -10224,8 +10224,8 @@ NPC_SCI_OBS_DESC	{了望台似乎只有一个用途：定位被科尔瓦克斯�
 多年后，这个设施的居住者成功完成了它们的任务，没有留下任何痕迹消失了。}
 NPC_SCI_OBS_OPT_A	{下载数据}
 NPC_SCI_OBS_OPT_B	{拒绝}
-UI_OVERSEER_TITLE	{正在扩大基地}
-UI_OVERSEER_SUB	{招募人员和扩大基地}
+UI_OVERSEER_TITLE	{拓展基地}
+UI_OVERSEER_SUB	{招募人员和拓展基地}
 UI_OVERSEER_DESC	{我在野外建立了宜居基地的核心。这颗星球看起来似乎是一个合适的定居点，至少目前来说如此。我应该扩建基地并雇用人手，这样才能把新家建设地像模像样。}
 UI_SCIENTIST_TITLE	{科学研究}
 UI_SCIENTIST_SUB	{高级科学研究}
@@ -12896,7 +12896,7 @@ UI_ATLAS_MISSION_OBJ	{找到下一个阿特拉斯界面}
 UI_ATLAS_MISSION_OBJ_TIP	{在星系图上寻找界面。纳达和保罗也许能提供协助。}
 UI_ATLAS_MISSION_MSG	{找到下一个阿特拉斯界面}
 UI_NADAPOLO_MISSION_TITLE	{太空异象}
-UI_NADAPOLO_MISSION_SUB	{超出系统？}
+UI_NADAPOLO_MISSION_SUB	{飞越星系？}
 UI_NADAPOLO_MISSION_DESC	{这个系统中有一个奇怪的空间站，是吉克、维吉恩和科尔瓦克斯日常贸易之外的异象。它发出一种异常信号，似乎在直接与我一个人对话......}
 UI_NADAPOLO_MISSION_LOOP_DESC	{迈着只有他们自己了解的步伐，纳达和保罗跨越时空的旅程还在继续。他们将与我们保持联系，也愿意前往任何一个引起他们兴趣的地点。
 

@@ -3138,7 +3138,7 @@ BLD_DECAL_ANOMALY_DESCRIPTION	{专属的可放置贴花，可以为你的基地�
 BLD_DECAL_ANOMALY_NAME	{异象贴花}
 BLD_DECAL_ANOMALY_NAME_L	{异象贴花}
 BLD_DECAL_PROSENT_DESCRIPTION	{专属的可放置贴花，可以为你的基地增添风格和美观。
-此贴花上画有一架闪亮的艾伦无人机。}
+此贴花上画有一架闪亮的艾隆无人机。}
 BLD_DECAL_PROSENT_NAME	{护卫贴花}
 BLD_DECAL_PROSENT_NAME_L	{护卫贴花}
 BLD_DECAL_ANTISENT_DESCRIPTION	{专属的可放置贴花，可以为你的基地增添风格和美观。
@@ -4276,7 +4276,7 @@ UI_FLEET_TUT_DESC	{命令一艘大型<COMMODITY>主力飞船<>提供一些福利
 UI_FLEET_TUT_OBJ0	{建立一个舰队指挥室}
 UI_FLEET_TUT_OBJ_TIP0	{远征需要一座<TECHNOLOGY>舰队指挥室<>。
 在你的货船上建立一座指挥模块。在舰桥和机库之间的宜居地带之间，使用建造菜单（<IMG>BUILD_MENU<>）建立。}
-UI_FLEET_TUT_OBJ1	{扩大你的舰队}
+UI_FLEET_TUT_OBJ1	{扩编你的舰队}
 UI_FLEET_TUT_OBJ_TIP1	{恒星系经常有大型<TECHNOLOGY>货船组<>通过。这些货船组中可招募的护卫舰将会有图标标注。
 接近一艘<TRADEABLE>可招募的护卫舰<>，并与它们在<TECHNOLOGY>飞船通讯器<>上谈话。}
 UI_FLEET_TUT_NAV_MSG	{与<STELLAR>货船领航员<>对话}
@@ -5247,11 +5247,11 @@ UI_PIN_TECH_SUB	{安装科技升级}
 UI_PIN_REPAIR_SUB	{修复受损的技术}
 UI_PIN_FUEL1_OBJ_TIP	{使用<TECHNOLOGY>开采光束<>从植物中采集<FUEL>碳<>。按下 <IMG>ATTACK<> 发射激光。
 警告：过度采集可能会吸引护卫无人机的注意。}
-UI_PIN_FUEL2_OBJ_TIP	{<FUEL>浓缩碳<>在大多数行星上以晶体形式出现。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位碳晶体。大形矿床可能需要采用<TECHNOLOGY>高级开采光束<>开采。
+UI_PIN_FUEL2_OBJ_TIP	{<FUEL>浓缩碳<>在大多数行星上以晶体形式出现。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位碳晶体。大型矿床可能需要采用<TECHNOLOGY>高级开采光束<>开采。
 可在<TECHNOLOGY>精炼机<>中用碳制得浓缩碳。}
 UI_PIN_OXYGEN_OBJ_TIP	{<FUEL>氧<>可以从所有行星上都有的红色植物中采集。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位富氧植物。
 氧也可以从某些有害植物中采集，或通过<TECHNOLOGY>分析面甲<>在一般植物群中识别。}
-UI_PIN_LAUNCHSUB_OBJ_TIP	{<FUEL>二氢<>在大多数行星上以晶体形式出现。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位二氢晶体。大形矿床可能需要采用<TECHNOLOGY>高级开采光束<>开采。}
+UI_PIN_LAUNCHSUB_OBJ_TIP	{<FUEL>二氢<>在大多数行星上以晶体形式出现。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位二氢晶体。大型矿床可能需要采用<TECHNOLOGY>高级开采光束<>开采。}
 UI_PIN_LAUNCHSUB2_OBJ_TIP	{在<TECHNOLOGY>中型<>或<TECHNOLOGY>大型精炼机<>中处理<TECHNOLOGY>二氢<>以制作<TECHNOLOGY>重氢<>。
 需要分两次放入二氢。}
 UI_PIN_ROCKETSUB_OBJ_TIP	{<VAL_ON>氚<>在小行星区域内很丰富。在行星环中，或在星际飞行的中途寻找小行星区域。扫描（<IMG>SCAN<>）以搜寻<TECHNOLOGY>富含氚的小行星<>。}
@@ -6999,10 +6999,10 @@ ALL_FLEET_COMMAND_POST_DAMAGED	{舰队指挥在线......检测到货船受损
 正在校准%FRIGATE_NAME%的舰队指挥官%CAPTAIN%......}
 ALL_FLEET_COMMAND_POST_INTERV	{舰队指挥在线......有紧急信息待处理
 正在校准%FRIGATE_NAME%的舰队指挥官%CAPTAIN%......}
-ALL_FLEET_COMM_POST_INTERV_OPT	{与指挥官交谈}
-ALL_FLEET_COMM_POST_DEBRIEF_OPT	{向指挥官汇报}
+ALL_FLEET_COMM_POST_INTERV_OPT	{与指挥官通话}
+ALL_FLEET_COMM_POST_DEBRIEF_OPT	{要求指挥官汇报}
 ALL_FLEET_COMM_STATUS_OPT	{检查飞船}
-ALL_FLEET_STATUS_UPDATE	{你好，%CAP_RACE%。远征覆盖了%EXP_DIST%，我预计我们计划的航线可能需要花费更多%EXP_TIME%。所有系统达基本需求。}
+ALL_FLEET_STATUS_UPDATE	{向您问好，%CAP_RACE%。本次远征已航行 %EXP_DIST% 光年，距完成预定航线估计还需耗时%EXP_TIME%。所有系统运转正常。}
 ALL_FLEET_COMM_FIRST_OPT	{下载数据}
 ALL_FLEET_COMM_FIRST_LANG	{正在校准指挥站至新主人名下......成功！
 主人档案显示有<COMMODITY>1<>艘支援护卫舰可用。
@@ -11432,12 +11432,12 @@ FLEET_FRIGATE_BOARDED	{%NAME%目前在护卫舰上}
 FLEET_FRIGATE_BOARD_MULTIPLE	{护卫舰上有多名玩家}
 INTRCT_FLEET_MANAGE	{管理舰队}
 FLEET_UI_NOTIFY_TITLE	{远征：%NAME%}
-FLEET_UI_NOTIFY_NO_EVENT	{舰队抵达%SYSTEM%星系。
-开始调查。}
-FLEET_UI_NOTIFY_EVENT	{舰队抵达%SYSTEM%星系。
-船长报告潜在的活动......}
-FLEET_UI_NOTIFY_RETURN	{舰队任务完成
-正在准备靠近主力飞船%FREIGHTER%}
+FLEET_UI_NOTIFY_NO_EVENT	{舰队已抵达%SYSTEM%星系。
+正在展开调查。}
+FLEET_UI_NOTIFY_EVENT	{舰队已抵达%SYSTEM%星系。
+船长报告了可能进行的活动......}
+FLEET_UI_NOTIFY_RETURN	{舰队已完成任务
+正在向主力飞船%FREIGHTER%进近}
 FLEET_UI_EXPED_RENAME	{重命名远征}
 FLEET_UI_FRIGATE_RENAME	{重命名护卫舰}
 FLEET_UI_HISTORY_TITLE	{历史}
@@ -11454,7 +11454,7 @@ FLEET_UI_REWARD_MINING_OBJ	{已采集}
 FLEET_UI_REWARD_FORMAT	{%REWARD%：%ITEM%}
 FLEET_UI_REWARD_FORMAT_PLURAL	{%REWARD%：%ITEM% x %AMOUNT%}
 FLEET_UI_DAMAGE_MARKER	{受损：%NAME%}
-FLEET_UI_DAMAGE_CONTINUE	{无论如何都继续}
+FLEET_UI_DAMAGE_CONTINUE	{执意继续}
 FLEET_UI_DAMAGE_RECALL	{召回护卫舰}
 FLEET_UI_EXPEDITION_ACTIVE	{启动远征}
 FLEET_UI_EXPEDITION_INACTIVE	{已完成远征}
@@ -12153,7 +12153,7 @@ UI_REFINER_BUTTON_MORE	{添加更多}
 UI_REFINER_INPUT_LABEL	{输入}
 UI_REFINER_OUTPUT_LABEL	{输出}
 UI_REFINER_BUTTON_STOP	{停止处理}
-UI_REFINER_REMAINING	{开始处理}
+UI_REFINER_REMAINING	{处理耗时}
 UI_REFINER_PROCESSED	{已处理}
 UI_TECH_PLANT_NAME	{富氘植物}
 UI_FUEL_PLANT_NAME	{富氧植物}
