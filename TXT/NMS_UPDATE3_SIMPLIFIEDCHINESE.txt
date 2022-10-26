@@ -775,7 +775,7 @@ MINERAL_CONTENT_HEADER	{金属含量}
 MINERAL_TYPE_HEADER	{次要元素}
 MINERAL_FORMATION_HEADER	{形成过程}
 MINERAL_NOTES_HEADER	{说明}
-PLANT_AGE_1	{古代}
+PLANT_AGE_1	{远古}
 PLANT_AGE_2	{老}
 PLANT_AGE_3	{永恒的}
 PLANT_AGE_4	{千年}
@@ -793,7 +793,7 @@ PLANT_AGE_15	{发育完全}
 PLANT_AGE_16	{年幼}
 PLANT_AGE_17	{晚期}
 PLANT_AGE_18	{中年期}
-PLANT_AGE_19	{古代}
+PLANT_AGE_19	{远古}
 PLANT_AGE_20	{新鲜}
 PLANT_AGE_21	{未知}
 PLANT_AGE_22	{未确定}
@@ -1144,7 +1144,7 @@ MINERAL_FORMATION_16	{磁引力}
 MINERAL_FORMATION_17	{还原沸腾}
 MINERAL_FORMATION_18	{盐暴晒}
 MINERAL_FORMATION_19	{土壤融合}
-MINERAL_FORMATION_20	{古代潮汐侵蚀}
+MINERAL_FORMATION_20	{远古潮汐侵蚀}
 MINERAL_FORMATION_21	{变质}
 MINERAL_FORMATION_22	{聚合作用}
 MINERAL_FORMATION_23	{凝聚}
@@ -1187,7 +1187,7 @@ MINERAL_NOTES_9	{适时冻结}
 MINERAL_NOTES_10	{脆弱的外皮}
 MINERAL_NOTES_11	{炽热的内核}
 MINERAL_NOTES_12	{有毒的粉末}
-MINERAL_NOTES_13	{古代}
+MINERAL_NOTES_13	{远古}
 MINERAL_NOTES_14	{缓慢形成}
 MINERAL_NOTES_15	{非自然雕刻}
 MINERAL_NOTES_16	{放射性的}
@@ -1632,7 +1632,7 @@ ITEMGEN_LOOT_ADJ_3	{精力旺盛的}
 ITEMGEN_LOOT_ADJ_4	{光辉的}
 ITEMGEN_LOOT_ADJ_5	{稀有的}
 ITEMGEN_LOOT_ADJ_6	{称心的}
-ITEMGEN_LOOT_ADJ_7	{古代的}
+ITEMGEN_LOOT_ADJ_7	{远古的}
 ITEMGEN_LOOT_ADJ_8	{圆滑的}
 ITEMGEN_LOOT_ADJ_9	{生锈的}
 ITEMGEN_LOOT_ADJ_10	{闪闪发光的}
@@ -1730,7 +1730,7 @@ ITEMGEN_HIST_ADJ_7	{皮边的}
 ITEMGEN_HIST_ADJ_8	{可疑的}
 ITEMGEN_HIST_ADJ_9	{未被发现的}
 ITEMGEN_HIST_ADJ_10	{遗失多年的}
-ITEMGEN_HIST_ADJ_11	{古代的}
+ITEMGEN_HIST_ADJ_11	{远古的}
 ITEMGEN_HIST_ADJ_12	{受诅咒的}
 ITEMGEN_HIST_ADJ_13	{稀有的}
 ITEMGEN_HIST_ADJ_14	{神秘的}
@@ -1844,7 +1844,7 @@ ITEMGEN_BIO_CONT_19	{捆}
 ITEMGEN_BIO_CONT_20	{盒子}
 ITEMGEN_BIO_ADJ_1	{精力旺盛的}
 ITEMGEN_BIO_ADJ_2	{保藏的}
-ITEMGEN_BIO_ADJ_3	{古代的}
+ITEMGEN_BIO_ADJ_3	{远古的}
 ITEMGEN_BIO_ADJ_4	{炙热的}
 ITEMGEN_BIO_ADJ_5	{蠕动的}
 ITEMGEN_BIO_ADJ_6	{毒性的}
@@ -1956,7 +1956,7 @@ ITEMGEN_FOSSIL_ADJ_5	{石化的}
 ITEMGEN_FOSSIL_ADJ_6	{碳化的}
 ITEMGEN_FOSSIL_ADJ_7	{干燥的}
 ITEMGEN_FOSSIL_ADJ_8	{干尸的}
-ITEMGEN_FOSSIL_ADJ_9	{古代的}
+ITEMGEN_FOSSIL_ADJ_9	{远古的}
 ITEMGEN_FOSSIL_ADJ_10	{保藏的}
 ITEMGEN_FOSSIL_ADJ_11	{化石的}
 ITEMGEN_FOSSIL_ADJ_12	{保藏的}
@@ -2511,7 +2511,7 @@ ITEMGEN_PLANT_COMMON_4	{约有 <VAL_ON>%AGE%<> 年的历史。
 鉴于这株植物在容器中的传播速度，在保存这个样本时需要格外小心，以免它污染了其他栖息地。}
 ITEMGEN_PLANT_COMMON_5	{约有 <VAL_ON>%AGE%<> 年的历史。
 
-这株古代植物盛开时美丽动人，曾被用来传达爱意和赞美之情。}
+这株远古植物盛开时美丽动人，曾被用来传达爱意和赞美之情。}
 ITEMGEN_PLANT_UNCOMMON_1	{约有 <VAL_ON>%AGE%<> 年的历史。
 
 这株植物拥有引人注目的毒性枝叶和花瓣，并能够释放出一种导致轻度中毒的味道。因此，小心触碰。}
@@ -2544,7 +2544,7 @@ ITEMGEN_TOOL_COMMON_4	{约有 <VAL_ON>%AGE%<> 年的历史。
 这个工具的各种印记表明它曾经被修理过几次。熔化和重新锻造的烧焦痕迹见证了它长期的苦难生涯。}
 ITEMGEN_TOOL_COMMON_5	{约有 <VAL_ON>%AGE%<> 年的历史。
 
-尽管这是块古代物件，但它与现代每天所使用的工具形态区别不大，这真是令人惊异。}
+尽管这是块远古物件，但它与现代每天所使用的工具形态区别不大，这真是令人惊异。}
 ITEMGEN_TOOL_UNCOMMON_1	{约有 <VAL_ON>%AGE%<> 年的历史。
 
 这个不同寻常的工具或许是一件最初样品，旁边还埋着它的图样。这个发现不仅仅是一件物品，还代表着早期不成熟形态时的创造欲。}
@@ -2667,7 +2667,7 @@ ITEMGEN_SALVAGE_RARE_3	{约有 <VAL_ON>%AGE%<> 年的历史。
 这个技术上标着一个有数百年历史、以严格标准和产品寿命而闻名的制造商的官方印记。尽管此样本已存在很长时间，它看起来几乎还处于理想状态。}
 ITEMGEN_FORMAT_BONES_1	{%BONESADJ%%BONESNOUN%}
 BONES_SUB	{掘出的骨头}
-ITEMGEN_BONES_ADJ_1	{古代的}
+ITEMGEN_BONES_ADJ_1	{远古的}
 ITEMGEN_BONES_ADJ_2	{烧焦的}
 ITEMGEN_BONES_ADJ_3	{碎裂的}
 ITEMGEN_BONES_ADJ_4	{有缺口的}
@@ -2704,7 +2704,7 @@ ITEMGEN_BONES_COMMON_3	{约有 <VAL_ON>%AGE%<> 年的历史。
 骨架的其余部分早已消失在了时间的长河中。只有几块巨骨残留下来讲述这个生物的生存故事。}
 ITEMGEN_BONES_COMMON_4	{约有 <VAL_ON>%AGE%<> 年的历史。
 
-一小堆骨头，来自某个古代生物。从关节周围的严重侵蚀可以看出，它活着的时候饱受大量劳动。}
+一小堆骨头，来自某个远古生物。从关节周围的严重侵蚀可以看出，它活着的时候饱受大量劳动。}
 ITEMGEN_BONES_COMMON_5	{约有 <VAL_ON>%AGE%<> 年的历史。
 
 这部分骨骼想必属于某个具有高级治愈能力的生物，它的骨骼明显曾多次折断和修复。}
@@ -4080,7 +4080,7 @@ UI_MISSION_START_SECONDARYCHAIN	{<MISSIONPRIMARY>任务更新<>}
 UI_MISSION_END_SECONDARYCHAIN	{<MISSIONPRIMARY>任务完成<>}
 UI_PORTAL_GLYPH_NAME	{传送门符文}
 UI_PORTAL_GLYPH_NAME_L	{传送门符文}
-UI_PORTAL_GLYPH_SUB	{古代技术}
+UI_PORTAL_GLYPH_SUB	{远古技术}
 UI_PORTAL_MAINTAIN_SUB	{给符文充能并启动传送门}
 UI_PORTAL_SEQUENCE	{输入程序}
 UI_PORTAL_ADDRESS	{索要此星球的地址}
@@ -4123,7 +4123,7 @@ ALL_SIGNAL_SCANNER_TERM_NEW	{矿物质轨迹波长......上线。
 
 星球注册指数识别......上线。
 
-搜寻古代外星遗物......
+搜寻远古外星遗物......
 
 请选择目的地。}
 UI_PORTAL_OPT	{找到传送门}
@@ -4234,7 +4234,7 @@ GRAPHICS_FIELD_OF_VIEW	{视野}
 STATS_UNIT_LIGHTYEAR_DISTANCE	{%DISTANCE% 光年}
 BUILD_PROD_STACK	{制作更多}
 BUILD_PROD_STACK_SUB	{创造额外%ITEM%}
-UI_EMPTY_SLOT	{空栏位}
+UI_EMPTY_SLOT	{空槽位}
 UI_SAVE_SELECT	{选择存档游戏}
 UI_SHIPSCAN_TREASURE_NAME	{遗物扫描仪}
 UI_SHIPSCAN_TREASURE_NAME_L	{遗物扫描仪}
@@ -4333,7 +4333,7 @@ UI_SOLAR_PANEL_DESC	{在<TECHNOLOGY>套装<>中安装太阳能<COMMODITY>发电�
 QUICK_MENU_TIP_THIRDPERSONSHIP	{切换飞船视角}
 BLD_NAME_TRADE_OUTPOST	{交易前哨基站}
 BLD_NAME_SMALL_SHOP	{当地交易中心}
-BLD_NAME_ARTIFACT	{古代废墟}
+BLD_NAME_ARTIFACT	{远古废墟}
 UI_PHOTOMODE_DOF	{焦点距离}
 UI_REFINER_TECH_NAME	{精炼输出}
 UI_REFINER_TECH_NAME_L	{精炼输出}
@@ -4361,8 +4361,8 @@ REFINER3_DESC	{一个关键行星设备。这台<TECHNOLOGY>精炼机<>可以将
 大型精炼机可以将<COMMODITY>三种<>不同物质组合成一种全新的材料，或者以更好的比率加工材料。 
 
 大型精炼机必须安装在<VAL_ON>宜居基地<>上，但不需要其它能源。}
-UI_ARTIFACT_KEY_NAME	{古代的钥匙}
-UI_ARTIFACT_KEY_NAME_L	{古代的钥匙}
+UI_ARTIFACT_KEY_NAME	{远古的钥匙}
+UI_ARTIFACT_KEY_NAME_L	{远古的钥匙}
 UI_ARTIFACT_KEY_DESC	{一把有些分量的钥匙，这块经过锻造的铁块一定能用来打开附近的某把锁......}
 UI_ARTIFACT_KEY_SUB	{永恒的遗物}
 UI_ARTIFACT_KEYBOX_NAME	{遗物碎片}
@@ -4370,8 +4370,8 @@ UI_ARTIFACT_KEYBOX_NAME_L	{遗物碎片}
 UI_ARTIFACT_BOX_NAME	{大型遗物箱}
 UI_ARTIFACT_BOX_NAME_L	{大型遗物箱}
 UI_ARTIFACT_BOX_SUB	{解锁机械装置即可打开箱子}
-UI_ARTIFACT_LOCK_NAME	{古代的锁}
-UI_ARTIFACT_LOCK_NAME_L	{古代的锁}
+UI_ARTIFACT_LOCK_NAME	{远古的锁}
+UI_ARTIFACT_LOCK_NAME_L	{远古的锁}
 UI_ARTIFACT_LOCK_DESC	{一把拥有几个锁眼的神秘锁，这件遗物中一定保存着珍贵的财宝。}
 UI_ARTIFACT_LOCK_SUB	{重型锁定机制}
 UI_RELOAD_MANUAL	{重新加载恢复点[%TIMESTAMP%]}
@@ -4971,7 +4971,7 @@ NPC_CORE_ACT1_13_DESC	{旅行者在红色恒星的阴影中醒来。它在孤单
 它不理解符文这种秘密语言。它还没有领会最终真相的代价。}
 NPC_CORE_ACT1_13_OPT_A	{见证符文}
 NPC_CORE_ACT1_13_OPT_B	{NPC_CORE_ACT1_8F_OPT_B}
-NPC_CORE_ACT1_13_RES_A	{一名古代旅行者的智慧注入了我的内心。我在脑海中看到了<SPECIAL>符文<>，那是激活传送门所需代码的一部分。
+NPC_CORE_ACT1_13_RES_A	{一名远古旅行者的智慧注入了我的内心。我在脑海中看到了<SPECIAL>符文<>，那是激活传送门所需代码的一部分。
 
 我离开之际，发现远处有一架护卫无人机。它迅速离开了。}
 NPC_CORE_ACT1_14_LANG	{旅行者：罪恶}
@@ -4987,7 +4987,7 @@ NPC_CORE_ACT1_14_DESC	{旅行者一如既往地想出了办法。第一架无人
 18,446,744,073,709,551,616 颗行星。一辈子的时间根本不够。旅行者在有生之年要实现探索全宇宙的愿望是不可能的了。}
 NPC_CORE_ACT1_14_OPT_A	{NPC_CORE_ACT1_13_OPT_A}
 NPC_CORE_ACT1_14_OPT_B	{NPC_CORE_ACT1_8F_OPT_B}
-NPC_CORE_ACT1_14_RES_A	{一名古代旅行者的智慧注入了我的内心。我在脑海中看到了<SPECIAL>符文<>，那是代码的另一部分......
+NPC_CORE_ACT1_14_RES_A	{一名远古旅行者的智慧注入了我的内心。我在脑海中看到了<SPECIAL>符文<>，那是代码的另一部分......
 
 我想到了“阿特拉斯”。我在旅途中多次听到这个名词，但依然没弄明白它的本质。<DELAY>0.7<>这个幻景令我心生恐惧。}
 NPC_CORE_ACT1_15_LANG	{旅行者：目标}
@@ -5003,7 +5003,7 @@ NPC_CORE_ACT1_15_DESC	{阿特拉斯告诉旅行者，它是种族中的第一人
 旅行者们将在无尽的岁月里见证所有的星球。}
 NPC_CORE_ACT1_15_OPT_A	{NPC_CORE_ACT1_13_OPT_A}
 NPC_CORE_ACT1_15_OPT_B	{NPC_CORE_ACT1_8F_OPT_B}
-NPC_CORE_ACT1_15_RES_A	{一名古代旅行者的智慧注入了我的内心。我在脑海中看到了最后的符文，那是代码的最后一部分......}
+NPC_CORE_ACT1_15_RES_A	{一名远古旅行者的智慧注入了我的内心。我在脑海中看到了最后的符文，那是代码的最后一部分......}
 NPC_CORE_ACT1_16_LANG	{旅行者异象C<DELAY>0.2<>O<DELAY>0.2<>N<DELAY>0.2<>F<DELAY>0.2<>I<DELAY>0.2<>R<DELAY>0.2<>M<DELAY>0.2<>E<DELAY>0.2<>D
 破坏 <AUDIO>UI_Nanites_Received<><FUEL><IMG>SLASH<><>破坏 <AUDIO>UI_Nanites_Received<><FUEL><IMG>SLASH<><>破坏 <AUDIO>UI_Nanites_Received<><FUEL><IMG>SLASH<><>}
 NPC_CORE_ACT1_16_DESC	{我一步步地靠近传送门。我想起到目前为止每一个一闪而过的想法和没什么意义的愿望。
@@ -5259,7 +5259,7 @@ TERMINAL_CORE_ACT2_8_DESC_WAIT	{机器古老而强大，是早已毁灭的世界
 TERMINAL_CORE_ACT2_8_DESC	{这部机器古老而强大，是一个早已毁灭的世界的遗物。它的工艺非常高超。很明显得到了他人的精心维护。
 
 我感觉到扩音器里传来一声耳语，那是纳达的低吟。他与机器说话时，面板上的文字慢慢被破译出来。}
-TERMINAL_CORE_ACT2_8_LANGX	{这件遗物是对一个太阳系的模拟。这是古代科尔瓦克斯人对阿特拉斯做出的祈祷，现在在异象之心中得到了再造。
+TERMINAL_CORE_ACT2_8_LANGX	{这件遗物是对一个太阳系的模拟。这是远古科尔瓦克斯人对阿特拉斯做出的祈祷，现在在异象之心中得到了再造。
 
 这是一个虚假的太阳系，对纳达来说是非常珍贵的......如果我愿意的话，可以把它用作阿耳特弥斯的家园。}
 TERMINAL_CORE_ACT2_8_OPT_A	{上传阿耳特弥斯}
@@ -5599,7 +5599,7 @@ TRA_CORE_ACT2_20A_DESC	{吉克的声音有些不对劲。}
 TRA_CORE_ACT2_20A_OPT_A	{询问初代的事}
 TRA_CORE_ACT2_20A_OPT_B	{询问科尔瓦克斯的事}
 TRA_CORE_ACT2_20A_RES_A	{我询问了初代的事，这个吉克帝国曾经令星系生灵涂炭，并奴役了科尔瓦克斯一族。}
-TRA_CORE_ACT2_20A_RES_B	{我询问了科尔瓦克斯的事，这个机器人种族曾经被名为初代的古代吉克帝国奴役。}
+TRA_CORE_ACT2_20A_RES_B	{我询问了科尔瓦克斯的事，这个机器人种族曾经被名为初代的远古吉克帝国奴役。}
 TRA_CORE_ACT2_20B_LANG	{啊，朋友，你和维吉恩战士谈过了吧？它们向来对吉克怀恨在心，对我们出言诽谤，对过去耿耿于怀。别担心，一切都好，大家都很和睦。}
 TRA_CORE_ACT2_20B_OPT_A	{重复你的问题}
 TRA_CORE_ACT2_20B_OPT_B	{询问吉克是否感到愧疚}
@@ -6479,7 +6479,7 @@ NPC_TRAVELLER_LANG_16	{我能看到你<AUDIO>TXT_RadioNoise<><STELLAR>......呲�
 我们给予的这些符文......你将穿越传送门......之后你便会死去。你并不是唯一的你......
 和我们一起祈祷，为我们大家祈祷。护卫拯救了我们。护卫诅咒了我们。
 我们永远爱你......}
-NPC_TRAVELLER_DESC_1	{死去旅行者的坟墓上标着一个符文，是某种古代技术写成的墓志铭。}
+NPC_TRAVELLER_DESC_1	{死去旅行者的坟墓上标着一个符文，是某种远古技术写成的墓志铭。}
 NPC_TRAVELLER_OPT_1	{提取符文}
 NPC_TRAVELLER_RES_1	{我得到了符文，同时获得了前往未知星球的能力......
 我静静离开，让逝去的旅行者继续安息。}
@@ -7114,7 +7114,7 @@ UI_CORE_TUTORIAL1A_MSG1	{收集<COMMODITY>铁<>打造<COMMODITY>卡利塔薄片<
 使用 <IMG>ATTACK<> 即可在石头中收获<COMMODITY>铁<>}
 UI_CORE_TUTORIAL1A_MSG2	{打造<COMMODITY>卡利塔薄片<>：%CURRENT%/4
 使用<IMG>INVENTORY<>进入你的库存。
-使用<IMG>PRODMENU<>在空置栏位中制作。}
+使用<IMG>PRODMENU<>在空置槽位中制作。}
 UI_CORE_TUTORIAL1A_MSG3	{使用<IMG>INVENTORY<>进入飞船库存。
 使用<IMG>REPAIR<>修复装备。}
 UI_CORE_TUTORIAL1A_OSD1	{定位一座铁矿源}
@@ -7169,7 +7169,7 @@ UI_CORE_TUTORIAL1B_OBJ4_TIP	{UI_CORE_TUTORIAL1A_OBJ2_TIP}
 UI_CORE_TUTORIAL1B_MSG1	{UI_CORE_TUTORIAL1A_MSG1}
 UI_CORE_TUTORIAL1B_MSG2	{制作一片卡利塔薄片<>：%CURRENT%/2
 使用<IMG>INVENTORY<>进入你的库存。
-在空置栏位中用 <IMG>PRODMENU<> 制作}
+在空置槽位中用 <IMG>PRODMENU<> 制作}
 UI_CORE_TUTORIAL1B_MSG3	{使用 <IMG>SCAN<> 定位行星资源
 扫描仪受损。使用 <IMG>OPTIONS<> 访问任务日志}
 UI_CORE_TUTORIAL1B_MSG4	{使用 <IMG>SCAN<> 定位行星资源
@@ -7203,12 +7203,12 @@ UI_CORE_TUTORIAL1Y_MSG1B	{使用<TECHNOLOGY>信号增强器<>定位<STELLAR>有�
 使用<TECHNOLOGY>便携式精炼机<>制作<EARTH>纯铁氧体<>}
 UI_CORE_TUTORIAL1Y_MSG2	{使用<TECHNOLOGY>信号增强器<>定位<STELLAR>有色金属<>
 制作用于<TECHNOLOGY>信号增强器<>的%ITEM%：%CURRENT%/%AMOUNT%
-使用 <IMG>PRODMENU<> 制作空置栏位}
+使用 <IMG>PRODMENU<> 制作空置槽位}
 UI_CORE_TUTORIAL1Y_MSG3	{使用<TECHNOLOGY>信号增强器<>定位<STELLAR>有色金属<>
 收集用于<TECHNOLOGY>信号增强器<>的%ITEM%：%CURRENT%/%AMOUNT%}
 UI_CORE_TUTORIAL1Y_MSG4	{使用<TECHNOLOGY>信号增强器<>定位<STELLAR>有色金属<>
 制作用于<TECHNOLOGY>信号增强器<>的%ITEM%：%CURRENT%/%AMOUNT%
-使用 <IMG>PRODMENU<> 制作空置栏位}
+使用 <IMG>PRODMENU<> 制作空置槽位}
 UI_CORE_TUTORIAL1Y_MSG5	{使用<TECHNOLOGY>信号增强器<>定位<STELLAR>有色金属<>
 使用 <IMG>BUILD_MENU<> 建造<TECHNOLOGY>信号增强器<>}
 UI_CORE_TUTORIAL1Y_MSG6	{使用<TECHNOLOGY>信号增强器<>定位<STELLAR>铜<>
@@ -7255,7 +7255,7 @@ UI_CORE_TUTORIAL1C_OBJ1	{修复损坏的扫描仪}
 UI_CORE_TUTORIAL1C_OBJ2	{测试扫描仪}
 UI_CORE_TUTORIAL1C_OBJ1_TIP_ALT	{使用<COMMODITY>碳纳米管<>制造分析面甲。从附近的树上或其他植物中收集碳。
 使用<IMG>INVENTORY<>打开你的库存
-使用<IMG>PRODMENU<>在空置栏位中制作部件}
+使用<IMG>PRODMENU<>在空置槽位中制作部件}
 UI_CORE_TUTORIAL1C_OBJ1_TIP	{使用碳纳米管修复扫描仪。从附近的树上或其他植物中收集碳。
 可通过库存（<IMG>INVENTORY<>）使系统得到修复。}
 UI_CORE_TUTORIAL1C_MSG1	{为<TECHNOLOGY>分析面甲<>制作<COMMODITY>碳纳米管<>
@@ -7267,7 +7267,7 @@ UI_CORE_TUTORIAL1C_MSG1_VR	{为<TECHNOLOGY>分析面甲<>制作<COMMODITY>碳纳
 UI_CORE_TUTORIAL1C_MSGX	{为<TECHNOLOGY>分析面甲<>制作%ITEM%：%CURRENT%/%AMOUNT%
 已获得碳：<TRADEABLE>50<>/<TRADEABLE>50<>
 使用 <IMG>INVENTORY<> 进入库存
-使用 <IMG>PRODMENU<> 在空置栏位中制作}
+使用 <IMG>PRODMENU<> 在空置槽位中制作}
 UI_CORE_TUTORIAL1C_MSG2	{修复<TECHNOLOGY>扫描仪<>：0/1
 已获得铁氧体：<TRADEABLE>75<>/<TRADEABLE>75<>
 使用 <IMG>INVENTORY<> 进入多用途工具库存
@@ -7283,7 +7283,7 @@ UI_CORE_TUTORIAL1C_MSG2_ALT	{完成<TECHNOLOGY>分析面甲<>：0/1
 使用 <IMG>INVENTORY<> 进入多用途工具库存
 使用 <IMG>REPAIR<> 继续安装}
 UI_CORE_TUTORIAL1C_MSG2_ALTB	{用<IMG>INVENTORY<>打开库存以安装<TECHNOLOGY>分析面甲<>
-用<IMG>TECHMENU<> 选择空置的多用途工具栏位进行安装
+用<IMG>TECHMENU<> 选择空置的多用途工具槽位进行安装
 需要分析面甲以<FUEL>定位飞船<>}
 UI_CORE_TUTORIAL1C_MSG3	{扫描高亮显示的<FUEL>关键生存资源<>
 使用 <IMG>SCAN<> 测试扫描仪}
@@ -7359,7 +7359,7 @@ UI_CORE_TUTORIAL2X_OBJ4_TIP	{撞毁飞船的残骸里有建造<TECHNOLOGY>超光
 UI_CORE_TUTORIAL2_OBJ4B_TIP	{超光速推进需要<STELLAR>有色金属<>。定位并加工<STELLAR>有色金属<>可能需要使用<TECHNOLOGY>信号推进器<>和<TECHNOLOGY>便携式精炼机<>。}
 UI_CORE_TUTORIAL2_OBJ5	{建造超光速推进。}
 UI_CORE_TUTORIAL2_OBJ5_TIP	{进入飞船库存并使用 <IMG>TECHMENU<> 制作。
-在<VAL_ON>技术栏位<>安装<TECHNOLOGY>超光速推进<>以节省货船空间。}
+在<VAL_ON>技术槽位<>安装<TECHNOLOGY>超光速推进<>以节省货船空间。}
 UI_CORE_TUTORIAL2_MSG1	{接收到异常信号
 扫描（<IMG>SCAN<>）以查明源头}
 UI_CORE_TUTORIAL2_OSD1	{信号传入 <IMG>SLASH<> 扫描以定位}
@@ -7537,7 +7537,7 @@ UI_CORE_TUTORIAL4_MSG8	{创造反物质：收集部件
 使用 <TECHNOLOGY>信号增强道具<> 收集 <TECHNOLOGY>海瑞蒂姆<>}
 UI_CORE_TUTORIAL4_MSG9	{创造反物质
 使用 <IMG>INVENTORY<> 打开你的库存
-用 <IMG>PRODMENU<> 在空置栏位中制作}
+用 <IMG>PRODMENU<> 在空置槽位中制作}
 UI_CORE_TUTORIAL4X_MSG3	{创造反物质：收集材料
 收集%ITEM%：%CURRENT%/%AMOUNT%}
 UI_CORE_TUTORIAL4X_MSG4	{精炼%ITEM%获取<SPECIAL>反物质<>：%CURRENT%/%AMOUNT%
@@ -7631,7 +7631,7 @@ UI_CORE_LAUNCHFUEL_MSG2	{收集%ITEM%：%CURRENT%/%AMOUNT%
 UI_CORE_LAUNCHFUEL_MSG2A	{制作%ITEM%：%CURRENT%/%AMOUNT%
 已获得铁氧体粉末：<TRADEABLE>50<>/<TRADEABLE>50<>
 使用 <IMG>INVENTORY<> 进入库存
-使用 <IMG>PRODMENU<> 在空置栏位进行制作}
+使用 <IMG>PRODMENU<> 在空置槽位进行制作}
 UI_CORE_LAUNCHFUEL_MSG3	{制作<COMMODITY>金属电镀<>
 制作一台<TECHNOLOGY>便携式精炼机<>以处理<EARTH>铁氧体粉末<>
 使用<IMG>BUILD_MENU<>访问建造菜单。}
@@ -7673,7 +7673,7 @@ UI_CORE_TERRAINEDIT_MSG6	{制作<COMMODITY>碳纳米管<>
 UI_CORE_TERRAINEDIT_MSG7A	{制作%ITEM%：%CURRENT%/%AMOUNT%
 已获得二氢：<TRADEABLE>40<>/<TRADEABLE>40<>
 使用 <IMG>INVENTORY<> 进入库存
-使用 <IMG>PRODMENU<> 在空置栏位进行制作}
+使用 <IMG>PRODMENU<> 在空置槽位进行制作}
 UI_CORE_TERRAINEDIT_MSG7A1	{收集%ITEM%以制作<TECHNOLOGY>凝胶<>：%CURRENT%/%AMOUNT%
 用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位<TECHNOLOGY>二氢<>}
 UI_CORE_TERRAINEDIT_MSG7A_VRA	{收集%ITEM%以制作<TECHNOLOGY>凝胶<>：%CURRENT%/%AMOUNT%
@@ -7701,7 +7701,7 @@ UI_CORE_TERRAINEDIT_MSG8A	{安装<TECHNOLOGY>地形操纵器<>部件：1/2
 在<TECHNOLOGY>多用途工具库存<>界面进行安装}
 UI_CORE_TERRAINEDIT_MSG8B	{安装<TECHNOLOGY>地形操纵器<>：0/1
 用<IMG>INVENTORY<>打开库存
-用<IMG>TECHMENU<>选择空置的多用途工具栏位来开始}
+用<IMG>TECHMENU<>选择空置的多用途工具槽位来开始}
 UI_CORE_TERRAINEDIT_MSG9	{通过 <IMG>ATTACK<> 使用<TECHNOLOGY>地形操纵器<>凿通地面
 搜索洞穴找出<EARTH>钴<>和其他<VAL_ON>宝贵的宝藏<>
 挖掘洞穴可以在<FUEL>危险情况<>时获得庇护}
@@ -7835,7 +7835,7 @@ UI_CORE_ACT1_STEP6_DESC	{阿耳特弥斯一想到即将见面，变得兴奋不�
 UI_CORE_ACT1_STEP6_OBJ1	{校准翻译机}
 UI_CORE_ACT1_STEP6_OBJ1_TIP	{<STELLAR>与外星生命体对话<>或调查它的废墟和其他圣地，可学习其语言中的词汇。
 在空间站或行星上的各种建筑物中找到外星生命体。
-探索本地废墟和其他古代纪念碑。}
+探索本地废墟和其他远古纪念碑。}
 UI_CORE_ACT1_STEP6_MSG0	{建造<TECHNOLOGY>阿耳特弥斯翻译器<>：0/1
 在库存中建造（<IMG>INVENTORY<>）}
 UI_CORE_ACT1_STEP6_MSG1	{校准阿耳特弥斯的翻译机
@@ -7860,10 +7860,10 @@ UI_CORE_A1S6_MSG1A_SURVEY_SWAP	{搜索<STELLAR>有居民的前哨基站<>以与�
 翻译机校准：<STELLAR>0%<>
 使用<IMG>SURVEYFILTERL<>/<IMG>SURVEYFILTERR<>激活<TECHNOLOGY>目标扫描<>}
 UI_CORE_ACT1_STEP6_MSG1B1	{翻译机校准：<STELLAR>33%<>
-使用<STELLAR>星图<>定位一处<SPECIAL>古代遗迹<>
-在古代遗迹<STELLAR>学习词汇<>}
+使用<STELLAR>星图<>定位一处<SPECIAL>远古遗迹<>
+在远古遗迹<STELLAR>学习词汇<>}
 UI_CORE_ACT1_STEP6_MSG1B	{翻译机校准：<STELLAR>33%<>
-从<STELLAR>古代遗迹<>那里<SPECIAL>学习词汇<>
+从<STELLAR>远古遗迹<>那里<SPECIAL>学习词汇<>
 按 <IMG>OPTIONS<> 了解更多有关学习词汇的信息}
 UI_CORE_ACT1_STEP6_MSG1C	{翻译机校准：<STELLAR>66%<>
 从<STELLAR>知识之石<>那里<SPECIAL>学习词汇<>
@@ -8047,10 +8047,10 @@ UI_CORE_ACT1_STEP13_OBJ1_TIP	{阿波罗跟踪护卫的信号，追查到了附�
 UI_CORE_ACT1_STEP13_OBJ2	{追踪传送门地脉}
 UI_CORE_ACT1_STEP13_OBJ2_TIP	{阿波罗跟踪护卫的信号，追查到了附近星球上的一个位置。
 继续沿着地脉追踪信号。
-信号指向了一座古代纪念碑。这座纪念碑上有如何开启传送门的线索。}
+信号指向了一座远古纪念碑。这座纪念碑上有如何开启传送门的线索。}
 UI_CORE_ACT1_STEP13_OBJ3	{找到最后一组符文}
 UI_CORE_ACT1_STEP13_OBJ4	{找到并激活传送门}
-UI_CORE_ACT1_STEP13_OBJ4_TIP	{我从古代纪念碑上面找到了一系列符文。也许这些符文就是开启传送门的关键......}
+UI_CORE_ACT1_STEP13_OBJ4_TIP	{我从远古纪念碑上面找到了一系列符文。也许这些符文就是开启传送门的关键......}
 UI_CORE_ACT1_PORTAL_OSD	{侦测到地脉连接 <IMG>SLASH<> 正在追踪源头}
 UI_CORE_ACT1_PORTAL_MARKER	{地脉源}
 UI_CORE_ACT1_ATLAS_OSD	{16 <IMG>SLASH<> 16 <IMG>SLASH<> 16 <IMG>SLASH<> 已启动阿特拉斯协议 <IMG>SLASH<> 16 <IMG>SLASH<> 16 <IMG>SLASH<> 16}
@@ -8203,10 +8203,10 @@ UI_REWARD_FAILED_MSG	{库存已满
 清理库存中的空间以获得奖励}
 UI_NOTIFY_INVENTORY_TITLE	{套装升级}
 UI_NOTIFY_INVENTORY_SUB	{库存管理}
-UI_NOTIFY_INVENTORY_DESC	{靠近飞船后，按<IMG>TRANSFER<>把套装中的物品转移到飞船中。按<IMG>INTERACT<>堆叠相同物品。飞船栏位的可堆叠数量更多。
+UI_NOTIFY_INVENTORY_DESC	{靠近飞船后，按<IMG>TRANSFER<>把套装中的物品转移到飞船中。按<IMG>INTERACT<>堆叠相同物品。飞船槽位的可堆叠数量更多。
 必需品应重点携带。异星物品总是可以再次找到。长按<IMG>DISCARD<>丢弃选中物品。
 
-可在<COMMODITY>空间站<>上购买额外栏位，或通过定位<TECHNOLOGY>空降舱<><STELLAR>免费<>升级套装。}
+可在<COMMODITY>空间站<>上购买额外槽位，或通过定位<TECHNOLOGY>空降舱<><STELLAR>免费<>升级套装。}
 UI_NOTIFY_INVENTORY_OBJ	{在库存中清理空间}
 UI_NOTIFY_INVENTORY_OBJ_TIP	{按<IMG>INVENTORY<>开启库存。
 按<IMG>TRANSFER<>可堆叠放置物品或将其转移到别的库存里。
@@ -8408,8 +8408,8 @@ UI_CORE_ACT2_STEP6_MSG3	{使用<SPECIAL>石碑<>了解通向阿波罗处的传�
 UI_CORE_ACT2_STEP7_DESC	{到目前为止，我还没有和其他旅行者真正见过面，最多只见过它们的投影。就阿耳特弥斯而言，或许只能如此了。但阿波罗不一样。我有传送门的地址，它应该能像我一样来到这颗行星。}
 UI_CORE_ACT2_STEP7_MSG1	{寻找通向阿波罗处的传送门
 从<SPECIAL>石碑<>处激活传送地脉}
-UI_CORE_ACT2_STEP7_OSD	{侦测到潜在的古代石碑}
-UI_CORE_A2S7_MSG1_SURVEY_OSD	{侦测到古代石碑}
+UI_CORE_ACT2_STEP7_OSD	{侦测到潜在的远古石碑}
+UI_CORE_A2S7_MSG1_SURVEY_OSD	{侦测到远古石碑}
 UI_CORE_A2S7_MSG1_SURVEY	{通过<SPECIAL>石碑<>跟踪通向阿波罗处的传送门
 使用<TECHNOLOGY>目标扫描<>确定石碑的位置}
 UI_CORE_A2S7_MSG1_SURVEY_SWAP	{通过<SPECIAL>石碑<>跟踪通向阿波罗处的传送门
@@ -8789,7 +8789,7 @@ UI_NOTIFY_FREIGHTER_MSG2	{回收残骸<STELLAR>货舱<>：%CURRENT%/%AMOUNT%
 使用<TECHNOLOGY>地形操纵器<>挖掘被掩埋的货舱
 使用<IMG>CYCLEWEAPON<>切换多用途工具模式}
 UI_NOTIFY_FREIGHTER_MSG3	{安装<TECHNOLOGY>地形操纵器<>以挖掘<STELLAR>货舱<>
-访问多用途工具库存并使用<IMG>TECHMENU<>在一个空栏位制作
+访问多用途工具库存并使用<IMG>TECHMENU<>在一个空槽位制作
 使用<IMG>PIN<>标记设计图配方以查看详细说明}
 UI_NOTIFY_FREIGHTER_MARKER	{坠毁货船挖掘点}
 UI_TEMP_LOC_TIP_CYCLEWEAPON	{切换多用途工具模式 <IMG>CYCLEWEAPON<>}
@@ -9670,7 +9670,7 @@ NPC_EXO_BRIEF_RES_A_4	{抓紧时间，闯入者！别让护卫污染了你的世
 NPC_EXO_BRIEF_RES_B_4	{你能容忍护卫的仓库离我们如此近吗？格拉！}
 NPC_EXO_BRIEF_RET_LANG_4	{闯入者，别再停留了；我们的生命是短暂的，而我们的价值也稍纵即逝。但你若不完成我的任务，那你的生命将更加短暂！格拉！}
 NPC_EXO_BRIEF_RET_DESC_4	{技师要求我使用<TECHNOLOGY>强化艇雷达<>定位一座仓库并窃取其中的材料。它能使用这个物质创建<TECHNOLOGY>强化艇推进器<>。}
-NPC_EXO_WAIT_DESC_4	{%NAME%具有一种执念，据我所知是护卫。我曾经看到它用维吉恩语查看古代手迹，嘀咕各种名字，欧宾库勒、艾伦、阿特拉斯......
+NPC_EXO_WAIT_DESC_4	{%NAME%具有一种执念，据我所知是护卫。我曾经看到它用维吉恩语查看远古手迹，嘀咕各种名字，欧宾库勒、艾伦、阿特拉斯......
 
 这是否是它的族人追捕它的原因？它究竟发现了什么秘密？它做了什么离经叛道的事情？}
 NPC_EXO_WAIT_OPT_A_4	{询问阿特拉斯的事}
@@ -10998,7 +10998,7 @@ NPC_MISSION_MIN_SCAN_1	{客户正在创造一个人工星系，一种可以创�
 NPC_MISSION_MIN_SCAN_2	{客户想要拓展他们的采矿作业。他们从轨道采矿站开采着巨量尘土，规模十分庞大。这种类型的经济体有可提取矿物的最低含量标准，所以他们需要能够用来分析挖掘价值的本地区域性扫描。}
 NPC_MISSION_MIN_SCAN_3	{客户运营着一处采矿作业。他们的专长是开采提炼电活性矿物。这种危险的过程是众多高科技产品供应链中的关键部分。
 可充电式护盾电池、光伏板以及生物荧光纹身都离不开它。}
-NPC_MISSION_MIN_SCAN_4	{客户对于矿物的疯狂开采破坏非常担心。客户觉得石块不是压缩的泥土及盐矿，而是冰封的古代智慧生物的尸体。因此，将这些石块粉碎提炼成引擎部件，是罪无可恕的大罪。他们需要矿物扫描充当证据。}
+NPC_MISSION_MIN_SCAN_4	{客户对于矿物的疯狂开采破坏非常担心。客户觉得石块不是压缩的泥土及盐矿，而是冰封的远古智慧生物的尸体。因此，将这些石块粉碎提炼成引擎部件，是罪无可恕的大罪。他们需要矿物扫描充当证据。}
 NPC_MISSION_MIN_SCAN_5	{客户非常喜欢自然造物。他们觉得在没有美的概念的前提下随机出现的美丽造物是一种奇观。他们想要与世界分享这种奇观，所以正在寻找高品质的矿物扫描数据。}
 NPC_MISSION_DELIVERY_1	{客户需要一个信得过的送货人。其想要用一份礼物向一名同事表达敬意，庆祝对方再次成功活下来。
 
@@ -14196,7 +14196,7 @@ WAR_NPC_RES_C_24	{我拔出武器，这一不敬的举动激怒了战士。
 它开始吼叫并吐唾沫，还狠狠地扇了我一巴掌。}
 WAR_NPC_DESC_25	{这名战士怒视着我，它的皮肤下垂，从身形可以看出它显然很痛苦。不过它依然努力站起来面对我......}
 DNT_WAR_NPC_LANG_25	{Tell me, interloper... do you know the secret of this universe?}
-WAR_NPC_DESC_25A	{它一直在阅读一幅染着血、写有维吉恩文字的古代卷轴。我在上面看到了两名战士站在宏伟石碑前，其中一人背后藏着一把匕首。卷轴上一共有十六副这样的图画。}
+WAR_NPC_DESC_25A	{它一直在阅读一幅染着血、写有维吉恩文字的远古卷轴。我在上面看到了两名战士站在宏伟石碑前，其中一人背后藏着一把匕首。卷轴上一共有十六副这样的图画。}
 WAR_NPC_OPT_A_25	{说十六}
 WAR_NPC_OPT_B_25	{指向匕首}
 WAR_NPC_OPT_C_25	{指向石碑}
@@ -14559,7 +14559,7 @@ FTH_REQUEST_LANG_1	{很奇怪不是么？我们能交易货物，却无法触碰
 FTH_REQUEST_LANG_2	{语言是一切贸易的基础不是么？那我们就来交易吧......}
 FTH_REQUEST_LANG_3	{我......求求你......STELLAR>呲呲<>......如果我弄不到这些物资，......STELLAR>呲呲<>......会要我的命......}
 FTH_REQUEST_LANG_4	{真巧啊......我也要前往星系中心，朋友。也许我们可以互帮互助。}
-FTH_REQUEST_LANG_5	{永恒飞船是我的......如果你有货物的话，我正好有很多栏位空着。}
+FTH_REQUEST_LANG_5	{永恒飞船是我的......如果你有货物的话，我正好有很多槽位空着。}
 FTH_REQUEST_LANG_6	{要是你能事先看到自己的一生，还会做之前做过的
 选择吗？此刻你还会决定留在这里吗？嗯，谁知道呢。
 我现在心事重重。也许我们可以互惠互利。这样一切才合理......}
@@ -15224,9 +15224,9 @@ TRA_OBS_LANG_8	{6543 - 3654 - 4365 - ****}
 TRA_OBS_OPT_A_8	{输入: 5463}
 TRA_OBS_OPT_B_8	{输入: 5436}
 TRA_OBS_OPT_C_8	{输入: 6534}
-TRA_OBS_DESC_9	{了望台似乎在很久以前就被遗弃了。它的日志中描述着一名古代人努力控制这里和许多其他世界。
+TRA_OBS_DESC_9	{了望台似乎在很久以前就被遗弃了。它的日志中描述着一名远古人努力控制这里和许多其他世界。
 
-一个古代帝国带着悲痛和憎恶四分五裂，无法理解过去的惊骇行为。然而，在经历了这一切之后，它的系统仍能继续整理数据......
+一个远古帝国带着悲痛和憎恶四分五裂，无法理解过去的惊骇行为。然而，在经历了这一切之后，它的系统仍能继续整理数据......
 
 屏幕中闪烁的信标，需要密码来破译它的源点......}
 TRA_OBS_LANG_9	{2595 - 5259 - 9525 - ****}

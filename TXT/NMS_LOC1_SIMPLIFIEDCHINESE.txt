@@ -1,32 +1,32 @@
 SCAN_NO_TECH	{未安装扫描技术<IMG>SLASH<>}
-SCAN_BROKEN	{扫描仪已严重损坏<IMG>SLASH<>}
+SCAN_BROKEN	{扫描仪严重受损<IMG>SLASH<>}
 SCAN_RECHARGE	{扫描仪充能中}
-WARP_MSG	{在%SYSTEM%发现星系}
-DISCOVER_BEACON	{发现信标%BEACON%}
-DISCOVER_RELIC	{发现%RELIC%}
-DISCOVER_CREATURE	{发现%CREATURE%}
-DISCOVER_CREATURE_NEW	{新发现的%CREATURE%}
-DISCOVER_PLANET	{发现新星球}
-DISCOVER_PLANET_BY	{%USER%发现的星球}
-CTRL_NORMAL	{操控模式：正常}
+WARP_MSG	{已在%SYSTEM%发现星系}
+DISCOVER_BEACON	{已发现信标%BEACON%}
+DISCOVER_RELIC	{已发现%RELIC%}
+DISCOVER_CREATURE	{已发现%CREATURE%}
+DISCOVER_CREATURE_NEW	{新发现了%CREATURE%}
+DISCOVER_PLANET	{已发现新星球}
+DISCOVER_PLANET_BY	{由%USER%发现的星球}
+CTRL_NORMAL	{操控模式：普通}
 CTRL_INVERT	{操控模式：反向}
-CTRL_FLIGHT	{操控模式：飞行杆}
-PRIMARY_SHIP_SWITCH	{<IMG>SLASH<>主控飞船变更<IMG>SLASH<>}
-BEACON_SYNC	{信标同步已建立}
+CTRL_FLIGHT	{操控模式：飞行摇杆}
+PRIMARY_SHIP_SWITCH	{<IMG>SLASH<>已变更主控飞船<IMG>SLASH<>}
+BEACON_SYNC	{已建立信标同步}
 BEACON_BUSY	{信标同步繁忙}
 BEACON_TITLE	{已上传 %NUMBER% 份记录}
 BEACON_SUB1	{%NUMCLAIMED% 接受 // %NUMCLAIMED% 拒绝}
 BEACON_SUB2	{%UNITS% 货币已记入你的帐户}
-NOOXYGEN	{氧气}
+NOOXYGEN	{缺氧}
 EXTREMECOLD	{极寒}
 EXTREMEHEAT	{酷热}
 RADIATION	{辐射}
 TOXICGAS	{毒雨}
-HAZ_CRIT_O2	{危险：氧气浓度偏低}
-HAZ_CRIT_HEAT	{危险：温度达到危险值}
+HAZ_CRIT_O2	{危险：氧气浓度过低}
+HAZ_CRIT_HEAT	{危险：热量过高}
 HAZ_CRIT_COLD	{危险：体温过低}
-HAZ_CRIT_TOXIC	{危险：毒雨渗透}
-HAZ_CRIT_RAD	{危险：辐射渗透}
+HAZ_CRIT_TOXIC	{危险：毒雨渗入}
+HAZ_CRIT_RAD	{危险：辐射渗入}
 HAZ_CRIT_SHIELD	{危险：护盾受损}
 EXIT_PLANET	{正在离开大气层}
 BOOST_ENEMY	{推进器停止工作 - 本地敌人干扰}
@@ -62,13 +62,13 @@ TECH_DAMAGED	{%TECH%严重受损}
 TECH_NEEDS_INSTALL	{%TECH%需要安装}
 RELOAD	{重新装填}
 OVERHEAT	{过热}
-LEARNED_WORD	{你已学会%RACE%语中的‘%WORD%’}
+LEARNED_WORD	{你已学会%RACE%语中的“%WORD%”}
 INTERACTION_COST	{需要消耗%COST%%RESOURCE%}
 CHECK_STOCK	{购买多用途工具}
-SHOP_TRADEFROMSUIT	{在银河市场中出售库存物品}
-SHOP_DESC	{欢迎来到银河市场供应体}
+SHOP_TRADEFROMSUIT	{在星系网络中出售库存物品}
+SHOP_DESC	{欢迎来到星系贸易网络}
 SHOP_LANG	{正在访问阿特拉斯旅行者链接。
-初始化远程库存同步。
+远程库存同步初始化完成。
 
 随时准备接收用户请求......}
 SHIP_OUT_OF_RANGE	{飞船距离过远}
@@ -116,12 +116,12 @@ WPN_CHANGE	{已选择%WEAPON%}
 BINOC_NO_TECH	{未安装分析面甲}
 BINOC_BROKEN	{分析面甲已严重损坏}
 WEATHER_WARN	{天气预警：暴风雨即将来临}
-WEATHER_WARN_LUSH	{气象警报：过热暴雨逼近中}
+WEATHER_WARN_LUSH	{气象警报：过热暴雨即将来袭}
 WEATHER_WARN_HOT	{气象警报：检测到火风暴逼近}
 WEATHER_WARN_COLD	{气象警报：检测到暴风雪逼近}
-WEATHER_WARN_TOXIC	{气象警报：毒性暴雨逼近中}
+WEATHER_WARN_TOXIC	{气象警报：毒性暴雨即将来袭}
 WEATHER_WARN_RADIO	{气象警报：放射性超级细胞逼近中}
-WEATHER_OVER	{最新天气情况：暴风雨已停止}
+WEATHER_OVER	{最新气象情况：风暴停止中}
 SUBSTANCE	{物质}
 PRODUCT	{产品}
 DEATH_COLLECT	{重获失去的物品}
@@ -141,7 +141,7 @@ DEATH_VOLUNTARY	{生活太过艰难}
 STAT_MESSAGES_TITLE	{达成旅行里程碑}
 DISC_HUD_MOON_SUBTITLE	{%INFO% 卫星 - %DISCOVERER%}
 HUD_JUMP_FUEL	{剩余燃料}
-NEW_PRODUCT	{已学会新产品配方！}
+NEW_PRODUCT	{已学会新的产品配方！}
 LOCKED_DOOR	{上锁的门}
 DISC_TYPE_MOON	{卫星}
 DISC_TYPE_PLANET	{星球}
@@ -161,7 +161,7 @@ BLACK_HOLE_DISC	{发现黑洞}
 ANOMALY_DETECT	{侦测到异象}
 SIGNAL_DISRUPT	{信号增强器受阻}
 BLACK_HOLE_SUCCESS	{黑洞曲速飞行成功。航行距离：%DISTANCE%}
-RELIC_GATE_SUCCESS	{古代曲速飞行通道成功。航行距离：%DISTANCE%}
+RELIC_GATE_SUCCESS	{远古曲速飞行通道成功。航行距离：%DISTANCE%}
 VALUE_UNITS	{货币}
 ENERGY	{能量}
 BATTLE_MARKER	{求救信号}
@@ -243,7 +243,7 @@ DISC_SET_WAYPNT	{设置航路点}
 DISC_SET_WAYPNT_DESC	{在你的星系地图上设置航路点}
 DISC_DETAILS	{探索详情}
 DISC_UPLOAD	{上传}
-DISC_UPLOAD_DESC	{上传发现以获得%REWARD%货币}
+DISC_UPLOAD_DESC	{上传发现以获得 %REWARD% 货币}
 DISC_UPLOAD_DESC_NANITES	{上传发现以获得 %REWARD% 个纳米星团}
 DISC_UPLOADED	{发现已上传}
 DISC_UPLOADED_CREDIT	{发现已上传。已获得 %REWARD% 货币。}
@@ -323,7 +323,7 @@ YELLOW	{黄色}
 GREEN	{绿色}
 BLUE	{蓝色}
 RED	{红色}
-TRADE_COST_PER	{单价：%COST%（银河平均值：%VARIANCE%）}
+TRADE_COST_PER	{单价：%COST%（星系均价：%VARIANCE%）}
 TRADE_SELL_TO	{向贸易网络出售物品}
 TRADE_SELL_FOR	{卖%AMOUNT%个赚得%PRICE%货币}
 REPAIR	{修复}
@@ -360,7 +360,7 @@ TECH_ALL	{所有技术}
 SUBSTANCE_MINERAL_INTRCT	{<COMMODITY>氧化物<>}
 SUBSTANCE_SILICATE_INTRCT	{<TECHNOLOGY>硅酸盐<>}
 SUBSTANCE_ENERGY_INTRCT	{<FUEL>同位素<>}
-PRODUCT_REQ	{在库存栏位里制作产品}
+PRODUCT_REQ	{在库存槽位里制作产品}
 SUBSTANCE_REQ	{收集元素}
 PRODUCT_REQ_TITLE	{配件需求}
 OPTIONS_R1	{近战 <IMG>MELEE<>}
@@ -472,7 +472,7 @@ TRANSFER_DESC_TRADE	{在库存间传送元素}
 NET_ATTEMPTING	{正在尝试连接......}
 NET_ATTEMPT_FAIL	{无法连接}
 TRADE_EMPTY	{空}
-NEW_SUIT_SLOT	{安装新套装栏位}
+NEW_SUIT_SLOT	{安装新套装槽位}
 JOURNEY_TITLE	{旅行里程碑}
 JOUR_TOT_TITLE	{达成旅行里程碑总数：}
 JOUT_NXT_MILESTONE	{下一个里程碑的进度：%CURRENT% / %NEXT%}
@@ -641,7 +641,7 @@ PROFANITY_MSG	{无法接收此名称，其中包含不当字词。
 UNREDEEMED_ITEMS_TITLE	{未兑换的物品}
 UNREDEEMED_ITEMS_DESC	{你有未兑换的物品
 请前往选项菜单兑换（<IMG>OPTIONS<>）}
-ITEM_NUM_SLOTS	{(%SLOTS% 栏位)}
+ITEM_NUM_SLOTS	{(%SLOTS% 槽位)}
 ITEM_NUM_SLOTS_BROKEN	{（%SLOTS%未损坏/总数）}
 ITEM_NUM_SLOTS_COMBO	{（%SLOTS%技术/货物）}
 GLXY_ROUTE_BH	{通往黑洞的路线}
@@ -1804,14 +1804,14 @@ ENT_ALPHA_SHIP	{A 型制导飞船}
 ENT_PRIME_SHIP	{至尊制导飞船}
 ENT_ALPHA_SHIP_NAME	{A 型制导飞船}
 ENT_PRIME_SHIP_NAME	{至尊制导飞船}
-NOTIFY_INVENTORY_SUIT_FULL	{套装内栏位不足
+NOTIFY_INVENTORY_SUIT_FULL	{套装内槽位不足
 按下<IMG>INVENTORY<>，再按<IMG>DISCARD<>丢弃物品
 在套装库存中按<IMG>TRANSFER<>传送物品}
-NOTIFY_INVENTORY_WEAPON_FULL	{多用途工具里栏位不足
+NOTIFY_INVENTORY_WEAPON_FULL	{多用途工具里槽位不足
 丢弃物品以腾出空间<IMG>INVENTORY<>}
-NOTIFY_INVENTORY_SHIP_FULL	{飞船内栏位不足
+NOTIFY_INVENTORY_SHIP_FULL	{飞船内槽位不足
 长按物品上的<IMG>DISCARD<>以丢弃物品}
-NOTIFY_INVENTORY_VEHICLE_FULL	{强化艇内栏位不足
+NOTIFY_INVENTORY_VEHICLE_FULL	{强化艇内槽位不足
 长按物品上的<IMG>DISCARD<>以丢弃物品}
 NOTIFY_GUN_RELOAD	{按下 <IMG>RELOAD<> 重新装填}
 NOTIFY_GUN_RECHARGE	{离子闪电发射器能量已耗尽 <IMG>QUICK_MENU<>}
@@ -1872,7 +1872,7 @@ NOTIFY_LOW_ENERGY	{维生系统能量不足}
 DEATH_ENERGY	{由于维生系统故障而死}
 NOTIFY_ENERGY_PERCENT	{维生系统能量为 %PERCENT%}
 NOTIFY_TRY_LAND	{按下 <IMG>LANDSHIP<> 开始着陆}
-NOTIFY_TECH_INSTALL	{在你库存中的空置栏位安装新技术<IMG>INVENTORY<>}
+NOTIFY_TECH_INSTALL	{在你库存中的空置槽位安装新技术<IMG>INVENTORY<>}
 NOTAKEOFF_STORM	{风暴干扰 - 无法发射}
 NOTIFY_HAZ_CRIT_HEAT	{极度高温 %LEVEL%°C}
 NOTIFY_HAZ_CRIT_COLD	{极度低温 %LEVEL%°C}
@@ -1914,10 +1914,10 @@ SHIPWEAPON_HINT	{按 <IMG>SHIPCYCLEWEAPON<> 切换武器模式
 NOTIFY_CRITIAL_ENERGY	{维生系统能量极低}
 NOTIFY_LANDING	{<IMG>SLASH<>正在启动着陆程序<IMG>SLASH<>}
 TECH_BUILD_PRODUCT	{在库存中制作%PRODUCT% 
-按 <IMG>INVENTORY<> 之后在空栏位上按 <IMG>PRODMENU<>}
+按 <IMG>INVENTORY<> 之后在空槽位上按 <IMG>PRODMENU<>}
 TECH_BUILD_PRODUCT_NORES1	{未使用}
 TECH_BUILD_PRODUCT_NORES2	{未使用}
-TECH_BUILD_FINAL	{按 <IMG>INVENTORY<> 并在空栏位上按 <IMG>TECHMENU<>}
+TECH_BUILD_FINAL	{按 <IMG>INVENTORY<> 并在空槽位上按 <IMG>TECHMENU<>}
 TECH_REPAIR_FINAL	{按 <IMG>INVENTORY<> 之后长按 <IMG>REPAIR<> 即可修复}
 TECH_BUILD_FINAL_NORES1	{收集 %AMOUNT%}
 TECH_BUILD_FINAL_NORES2	{收集 %AMOUNT1%
@@ -1937,7 +1937,7 @@ NOTIFY_HIT_HEAT	{极度高温伤害}
 NOTIFY_HIT_ENERGY	{维生系统关闭}
 DEATH_PLANT	{因致命植物毒素丧命}
 NOTIFY_PRODUCT_ONLY_RES	{在库存 <IMG>INVENTORY<> 中制作 %PRODUCT% 
-在空栏位上按 <IMG>PRODMENU<>}
+在空槽位上按 <IMG>PRODMENU<>}
 NOTIFY_PRODUCT_ONLY_NORES1	{收集 %AMOUNT% 可制作%PRODUCT%}
 NOTIFY_PRODUCT_ONLY_NORES2	{收集 %AMOUNT1% 和 %AMOUNT2%
 可制作%PRODUCT%}
@@ -4434,7 +4434,7 @@ ALL_PLA_DESC_10	{石碑爆发出光芒，穿过我的身体，每一束光芒都
 UI_EXP_ACT2_STEP10_RES	{终端的信息已送达。它随即短路，仿佛现实已容不下这一古怪器物。一个小装置，闪耀着飘渺的光芒，搁在了我的脚边。一个<SPECIAL>集会方型箱<>......}
 ALL_PLA_DESC_11	{当我伸手触摸漂亮的石头标记时，全身为之一震，脑海里浮现的全是关于吉克历史的致命真相......}
 ALL_PLA_DESC_12	{当我触碰石碑时，脑海中浮现的全是星球古老过往的画面。吉克一族的可怕开端被这块奇怪的石头所吸收，它们的传说似乎急切地想要传播出来......}
-ALL_PLA_DESC_13	{很久以前由古代吉克一族隐藏在岩石中的记忆输送至我的大脑中。我退缩，但不知怎的理解了其中的含义......}
+ALL_PLA_DESC_13	{很久以前由远古吉克一族隐藏在岩石中的记忆输送至我的大脑中。我退缩，但不知怎的理解了其中的含义......}
 ALL_PLA_DESC_14	{石头上出现闪烁的符号。尽管不懂得这种语言，但我能够以某种方式读懂这个奇怪星球以及曾经居住在这里的吉克人的历史。}
 ALL_PLA_DESC_15	{这块铭文碑的表面散发出光芒，伴随着远古住民的尖叫声震动不已。尽管语言非常陌生，我还是可以从吉克雷霆般的愤怒声中听明白意思。}
 ALL_PLA_DESC_16	{仿佛该岩石吸收了几千年前居住在这里的人们的智慧。它现在用我的母语与我对话。}
@@ -4444,7 +4444,7 @@ TRA_1_PLAQUE_DESC_1	{我听到远处传来曾经祭拜过这里的科尔瓦克�
 EXP_1_PLAQUE_LORE_1	{知识为理解万物概率铺平了道路。阿特拉斯所说的话语零零碎碎的。阿特拉斯界面是它的影子，石碑是它散落世界各地的子民。
 
 它们一道传达着无尽的智慧。它们必须为人所理解。}
-EXP_1_PLAQUE_LORE_2	{阿特拉斯界面寂静无声地在无穷无尽的虚空中漂流。它们是一个古代世界的未知碎片。但是它们在时空中留下的印记塑造了我们。
+EXP_1_PLAQUE_LORE_2	{阿特拉斯界面寂静无声地在无穷无尽的虚空中漂流。它们是一个远古世界的未知碎片。但是它们在时空中留下的印记塑造了我们。
 
 它们是方程式，而生命就是这个方程式的答案。它们通过石碑来解释自己的无穷含义，同时也解释了我们自己的含义。}
 EXP_1_PLAQUE_LORE_3	{科尔瓦克斯灵魂回响讲述说，很久以前，阿特拉斯石碑唤醒了外缘文明，并给予后者求知的欲望。
@@ -4774,8 +4774,8 @@ ALL_MON_PRE_DESC_3	{我轻轻抚过石碑的表面，用指尖感触那古老的
 ALL_MON_PRE_DESC_4	{石碑发出无声的尖叫。字词从遥远的过去呼啸而来，直嵌我的大脑。我的视线开始模糊。}
 ALL_MON_PRE_DESC_5	{我的手指停留在了石碑冰冷的石面上。突然之间，我的大脑被俘获了。一个古老的幻象冲击着我的大脑。}
 ALL_MON_PRE_DESC_6	{当我靠近时，石头发出低语，冷蓝色的字词在空中闪烁着，意义明确又古老。我被带入了一个奇异的新现实之中。}
-ALL_MON_PRE_DESC_7	{我在这片古代的遗迹上歇息着。它尖叫地回应着，使用古老的话语大声喊叫。这些话语开始扭曲我的视线......}
-ALL_MON_PRE_DESC_8	{当我看着古代遗迹时，仿佛有一种奇怪的感觉钳制着我。我的视线开始模糊眩晕。我在这里，但又不在这里。}
+ALL_MON_PRE_DESC_7	{我在这片远古的遗迹上歇息着。它尖叫地回应着，使用古老的话语大声喊叫。这些话语开始扭曲我的视线......}
+ALL_MON_PRE_DESC_8	{当我看着远古遗迹时，仿佛有一种奇怪的感觉钳制着我。我的视线开始模糊眩晕。我在这里，但又不在这里。}
 TRA_MON_DESC_1	{我看到一只粗糙的爪子抓住了我。尽管它的外表残破不堪，但力道却不小，我被紧紧地抓着，与此同时，一个金属喙从活动的岩石中冒了出来。}
 DNT_TRA_MON_LANG_1	{Underling! The Gek First Spawn demand help! Give metal! METAL! METAL!}
 TRA_MON_OPT_A_1	{给予金属}
@@ -4817,8 +4817,8 @@ TRA_MON_OPT_A_5	{选择该工人}
 TRA_MON_OPT_B_5	{选择该旁观者}
 TRA_MON_RES_A_5	{我令该地的幽灵很开心。我的装备充入了一股神秘能量。}
 TRA_MON_RES_B_5	{我激怒了该地的幽灵。我的装备被一股神秘能量给破坏了。}
-TRA_MON_DESC_6	{石碑前面的地面因成千上万名古代朝圣者的跪拜而坑坑洼洼。
-我面前的一个石块缓缓缩回，出现了一个入口。我惊讶地发现里面摆放着一罐罐的奢侈产品，它们均是在古代所生产的。这时，我听到了一声低语......}
+TRA_MON_DESC_6	{石碑前面的地面因成千上万名远古朝圣者的跪拜而坑坑洼洼。
+我面前的一个石块缓缓缩回，出现了一个入口。我惊讶地发现里面摆放着一罐罐的奢侈产品，它们均是在远古所生产的。这时，我听到了一声低语......}
 DNT_TRA_MON_LANG_6	{Goods for the First Spawn! Goods for the ancient terror of the galaxy!}
 TRA_MON_DESC_6A	{我感觉到贪婪的未知力量正在注视我的一举一动。}
 TRA_MON_OPT_A_6	{给予货物}
@@ -4835,7 +4835,7 @@ TRA_MON_OPT_A_7	{安抚小生物}
 TRA_MON_OPT_B_7	{吓唬小生物}
 TRA_MON_RES_A_7	{小生物感谢了我，之后消失在了苍穹之中。不过在此地久久不散的灵魂十分不悦。}
 TRA_MON_RES_B_7	{在此地久久不散的灵魂感到十分愉悦。颤栗的有喙生物消失后，礼物出现了......}
-TRA_MON_DESC_8	{我感到一阵难忍的干渴，而我的水化系统偏偏在这时出故障了。我嗓子眼冒烟，觉得头晕目眩。这时，出现了两个古代石杯。}
+TRA_MON_DESC_8	{我感到一阵难忍的干渴，而我的水化系统偏偏在这时出故障了。我嗓子眼冒烟，觉得头晕目眩。这时，出现了两个远古石杯。}
 DNT_TRA_MON_LANG_8	{Underling! Drink the healing spittle or drink the recharging spawning syrup of the First Spawn! Choose or die!}
 TRA_MON_DESC_8A	{第一个是鲜艳的红色大酒杯，里面装满了油亮有气泡的透明液体。另一个杯子上雕刻着红色圆盾的图案，杯体微微泛黄。
 如果我再不喝水，我的小命就要不保了。我不知该喝哪一杯为好。}
@@ -4852,14 +4852,14 @@ TRA_MON_OPT_C_9	{奋起反抗}
 TRA_MON_RES_A_9	{我闭上眼睛等待死亡。但分身并没有开枪。它留给了我一张多用途工具技术设计图。}
 TRA_MON_RES_B_9	{我闭上眼睛等待被开膛破肚。但分身并没有这么做。它留给了我一张套装技术设计图。}
 TRA_MON_RES_C_9	{分身用多用途工具轻松地挡开了我的攻击。它哈哈大笑，随后消失了。}
-TRA_MON_DESC_10	{古代巨大石碑的中央有一道隐约可见的裂痕，里面有尘埃喷出。石碑震动，两扇巨大的门打开了。古代建筑的内部空空如也，一直以来被用作墓室。}
+TRA_MON_DESC_10	{远古巨大石碑的中央有一道隐约可见的裂痕，里面有尘埃喷出。石碑震动，两扇巨大的门打开了。远古建筑的内部空空如也，一直以来被用作墓室。}
 DNT_TRA_MON_LANG_10	{Burn almighty First Spawn obedient ToilGek! Respect First Spawn belongings!}
-TRA_MON_DESC_10A	{一只眼睛鼓起的古代有喙生命体躺在未点燃的火葬柴堆上，身体已经脱水。它脚边放着以前留下的古代财宝和技术，供它来世使用......至于来世是什么时候，谁也不知道。}
+TRA_MON_DESC_10A	{一只眼睛鼓起的远古有喙生命体躺在未点燃的火葬柴堆上，身体已经脱水。它脚边放着以前留下的远古财宝和技术，供它来世使用......至于来世是什么时候，谁也不知道。}
 TRA_MON_OPT_A_10	{用开采光束点燃柴堆}
 TRA_MON_OPT_B_10	{取走古墓的财宝}
 TRA_MON_RES_A_10	{柴堆燃起之时尸体活了过来。它冲我点头，发出了愉悦的长嚎。<DELAY>0.4<>它把陪葬品留给了我。}
-TRA_MON_RES_B_10	{我取走了尸体的一部分陪葬品。<DELAY>0.4<>大门突然紧闭，古代诅咒纠缠着我。}
-TRA_MON_DESC_11	{石碑孤单地伫立着，似乎早已被遗忘。如果我仔细看，可以发现地上有古代部族留下的模糊痕迹，表明他们以前常来这里朝拜并与石碑沟通。一阵怪异之风袭来，伴随着细微的低语声，我竖起耳朵费劲地聆听。}
+TRA_MON_RES_B_10	{我取走了尸体的一部分陪葬品。<DELAY>0.4<>大门突然紧闭，远古诅咒纠缠着我。}
+TRA_MON_DESC_11	{石碑孤单地伫立着，似乎早已被遗忘。如果我仔细看，可以发现地上有远古部族留下的模糊痕迹，表明他们以前常来这里朝拜并与石碑沟通。一阵怪异之风袭来，伴随着细微的低语声，我竖起耳朵费劲地聆听。}
 DNT_TRA_MON_LANG_11	{Friend... worship us... kneel before the Gek First Spawn in silence...}
 TRA_MON_DESC_11A	{话音再次开始在我身边回响。这次音量更高，显然想拼命引起我的注意，于是我努力倾听。}
 TRA_MON_OPT_A_11	{跪下}
@@ -4868,7 +4868,7 @@ TRA_MON_OPT_C_11	{转身离开}
 TRA_MON_RES_A_11	{与这座纪念碑合为一体的灵魂祝福了旅途中的我。}
 TRA_MON_RES_B_11	{我没有得到回应，只是在和空气对话而已。}
 TRA_MON_RES_C_11	{与奇异石碑融为一体的灵魂仍然一言不发。}
-TRA_MON_DESC_12	{古代石块中出现一张喙。它在喊叫，但我听不见喊声。上方的石头上，有人用潦草的字迹在许久之前写下了建议，以为后来之人提供指示。}
+TRA_MON_DESC_12	{远古石块中出现一张喙。它在喊叫，但我听不见喊声。上方的石头上，有人用潦草的字迹在许久之前写下了建议，以为后来之人提供指示。}
 DNT_TRA_MON_LANG_12	{Feed First Spawn beak common catalyst! Metal brings painful noise! Furious noise!}
 TRA_MON_DESC_12A	{喙无声地向我尖叫，用很久之前在此地朝拜的种族所用的语言，愤怒地向我吟诵。我的扫描仪侦测到周围有催化剂，但无法确定是哪一种。}
 TRA_MON_OPT_A_12	{喂食常见催化剂}
@@ -4879,16 +4879,16 @@ TRA_MON_RES_B_12	{喙大声说出曾经朝拜者的词汇。}
 TRA_MON_RES_C_12	{喙尖叫着说出过往朝拜者所使用的词汇。声音震耳欲聋，我感到十分痛苦。}
 TRA_MON_DESC_13	{时间飞速倒转。我坐在俯瞰行刑现场的平台上。两名小个子有喙商人跪在我面前。一个短小结实，另一个肥胖无比，下巴赘肉都接触到地板了。另有一个戴着绿布面具的生命体手持利斧站在它们身后。}
 DNT_TRA_MON_LANG_13	{First Spawn friend receive belongings of the executed. Murder fat trader, or murder rich miner?}
-TRA_MON_DESC_13A	{两名商人求我手下留情。我耳边传来古代部族那熟悉、干涩而阴郁的话音，催促我快做出判决......}
+TRA_MON_DESC_13A	{两名商人求我手下留情。我耳边传来远古部族那熟悉、干涩而阴郁的话音，催促我快做出判决......}
 TRA_MON_OPT_A_13	{处决肥胖的生命体}
 TRA_MON_OPT_B_13	{处决瘦小的生命体}
 TRA_MON_OPT_C_13	{手下留情}
 TRA_MON_RES_A_13	{刽子手挥斧砍了三下才斩落肥胖生命体的头颅。<DELAY>0.4<>我得到了它拥有的商品。}
 TRA_MON_RES_B_13	{刽子手一斧处决了瘦小的生命体。<DELAY>0.4<>我得到了它所有的钱。}
 TRA_MON_RES_C_13	{至少在这条时间线里，这两个生命体得救了。它们对我感激涕零。<DELAY>0.4<>石碑里的灵魂十分不悦。}
-TRA_MON_DESC_14	{古代建筑开启并呈现出一具冰封的实体。它由不同身体部位缝合而成。它粗糙的喙似乎被缝合在动物的内脏上。
+TRA_MON_DESC_14	{远古建筑开启并呈现出一具冰封的实体。它由不同身体部位缝合而成。它粗糙的喙似乎被缝合在动物的内脏上。
 
-尸体的头上有用古代商人语言手写的印记。使用某种燃料，十有八九就能把冰融化......}
+尸体的头上有用远古商人语言手写的印记。使用某种燃料，十有八九就能把冰融化......}
 DNT_TRA_MON_LANG_14	{Beware! Murderous abomination! Do not awake! Terror! Despair! Do not awake! }
 TRA_MON_OPT_A_14	{融化冰块}
 TRA_MON_OPT_B_14	{离弃生命体}
@@ -4896,7 +4896,7 @@ TRA_MON_RES_A_14	{这只生物睁开眼睛，用手掐住我的脖子。我奋�
 TRA_MON_RES_B_14	{石碑的面板再次关上。怪物依然被困其中。我收到了住在此地的灵魂送来的感谢。}
 TRA_MON_DESC_15	{我是一名观察者。我目睹穿着现代套装的有喙商人把一样物件放在了石碑的基座上。那个物件是线缆和罐子组成的小型网套。它用一种奇异的金属为其充能，然后快速离开。
 
-这一切仿佛是场梦一般，我挪动脚步，靠近了这块古代石碑。突然梦境仿佛变成了现实，我鲜活地在这一未逝去太久的过往时刻中出现。}
+这一切仿佛是场梦一般，我挪动脚步，靠近了这块远古石碑。突然梦境仿佛变成了现实，我鲜活地在这一未逝去太久的过往时刻中出现。}
 DNT_TRA_MON_LANG_15	{Stop the destruction! Save the Monolith! Protect the First Spawn! Stop the destruction!}
 TRA_MON_OPT_A_15	{什么都不做}
 TRA_MON_OPT_B_15	{移除物件}
@@ -4913,10 +4913,10 @@ DNT_TRA_MON_LANG_16	{Retain foul First Spawn stench! Remove sweet eggs from the 
 TRA_MON_OPT_A_16	{移除有害的蛋}
 TRA_MON_OPT_B_16	{移除有香味的蛋}
 TRA_MON_OPT_C_16	{吃掉蛋}
-TRA_MON_RES_A_16	{我的行为激怒了居住在此地的古代吉克灵魂。一股力量突然从背后用力卡住了我。
+TRA_MON_RES_A_16	{我的行为激怒了居住在此地的远古吉克灵魂。一股力量突然从背后用力卡住了我。
 
 我回到了现实。}
-TRA_MON_RES_B_16	{古代复仇之魂向我微笑。蛋在我的手中溶解，只留下闪闪发亮的纳米星团。
+TRA_MON_RES_B_16	{远古复仇之魂向我微笑。蛋在我的手中溶解，只留下闪闪发亮的纳米星团。
 
 我回到了现实。}
 TRA_MON_RES_C_16	{我食用了其中一个蛋。我立即感觉到有东西在我体内移动。它越来越大，越来越大。我破裂了。
@@ -4934,7 +4934,7 @@ TRA_MON_RES_B_17	{眼球在我回敬的目光下消失了。我回到了现实�
 TRA_MON_RES_C_17	{眼球掉落在星球表面上，化成一滩水池，泛出阴森森的光芒。慢慢地，它被地面吸收了。
 
 我回到了现实。水池所在地方，现在出现了一份留给我的礼物......}
-TRA_MON_DESC_18	{随着我一步步靠近石碑，我听到了低沉的隆隆声，然后它逐渐变成了古代的尖叫声。我从没听过这种杂音。
+TRA_MON_DESC_18	{随着我一步步靠近石碑，我听到了低沉的隆隆声，然后它逐渐变成了远古的尖叫声。我从没听过这种杂音。
 这片外星土地上的静默无声已经变成了充满痛苦和死亡意味的刺耳杂音，带给人以无限噩梦。<DELAY>0.4<>我试着集中注意力，仔细聆听着尖叫声中的话语。}
 DNT_TRA_MON_LANG_18	{ToilGek dare approach First Spawn holy site? Leave! Leave! Depart or die! Leave!}
 TRA_MON_OPT_A_18	{触碰石碑}
@@ -4956,7 +4956,7 @@ TRA_MON_RES_B_19	{生物把金属棒捅进我的嘴。我尝到了。那燃烧�
 TRA_MON_RES_C_19	{生物消失，我回到了现实。金属棒没有消失。<DELAY>0.4<>当我去碰它时，它碎裂成了一簇纳米。}
 TRA_MON_DESC_20	{绿色的小手从石碑里伸出，它的指甲又黄又脏。手掌摊开，里面什么也没有，等待着我的回应。
 
-这似乎是某种古代传统。它没有恶意，只是冷冷地期待着我的回应。}
+这似乎是某种远古传统。它没有恶意，只是冷冷地期待着我的回应。}
 DNT_TRA_MON_LANG_20	{First Spawn demand tax. Pay units immediately.}
 TRA_MON_OPT_A_20	{给予元素}
 TRA_MON_OPT_B_20	{给予货币}
@@ -4986,7 +4986,7 @@ EXP_MON_RES_B_2	{漂浮物锋利的边缘在我的套装上划出了好多洞。
 我醒了，回到了现实。}
 EXP_MON_DESC_3	{我开始感觉晕眩。一种奇怪的嗜睡感向我袭来，我感觉自己被迫躺在了古迹前面。这片土地令人平静，就像家，仿佛从前来过一样。}
 DNT_EXP_MON_LANG_3	{Sleep, child. Korvax Echoes bless you. Sleep. Sleep.}
-EXP_MON_DESC_3A	{我知道，如果真想要抑制住睡觉的冲动，我是可以的，但是沐浴在古代符文的光亮下，我感到温暖而舒适。}
+EXP_MON_DESC_3A	{我知道，如果真想要抑制住睡觉的冲动，我是可以的，但是沐浴在远古符文的光亮下，我感到温暖而舒适。}
 EXP_MON_OPT_A_3	{入睡}
 EXP_MON_OPT_B_3	{抵抗}
 EXP_MON_RES_A_3	{我沉沉地入睡。
@@ -5006,15 +5006,15 @@ EXP_MON_RES_B_4	{我们给予了对方纳米星团。然后，另一个我慢慢
 EXP_MON_RES_C_4	{我扣动扳机时，看到分身的脸上出现了我自己恐惧的表情。
 
 我朝着自己的胸膛开了一枪。}
-EXP_MON_DESC_5	{多年来，朝圣者在石碑上发光的字符间雕刻数字。当我低下头，我注意到一枚古代钱币。我用靴子刮了刮地面，又发现一些。
+EXP_MON_DESC_5	{多年来，朝圣者在石碑上发光的字符间雕刻数字。当我低下头，我注意到一枚远古钱币。我用靴子刮了刮地面，又发现一些。
 
 这个地方格外安静。可能这里永远也得不到回答，也可能是它在等待着什么。}
 DNT_EXP_MON_LANG_5	{Reject greed. Embrace Atlas. Reject greed. Embrace Atlas.}
 EXP_MON_OPT_A_5	{提供货币}
 EXP_MON_OPT_B_5	{拿取钱币}
-EXP_MON_RES_A_5	{栖息此处的灵魂回响苏醒了。在极短的一瞬间，我感受到自己成为其古代集会的一部分。它们祝福了我。}
+EXP_MON_RES_A_5	{栖息此处的灵魂回响苏醒了。在极短的一瞬间，我感受到自己成为其远古集会的一部分。它们祝福了我。}
 EXP_MON_RES_B_5	{栖息此处的灵魂回响苏醒了。我感觉到它们在我的脑中回旋。它们对我感到......失望。}
-EXP_MON_DESC_6	{当我研究古代符文时，它们开始发出一种飘渺的光。我看到一缕缕怪异的蓝色能量从石碑中飞散而出，围绕着我的多用途工具打转。}
+EXP_MON_DESC_6	{当我研究远古符文时，它们开始发出一种飘渺的光。我看到一缕缕怪异的蓝色能量从石碑中飞散而出，围绕着我的多用途工具打转。}
 DNT_EXP_MON_LANG_6	{Korvax Echoes bless technology. Allow entrance.}
 EXP_MON_DESC_6A	{如果我扣动扳机，排气管就会自动打开，这些怪异的能量物质就会进入我的装备。}
 EXP_MON_OPT_A_6	{扣动扳机}
@@ -5064,7 +5064,7 @@ EXP_MON_RES_A_11	{红色球体灼烧着我的皮肤，我痛苦地被拉回到�
 EXP_MON_RES_B_11	{红色球体开始震动，向上悬浮在空中，并猛地插进我的胸膛。我得到了祝福和治愈，并回到了现实。}
 EXP_MON_DESC_12	{一个液态金属套索出现并套住了我的头盔，它凝结在原处，之后拽着我的头贴在发光的石碑上。
 
-古代石碑温热，我还能听到它深处神秘技术能量涌动的嗡鸣声，仿佛它要将自己从中释放。我再次抬头看符文，设法猜测为何会发生这种事。它用外星语言对我说话。}
+远古石碑温热，我还能听到它深处神秘技术能量涌动的嗡鸣声，仿佛它要将自己从中释放。我再次抬头看符文，设法猜测为何会发生这种事。它用外星语言对我说话。}
 DNT_EXP_MON_LANG_12	{Korvax Echoes bless with language. Do not resist. You are safe, child.}
 EXP_MON_OPT_A_12	{挣脱}
 EXP_MON_OPT_B_12	{等待}
@@ -5133,7 +5133,7 @@ EXP_MON_RES_A_18	{群星似乎脱离了队形。当天空开始哭泣时，传�
 
 我孤身一人，没有得到奖励。}
 EXP_MON_RES_B_18	{我得到了祝福和一份礼物，助我前往这个遥远而未知的目的地。}
-EXP_MON_DESC_19	{我感到头晕，甚至浑身不适。我看看周围，这个古代建筑物四周丛生的植被看起来枯萎而病态。而这颗星球上的动物似乎都远远地躲着这里。
+EXP_MON_DESC_19	{我感到头晕，甚至浑身不适。我看看周围，这个远古建筑物四周丛生的植被看起来枯萎而病态。而这颗星球上的动物似乎都远远地躲着这里。
 我定睛凝神细看，这时石头上出现了一行蚀刻而成的警告，用的似乎是一种古老语言......}
 DNT_EXP_MON_LANG_19	{Beware! Monolith create dangerous toxins! Poison! Move back!}
 EXP_MON_DESC_19A	{我套装上的环境警告传感器读数很不稳定，套装正在对抗一股强大的力量......}
@@ -5176,9 +5176,9 @@ WAR_MON_OPT_A_4	{牺牲该生物}
 WAR_MON_OPT_B_4	{让该生物活着}
 WAR_MON_RES_A_4	{我将这只丛林动物轰成两半。石碑召唤出一阵强风，呼啸着表达它的谢意。幻象消失后，我得到了一份礼物。}
 WAR_MON_RES_B_4	{这个生物在我脚边狂喜地跳来跳去。随后它逃出了我的视线。<DELAY>0.4<>幻象突然结束，我感受自己受到了奚落。}
-WAR_MON_DESC_5	{两只古代石制杯子在石碑前面显现。其中一杯装着暗红色的粘稠液体，另一杯装着亮黄色的粘稠液体，闻起来非常苦。}
+WAR_MON_DESC_5	{两只远古石制杯子在石碑前面显现。其中一杯装着暗红色的粘稠液体，另一杯装着亮黄色的粘稠液体，闻起来非常苦。}
 DNT_WAR_MON_LANG_5	{Choose healing blood or renergising bile of the Vy'keen Ancients. Drink destiny.}
-WAR_MON_DESC_5A	{杯子后面的石板上刻画着古代符文，它开始旋转，然后化为了一幅图像。一个威武强壮的战士被红色光圈环绕着，它在与穿着亮黄色铠甲的对手进行决斗。}
+WAR_MON_DESC_5A	{杯子后面的石板上刻画着远古符文，它开始旋转，然后化为了一幅图像。一个威武强壮的战士被红色光圈环绕着，它在与穿着亮黄色铠甲的对手进行决斗。}
 WAR_MON_OPT_A_5	{喝下粘稠红色液体}
 WAR_MON_OPT_B_5	{喝下苦味黄色液体}
 WAR_MON_RES_A_5	{我吞下红色液体，它似乎在我喉咙里凝结成块，我被噎到了。一阵剧烈的咳嗽后，液体从我嘴里喷射出来。在飘洒的过程中，它结晶成纳米星团。
@@ -5186,7 +5186,7 @@ WAR_MON_RES_A_5	{我吞下红色液体，它似乎在我喉咙里凝结成块，
 WAR_MON_RES_B_5	{液体在我的喉咙中缓缓流下，那味道让人难以忍受。我一边喝着它，它却一边开始膨胀，并不断增多。我喘着气，那液体便从我的嘴巴里恣意流出，整个过程根本停不下来，我也根本没法让它停下来。
 我感觉自己已经无法控制住自己的身体，我受不了了。<DELAY>0.4<>然后，这股激流就毫无预兆地戛然而止了。
 幻象消失了，我脚下的那滩液体结晶成了纳米星团。}
-WAR_MON_DESC_6	{石碑像纸张一样裂开，出现了一扇通往异世界的窗户，上面缠绕着一张巨大的蜘蛛网。只见一名古代战士被缠在茧内，离我只有一臂之遥。
+WAR_MON_DESC_6	{石碑像纸张一样裂开，出现了一扇通往异世界的窗户，上面缠绕着一张巨大的蜘蛛网。只见一名远古战士被缠在茧内，离我只有一臂之遥。
 它已经在那里好几百年了。它无神空洞的双眼凝望着我身后的景观。突然，我听到了一声叫喊。}
 DNT_WAR_MON_LANG_6	{Pathetic dead coward lies here! Interloper! Take your remuneration...}
 WAR_MON_DESC_6A	{它携带着一把生锈的多用途工具，而胸口鼓起的生长物表明它可能携带着更有价值的财宝。突然，类似皮革的生长物开始动了起来......}
@@ -5195,7 +5195,7 @@ WAR_MON_OPT_B_6	{搜身}
 WAR_MON_RES_A_6	{多用途工具本身已无法使用，但我还是从中回收了一个可用的模块。我又听到了那声音，这次它带着欢快的笑声。幻象消失了。}
 WAR_MON_RES_B_6	{轻轻一碰，成百上千只类似蜘蛛的生物就从战士的尸体中鱼贯而出。它们成群结队地吞噬着身体，然后转向了我......我绊倒了......
 我跌倒在地上，但那昆虫大军并没有爬到我身上。幻象消失了，风中传来一阵嘲笑声。}
-WAR_MON_DESC_7	{石碑上开启一道传送门，巨大的有翼动物的尸体倒在我的脚下。它似乎是某种仪式的祭品，喉咙被割开，翅膀上还纹着古代战士部落的脸。但它的眼睛......特别奇怪。
+WAR_MON_DESC_7	{石碑上开启一道传送门，巨大的有翼动物的尸体倒在我的脚下。它似乎是某种仪式的祭品，喉咙被割开，翅膀上还纹着远古战士部落的脸。但它的眼睛......特别奇怪。
 
 它原本的眼睛已被挖去，现在眼眶里的是闪亮的红色球体。我盯着看越久，红色球体的光就越强。其中显然藏有对我旅途有帮助的先进技术。我下得了手亵渎这个祭品吗？}
 DNT_WAR_MON_LANG_7	{Respect the Vy'keen Ancients sacrifice. The beast has holy sight. Respect holy sacrifice.}
@@ -5205,17 +5205,17 @@ WAR_MON_RES_A_7	{我从鸟的眼眶中取出晶体。它们发出可怕的深红
 石碑对我的僭越行为发起了愤怒的吼叫。幻象消失了。}
 WAR_MON_RES_B_7	{居住在此处的远古灵魂对我的尊敬之举表示欣慰。尸体得到了治愈，随后逃之夭夭。它靠近了地平线，湮没在深红火光之中。
 幻象结束时，我发现自己得到了祝福，收到了大量的纳米星团。}
-WAR_MON_DESC_8	{石碑中突然出现了古代猎犬的血盆大口。它张开大嘴，恶臭的唾沫溅到了我的面甲上。但我看到了它巨大舌头上放着的宝贵货物，恶心感稍稍舒缓。}
+WAR_MON_DESC_8	{石碑中突然出现了远古猎犬的血盆大口。它张开大嘴，恶臭的唾沫溅到了我的面甲上。但我看到了它巨大舌头上放着的宝贵货物，恶心感稍稍舒缓。}
 DNT_WAR_MON_LANG_8	{Feed the beast. Honour the ancients. Companion beast of legend is very good beast. Feed it!}
 WAR_MON_DESC_8A	{猎犬突然把货物移到了嘴的一边，它的唾沫淋湿了我的双臂。它舌头上还能放货物。我是不是要放弃一点自己的货物呢......}
 WAR_MON_OPT_A_8	{把货物放在舌头上}
 WAR_MON_OPT_B_8	{拿走舌头上的货物}
-WAR_MON_RES_A_8	{猎犬吞下了我放上去的货物，并热情地舔了舔我。幻象消失了，我发现自己得到了古代力量的祝福。}
+WAR_MON_RES_A_8	{猎犬吞下了我放上去的货物，并热情地舔了舔我。幻象消失了，我发现自己得到了远古力量的祝福。}
 WAR_MON_RES_B_8	{我取回货物，但巨兽猛地合上嘴，一颗黄色的犬齿刺穿了我的手臂。幻象消失了，但疼痛还在。}
-WAR_MON_DESC_9	{石碑底部慢慢出现了一名古代战士的腿和脚，接着它的躯干也被不体面地推上了裸岩。它已身首异处。
+WAR_MON_DESC_9	{石碑底部慢慢出现了一名远古战士的腿和脚，接着它的躯干也被不体面地推上了裸岩。它已身首异处。
 血液在我脚下滴落。我头顶上有一颗被斩下的头颅盯着我惊愕的表情哈哈大笑。它向我喊出刺耳的催促命令。}
 DNT_WAR_MON_LANG_9	{Brave interloper! Resist fear! Do not be a coward!}
-WAR_MON_DESC_9A	{我听到身后有古代利刃出鞘的声音，有人正向我冲过来......}
+WAR_MON_DESC_9A	{我听到身后有远古利刃出鞘的声音，有人正向我冲过来......}
 WAR_MON_OPT_A_9	{站立}
 WAR_MON_OPT_B_9	{闪避}
 WAR_MON_RES_A_9	{我沉着镇定地站着不动。无形的利刃穿过了我的脖子，我通过了考验。
@@ -5239,26 +5239,26 @@ WAR_MON_RES_C_10	{我感到一阵热血沸腾，头晕目眩。我进入了无�
 
 石碑开始重建，并安抚地给予我奖励。幻象结束了。}
 WAR_MON_DESC_11	{我把手掌放在石碑上。作为回应，石碑开始熔化，我后退几步。熔岩从石头上滴下，暴露出空荡的内部。
-我看到里面放着古代技术和货物，这些难以置信的财宝能让我的旅途事半功倍。突然古代部族的话音响起，我脚下的地面都随之震颤......}
+我看到里面放着远古技术和货物，这些难以置信的财宝能让我的旅途事半功倍。突然远古部族的话音响起，我脚下的地面都随之震颤......}
 DNT_WAR_MON_LANG_11	{The Vy'keen Ancients burn thieves and pirates.}
 WAR_MON_DESC_11A	{熔岩仍在滴落，石碑似乎很不稳定，但可派上用场的装备就近在咫尺......}
 WAR_MON_OPT_A_11	{伸手拿取装备}
 WAR_MON_OPT_B_11	{退后}
 WAR_MON_RES_A_11	{岩浆涌动，熔化的岩石升至我套装的位置。时间变慢了。我感觉自己在燃烧。没有出口，我完了。
 我闭上眼睛。当我睁眼时，石碑已经重建好了，熔化的岩石再次凝固了。我感觉到一股火热而愤怒的风。}
-WAR_MON_RES_B_11	{由于我表现出了敬畏心，曾在这里朝拜的古代战士祝福了我。熔岩自行变形，冷却后在我面前形成一个复杂的基座。基座上堆满了礼物。
+WAR_MON_RES_B_11	{由于我表现出了敬畏心，曾在这里朝拜的远古战士祝福了我。熔岩自行变形，冷却后在我面前形成一个复杂的基座。基座上堆满了礼物。
 幻象消失了，但礼物还在。}
-WAR_MON_DESC_12	{古代建筑上有三大列用不同语言写成的文字。
+WAR_MON_DESC_12	{远古建筑上有三大列用不同语言写成的文字。
 第一列文字看起来像是写在沙地上的蛮族符文。第二列由一连串有规律的小点构成。最后一列的字母很宽很友好，似乎是谁用坚硬的石块刻上去的。}
 DNT_WAR_MON_LANG_12	{Grah! Learn language of the conquerors! Learn language of the conquered!}
 WAR_MON_DESC_12A	{每一列上都覆盖着古老手印的污垢和血迹。}
 WAR_MON_OPT_A_12	{在符文上按手印}
 WAR_MON_OPT_B_12	{在点阵上按手印}
 WAR_MON_OPT_C_12	{在字母上按手印}
-WAR_MON_RES_A_12	{住在此地的古代灵魂将它们战士后代的语言注入我思维中。}
-WAR_MON_RES_B_12	{住在此地的古代灵魂将遥远的电子生命体种族的语言注入我思维中。}
-WAR_MON_RES_C_12	{住在此地的古代灵魂将遥远的有喙商人种族的语言注入我思维中。}
-WAR_MON_DESC_13	{我成为了陌生新现实的一部分。古老的岩石敞开了。一颗古代战士的干枯心脏悬挂在里面的木柱之间，缓慢地跳动着。
+WAR_MON_RES_A_12	{住在此地的远古灵魂将它们战士后代的语言注入我思维中。}
+WAR_MON_RES_B_12	{住在此地的远古灵魂将遥远的电子生命体种族的语言注入我思维中。}
+WAR_MON_RES_C_12	{住在此地的远古灵魂将遥远的有喙商人种族的语言注入我思维中。}
+WAR_MON_DESC_13	{我成为了陌生新现实的一部分。古老的岩石敞开了。一颗远古战士的干枯心脏悬挂在里面的木柱之间，缓慢地跳动着。
 
 它下方布满灰尘的地板上是一副皱巴巴的肺，似乎永远都无法摆脱在污浊空气中喘息的厄运。一个脱水的眼球直直地盯着我，一眨不眨。}
 DNT_WAR_MON_LANG_13	{Rebuild the ancient warrior body. Restore monolith power. Make body whole again.}
@@ -5267,7 +5267,7 @@ WAR_MON_OPT_B_13	{把肺连起来}
 WAR_MON_OPT_C_13	{恭敬地离开}
 WAR_MON_RES_A_13	{我举起了多用途工具，进行了发射。它从心脏吸取了一种物质，就好像它是一棵普通的树或石头。我的耳朵里充斥着刺耳的尖叫。
 石碑的力量褪去，幻象也结束了。}
-WAR_MON_RES_B_13	{我把肺部放在古代心脏的旁边，它们开始以和谐的节奏脉动着。空气变得清新，灰尘也被吹走了。石碑的力量恢复了。
+WAR_MON_RES_B_13	{我把肺部放在远古心脏的旁边，它们开始以和谐的节奏脉动着。空气变得清新，灰尘也被吹走了。石碑的力量恢复了。
 当幻象消失后，石碑便赐予我礼物。}
 WAR_MON_RES_C_13	{我背过身去，石碑关闭了。随着幻象的消失，我听到里面传来心碎的哀号和失望的尖叫。}
 WAR_MON_DESC_14	{我身处一座巨大的竞技场内，头顶上是血色天空。这里吵得令我难以忍受。战士因为即将开始的战斗而放声呐喊。}
@@ -5290,9 +5290,9 @@ WAR_MON_RES_B_15	{催化剂和熔融物质发生反应。它蒸发了，整个�
 幻象突然结束。石碑的力量消失了。}
 WAR_MON_RES_C_15	{我把手伸进了熔融的金属中，疼痛感剧烈之极。我闭上了眼睛......
 幻象突然结束了，石碑的力量消失了。在我拿着液态金属的地方，我发现了一种奇怪的新物质......}
-WAR_MON_DESC_16	{岩石表面出现了一只有鳃小生物的尸体。它是古代的祭品，圆睁的眼睛被金属矛刺穿。
+WAR_MON_DESC_16	{岩石表面出现了一只有鳃小生物的尸体。它是远古的祭品，圆睁的眼睛被金属矛刺穿。
 
-液体从尸体上滴落到古代人在石碑上凿出的渠中。渠连通着两幅雕刻图案：太阳和月亮。液体可以导向到其中一幅。}
+液体从尸体上滴落到远古人在石碑上凿出的渠中。渠连通着两幅雕刻图案：太阳和月亮。液体可以导向到其中一幅。}
 DNT_WAR_MON_LANG_16	{Light brings power. Darkness brings resilience. Light brings power. Darkness brings resilience.}
 WAR_MON_OPT_A_16	{将体液导向太阳}
 WAR_MON_OPT_B_16	{将体液导向月亮}
@@ -5316,7 +5316,7 @@ WAR_MON_RES_A_17	{石碑迅速通过我伸出的手臂吸走了我的生命力�
 WAR_MON_RES_B_17	{我一动不动地站在石碑前，看着它慢慢吸走我的生命力。我努力坚持着，但这已经超出我能承受的限度了。<DELAY>0.4<>我感到累极了。幻象开始消失......
 我醒来时，感觉仿佛刚从最完美的睡眠中醒来。我躺在一个浅浅的纳米池里，但我感觉好极了。一下子精神百倍了起来。}
 WAR_MON_RES_C_17	{我离开了石碑吸取生命力的范围。高耸的石碑似乎难以接受也很不满意。}
-WAR_MON_DESC_18	{天上射下一束光，透过古代符文，将其聚焦在了雕刻着古代图案的石头表面。
+WAR_MON_DESC_18	{天上射下一束光，透过远古符文，将其聚焦在了雕刻着远古图案的石头表面。
 
 光束慢慢的沿着石头上雕刻的图案移动。图案上刻的是战士的大战、外星人的城市还有看似是被盗的财宝。朝圣者的手印将各自覆盖......}
 DNT_WAR_MON_LANG_18	{Hirk took the treasure of Nal after battle. Treasure now hides in the city of Hirk.}
@@ -5336,7 +5336,7 @@ WAR_MON_OPT_A_19	{准备好吸收辐射}
 WAR_MON_OPT_B_19	{准备好吸收毒素}
 WAR_MON_RES_A_19	{辐射波被吸收殆尽，这里又安全了。
 
-古代灵魂表达了感激之情。}
+远古灵魂表达了感激之情。}
 WAR_MON_RES_B_19	{我的套装毫无准备，我被辐射波淹没了。
 
 疼痛从我身上袭来，神圣之所遭到破坏。}
@@ -5352,8 +5352,8 @@ WAR_MON_RES_A_20	{我伸手去握那只手，但它把我推了回去。
 WAR_MON_RES_B_20	{光消失了。现实逆转。
 
 在了解死亡的感觉之后，我变得更加强大了。先人祝福了我。}
-ALL_MONOLITH_REWARD_1	{栖息在此的古代灵魂奖励了我。}
-ALL_MONOLITH_REWARD_2	{我的旅行受到了一股古代力量的祝福。}
+ALL_MONOLITH_REWARD_1	{栖息在此的远古灵魂奖励了我。}
+ALL_MONOLITH_REWARD_2	{我的旅行受到了一股远古力量的祝福。}
 ALL_1_PORT_RIGHT_1	{传送门开启......}
 ALL_1_PORT_WRONG_1	{传送门仍旧关闭}
 EXP_1_PORT_DESC_1	{科尔瓦克斯灵魂回响的古老力量显现在你面前的传送门上。你听见它们在呼唤着你。它们说着听起来十分熟悉的语言。}
@@ -5395,7 +5395,7 @@ ALL_PORTAL_DESC_3	{传送门彼方的世界渗入我的思维。
 ALL_PORTAL_DESC_4	{高耸的建筑是一道传送门，通往太空中的某个星球。
 
 我听到了未知世界的低语。}
-ALL_PORTAL_DESC_5	{古代石质建筑里传来遥远星球的回声。
+ALL_PORTAL_DESC_5	{远古石质建筑里传来遥远星球的回声。
 
 神秘的未知世界就在其中。}
 ALL_PORTAL_DESC_6	{巨大的传送门呼唤着我，在我的脑海中低语着远方世界的秘密。}
@@ -6249,7 +6249,7 @@ TRA_CRA_OPT_B_6	{检查祭坛}
 TRA_CRA_RES_A_6	{神职商人携带着宝贵的技术。
 
 我得到了一张套装技术设计图。}
-TRA_CRA_RES_B_6	{我在祭坛里中毒了，但其中蕴藏着古代知识。}
+TRA_CRA_RES_B_6	{我在祭坛里中毒了，但其中蕴藏着远古知识。}
 TRA_CRA_DESC_7	{我发现一具穿着外观先进套装的骷髅，它似乎在死亡过程中挣扎着想穿上套装。
 
 飞船屏幕上显示迫降日期就在前不久。这个生命体的尸体为何腐烂得如此迅速？我听到身后传来可怕的嗡嗡声，且正在向我逼近。如果我现在逃跑，还能带走货舱里一部分战利品......}
@@ -7315,7 +7315,7 @@ TRA_GIVES	{给}
 TRA_WORKER	{工人}
 TRA_WORKSHY	{工作消极}
 TRA_GEKNIP	{吉克小吸}
-TRA_ANCIENT	{古代}
+TRA_ANCIENT	{远古}
 TRA_GALAXY	{星系}
 TRA_SPAWNING	{腐化}
 TRA_SYRUP	{糖浆}
@@ -7671,7 +7671,7 @@ WAR_PIRATES	{海盗}
 WAR_CONQUERORS	{征服者}
 WAR_CONQUERED	{被征服者}
 WAR_REBUILD	{重建}
-WAR_ANCIENT	{古代}
+WAR_ANCIENT	{远古}
 WAR_RESTORE	{恢复}
 WAR_MONOLITH	{石碑}
 WAR_HOWL	{嚎叫}
@@ -8183,7 +8183,7 @@ ALL_SIGNAL_SCANNER_RES_B	{搜寻传输信号}
 ALL_SIGNAL_SCANNER_OPT_C	{殖民地前哨基站}
 ALL_SIGNAL_SCANNER_RES_C	{搜寻殖民地前哨基站}
 ALL_SIGNAL_SCANNER_OPT_D	{石碑}
-ALL_SIGNAL_SCANNER_RES_D	{搜寻古代外星遗物}
+ALL_SIGNAL_SCANNER_RES_D	{搜寻远古外星遗物}
 ALL_DROPPOD_OPT_A_1	{扫描外星技术}
 ALL_DROPPOD_RES_A_1	{外星装备闪烁着上线了，并发送了自动传输。
 
@@ -8295,9 +8295,9 @@ BUY_ACCEPT_PRICE_SUIT	{升级套装（%COST% 货币）}
 BUY_ACCEPT_PRICE_SUIT_PROD	{升级套装}
 BUY_ACCEPT_PRICE_SUIT_PROD_SUB	{部署套装升级数据}
 NO_DATA_SUIT_PROD_SUB	{套装升级数据不足}
-BUY_SUIT_COMPLETE	{购买库存栏位}
-BUY_SUIT_MAX	{套装已达最大栏位数}
-BUY_SUIT_MAX_SUB	{无可用栏位}
+BUY_SUIT_COMPLETE	{购买库存槽位}
+BUY_SUIT_MAX	{套装已达最大槽位数}
+BUY_SUIT_MAX_SUB	{无可用槽位}
 BUY_COMPARE_PRICE	{对比（%COST% 货币）}
 TECH1_NAME	{海瑞蒂姆}
 TECH1_SYMBOL	{Hr}
@@ -9367,7 +9367,7 @@ CURIO4_NAME_L	{阿特拉斯之石}
 CURIO4_SUBTITLE	{价值连城的古董}
 CURIO4_DESCRIPTION	{中心似乎发着红光的球形宝石。
 
-这种稀世珍宝通常和古代石碑遗址有关联。}
+这种稀世珍宝通常和远古石碑遗址有关联。}
 ACCESS1_NAME	{阿特拉斯通行卡 V1}
 ACCESS1_NAME_L	{阿特拉斯通行卡 V1}
 ACCESS1_SUBTITLE	{通行卡}
@@ -9486,7 +9486,7 @@ NEWPROD14_NAME_L	{蛋白珍珠}
 NEWPROD10_DESC	{有时候可以在某些行星系的湖泊和海洋里找到价值连城的珍品。
 
 这些珍品从何而来尚不可知。}
-NEWPROD11_DESC	{从行星洞穴系统深处出土的古代物件。表面入手冰凉，尽管年代久远，但却光滑得出奇。
+NEWPROD11_DESC	{从行星洞穴系统深处出土的远古物件。表面入手冰凉，尽管年代久远，但却光滑得出奇。
 
 这些立方体是金属和岩石的融合体，难以进行工业加工。因此，它们只对收藏家有价值。
 
@@ -9841,8 +9841,7 @@ DNT_EXP_REQUEST_LANG_6	{Ahem. Korvax Entity help?}
 EXP_REQUEST_TEXT_6	{不管现在是谁在这个金属壳体里，它似乎都很愿意进行交流。}
 EXP_REQUEST_DESC_7	{电子生命体内部似乎有无数进程在运行。当它将其中之一指向我时，灯光迅速地闪烁起来。}
 DNT_EXP_REQUEST_LANG_7	{Korvax Convergence speaks through entity: welcome traveller.}
-EXP_REQUEST_TEXT_7	{我感觉自己是在和很多个体对话，而非一个。
-我慢慢地提出我的请求。}
+EXP_REQUEST_TEXT_7	{我感觉自己是在和很多个体对话，而非一个。我慢慢地提出我的请求。}
 EXP_REQUEST_DESC_8	{电子生命体外壳上的灯发出明亮的光。它向我探身时，明亮的闪光刺痛了我的双眼。
  
 我视觉慢慢恢复后，生命体明确表示它愿意和我交谈。}
@@ -10607,7 +10606,7 @@ JM_03_L	{罗塞塔}
 JM_04_L	{卡西尼}
 JM_05_L	{开普勒}
 JM_06_L	{黎明}
-JM_07_L	{稀有物}
+JM_07_L	{好奇}
 JM_08_L	{哈勃}
 JM_09_L	{维京}
 JM_10_L	{麦哲伦}
@@ -10972,7 +10971,7 @@ BUILDING_FACTORY3	{大规模机械化}
 BUILDING_FACTORY4	{工厂集群}
 BUILDING_FACTORY5	{侧重建造}
 BUILDING_L	{栖息地}
-REDEEM_TRAD_CHAR_FAIL	{你必须拥有两个可用的库存栏位才能兑换此物品}
+REDEEM_TRAD_CHAR_FAIL	{你必须拥有两个可用的库存槽位才能兑换此物品}
 PC_AUDIO_AUDIO	{声频}
 PC_AUDIO_MASTER	{主音量}
 PC_CONTROLS_ACTION	{动作}
@@ -11266,7 +11265,7 @@ NPC_HIRE_FARMER_RES_A_2	{一个明智的决定。这个你先拿着，等有时�
 NPC_HIRE_FARMER_OPT_B_2	{我还没法制作那个}
 NPC_HIRE_FARMER_RES_B_2	{好吧，但别等太久，不然你的军械士就该绘制陵墓的设计图了。}
 NPC_HIRE_FARMER_DESC_3	{我的农民有了个点子，可以让我们发家致富。它建议我们种植<SPECIAL>蛋白珍珠球<>，并且已经在计划用赚到的钱制造新装备了。再普通不过的耕作，有时却可能产出绝佳的奖励，这可真有意思。}
-NPC_HIRE_FARMER_LANG_3	{我扫描到了一片古代居民遗迹，那里曾种植过<SPECIAL>蛋白珍珠球<>。你去那片遗迹看看吧，或许能找到一些残留的种子碎片。}
+NPC_HIRE_FARMER_LANG_3	{我扫描到了一片远古居民遗迹，那里曾种植过<SPECIAL>蛋白珍珠球<>。你去那片遗迹看看吧，或许能找到一些残留的种子碎片。}
 NPC_HIRE_FARMER_OPT_A_3	{你能在我的地图上标记那片遗迹吗？}
 NPC_HIRE_FARMER_RES_A_3	{好的。我标记出了蛋白珍珠的种植区。祝你搜索顺利。}
 NPC_HIRE_FARMER_DESC_4	{我并不想质疑我助手的专业性，只是农民最近的请求让我难以置信。
@@ -12518,7 +12517,7 @@ UI_SUMMON_SUBMARINE	{召唤大鹦鹉螺潜水艇}
 VEHICLE_BUILDING_DEPOT	{仓库}
 VEHICLE_BUILDING_ABANDONED	{废弃结构}
 VEHICLE_BUILDING_NPC	{外星结构}
-VEHICLE_BUILDING_RELIC	{古代遗迹}
+VEHICLE_BUILDING_RELIC	{远古遗迹}
 VEHICLE_BUILDING_RESOURCE	{资源}
 VEHICLE_BUILDING_DISTRESS	{求救信号}
 VEHICLE_NO_BOOST_TECH	{未安装%TECH_NAME%}
@@ -12651,8 +12650,8 @@ BASESTATS_RIFLE_L	{步枪}
 BASESTATS_ALIEN	{外星人}
 BASESTATS_ALIEN_L	{外星的}
 REPAIR_SLOT	{修复}
-REPAIR_SLOT_DESC	{此栏位受损。}
-REPAIR_SLOT_COST	{花费 %AMOUNT% 货币修复此栏位}
+REPAIR_SLOT_DESC	{此槽位受损。}
+REPAIR_SLOT_COST	{花费 %AMOUNT% 货币修复此槽位}
 EVENT_TIMER	{剩余：%TIME%}
 TIMED_GOTO	{前往标记地点
 关闭主机
@@ -13083,7 +13082,7 @@ NPC_HIRE_VEHICLES_OPT_B_3	{我还没准备好。}
 NPC_HIRE_VEHICLES_RES_B_3	{“为了这个我的族人会杀了我，而你却只会说个不停？！格拉！快去工作！工作，闯入者！”}
 NPC_HIRE_VEHICLES_DESC_4	{技师要求我使用<TECHNOLOGY>强化艇雷达<>定位一个仓库并从中窃取<SPECIAL>阿玛镭<>，它要使用此物质打造<TECHNOLOGY>强化艇推进器。<>
 
-维吉恩具有一种不同寻常的执念，我逐渐明白，它执念的对象是护卫。我曾经看到它用维吉恩语察看古代手迹，嘀咕各种名字......欧宾库勒、艾伦、阿特拉斯......这是否是它的族人追寻它的原因？它究竟发现了什么秘密？它做了什么离经叛道的事情？}
+维吉恩具有一种不同寻常的执念，我逐渐明白，它执念的对象是护卫。我曾经看到它用维吉恩语察看远古手迹，嘀咕各种名字......欧宾库勒、艾伦、阿特拉斯......这是否是它的族人追寻它的原因？它究竟发现了什么秘密？它做了什么离经叛道的事情？}
 NPC_HIRE_VEHICLES_LANG_4	{我、我检测到了这个世界的护卫仓库！使用你的<TECHNOLOGY>强化艇雷达<>追踪其中一个，旅行者。摧毁仓库并为我带回珍贵的<SPECIAL>阿玛镭<>，我的工作需要使用它。我会建造<TECHNOLOGY>强化艇推进器<>，用于未来的征途......}
 NPC_HIRE_VEHICLES_OPT_A_4	{我拿到了你需要的阿玛镭。}
 NPC_HIRE_VEHICLES_RES_A_4	{技师从我手中拿走了物质，作为基本材料将它用于强化艇推进器的建造。它很满意，毫不废话地把设计图给了我。}

@@ -193,10 +193,10 @@ UI_WEIRD_OBJ20_LABEL	{丢弃存储舱}
 ITEMGEN_SPACEBONE_DESC	{约<VAL_ON>%AGE%00<>岁，采用纯金制成。
 
 这些骨骼看起来和任何陆地生物都不同。这是真正的深空巨兽的遗骸。}
-ITEMGEN_SPACEBONE_SUB	{古代骨骼}
+ITEMGEN_SPACEBONE_SUB	{远古骨骼}
 UI_ATLAS_WORD_KNOWN	{阿特拉斯通讯已完全绘制}
 ITEMGEN_FORMAT_STARBONE_1	{%STARBONEADJ% %STARBONENOUN%}
-ITEMGEN_STARBONE_ADJ_1	{古代的}
+ITEMGEN_STARBONE_ADJ_1	{远古的}
 ITEMGEN_STARBONE_ADJ_2	{烧焦的}
 ITEMGEN_STARBONE_ADJ_3	{碎裂的}
 ITEMGEN_STARBONE_ADJ_4	{有缺口}
@@ -399,22 +399,22 @@ UI_JOIN_FAILED	{无法加入大厅}
 UI_CHAT_COMMAND_NO_JOIN	{<TITLE>未成为好友，无法加入%NAME%<>}
 UI_CHAT_ENTER_CROSSPLAY	{<TITLE>正在匹配跨平台玩家<>}
 UI_CHAT_ENTER_NO_CROSSPLAY	{<TITLE>跨平台游玩已禁用。仅可与其他禁用跨平台游玩的玩家匹配<>}
-UI_WEAPON_TERMINAL_LANG	{扩大<TECHNOLOGY>技术栏位<>还是提升多用途工具<STELLAR>等级<>？使用<TECHNOLOGY>多用途工具扩展栏位<>免费添加栏位。}
-UI_WEAP_UPGRADE_INV_OPTA	{购买新栏位}
-UI_WEAP_UPGRADE_INV_OPTB	{安装栏位}
-UI_WEAP_UPGRADE_INV_RES	{多用途工具扩大确认......1个<STELLAR>额外技术栏位<>已添加至多用途工具。}
+UI_WEAPON_TERMINAL_LANG	{扩大<TECHNOLOGY>技术槽位<>还是提升多用途工具<STELLAR>等级<>？使用<TECHNOLOGY>多用途工具扩展槽位<>免费添加槽位。}
+UI_WEAP_UPGRADE_INV_OPTA	{购买新槽位}
+UI_WEAP_UPGRADE_INV_OPTB	{安装槽位}
+UI_WEAP_UPGRADE_INV_RES	{多用途工具扩大确认......1个<STELLAR>额外技术槽位<>已添加至多用途工具。}
 UI_WEAP_UPGRADE_CLASS_RES	{多用途工具等级提升确认......“<STELLAR>%WEAPNAME%<>”已成功<TRADEABLE>升级<>！}
 UI_WEAPON_UPGRADE_LABEL	{多用途工具升级站}
-UI_WEAPON_UPGRADE_SUB	{增加栏位和提升等级}
+UI_WEAPON_UPGRADE_SUB	{增加槽位和提升等级}
 UI_WEAPON_UPGRADE	{展开多用途工具设计}
 BUY_WEAPON_SLOT_COMPLETE	{完成升级}
-UI_WEAPON_UPGRADE_OPT_A	{购买新栏位}
+UI_WEAPON_UPGRADE_OPT_A	{购买新槽位}
 UI_WEAPON_UPGRADE_OPT_B	{应用升级电路}
 UI_WEAPON_SLOT_DEC_TITLE	{拒绝}
 UI_WEAPON_SLOT_DEC_SUB	{不应用升级}
 UI_WEAPON_SLOT_CLASS_MAX	{已达最大容量}
-NEW_WEAPON_SLOT	{安装新栏位}
-UI_WEAPON_SLOTS_OSD	{已安装多用途工具新栏位！}
+NEW_WEAPON_SLOT	{安装新槽位}
+UI_WEAPON_SLOTS_OSD	{已安装多用途工具新槽位！}
 UI_WEAPON_CLASS_OSD	{已升级多用途工具等级！}
 UI_MISSIONMARKER_DISC_OSD	{已定位任务目标！}
 UI_VR_OPTION_MOVEMENT_DIR	{移动方向}
@@ -521,7 +521,7 @@ TRADE_BUY_SCRAP_ALT	{<IMG>SELECT<> %AMOUNT% 份普茵}
 UI_BUY_SCRAP_HEADER_ALT	{交易 %AMOUNT% 份普茵}
 UI_INSUFFICIENT_ROBOT_ALT	{普茵不足}
 TRADE_SCRAP_SUB_ALT	{用普茵购买违禁品}
-ALL_FAC_REWARD_OPT_E	{创建多用途工具扩展栏位}
+ALL_FAC_REWARD_OPT_E	{创建多用途工具扩展槽位}
 ALL_FAC_REWARD_RES_E	{随着机器呼啸运转，工厂创造出一个<STELLAR>扩展电路<>，非常适合在空间站的多用途工具升级装置上使用。}
 DEPTH_OF_FIELD_DISTANCE	{焦点}
 FOCAL_PLANE_DEPTH	{景深}
@@ -602,7 +602,7 @@ UI_REWARD_SHIP_OSD	{已获得新的飞船：%NAME%}
 UI_TWITCH_REWARD_MSG	{<STELLAR>可领取Twitch远征奖励<>
 奖励可在<TECHNOLOGY>水银合成同伴<>处领取}
 UI_TWITCH_REWARD_TITLE	{可领取Twitch奖励}
-UI_NEW_SUIT_SLOT_NUM	{安装新套装栏位（%NUM%个可用）}
+UI_NEW_SUIT_SLOT_NUM	{安装新套装槽位（%NUM%个可用）}
 UI_SUIT_SLOTS_OSD	{套装库存已升级！}
 UI_SWITCH_NEXUS_DOCK	{更换停泊的飞船}
 UI_SELECT_STAR	{选择恒星}
@@ -808,9 +808,9 @@ UI_PET_MGR_BTN_PET_REMOVE	{抛弃}
 UI_PET_MGR_BTN_PET_REMOVE_SUB	{把这个同伴从你的登记簿上除名}
 UI_PET_MGR_BTN_PET_VIEW	{查看}
 UI_PET_MGR_BTN_PET_VIEW_SUB	{查看这个同伴的详细信息}
-UI_PET_MGR_POPUP_UNLOCK	{空栏位}
-UI_PET_MGR_BTN_UNLOCK	{安装新栏位}
-UI_PET_MGR_BTN_UNLOCK_SUB	{购买新同伴栏位（<TECHNOLOGY>%COST%<>）}
+UI_PET_MGR_POPUP_UNLOCK	{空槽位}
+UI_PET_MGR_BTN_UNLOCK	{安装新槽位}
+UI_PET_MGR_BTN_UNLOCK_SUB	{购买新同伴槽位（<TECHNOLOGY>%COST%<>）}
 UI_PET_MGR_BTN_UNLOCK_FAIL_OSD	{纳米星团不足，无法解锁<SLASH>}
 UI_PET_MGR_POPUP_CLONE	{管理DNA}
 UI_PET_MGR_SET_AUTOSUMMON	{自动召唤}
@@ -883,10 +883,10 @@ UI_EGGMODIFY_HINT_MSG2	{同伴卵的基因可以重新排序
 UI_EGGMODIFY_NEXUS_HINT_MSG	{同伴卵需要时间孵化
 发育中的生物将<STELLAR>继承<>母体特征
 或者你可以在<STELLAR>太空异象<>对卵进行<SPECIAL>重新排序<>}
-UI_PETSLOT_HINT_TITLE	{同伴栏位}
+UI_PETSLOT_HINT_TITLE	{同伴槽位}
 UI_PETSLOT_HINT_MSG	{<TRADEABLE>同伴登记簿<>目前可容纳<TRADEABLE>2个同伴<>
-安装更多栏位需要消耗<TECHNOLOGY>纳米星团<>
-对锁定位置使用<IMG>PRODMENU<>即可安装栏位}
+安装更多槽位需要消耗<TECHNOLOGY>纳米星团<>
+对锁定位置使用<IMG>PRODMENU<>即可安装槽位}
 UI_PLAYER_TITLE_PET1	{生物爱好者%NAME%}
 UI_PLAYER_TDESC_PET1	{收养一个动物同伴}
 UI_TITLE_OWNED_PET1	{已收养一个动物同伴}
@@ -4302,11 +4302,11 @@ UI_EXPED_GOT_PETS_DESC_D	{已收养%NUM%个同伴}
 UI_EXPED_GOT_PETS_MSG1	{收养动物同伴：%CURRENT%/%AMOUNT%
 使用<TRADEABLE>生物颗粒<>驯服生物}
 UI_EXPED_GOT_PETS_MSG2	{收养动物同伴：%CURRENT%/%AMOUNT%
-在<TECHNOLOGY>同伴登记簿<>（<IMG>QUICK_MENU<>）中解锁新的同伴栏位}
+在<TECHNOLOGY>同伴登记簿<>（<IMG>QUICK_MENU<>）中解锁新的同伴槽位}
 UI_EXPED_GOT_PETS_OBJ	{收养动物同伴：%CURRENT%/%AMOUNT%}
 UI_EXPED_GOT_PETS_OBJ_TIP	{使用<TECHNOLOGY>分析面甲<>在行星上搜索野生生物。
 通过投喂自己制作的<TRADEABLE>生物颗粒<>驯服野生生物。
-在<TECHNOLOGY>同伴登记簿<>（<IMG>QUICK_MENU<>）中解锁新的同伴栏位。}
+在<TECHNOLOGY>同伴登记簿<>（<IMG>QUICK_MENU<>）中解锁新的同伴槽位。}
 UI_EXPED_FRIGATES_NAME	{舰队指挥官}
 UI_EXPED_FRIGATES_NAME_U	{舰队指挥官}
 UI_EXPED_FRIGATES_DESC	{扩张你的舰队：%CURRENT%/%AMOUNT%}
@@ -4396,13 +4396,13 @@ UI_EXPED_VISIT_ATLAS_OBJ_TIP	{在<TRANS_TRA>太空异象<>中找到<SPECIAL>保�
 标记阿特拉斯站后，将在星系图上显示对应的路线选择。}
 UI_EXPED_PROC_PRODS_NAME	{收集者}
 UI_EXPED_PROC_PRODS_NAME_U	{收集者}
-UI_EXPED_PROC_PRODS_DESC	{收集古代遗物：%CURRENT%/%AMOUNT%}
+UI_EXPED_PROC_PRODS_DESC	{收集远古遗物：%CURRENT%/%AMOUNT%}
 UI_EXPED_PROC_PRODS_DESC_D	{已挖掘%NUM%份遗物}
-UI_EXPED_PROC_PRODS_MSG	{收集古代遗物：%CURRENT%/%AMOUNT%
+UI_EXPED_PROC_PRODS_MSG	{收集远古遗物：%CURRENT%/%AMOUNT%
 使用<TECHNOLOGY>地形操纵器<>挖掘废墟
 空间站的<TECHNOLOGY>制图师<>会出售记录<STELLAR>挖掘点<>位置的星图}
-UI_EXPED_PROC_PRODS_OBJ	{从被埋藏的废墟挖掘古代遗物：%CURRENT%/%AMOUNT%遗物}
-UI_EXPED_PROC_PRODS_OBJ_TIP	{在被埋藏的废墟寻找<SPECIAL>古代遗物<>。空间站的<TECHNOLOGY>制图师<>会出售记录<STELLAR>挖掘点<>的星图。
+UI_EXPED_PROC_PRODS_OBJ	{从被埋藏的废墟挖掘远古遗物：%CURRENT%/%AMOUNT%遗物}
+UI_EXPED_PROC_PRODS_OBJ_TIP	{在被埋藏的废墟寻找<SPECIAL>远古遗物<>。空间站的<TECHNOLOGY>制图师<>会出售记录<STELLAR>挖掘点<>的星图。
 使用<TECHNOLOGY>地形操纵器<>挖掘废墟。
 解锁遗物箱可能需要多把钥匙。}
 UI_EXPED_VISIT_LIBRARY_NAME	{历史学家}
@@ -4901,7 +4901,7 @@ UI_EXPEDITION_REWARD_FORMAT	{<STELLAR>%ITEM%<> x %NUM%}
 UI_EXPEDITION_PROCTECH_FORMAT	{<DARK_TECH>%ITEM%<> x %NUM%}
 UI_SURVIVAL_BLUEPRINTS_NAME	{<TECHNOLOGY>生存技术设计图<>}
 QUICK_MENU_SUM_FREIGHT_NO_DRIVE	{无法召唤：货船的曲速驱动器不足以通过当前星系}
-UI_REWARD_INVENTORY_SLOTS	{<COMMODITY>库存栏位<> x%NUM%}
+UI_REWARD_INVENTORY_SLOTS	{<COMMODITY>库存槽位<> x%NUM%}
 UI_REWARD_CUSTOMISATION	{<COMMODITY>%ITEM%<>定制化}
 UI_PREVIOUS_EXPEDITION	{上一远征}
 UI_FREIGHTER_COLOUR_PACK_NAME	{<STELLAR>货船重着色选项<>}
@@ -5229,7 +5229,7 @@ UI_S2MYSTERY_FLUX_RES_10	{让人畏惧的危险武器<AUDIO>TXT_RadioNoise<>....
 UI_S2MYSTERY_FLUX_RES_11	{武器追随它的主人<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>越过云层之上的城市废墟......
 落在无边无际的地下墓穴上<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>脚下是死神的世界。}
 UI_S2MYSTERY_FLUX_RES_12	{一座堡垒<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>它那巨大的心脏！没有任何朝圣之旅能<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>它藐视一切<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>无与伦比......}
-UI_S2MYSTERY_FLUX_RES_13	{在绝望的时代，需要<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>伟大的武器刺穿金属之龙的心脏<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>杀死古代国王的先锋......}
+UI_S2MYSTERY_FLUX_RES_13	{在绝望的时代，需要<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>伟大的武器刺穿金属之龙的心脏<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>杀死远古国王的先锋......}
 UI_S2MYSTERY_FLUX_RES_14	{但这把武器<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>丢失了<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>同它的主人和指挥官一起死去......}
 UI_S2MYSTERY_FLUX_RES_15	{这把武器总是在等待<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>但是<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>目的是什么呢？
 <AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>会使用它？
@@ -5302,18 +5302,18 @@ UI_EXPED_ACROBAT_OBJ_TIP	{低空飞行特技需要驾驶员将飞船维持在<ST
 利用<IMG>BOOST<>激活飞船的加速驱动器。}
 UI_EXPED_GOT_FOSSILS_NAME	{考古学家}
 UI_EXPED_GOT_FOSSILS_NAME_U	{考古学家}
-UI_EXPED_GOT_FOSSILS_DESC	{挖掘古代骸骨：%CURRENT%/%AMOUNT%}
+UI_EXPED_GOT_FOSSILS_DESC	{挖掘远古骸骨：%CURRENT%/%AMOUNT%}
 UI_EXPED_GOT_FOSSILS_DESC_D	{已收集%NUM%块化石}
-UI_EXPED_GOT_FOSSILS_MSG	{收集古代骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
+UI_EXPED_GOT_FOSSILS_MSG	{收集远古骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
 使用<TECHNOLOGY>分析面甲<>定位<STELLAR>自然墓地<>
 使用<TECHNOLOGY>地形操纵器<>在挖掘点进行挖掘}
-UI_EXPED_GOT_FOSSILS_MSG_SURVEY	{收集古代骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
+UI_EXPED_GOT_FOSSILS_MSG_SURVEY	{收集远古骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
 使用<TECHNOLOGY>目标扫描<>定位挖掘点
 使用<TECHNOLOGY>地形操纵器<>在挖掘点进行挖掘}
-UI_EXPED_GOT_FOSSILS_MSG_SWAP	{收集古代骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
+UI_EXPED_GOT_FOSSILS_MSG_SWAP	{收集远古骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
 使用<IMG>SURVEYFILTERL<>/<IMG>SURVEYFILTERR<>激活<TECHNOLOGY>目标扫描<>
 使用<TECHNOLOGY>地形操纵器<>在挖掘点进行挖掘}
-UI_EXPED_GOT_FOSSILS_MSG_OFF	{收集古代骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
+UI_EXPED_GOT_FOSSILS_MSG_OFF	{收集远古骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
 激活<STELLAR>目标扫描<>（<IMG>AIM<>）定位挖掘点
 使用<TECHNOLOGY>地形操纵器<>在挖掘点进行挖掘}
 UI_EXPED_GOT_FOSSILS_OBJ	{挖掘化石：%CURRENT%/%AMOUNT%}
@@ -5447,13 +5447,13 @@ UI_EXPED_TERRAIN_EDITOR_DESC	{安装一台地形操纵器}
 UI_EXPED_TERRAIN_EDITOR_DESC_D	{已安装一台地形操纵器}
 UI_EXPED_TERRAIN_EDITOR_MSG	{在你的多用途工具中安装一台<TECHNOLOGY>地形操纵器<>
 按<IMG>INVENTORY<>开启库存
-选择一个空栏位并按<IMG>TECHMENU<>开始安装}
+选择一个空槽位并按<IMG>TECHMENU<>开始安装}
 UI_EXPED_TERRAIN_EDITOR_MSG2	{在你的多用途工具中安装一台<TECHNOLOGY>地形操纵器<>
 在库存（<IMG>INVENTORY<>）中找到部分安装好的地形操纵器
 选择<STELLAR>查看安装详情<>获取详尽指引}
 UI_EXPED_TERRAIN_EDITOR_OBJ	{建造一台地形操纵器}
 UI_EXPED_TERRAIN_EDITOR_OBJ_TIP	{通过<IMG>INVENTORY<>查看你的多用途工具库存
-选择一个空栏位并通过<IMG>TECHMENU<>开始安装
+选择一个空槽位并通过<IMG>TECHMENU<>开始安装
 需安装科技的制造步骤将自动<COMMODITY>标记<>为新任务。}
 UI_EXPED_SIGNAL_BOOSTER_NAME	{科技信号}
 UI_EXPED_SIGNAL_BOOSTER_NAME_U	{科技信号}
@@ -5467,7 +5467,7 @@ UI_EXPED_SIGNAL_BOOSTER_MSG2	{启动<STELLAR>信号增强器<>
 UI_EXPED_SIGNAL_BOOSTER_OBJ	{部署并使用一台信号增强器}
 UI_EXPED_SIGNAL_BOOSTER_OBJ_TIP	{通过<TECHNOLOGY>建造菜单<>（<IMG>BUILD_MENU<>）部署一台<STELLAR>信号增强器<>。你可以在星球随意位置放置一台信号增强器，且不需要建造基地。
 信号增强器将会定位附近建筑物。
-专家<SPECIAL>空降舱导航数据<>可以通过一台信号增强器激活。你将可以通过空降舱免费扩展套装库存栏位。}
+专家<SPECIAL>空降舱导航数据<>可以通过一台信号增强器激活。你将可以通过空降舱免费扩展套装库存槽位。}
 UI_EXPED_STORM_SHELTER_NAME	{散兵坑}
 UI_EXPED_STORM_SHELTER_NAME_U	{散兵坑}
 UI_EXPED_STORM_SHELTER_DESC	{寻找一处天然藏身处}
@@ -5975,7 +5975,7 @@ UI_PLANETFACT_GEK2	{曾有科尔瓦克斯人居住}
 UI_PLANETFACT_GEK3	{因昔日开采而加速侵蚀}
 UI_PLANETFACT_GEK4	{滋养土壤包围的传统孵化场}
 UI_PLANETFACT_GEK5	{曾经是出口吸吸的商业中心}
-UI_PLANETFACT_GEK6	{有古代集体坟冢的迹象}
+UI_PLANETFACT_GEK6	{有远古集体坟冢的迹象}
 UI_PLANETFACT_KORVAX1	{化学惰性土壤}
 UI_PLANETFACT_KORVAX2	{生物工程土壤微生物}
 UI_PLANETFACT_KORVAX3	{据传是异见者实体的藏身处}
@@ -6153,7 +6153,7 @@ UI_TERRAINFACT_CRATERS7	{遍布火山}
 UI_TERRAINFACT_CRATERS8	{经彗星塑形}
 UI_TERRAINFACT_CRATERS9	{坑洼}
 UI_TERRAINFACT_CAVERNS1	{广阔地下洞穴}
-UI_TERRAINFACT_CAVERNS2	{古代隧道}
+UI_TERRAINFACT_CAVERNS2	{远古隧道}
 UI_TERRAINFACT_CAVERNS3	{深洞}
 UI_TERRAINFACT_CAVERNS4	{多孔内部}
 UI_TERRAINFACT_CAVERNS5	{遍布洞穴}
@@ -6528,8 +6528,8 @@ BLD_COLDPLANT_2_NAME_L	{冻结植物槽}
 BLD_COLDPLANT_2_DESCRIPTION	{一个落满了雪的石槽。非常适合种植小而坚韧、长于冰封世界的植物。
 
 可以作为基地的装饰景观。}
-BLD_COLDPLANT_3_NAME	{古代针叶树}
-BLD_COLDPLANT_3_NAME_L	{古代针叶树}
+BLD_COLDPLANT_3_NAME	{远古针叶树}
+BLD_COLDPLANT_3_NAME_L	{远古针叶树}
 BLD_COLDPLANT_3_DESCRIPTION	{这是一种横跨地质年代表的树木。其生长的栖息地多为低温和低光照，使它每个季度只能长数毫米。这种大小的样本已经是一种植物奇迹了。
 
 可以作为基地的装饰景观。}
@@ -6553,32 +6553,32 @@ UI_BOBBLE_NADA_NAME	{纳达手办}
 UI_BOBBLE_NADA_NAME_L	{纳达手办}
 UI_BOBBLE_NADA_DESC	{飞船驾驶舱的合成高分子玩具摆件，原型是神父实体纳达。
 
-安装到<TECHNOLOGY>库存栏位<>中来装饰你的飞船内部。}
+安装到<TECHNOLOGY>库存槽位<>中来装饰你的飞船内部。}
 UI_BOBBLE_POLO_NAME	{保罗手办}
 UI_BOBBLE_POLO_NAME_L	{保罗手办}
 UI_BOBBLE_POLO_DESC	{飞船驾驶舱的合成高分子玩具摆件，原型是保罗专家。
 
-安装到<TECHNOLOGY>库存栏位<>中来装饰你的飞船内部。}
+安装到<TECHNOLOGY>库存槽位<>中来装饰你的飞船内部。}
 UI_BOBBLE_ATLAS_NAME	{阿特拉斯手办}
 UI_BOBBLE_ATLAS_NAME_L	{阿特拉斯手办}
 UI_BOBBLE_ATLAS_DESC	{飞船驾驶舱的合成高分子玩具摆件，原型是阿特拉斯。
 
-安装到<TECHNOLOGY>库存栏位<>中来装饰你的飞船内部。}
+安装到<TECHNOLOGY>库存槽位<>中来装饰你的飞船内部。}
 UI_BOBBLE_ARTEMIS_NAME	{阿耳特弥斯手办}
 UI_BOBBLE_ARTEMIS_NAME_L	{阿耳特弥斯手办}
 UI_BOBBLE_ARTEMIS_DESC	{飞船驾驶舱的合成高分子玩具摆件，原型是旅行者阿耳特弥斯。
 
-安装到<TECHNOLOGY>库存栏位<>中来装饰你的飞船内部。}
+安装到<TECHNOLOGY>库存槽位<>中来装饰你的飞船内部。}
 UI_BOBBLE_APOLLO_NAME	{阿波罗手办}
 UI_BOBBLE_APOLLO_NAME_L	{阿波罗手办}
 UI_BOBBLE_APOLLO_DESC	{飞船驾驶舱的合成高分子玩具摆件，原型是旅行者阿波罗。
 
-安装到<TECHNOLOGY>库存栏位<>中来装饰你的飞船内部。}
+安装到<TECHNOLOGY>库存槽位<>中来装饰你的飞船内部。}
 UI_BOBBLE_NULL_NAME	{-（无名）-手办}
 UI_BOBBLE_NULL_NAME_L	{-（无名）-手办}
 UI_BOBBLE_NULL_DESC	{飞船驾驶舱的合成高分子玩具摆件，原型是旅行者-（无名）-。
 
-安装到一个<TECHNOLOGY>库存栏位<>中来装饰你的飞船内部。}
+安装到一个<TECHNOLOGY>库存槽位<>中来装饰你的飞船内部。}
 UI_BACKPACK2_NAME	{套装背包}
 UI_BACKPACK2_NAME_L	{套装背包}
 UI_BACKPACK2_DESC	{专属的<STELLAR>套装外观覆盖<>。
@@ -6707,7 +6707,7 @@ UI_ENTRY_FEB_8	{八：<DELAY>1<>海洋之王}
 UI_ENTRY_FEB_9	{九：<DELAY>1<>异象}
 UI_ENTRY_FEB_10	{十：<DELAY>1<>螺旋现实}
 UI_ENTRY_FEB_11	{十一：<DELAY>1<>升起的球体}
-UI_ENTRY_FEB_12	{十二：<DELAY>1<>古代巨人}
+UI_ENTRY_FEB_12	{十二：<DELAY>1<>远古巨人}
 UI_ENTRY_FEB_13	{关键：<DELAY>1<>欧几里德}
 UI_ENTRY_FEB_14	{<IMG>SLASH<>寻找我们<IMG>SLASH<>
 在孤独的水球上寻找我们......
@@ -7018,7 +7018,7 @@ UI_SPEC_TITLE_30_DESC	{专属<STELLAR>探险家头衔<>：摄影师，授予致�
 请使用<TECHNOLOGY>外观修改器<>在你的旗帜上应用此头衔。}
 UI_PIN_HYDRALIC_OBJ_TIP	{用<COMMODITY>碳纳米管<>、<TRADEABLE>盐<>和<SPECIAL>有色金属<>制作%ITEM%。
 
-用<FUEL>碳<>制作<COMMODITY>碳纳米管<>。用<IMG>PRODMENU<>在空的<TECHNOLOGY>库存栏位<>中制作。
+用<FUEL>碳<>制作<COMMODITY>碳纳米管<>。用<IMG>PRODMENU<>在空的<TECHNOLOGY>库存槽位<>中制作。
 <TRADEABLE>盐<>很容易就能从<EARTH>水下岩石矿床<>中提取出来。升级套装<TECHNOLOGY>曝气膜<>或从<TRADEABLE>海藻袋<>中补充氧气补给，以提高在海洋中的效率。
 <SPECIAL>有色金属<>可采用<TECHNOLOGY>精炼机<>从<STELLAR>恒星金属<>中制得：<COMMODITY>铜<>、<FUEL>镉<>、<TRADEABLE>艾梅里尔<>和<TECHNOLOGY>铟<>。}
 UI_PIN_COMPUTER_OBJ_TIP	{用<COMMODITY>微处理器<>、<FUEL>反物质<>和<SPECIAL>有色金属<>制作%ITEM%。
@@ -7077,8 +7077,8 @@ UI_PIN_STORM_CRYSTAL_OBJ_TIP	{风暴水晶自然出现在具有<FUEL>极端天�
 UI_PIN_FIENDCORE_OBJ_TIP	{<SPECIAL>幼虫核心<>是通常发现于缺乏空气行星上或废弃建筑周围的<FUEL>低语的卵<>的刺鼻而粘稠的心脏。
 <FUEL>警告<>：巨大的母虫会凶猛地守护自己的幼虫。
 使用<TECHNOLOGY>分析面甲<>定位<FUEL>低语的卵<>。}
-UI_WEAPON_INV_TOKEN_NAME	{多用途工具扩展栏位}
-UI_WEAPON_INV_TOKEN_NAME_L	{多用途工具扩展栏位}
+UI_WEAPON_INV_TOKEN_NAME	{多用途工具扩展槽位}
+UI_WEAPON_INV_TOKEN_NAME_L	{多用途工具扩展槽位}
 UI_WEAPON_INV_TOKEN_DESC	{一种灵活的升级电路，兼容所有<STELLAR>个人多用途工具<>。
 
 该模块可以通过空间站的<STELLAR>多用途工具升级架<>连接至多用途工具，让用户有更多的多用途工具内部空间来添加进一步的升级或技术专长。}
@@ -7089,7 +7089,7 @@ UI_SUIT_INV_TOKEN_DESC	{用以扩展使用者<STELLAR>套装存储空间<>的高
 
 预装的纳米扩张器能在套装内生成稳定的次曲速虚空，从而增加<STELLAR>库存容量<>。你可以在<STELLAR>空间站<>内的套装升级终端处安装这个增强部件。}
 UI_SUIT_INV_TOKEN_SUB	{升级装置}
-UI_PIN_SHIPCHARGE_OBJ_TIP	{用<EARTH>金<>和<TECHNOLOGY>氚<>制作%ITEM%。用<IMG>PRODMENU<>在空的<TECHNOLOGY>库存栏位<>中制作。
+UI_PIN_SHIPCHARGE_OBJ_TIP	{用<EARTH>金<>和<TECHNOLOGY>氚<>制作%ITEM%。用<IMG>PRODMENU<>在空的<TECHNOLOGY>库存槽位<>中制作。
 <EARTH>金<>和<EARTH>氚<>通常<COMMODITY>从小行星开采<>得到。}
 UI_GEODE_RARE_NAME	{发光的矿物}
 UI_GEODE_RARE_NAME_L	{发光的矿物}
@@ -7810,8 +7810,8 @@ BLD_LAVAPLANT_2_NAME_L	{流火岩块}
 BLD_LAVAPLANT_2_DESC	{据说这种卵和岩石的混合物只在某物种的幼虫周围形成，并在其长达几十年的发育过程中保护这种脆弱的生物，维持其体温。从岩石表面的膜状裂缝中露出不断流动的熔融之心。
 
 可以作为基地的装饰景观。}
-BLD_LAVAPLANT_3_NAME	{古代栖息地加热器}
-BLD_LAVAPLANT_3_NAME_L	{古代栖息地加热器}
+BLD_LAVAPLANT_3_NAME	{远古栖息地加热器}
+BLD_LAVAPLANT_3_NAME_L	{远古栖息地加热器}
 BLD_LAVAPLANT_3_DESC	{虽然设计很原始，但这种家用取暖器仍然是一种受欢迎的家居装饰。催眠的火焰和轻柔的爆裂声能给任何房间带来舒适的气氛。
 
 可以作为基地的装饰景观。}
@@ -7875,7 +7875,7 @@ UI_EXPD_BACKPACK_01_DESC	{专属的<STELLAR>装置套装外观<>。
 可以在<TECHNOLOGY>外观修改器<>使用以更改你的套装外观。}
 UI_EXPD_HELMET_01_NAME	{金色初代战斗面具}
 UI_EXPD_HELMET_01_NAME_L	{金色初代战斗面具}
-UI_EXPD_HELMET_01_DESC	{咄咄逼人的<STELLAR>装置套装外观<>，根据古代吉克人的战争头盔设计。这款是特别版，使用耐久的贵重合金制作。
+UI_EXPD_HELMET_01_DESC	{咄咄逼人的<STELLAR>装置套装外观<>，根据远古吉克人的战争头盔设计。这款是特别版，使用耐久的贵重合金制作。
 
 可以在<TECHNOLOGY>外观修改器<>中使用以更改你的套装外观。}
 UI_EXPD_SHIP_01_NAME	{黄金矢量飞船}
@@ -8088,7 +8088,7 @@ UI_TWIT_GUN_UP_01_NAME	{多用途工具升级包}
 UI_TWIT_GUN_UP_01_NAME_L	{多用途工具升级包}
 UI_TWIT_GUN_UP_01_DESC	{与所有<STELLAR>个人多用途工具<>兼容的升级部件包。
 
-内附一个<TECHNOLOGY>多用途工具扩展栏位<>，可在空间站<STELLAR>多用途工具升级架<>将其装到选中的多用途工具上。除此以外该部件包还含有一项独特<TECHNOLOGY>升级模块<>，能够随时手动安装并强化一种现有的多用途工具技术。}
+内附一个<TECHNOLOGY>多用途工具扩展槽位<>，可在空间站<STELLAR>多用途工具升级架<>将其装到选中的多用途工具上。除此以外该部件包还含有一项独特<TECHNOLOGY>升级模块<>，能够随时手动安装并强化一种现有的多用途工具技术。}
 UI_SPECIAL_GUN_UP_SUB	{多功能生存装置升级}
 BLD_TWIT_01_NAME	{金色字节节拍设备}
 BLD_TWIT_01_NAME_L	{金色字节节拍设备}
@@ -8268,7 +8268,7 @@ TRA_LIBRARY7_LANG2	{信徒<STELLAR><AUDIO>TXT_RadioNoise<>......呲呲......<>�
 TRA_LIBRARY7_DESC3	{最后的传输清晰而真切。我听到了它的话语......}
 TRA_LIBRARY7_LANG3	{你们派来一个又一个的吉克人。你们认为我们是出生在残酷时代的罪犯。但终代的长袍并不是用血染红的。它们是由灵魂织成的。它们让我们想起我们曾经是谁。我们可以再次变为谁......}
 TRA_LIBRARY8_DESC	{我阅读了几份记录，这是一个世纪前在巴拉伦斯第留斯举行的一场拍卖。一位交易头目在去世后留下了大量的艺术品，随后被数以千计的继承人清算并瓜分。 }
-TRA_LIBRARY8_TITLE	{古代拍卖商}
+TRA_LIBRARY8_TITLE	{远古拍卖商}
 TRA_LIBRARY8_LANG	{接下来，是来自第五高衰退期的克拉夫特-吉克·西布尔的作品。如您所见，费洛蒙在光矛和全息图之间游弋，结合了吉克和科尔瓦克斯的技术。
 
 作品描绘了两个正在工作的实体：交易、崇拜、在一个奇怪而无限的宇宙中寻找其定位。尽管作品中的某些元素反复出现，但可以看到，科尔瓦克斯人和吉克人从来不看对方，也从来不处于同一个平面上。
@@ -8616,9 +8616,9 @@ TRA_SCAVENGER_SWAMP_RES_B_5	{我们一起凝视着潮湿的轻霭。我们周围
 UI_FREIGHTER_UPGRADE	{升级货船}
 UI_FREIGHT_SLOT_DEC_TITLE	{拒绝}
 UI_FREIGHT_SLOT_DEC_SUB	{不要升级}
-NEW_FREIGHTER_SLOT	{增加新的库存栏位}
+NEW_FREIGHTER_SLOT	{增加新的库存槽位}
 UI_FREIGHT_SLOTS_OSD	{货船库存大小提升了！}
-BUY_FREIGHTER_SLOT_COMPLETE	{购买库存栏位}
+BUY_FREIGHTER_SLOT_COMPLETE	{购买库存槽位}
 UI_FREIGHTER_STORAGE	{存储空间}
 UI_FREIGHTER_JUMPFUEL	{曲速效率}
 UI_FREIGHTER_FLEETBOOST	{舰队协调}
@@ -8638,9 +8638,9 @@ UT_FR_COM_NAME	{远征防御控制}
 UT_FR_TRADE_NAME	{远征交易控制}
 UT_FR_EXP_NAME	{远征科学控制}
 UT_FR_MINE_NAME	{远征采矿控制}
-UI_FREIGHT_INV_UPGRADE_MSG1	{货船<STELLAR>库存栏位<>升级可用
+UI_FREIGHT_INV_UPGRADE_MSG1	{货船<STELLAR>库存槽位<>升级可用
 返回货船部署升级}
-UI_FREIGHT_INV_UPGRADE_MSG2	{货船<STELLAR>库存栏位<>升级可用
+UI_FREIGHT_INV_UPGRADE_MSG2	{货船<STELLAR>库存槽位<>升级可用
 打开舰桥上的<TECHNOLOGY>升级控制终端<>
 选择<TECHNOLOGY>添加额外的存储<>即可开始}
 UI_FREIGHT_UPGRADE_OPT_A	{购买舱壁}
@@ -9618,7 +9618,7 @@ UI_ABAND_LOG_SAMPLE9	{微生物样本}
 UI_ABAND_LOG_SAMPLE10	{闪闪发光的蛋}
 UI_ABAND_LOG_SAMPLE11	{微型植物群系}
 UI_ABAND_LOG_SAMPLE12	{神秘生物黏稠物}
-UI_ABAND_LOG_SAMPLE13	{古代骸骨}
+UI_ABAND_LOG_SAMPLE13	{远古骸骨}
 UI_ABAND_LOG_SAMPLE14	{矿石碎片}
 UI_ABAND_LOG_SAMPLE15	{液态金属}
 UI_ABAND_LOG_SAMPLE16	{新式磁性元素}
@@ -11201,7 +11201,7 @@ UI_PLAYER_TITLE_BONES3	{%NAME%馆长}
 UI_TITLE_OWNED_BONES1	{发掘%NUM%具骨骼}
 UI_TITLE_OWNED_BONES2	{发掘%NUM%具骨骼}
 UI_TITLE_OWNED_BONES3	{发掘%NUM%具骨骼}
-UI_PLAYER_TDESC_JM_DIG	{调查古代废墟}
+UI_PLAYER_TDESC_JM_DIG	{调查远古废墟}
 UI_PLAYER_TITLE_DIG1	{袭击者%NAME%}
 UI_PLAYER_TITLE_DIG2	{历史学家%NAME%}
 UI_PLAYER_TITLE_DIG3	{考古学家%NAME%}
@@ -11406,7 +11406,7 @@ UI_BIO_SHIP_MISSION1_MSG2C	{虚空蛋需要<TECHNOLOGY>意识桥<>
 在<TECHNOLOGY>科尔瓦克斯<>恒星系中寻找飞船驾驶员}
 UI_BIO_SHIP_MISSION1_MSG2D	{虚空蛋需要<TECHNOLOGY>意识桥<>
 制作%ITEM%：%CURRENT%/%AMOUNT%}
-UI_BIO_SHIP_MISSION1_MSG2E	{返回古代<SPECIAL>生物合成建筑物<>
+UI_BIO_SHIP_MISSION1_MSG2E	{返回远古<SPECIAL>生物合成建筑物<>
 把<TECHNOLOGY>意识桥<>交给机器}
 UI_BIO_SHIP_MISSION1_MSG3	{<TECHNOLOGY>神经干<>过于脆弱而不可用
 好好照顾神经干，距离成熟还有：%TIME%}
@@ -11423,7 +11423,7 @@ UI_BIO_SHIP_LOG1_LANG	{针对非集会“个体”的语言转移现已处理，
 吉克和维吉恩也已被移除。必须用更少的变量开始实验。需要对照组。}
 UI_BIO_SHIP_LOG_OPT1	{插入材料}
 UI_BIO_SHIP_LOG1_RES1	{那部“机器”接受了我为它组装的生物源机器。我听到一声嗡鸣，那是它过去实验的隆隆回响回到了现在。
-它输出——生出——了一团细胞，一些原始组织。这些古代科尔瓦克斯人想要达成什么目的？}
+它输出——生出——了一团细胞，一些原始组织。这些远古科尔瓦克斯人想要达成什么目的？}
 UI_BIO_SHIP_LOG_OPT2	{离开}
 UI_BIO_SHIP_LOG1_RES2	{我没有这部机器想要的材料。像是在回应这个“失败”，它给了我一份设计图......这会是我的虚空蛋一直在找的东西吗？}
 UI_BIO_SHIP_HEX_TITLE	{现实运输}
@@ -11486,7 +11486,7 @@ UI_BIO_SHIP_MISSION2_MSG2D	{虚空蛋宿主需要一个<FUEL>心脏<>
 嬗变%ITEM%或从<STELLAR>小行星<>上开采}
 UI_BIO_SHIP_MISSION2_MSG2E	{虚空蛋宿主需要一个<FUEL>心脏<>
 制作%ITEM%：%CURRENT%/%AMOUNT%}
-UI_BIO_SHIP_MISSION2_MSG2F	{返回古代<SPECIAL>生物合成建筑物<>
+UI_BIO_SHIP_MISSION2_MSG2F	{返回远古<SPECIAL>生物合成建筑物<>
 把<FUEL>搏动的核心<>交给机器}
 UI_BIO_SHIP_MISSION2_MSG3	{<FUEL>心脏<>过于脆弱而不可用
 仔细照顾心脏，距离成熟还有：%TIME%}
@@ -11544,7 +11544,7 @@ UI_BIO_SHIP_MISSION3_MSG2D	{虚空蛋宿主需要一个<COMMODITY>外壳<>
 未检测到%ITEM%<IMG>SLASH<>脉冲跳跃进入深空}
 UI_BIO_SHIP_MISSION3_MSG2E	{虚空蛋宿主需要一个<COMMODITY>外壳<>
 制作%ITEM%：%CURRENT%/%AMOUNT%}
-UI_BIO_SHIP_MISSION3_MSG2F	{返回古代<SPECIAL>生物合成建筑物<>
+UI_BIO_SHIP_MISSION3_MSG2F	{返回远古<SPECIAL>生物合成建筑物<>
 把<TECHNOLOGY>匪夷所思的膜<>交给机器}
 UI_BIO_SHIP_MISSION3_MSG3	{<COMMODITY>外壳<>过于脆弱而不可用
 照料外壳，距离硬化还有：%TIME%}
@@ -11556,7 +11556,7 @@ UI_BIO_SHIP_LOG3_LANG	{甲壳程序已结束，机械已优化，生物核心不
 然而，非集会未得到充分处理。生物合成或能在未来提供庇护。必须研究增加的自主性。}
 UI_BIO_SHIP_LOG3_RES1	{我已经准备好必要的东西，机器将另一个生命带进了宇宙。
 这些群集能思考，会感觉吗？生命与有机机器之间的界限又在哪里？}
-UI_BIO_SHIP_LOG3_RES2	{古代科尔瓦克斯“机器”在微弱的嗡鸣声中蚀刻出了另一份设计图，有机生命之谜的另一个碎片。}
+UI_BIO_SHIP_LOG3_RES2	{远古科尔瓦克斯“机器”在微弱的嗡鸣声中蚀刻出了另一份设计图，有机生命之谜的另一个碎片。}
 UI_BIO_SHIP_MISSION4_OBJ1	{跟随虚空蛋的呼唤}
 UI_BIO_SHIP_MISSION4_OBJ1_TIP	{我携带的怪蛋向另一个有机体发出了呼唤，那是一个飞船与生物的怪异混合体。
 它现在哼着奇怪的音乐，让我的脑海里充满一个不断变化的行星的画面，前一分钟是一个绿草如茵的世界，下一分钟则是一个充满奇怪异象的世界......}
@@ -11603,7 +11603,7 @@ UI_BIO_SHIP_MISSION4_MSG2C	{虚空蛋宿主需要一个<STELLAR>个人奇点<>
 从金属灰尘中精炼%ITEM%}
 UI_BIO_SHIP_MISSION4_MSG2D	{虚空蛋宿主需要一个<STELLAR>个人奇点<>
 来制作%ITEM%：%CURRENT%/%AMOUNT%}
-UI_BIO_SHIP_MISSION4_MSG2F	{返回古代<SPECIAL>生物合成建筑物<>
+UI_BIO_SHIP_MISSION4_MSG2F	{返回远古<SPECIAL>生物合成建筑物<>
 把<TECHNOLOGY>玻璃的种子<>交给机器}
 UI_BIO_SHIP_MISSION4_MSG3	{<TECHNOLOGY>个人奇点<>尚未成熟
 个人奇点正在生长，需要一定时间才能成熟：%TIME%}
@@ -11908,7 +11908,7 @@ AP_HYPERDRIVE_SCLASS_ADJ_1	{全知的}
 AP_HYPERDRIVE_SCLASS_ADJ_2	{珍稀的}
 AP_HYPERDRIVE_SCLASS_ADJ_3	{庄严的}
 AP_HYPERDRIVE_SCLASS_ADJ_4	{美丽的}
-AP_HYPERDRIVE_SCLASS_ADJ_5	{古代的}
+AP_HYPERDRIVE_SCLASS_ADJ_5	{远古的}
 AP_SHIPSHIELD_COMP_1	{缩放}
 AP_SHIPSHIELD_COMP_2	{牙齿}
 AP_SHIPSHIELD_COMP_3	{镀层}
@@ -12546,7 +12546,7 @@ UI_BB_ON_FOOT	{步行}
 UI_BB_IN_VEHICLE	{乘车}
 UI_BB_IN_SHIP	{乘船}
 UI_BB_LIBRARY_POPUP_TITLE	{字节节拍乐曲}
-UI_BB_LIBRARY_POPUP_TITLE_EMPTY	{空栏位}
+UI_BB_LIBRARY_POPUP_TITLE_EMPTY	{空槽位}
 UI_BB_LIBRARY_DEL	{删除}
 UI_BB_LIBRARY_DEL_SUB	{从数据库中移除乐曲}
 UI_BB_LIBRARY_ADD	{从字节节拍中复制}
