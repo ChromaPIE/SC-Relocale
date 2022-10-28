@@ -316,17 +316,17 @@ UI_FRE_CUSTOM_REWARD_FORMAT	{<COMMODITY>%ITEM%货船自定义涂装<>}
 UI_SHIPGUNS_REWARD_LABEL	{<TECHNOLOGY>飞船武器设计图<>}
 QUICK_MENU_TIP_DISMISS_FRIEGHTE	{遣散货船}
 UI_DAMAGED_FRIG_LABEL	{严重受损}
-UI_TELEPORT_FRIGATE_MSG1	{护卫舰 <STELLAR>%FRIG_NAME%<>已严重受损
-飞往护卫舰并着陆以开始修复
-或者<TECHNOLOGY>通过<TECHNOLOGY>舰队管理终端<>传送<>到任何护卫舰}
-UI_TELEPORT_FRIGATE_MSG2	{返回你的飞船以离开护卫舰
+UI_TELEPORT_FRIGATE_MSG1	{护卫舰<STELLAR>%FRIG_NAME%<>严重受损
+起飞并登上护卫舰以开始修复
+<TECHNOLOGY>舰队管理终端<>亦可将你<TECHNOLOGY>传送<>至护卫舰}
+UI_TELEPORT_FRIGATE_MSG2	{返回你的飞船并飞离护卫舰
 或通过<TECHNOLOGY>护卫舰传送器<>曲速飞行到你的货船上。}
 UI_TELEPORT_FRIGATE_LABEL	{护卫舰传送界标}
 UI_TELEPORT_FRIGATE_RET_SUB	{返回货船}
 UI_FRIGATE_CAPT_TERM_NAME	{通讯面板}
 UI_FRIGATE_CAPT_TERM_SUB	{与船长对话}
 UI_END_EXPEDITION_LABEL	{中止远征}
-UI_END_EXPEDITION_RES	{召回已记录指令<IMG>SLASH<>正在返回主力飞船}
+UI_END_EXPEDITION_RES	{召回已记录指令<IMG>SLASH<>正在返回主力舰}
 UI_END_EXPEDITION_SUB	{召回舰队}
 UI_RESET_FREIGHTER_COLOUR	{重置自定义颜色}
 BASEBUILD_FRE_SNAP_INVALID	{必须连接现有的房间}
@@ -336,14 +336,14 @@ BASEBUILD_INSIDE_DEL_ERROR	{无法删除<IMG>SLASH<>玩家正在此模块中}
 BASEBUILD_INSIDE_DEL_ERROR_ALT	{无法删除<IMG>SLASH<>%NAME%正在此模块中}
 BASEBUILD_REPLACEMENT_ERROR	{当前无法替换部件}
 BASEBUILD_CYCLE_PART_MSG	{新部件：%PART%}
-UI_HUD_MARKER_ON_FREIGHTER	{ （位于主力飞船）}
-UI_HUD_MARKER_FREIGHTER_PHASED	{ （位于主力飞船：相位阶段）}
+UI_HUD_MARKER_ON_FREIGHTER	{ （位于主力舰）}
+UI_HUD_MARKER_FREIGHTER_PHASED	{ （位于主力舰：相位阶段）}
 UI_FREIGHTER_SYNC_TITLE	{货船网络同步}
 UI_FREIGHTER_SYNC_MSG	{一次只能显示一个货船基地
-解散你的货船来访问%OTHERPLAYER%的主力飞船
+解散你的货船来访问%OTHERPLAYER%的主力舰
 通过<TECHNOLOGY>快捷菜单<>（<IMG>QUICK_MENU<>）解散货船}
 UI_FREIGHTER_SYNC_MSG_ALT	{一次只能显示一个货船基地
-当前已同步至%BLOCKINGPLAYER%的主力飞船
+当前已同步至%BLOCKINGPLAYER%的主力舰
 通过<TECHNOLOGY>快捷菜单<>（<IMG>QUICK_MENU<>）解散货船}
 PC_SETTINGS_ULTRA_PERFORMANCE	{超性能}
 PC_GRAPHICS_FFXSR2QUALITY	{FSR 2.0画质}
@@ -363,7 +363,7 @@ UI_NO_UGC_FEATUREDBASES_DISABLE	{已禁用精选基地，按<IMG>DISNETRETRY<>�
 UI_FREIGHTER_CARGO_NAME	{货船货舱}
 UI_FREIGHTER_BUY	{购买货船}
 UI_FREIGHTER_BUY_ERR	{无法承担货船费用}
-UI_FREIGHTER_BUY_SUB	{替换现有主力飞船}
+UI_FREIGHTER_BUY_SUB	{替换现有主力舰}
 UI_FREIGHTER_BUY_SUB_ALT	{成为货船指挥官}
 UI_DEBRIEF_MARKER	{舰队远征汇报}
 UI_PART_TARGETED	{目标部分：%PART%}
@@ -4270,7 +4270,7 @@ UI_WIKI_SHORT_TRADE_2	{<TRADEABLE>务农<>非常赚钱。建造一个<TECHNOLOGY
 UI_WIKI_SHORT_TRADE_6	{制作<VAL_ON>高级产品<>是一个挣钱的好方法。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_TRADE_3	{在<VAL_ON>不同的恒星系<>里，资源会以<VAL_ON>不同的价格<>出售。规划贸易航线以实现利润最大化。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_TRADE_4	{货船拥有<VAL_ON>大容量库存<>和先进的<TECHNOLOGY>曲速飞行能力<>。要购买货船，登船后与<VAL_ON>船长<>交谈。<VAL_ON>了解更多......<>}
-UI_WIKI_SHORT_FLEETS	{命令一艘大型<COMMODITY>主力飞船<>提供一些福利。其中最重要的是指挥<SPECIAL>护卫舰<>舰队的能力。<VAL_ON>了解更多......<>}
+UI_WIKI_SHORT_FLEETS	{命令一艘大型<COMMODITY>主力舰<>提供一些福利。其中最重要的是指挥<SPECIAL>护卫舰<>舰队的能力。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_FLEETSA	{<SPECIAL>护卫舰<>远征需要一间<TECHNOLOGY>舰队指挥室<>。<TECHNOLOGY>领航员<>可为你的舰队计划远征。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_TRADE_7	{<SPECIAL>声望<>是你在外星种族与派系中的<VAL_ON>名声<>。更高的声望能允许你参与更多的<STELLAR>任务<>、接触更多的<TECHNOLOGY>技术<>以及<COMMODITY>贸易<>选项。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_TRADE_5	{每座<COMMODITY>空间站<>都有<VAL_ON>任务板<>。工作可提供货币、纳米星团、技术或更多其他报酬。<VAL_ON>了解更多......<>}
@@ -5116,7 +5116,7 @@ UI_FIRST_BIOFRIG_DREAM_3_OPT_A	{耐心等待，补充燃料}
 UI_FIRST_BIOFRIG_DREAM_3_OPT_B	{收集风暴水晶}
 UI_FIRST_BIOFRIG_DREAM_3_OPT_C	{离开这个凶险的行星}
 UI_FIRST_BIOFRIG_DREAM_4	{生物对我的选择做出了回应，调整了它的歌声。虽然幻象由我塑造，但我感知到这是%NAME%在我们的伙伴关系中寻找自己位置的一种方式。
-画面变换了。我身处主力飞船的舰桥上，功率水平临界，所有系统都在失效。工程人员需要时间进行维修，但擅于浑水摸鱼海盗可能随时会袭击这艘脆弱的货船......}
+画面变换了。我身处主力舰的舰桥上，功率水平临界，所有系统都在失效。工程人员需要时间进行维修，但擅于浑水摸鱼海盗可能随时会袭击这艘脆弱的货船......}
 UI_FIRST_BIOFRIG_DREAM_4_OPT_A	{保存能量}
 UI_FIRST_BIOFRIG_DREAM_4_OPT_B	{将能量转移到超光速推进器}
 UI_FIRST_BIOFRIG_DREAM_4_OPT_C	{向当局寻求帮助}
@@ -5417,7 +5417,7 @@ BLD_FRE_ROOM_VEHICLE_DESC	{先进的集成货船设备。建造召唤站后，�
 BLD_FRE_ROOM_VEHICLE_SUB	{快速部署货船模块}
 BLD_FRE_ROOM_FLEET_NAME	{舰队指挥室}
 BLD_FRE_ROOM_FLEET_NAME_L	{舰队指挥室}
-BLD_FRE_ROOM_FLEET_DESC	{核心<TECHNOLOGY>舰队管理站<>。这一先进的全息通讯站对于主力飞船从舒适角度管理舰队探险是至关重要的。该模块作为一个<STELLAR>完整的房间<>设置，并预装了其功能单元。
+BLD_FRE_ROOM_FLEET_DESC	{核心<TECHNOLOGY>舰队管理站<>。这一先进的全息通讯站对于主力舰从舒适角度管理舰队探险是至关重要的。该模块作为一个<STELLAR>完整的房间<>设置，并预装了其功能单元。
 
 建议使用者需要<STELLAR>多座站点<>同时管理多个远征。}
 BLD_FRE_ROOM_FLEET_SUB	{远征管理终端}
@@ -5844,7 +5844,7 @@ BLD_GRASS_7_DESC	{一种坚韧的观赏草，适合在所有生物群落、土�
 BLD_S_POSTER23_NAME	{出航海报}
 BLD_S_POSTER23_NAME_L	{出航海报}
 BLD_S_POSTER23_DESCRIPTION	{一幅自附着且无褶皱的专属墙壁艺术。
-这幅大型绘画描绘的是一艘主力飞船消失在无尽夜空中的场景。}
+这幅大型绘画描绘的是一艘主力舰消失在无尽夜空中的场景。}
 BLD_S_POSTER24_NAME	{外交海报}
 BLD_S_POSTER24_NAME_L	{外交海报}
 BLD_S_POSTER24_DESCRIPTION	{一件专属自附着的无褶皱墙壁艺术。
@@ -5995,7 +5995,7 @@ UI_EXPD_EGG_08_DESC	{一个有生命的、可生育的卵，<TRADEABLE>已可孵
 根据扫描结果显示，里面的生物拥有<SPECIAL>凝胶状<>以及<TECHNOLOGY>发光<>的基因潜质。}
 UI_EXPD_TITLE_08_NAME	{头衔：探寻者}
 UI_EXPD_TITLE_08_NAME_L	{头衔：探寻者}
-UI_EXPD_TITLE_08_DESC	{专属<STELLAR>探险家头衔<>，纪念你完成了<STELLAR>极星<>远征，并完成了主力飞船上的漫长航行。
+UI_EXPD_TITLE_08_DESC	{专属<STELLAR>探险家头衔<>，纪念你完成了<STELLAR>极星<>远征，并完成了主力舰上的漫长航行。
 
 请使用<TECHNOLOGY>外观修改器<>在你的旗帜上应用此头衔。}
 UI_PLAYER_TITLE_EXPD8	{%NAME%，探寻者}
@@ -6003,10 +6003,10 @@ BLD_DECAL_EXPD_08_NAME	{极星远征贴花}
 BLD_DECAL_EXPD_08_NAME_L	{极星远征贴花}
 BLD_DECAL_EXPD_08_DESCRIPTION	{专属的可放置贴花，为你的基地增添风格和美观。
 
-此贴花为完成了<STELLAR>极星<>远征并完成了主力飞船上的漫长航行的纪念品。}
+此贴花为完成了<STELLAR>极星<>远征并完成了主力舰上的漫长航行的纪念品。}
 UI_BANNER_EXPD_08_NAME	{极星远征旗帜}
 UI_BANNER_EXPD_08_NAME_L	{极星远征旗帜}
-UI_BANNER_EXPD_08_DESC	{装备上这枚专属的<STELLAR>个人旗帜<>，纪念你完成‘极星’<STELLAR>远征<>并完成了主力飞船上的漫长航行。
+UI_BANNER_EXPD_08_DESC	{装备上这枚专属的<STELLAR>个人旗帜<>，纪念你完成‘极星’<STELLAR>远征<>并完成了主力舰上的漫长航行。
 
 在外观修改器<TECHNOLOGY>中将这面旗帜应用至你的个人档案<>。}
 UI_TIP_BANNER_EXPD_08	{极星远征旗帜}
@@ -6037,7 +6037,7 @@ UI_FREI_LIFESUPP_SUB	{货船维生系统模块}
 UI_SEASON_8_NAME	{极星}
 UI_SEASON_8_NAME_U	{极星}
 UI_SEASON_8_MAIN_TITLE	{远征八：极星}
-UI_SEASON_8_MAIN_MSG	{<FUEL>警告<>：主力飞船已严重损坏
+UI_SEASON_8_MAIN_MSG	{<FUEL>警告<>：主力舰已严重损坏
 选择<EXPED>日志1：紧急情况<>以查看具体情况在
 <STELLAR>远征<>页面（<>OPTIONS<IMG>）中可找到新的里程碑}
 UI_EXPED8_DETAIL_DESC	{ <TECHNOLOGY>%FREIGHTER_NAME%的航行<>已经开始！<STELLAR>远征<>页面将显示你的旅程进度。
@@ -6045,7 +6045,7 @@ UI_EXPED8_DETAIL_DESC	{ <TECHNOLOGY>%FREIGHTER_NAME%的航行<>已经开始！<S
 完成<TECHNOLOGY>里程碑<>即可获得奖励。完成一个<COMMODITY>阶段<>的所有里程碑，可获得特别专属物品。}
 UI_EXPED8_DETAIL_LINE1	{在飞船受到严格管制的情况下，你的<TECHNOLOGY>货船<>将会是主要的交通工具。 }
 UI_EXPED8_DETAIL_LINE2	{完成<TECHNOLOGY>里程碑<>，获取<STELLAR>专属奖励<>。按<TRADEABLE>任意顺序<>完成里程碑。}
-UI_EXPED8_DETAIL_LINE3	{驾驶你的主力飞船在星系中航行，抵达各个<SPECIAL>会面点<>以赢取丰厚奖励。}
+UI_EXPED8_DETAIL_LINE3	{驾驶你的主力舰在星系中航行，抵达各个<SPECIAL>会面点<>以赢取丰厚奖励。}
 UI_EXPED8_DETAIL_LINE4	{<STELLAR>任意存档<>都可访问专属奖励。}
 UI_BUILD_FRE_1_NAME	{平滑运转的机械}
 UI_BUILD_FRE_1_NAME_U	{平滑运转的机械}
@@ -6112,7 +6112,7 @@ UI_FIX_FREIGHTER_MSG	{<FUEL>警告<>：维生系统已受损
 修复关键货船子系统
 %REPAIR%
 系统通过<COMMODITY>标记<>（<IMG>PIN<>）部件来获得指引}
-UI_FIX_FREIGHTER_MSG2	{<FUEL>警告<>：曲速引擎已严重受损
+UI_FIX_FREIGHTER_MSG2	{<FUEL>警告<>：曲速引擎严重受损
 修复关键货船子系统
 %REPAIR%
 系统通过<COMMODITY>标记<>（<IMG>PIN<>）部件来获得指引}
@@ -6130,7 +6130,7 @@ UI_EXPED_VISIT_PLANET_MSG3	{登陆了一颗行星
 使用<IMG>SCAN<>以寻找合适的登陆点}
 UI_WARP_FREIGHTER_NAME	{启动引擎}
 UI_WARP_FREIGHTER_NAME_U	{启动引擎}
-UI_WARP_FREIGHTER_DESC	{在你的主力飞船中进行曲速飞行}
+UI_WARP_FREIGHTER_DESC	{在你的主力舰中进行曲速飞行}
 UI_WARP_FREIGHTER_DESC_D	{与你的货船一起跨星际航行}
 UI_EXPED_INSTALL_TECH_NAME	{银河目录}
 UI_EXPED_INSTALL_TECH_NAME_U	{银河目录}
@@ -6270,7 +6270,7 @@ UI_BLACKHOLE_DRIVE_OBJ2_TIP	{这艘货船的<SPECIAL>奇点引擎<>必须在舰�
 UI_BLACKHOLE_DRIVE_MSG1	{获得<SPECIAL>%ITEM%<>的计划
 完成里程碑<EXPED>%MILESTONE%<>以了解更多}
 UI_BLACKHOLE_DRIVE_MSG2	{在你的货船上安装<SPECIAL>%ITEM%<>
-返回主力飞船以开始安装}
+返回主力舰以开始安装}
 UI_BLACKHOLE_DRIVE_MSG3	{在你的套装中安装<SPECIAL>%ITEM%<>
 按<IMG>INVENTORY<>
 开启库存选择一个空槽位并按<IMG>TECHMENU<>开始安装}
@@ -6278,7 +6278,7 @@ UI_BLACKHOLE_DRIVE_MSG4	{完成<SPECIAL>%ITEM%<>
 使用<IMG>TECHMENU<>检查安装进度
 用<IMG>PIN<>标记所需组件}
 UI_BLACKHOLE_DRIVE_MSG5	{激活<SPECIAL>奇点引擎<>
-返回你的主力飞船，进行极端重力机动}
+返回你的主力舰，进行极端重力机动}
 UI_BLACKHOLE_DRIVE_MSG6	{激活<SPECIAL>奇点引擎<>
 与货船指挥官对话，开始机动
 待命，等待移码倒置......}
@@ -7888,7 +7888,7 @@ UI_EXPED_FIX_FREI_MSG1	{<SPECIAL>瘟疫<>海盗破坏了货船
 <COMMODITY>标记<>（<IMG>PIN<>）构件以获取修理引导}
 UI_EXPED_FIX_FREI_MSG2	{利用货船强大的<TECHNOLOGY>曲速飞行驱动器<>前往一处<FUEL>红色<>恒星系
 拜访货船的<STELLAR>曲速星图<>以探索星系}
-UI_EXPED_STAR_RED_FREI_OBJ_TIP	{在<TECHNOLOGY>星系图<>中寻找一个<FUEL>红色<>恒星系。在你的主力飞船的舰桥
+UI_EXPED_STAR_RED_FREI_OBJ_TIP	{在<TECHNOLOGY>星系图<>中寻找一个<FUEL>红色<>恒星系。在你的主力舰的舰桥
 访问<STELLAR>曲速星图<>以探索星系。}
 UI_EXPED_BUILD_SUB_NAME	{沉没}
 UI_EXPED_BUILD_SUB_NAME_U	{沉没}
@@ -8265,7 +8265,7 @@ UI_EXPED_GET_SQUAD_DESC	{招募一名驾驶员到你的战团}
 UI_EXPED_GET_SQUAD_DESC_D	{战团驾驶员已招募}
 UI_EXPED_GET_SQUAD_OBJ	{招募一名驾驶员到你的战团}
 UI_EXPED_GET_SQUAD_OBJ_TIP	{指挥<EXPED>货船<>，可以招募一个驾驶员战团来协助太空作战。
-<STELLAR>通过你的主力飞船舰桥上的<TECHNOLOGY>管理舰队<>终端来管理你的战团<>。
+<STELLAR>通过你的主力舰舰桥上的<TECHNOLOGY>管理舰队<>终端来管理你的战团<>。
 每次当你看到飞船着陆都可以招募驾驶员。<COMMODITY<>空间站<>、<STELLAR>货船<>和<TECHNOLOGY>行星前哨基站<>等交通枢纽是征召新兵的主要地点。}
 UI_EXPED_GET_SQUAD_MSG1	{获取一艘<TECHNOLOGY>星际货船<>以招募战团
 曲速飞行到新的星系以找到<STELLAR>货船组<>
@@ -8743,10 +8743,10 @@ UI_PIRATE_RIVALS_MSG4	{剩余%NAME%战团：<FUEL>%AMOUNT%<>
 使用<IMG>PREVTARGET<>/<IMG>NEXTTARGET<>变更目标}
 UI_FREIGHTER_ATTACK_TITLE	{突袭货船}
 UI_MISSION_FREIGHT_TARGET	{目标船队}
-UI_FREIGHTER_ATTACK_BOARD_OBJ	{袭击一艘主力飞船}
+UI_FREIGHTER_ATTACK_BOARD_OBJ	{袭击一艘主力舰}
 UI_FREIGHTER_ATTACK_SLOW_MSG	{侦测到%CONVOYNAME%的<STELLAR>%FREIGHTER%<>！
 使用<IMG>BRAKE<>退出<TECHNOLOGY>脉冲驱动器<>并开始攻击}
-UI_FREIGHTER_ATTACK_DESC	{有传言说一支满载而归的远征队<STELLAR>%CONVOYNAME%<>正在附近的恒星系中航行，他们的主力飞船<STELLAR>%FREIGHTER%<>被长途旅行途中收集的高价货物压得喘不过气来。
+UI_FREIGHTER_ATTACK_DESC	{有传言说一支满载而归的远征队<STELLAR>%CONVOYNAME%<>正在附近的恒星系中航行，他们的主力舰<STELLAR>%FREIGHTER%<>被长途旅行途中收集的高价货物压得喘不过气来。
 
 有进取心的自由职业者可能会抓住<STELLAR>机会<>，跟随船队在星系间移动的路线......}
 UI_FREIGHTER_ATTACK_SUB	{目标：%FREIGHTER%}

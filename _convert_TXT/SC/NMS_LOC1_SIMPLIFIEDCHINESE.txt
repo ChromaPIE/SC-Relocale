@@ -56,7 +56,7 @@ NEW_TECH	{发现新技术！}
 WPN_NOAMMO	{武器充能已耗尽}
 WPN_NOAMMO_ALT	{库存内无弹药}
 WPN_NOTECH	{多用途工具中无启用的技术}
-WPN_BROKEN	{%WEAPON%已严重受损}
+WPN_BROKEN	{%WEAPON%严重受损}
 WPN_SUPPRESSED	{多用途工具不可用}
 TECH_DAMAGED	{%TECH%严重受损}
 TECH_NEEDS_INSTALL	{%TECH%需要安装}
@@ -511,7 +511,7 @@ SUBSTANCE_SPECIAL_U	{异星}
 SUBSTANCE_SPECIAL	{异星}
 SUBSTANCE_SPECIAL_INTRCT	{<SPECIAL>异星<>}
 DISC_UPLOAD_AMOUNT	{%AMOUNT% 货币 %CLASS% 发现已上传}
-WARN_TECH_DAMAGED	{此技术已严重受损}
+WARN_TECH_DAMAGED	{该技术严重受损}
 TELEPORT_VERB	{传送}
 OPTS_REVERT_TO_CURRENT	{重新载入当前[%TIMESTAMP%]}
 OPTS_NO_CURRENT_SAVE	{当前：无数据}
@@ -1842,7 +1842,7 @@ NOTIFY_SHELTER	{寻找藏身处以免受%HAZARD%伤害
 恢复%TECH% <IMG>INVENTORY<>}
 NOTAKEOFF_NODRIVE	{未安装定向推进器}
 NOTAKEOFF_NOFUEL	{%TECH%内燃料不足}
-NOTIFY_BROKEN	{%TECH%已严重受损}
+NOTIFY_BROKEN	{%TECH%严重受损}
 NOTIFY_INSTALL	{%TECH%需要安装}
 DEATH_POLICE	{因护卫攻击飞船丧命。}
 DEATH_ASTEROID	{因小行星碰撞丧命。}
@@ -3595,7 +3595,7 @@ WAR_FAC_OPT_C_7	{抢救技术库中的物品}
 WAR_FAC_RES_A_7	{我激活了紧急资源库挽回系统。无人机赶在所有货物被焚毁之前救出了交易库里的所有货物。}
 WAR_FAC_RES_B_7	{我激活了紧急资源库挽回系统。无人机赶在所有货物被焚毁之前救出了遗物库里的所有货物。}
 WAR_FAC_RES_C_7	{我激活了紧急资源库挽回系统。无人机赶在所有货物被焚毁之前救出了技术库里的所有货物。}
-WAR_FAC_DESC_8	{应急频段发出了通讯。终端显示了一段来自附近一艘维吉恩主力飞船的回应代码。}
+WAR_FAC_DESC_8	{应急频段发出了通讯。终端显示了一段来自附近一艘维吉恩主力舰的回应代码。}
 DNT_WAR_FAC_LANG_8	{Security breach! Military action unstoppable! Vy'keen High Command vessel coordinate upload imminent!}
 WAR_FAC_DESC_8A	{它似乎在回应我的入侵。从屏幕上的图像来看，它似乎在启动武器系统......}
 WAR_FAC_OPT_A_8	{播送安全代码}
@@ -11899,11 +11899,11 @@ FREIGHTER_SUBTITLE	{管理货船货物}
 TRANSFER_DESC_FREIGHTER	{将物品从飞船转移至货船}
 CALL_FREIGHTER	{召集货船}
 CALL_FREIGHTER_DESC	{召集你的货船进入轨道 %CALL_COST%}
-FREIGHTER_MARKER	{你的主力飞船}
+FREIGHTER_MARKER	{你的主力舰}
 NEW_FREIGHTER_TITLE	{新的货船}
-CAPITAL_SHIP_MARKER	{%FREIGHTER%（你的主力飞船）}
-CAPITAL_SHIP_NAME_L	{主力飞船}
-OWNED_CAPITAL_SHIP_NAME_L	{你的主力飞船}
+CAPITAL_SHIP_MARKER	{%FREIGHTER%（你的主力舰）}
+CAPITAL_SHIP_NAME_L	{主力舰}
+OWNED_CAPITAL_SHIP_NAME_L	{你的主力舰}
 BUY_DECLINE_DESC_FREIGHTER	{拒绝购买货船。}
 SMALL_BUILD_INFO_1_REQ	{可建造：<STAT>%CAN_BUILD%<>
 花费：<STAT>%REQ_1%<>

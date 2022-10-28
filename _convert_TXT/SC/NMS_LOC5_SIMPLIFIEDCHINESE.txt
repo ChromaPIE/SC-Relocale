@@ -1723,7 +1723,7 @@ UI_BASIC_TECH_SUB	{核心居住技术}
 UI_BASIC_WOOD_SUB	{木制藏身处}
 UI_BASIC_METAL_SUB	{金属藏身处}
 UI_BASIC_CONCRETE_SUB	{混凝土藏身处}
-UI_FREIGHTER_TREE	{<IMG>DIAMONDBULLET<>主力飞船研究<IMG>DIAMONDBULLET<>}
+UI_FREIGHTER_TREE	{<IMG>DIAMONDBULLET<>主力舰研究<IMG>DIAMONDBULLET<>}
 UI_WATER_TREE	{水中建筑}
 UI_EXOCRAFT_TREE	{运输模块}
 UI_BASETECH_TREE	{技术模块}
@@ -7920,7 +7920,7 @@ UI_FRIG_TOKEN_NAME_L	{回收的护卫舰模块}
 UI_FRIG_TOKEN_DESC	{取自大型飞船残骸的一种技术模块。可以从<STELLAR>货船坠毁地点<>收集，或在<STELLAR>护卫舰远征<>期间回收。
 
 当前状态下毫无用处，你货船上的<TECHNOLOGY>研究站<>也许能把它转化成可用的技术。}
-UI_FRIG_TOKEN_SUB	{主力飞船接线平台}
+UI_FRIG_TOKEN_SUB	{主力舰接线平台}
 UI_SHIP_INV_TOKEN_NAME	{储备扩充}
 UI_SHIP_INV_TOKEN_NAME_L	{储备扩充}
 UI_SHIP_INV_TOKEN_DESC	{从<STELLAR>飞船残骸<>里采集出来的技术模块。也可以从<STELLAR>货船失事地点<>获得，或在<STELLAR>护卫舰远征<>期间回收。

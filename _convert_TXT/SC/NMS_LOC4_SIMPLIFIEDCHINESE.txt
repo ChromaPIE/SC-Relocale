@@ -587,7 +587,7 @@ UI_GUIDE_BODY_DISMANTLE	{从建造菜单（<IMG>BUILD_MENU<>）中部署在星�
 <COMMODITY>警告<>：不要忘记你所部署的技术位置。}
 UI_GUIDE_TOPIC_FLEETS	{货船舰队}
 UI_GUIDE_TOPIC_FLEETSA	{舰队远征}
-UI_GUIDE_BODY_FLEETS	{指挥一艘大型<COMMODITY>主力飞船<>可提供一些好处。其中最重要的是指挥<SPECIAL>护卫舰<>舰队的能力。
+UI_GUIDE_BODY_FLEETS	{指挥一艘大型<COMMODITY>主力舰<>可提供一些好处。其中最重要的是指挥<SPECIAL>护卫舰<>舰队的能力。
 
 找到并购买<SPECIAL>护卫舰<>以添加到你的舰队中。一个<TECHNOLOGY>护卫舰组<>中可招募的护卫舰将以图标标注。靠近一艘<TRADEABLE>可招募的护卫舰<>，并通过<TECHNOLOGY>飞船通讯器<>与它们谈话。
 
@@ -1011,7 +1011,7 @@ UI_SPACE_STAIRS_NAME_L	{货船楼梯}
 UI_SPACE_WALL_NAME_L	{货船内部墙}
 UI_FLEET_COMMAND_NAME	{舰队指挥室}
 UI_FLEET_COMMAND_NAME_L	{舰队指挥室}
-UI_FLEET_COMMAND_DESC	{核心<TECHNOLOGY>舰队管理站<>。这一先进的全息通讯站对于主力飞船从舒适角度管理舰队探险是至关重要的。
+UI_FLEET_COMMAND_DESC	{核心<TECHNOLOGY>舰队管理站<>。这一先进的全息通讯站对于主力舰从舒适角度管理舰队探险是至关重要的。
 
 建议使用者需要多座站点同时管理多个远征。}
 UI_FLEET_COMMAND_SUB	{远征管理终端}
@@ -1253,7 +1253,7 @@ UI_NOTIFY_TIP_TITLE	{套装指引信息}
 UI_NOTIFY_SHIP_TIP_TITLE	{飞船指引信息}
 UI_NOTIFY_EXOCRAFT_TIP_TITLE	{强化艇指引信息}
 UI_NOTIFY_SHIP_COMBAT_TITLE	{飞船战斗警报}
-FRIENDS_CAPITAL_SHIP_NAME_L	{%NAME%的主力飞船}
+FRIENDS_CAPITAL_SHIP_NAME_L	{%NAME%的主力舰}
 HUD_RELOADING	{正在重新加载}
 HUD_COOLDOWN	{正在充能}
 MARKER_TAG	{按住 <IMG>MARKER_TAG<> 添加标签}
@@ -1898,7 +1898,7 @@ UI_EMOTE_CHAT_ATTACK_WALKER	{%NAME%遇上了护卫步行机}
 UI_EMOTE_CHAT_DISCOVER_CRE	{%NAME%发现了一种生物（%DISC_NAME%）}
 UI_EMOTE_CHAT_DISCOVER_MIN	{%NAME%发现了一种矿物（%DISC_NAME%）}
 UI_EMOTE_CHAT_DISCOVER_PLANT	{%NAME%发现了一种植物（%DISC_NAME%）}
-UI_EMOTE_CHAT_SUMMON_FREIGHT	{%NAME%召唤了主力飞船（%FREIGHT_NAME%）}
+UI_EMOTE_CHAT_SUMMON_FREIGHT	{%NAME%召唤了主力舰（%FREIGHT_NAME%）}
 UI_EMOTE_CHAT_INSTALL_TECH	{%NAME%安装了%TECH%}
 UI_EMOTE_CHAT_NEW_PLANET	{%NAME%降落在了星球上（%PLANET%）}
 UI_EMOTE_CHAT_PULSE_TO_PLANET	{%NAME%正飞向%PLANET%行星}
@@ -1910,7 +1910,7 @@ UI_EMOTE_KILLED_WALKER	{%NAME%摧毁了一部护卫步行机}
 UI_EMOTE_KILLED_C_SENTINEL	{%NAME%摧毁了一个受损的护卫}
 UI_EMOTE_GATHERED	{%NAME%收集了%ITEM% x %NUM%}
 UI_EMOTE_GATHERED_NO_NUMBER	{%NAME%收集了%ITEM%}
-UI_EMOTE_FREIGHTER	{%NAME%购买了主力飞船%FREIGHTER%}
+UI_EMOTE_FREIGHTER	{%NAME%购买了主力舰%FREIGHTER%}
 UI_EMOTE_FRIGATE	{%NAME%购买了护卫舰%FRIGATE%}
 UI_EMOTE_CHAT_TAME_CREATURE	{%NAME%驯服了一只生物}
 UI_EMOTE_CHAT_TAME_CREATURE_ALT	{%NAME%驯服了一只生物（%DISC_NAME%）}
@@ -4270,7 +4270,7 @@ NPC_COMM_WEEK_08_PORTAL_DESC	{传送门在我面前慢慢打开。
 NPC_COMM_WEEK_08_PORTAL_DESC2	{传送门中传来的能量既热又冷，既令人排斥又诱人靠近。那是一个非常刺耳的呜咽声，其频率之高几乎无法听见，但是我却听见了。那是某种来自远方的一个新生世界的回音。}
 UI_FLEET_TUT_TITLE	{货船命令}
 UI_FLEET_TUT_SUB	{召集舰队开始远征}
-UI_FLEET_TUT_DESC	{命令一艘大型<COMMODITY>主力飞船<>提供一些福利。其中最重要的是计划和指挥远征的能力。
+UI_FLEET_TUT_DESC	{命令一艘大型<COMMODITY>主力舰<>提供一些福利。其中最重要的是计划和指挥远征的能力。
 找到并购买<SPECIAL>护卫舰<>以添加到你的舰队中。在货船<TECHNOLOGY>领航员<>的帮助下，为你的舰队找到有利可图的远征航线。
 远征是一项高收益的工作，并提供了获得稀有和特殊奖励的机会。}
 UI_FLEET_TUT_OBJ0	{建立一个舰队指挥室}
@@ -9752,7 +9752,7 @@ EXP_FLEET_PURCHASE_RES_A_1	{很好，旅行者船长。我们将立即与舰队�
 EXP_FLEET_PURCHASE_RES_A_2	{我们很乐意加入你的舰队，旅行者。}
 EXP_FLEET_PURCHASE_RES_A_3	{咦哟！我们的船是你的了，旅行者。}
 TRA_FLEET_PURCHASE_RES_A_1	{你做了一个很棒的决定，朋友。}
-TRA_FLEET_PURCHASE_RES_A_2	{好的，船长朋友！我们会立即将你指引至主力飞船！}
+TRA_FLEET_PURCHASE_RES_A_2	{好的，船长朋友！我们会立即将你指引至主力舰！}
 TRA_FLEET_PURCHASE_RES_A_3	{新船长是个好朋友！船员们会很高兴加入你们的舰队的！}
 WAR_FLEET_PURCHASE_RES_A_1	{你不会后悔的，闯入者！}
 WAR_FLEET_PURCHASE_RES_A_2	{格拉！我们将为你们的舰队带来莫大的荣耀！}
@@ -10845,7 +10845,7 @@ FLEET_TRADING_FAIL_30	{部署贸易无人机至%PLANET%星球。无人机的 AI 
 FLEET_TRADING_DAMAGE_1	{试图在互为对手的%RACE%贸易派系之间进行谈判。在会谈中，间谍登上了船，并设置了炸弹。内部损害严重。}
 FLEET_TRADING_DAMAGE_2	{接待来自重要贸易家族的代表团。在访问期间，敌对派系的特工登上了船并暗杀了几位客人。飞船内部损害严重。}
 FLEET_TRADING_DAMAGE_3	{从%PLANET%星球购买了大量压缩大气气体。货舱压缩机失效，系统破裂。气体泄露。少数船员中毒。}
-FLEET_TRADING_DAMAGE_4	{船员叛乱，企图获得更大份额的舰队利润。内部安保人员将其挫败并逮捕了团伙头目，但在战斗之前飞船内战已严重受损。}
+FLEET_TRADING_DAMAGE_4	{船员起事，企图获得更大份额的舰队利润。内部安保人员平定了叛乱并逮捕了团伙头目，但在此前飞船内部便已严重受损。}
 FLEET_TRADING_DAMAGE_5	{贸易无人机被部署至%SYSTEM%星系。AI 出现故障，惊动了太空站安保人员。自动武器系统向舰队开火。船体受损严重。最后只好逃跑。}
 FLEET_TRADING_DAMAGE_6	{在%SYSTEM%分区部署无人机。AI 发生故障。无人机移除并出售了几个核心飞船部件。}
 FLEET_TRADING_DAMAGE_7	{在舰队上接待了维吉恩贸易代表团。宴会持续了好几天。庆祝活动变得越来越疯狂。飞船内部严重损坏。船体上有几处被破坏。}
@@ -11437,7 +11437,7 @@ FLEET_UI_NOTIFY_NO_EVENT	{舰队已抵达%SYSTEM%星系。
 FLEET_UI_NOTIFY_EVENT	{舰队已抵达%SYSTEM%星系。
 船长报告了可能进行的活动......}
 FLEET_UI_NOTIFY_RETURN	{舰队已完成任务
-正在向主力飞船%FREIGHTER%进近}
+正在向主力舰%FREIGHTER%进近}
 FLEET_UI_EXPED_RENAME	{重命名远征}
 FLEET_UI_FRIGATE_RENAME	{重命名护卫舰}
 FLEET_UI_HISTORY_TITLE	{历史}
@@ -11474,7 +11474,7 @@ FLEET_DAMAGED_COMPONENT	{受损部件}
 FLEET_DAMAGE_REPAIR	{%REPAIR%修复了%NAME%。}
 FLEET_DAMAGE_REPAIR_LONG	{%REPAIR%运用%TRAIT%修复了%NAME%。}
 FLEET_DAMAGE_REPAIR_SELF	{%REPAIR%运用%TRAIT%自我修复。}
-FLEET_RETURNED_HOME_SAVED_TIME	{任务完成。环绕主力飞船%FREIGHTER%保持阵型
+FLEET_RETURNED_HOME_SAVED_TIME	{任务完成。环绕主力舰%FREIGHTER%保持阵型
 %NAME%的驱动器升级节约了大约%HOURS%小时}
 FLEET_SALVAGED	{%NAME%回收了额外的物品。}
 FLEET_SALVAGED_LONG	{%NAME%运用%TRAIT%回收了额外的物品。}
@@ -11490,7 +11490,7 @@ POWERUPS_TITLE	{技术模块}
 POWERUPS_DESC	{装备<COMMODITY>临时护卫舰升级<>。
 
 一次远征技术升级功能可以提升舰队中所有飞船的能力。模块将在探险队完成时消耗。}
-UI_FREI_BONUS_TITLE	{主力飞船及升级}
+UI_FREI_BONUS_TITLE	{主力舰及升级}
 FLEET_UI_COMMENCE	{开始远征}
 FLEET_EXPED_EXPLORE_NAME_1	{进入%PLACE%的%JOURNEY1%}
 FLEET_EXPED_EXPLORE_NAME_2	{在%PLACE%的%JOURNEY2%}
