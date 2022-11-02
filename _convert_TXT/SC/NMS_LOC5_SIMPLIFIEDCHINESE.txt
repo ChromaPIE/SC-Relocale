@@ -2287,8 +2287,8 @@ UI_SALVAGE_CLASS_RES	{飞船等级提升确认......“<STELLAR>%SHIPNAME%<>”�
 UI_SALVAGE_LANG	{无人机已部署于目标飞船“<STELLAR>%SHIPNAME%<>”......可用操作：<STELLAR>升级<>等级和/或库存容量或<FUEL>将飞船熔为废料<>。}
 UI_SALVAGE_LANG2	{扩大飞船<TECHNOLOGY>库存容量<>或提升飞船<STELLAR>等级<>？使用<TECHNOLOGY>储备扩充<>部件可以免费提升库存容量。}
 UI_SALVAGE_CONFIRM_LANG	{<FUEL>警告：<>飞船“<STELLAR>%SHIPNAME%<>”和所有货物将被摧毁！确认回收决定？}
-UI_SALVAGE_SLOTS_OSD	{飞船库存大小提升了！}
-UI_SALVAGE_CLASS_OSD	{飞船等级提升了！}
+UI_SALVAGE_SLOTS_OSD	{已扩展飞船库存！}
+UI_SALVAGE_CLASS_OSD	{已提升飞船等级！}
 UI_SALVAGE_SCRAP_OSD	{摧毁飞船获取废料<IMG>SLASH<>已发放部件}
 UI_SALVAGE_TITLE	{飞船装备}
 UI_SALVAGE_DESC	{购买改良<IMG>SLASH<>回收飞船}
