@@ -10,7 +10,7 @@ UI_GUIDE_BODY_NANITES	{<STELLAR>纳米星团<>是珍贵的材料。它是一种�
 
 <VAL_ON>空间站<>上的<TECHNOLOGY>任务分派员<>派发的特殊任务通常也是纳米星团的重要来源。
 
-最后，从<TECHNOLOGY>主力舰<>派出的<STELLAR>远征舰队<>经常会带回大量纳米星团。}
+最后，从<TECHNOLOGY>主力飞船<>派出的<STELLAR>远征舰队<>经常会带回大量纳米星团。}
 UI_VR_RECENTRE	{重定位虚拟现实视角}
 UI_PADOPTION_STICKS	{摇杆：平滑转向}
 UI_PADOPTIONS_STICKSSNAP	{摇杆：急转}
@@ -632,7 +632,7 @@ UI_CREA_DESC_BIOME_WCONT_1	{在行星%PLANET%出现，它就在那毫无凡尘�
 UI_CREA_DESC_BIOME_WSHELL_1	{这种奇特生物的宿主发现于行星%PLANET%，潜伏在无尽的废弃贝壳堆中。}
 UI_CREA_DESC_BIOME_WBONE_1	{发现于行星%PLANET%焦干而灼人的群山中。}
 UI_CREA_DESC_BIOME_WWIRE_1	{行星%PLANET%满目破碎的玻璃地貌，而这种生物就在其中折射着身影。}
-UI_CREA_DESC_BIOME_WHYDRO_1	{相遇于行星%PLANET%的一个远古文明废墟之中。}
+UI_CREA_DESC_BIOME_WHYDRO_1	{相遇于行星%PLANET%的一个古代文明废墟之中。}
 UI_CREA_DESC_PREDATOR1_1	{它习惯捕食，并格外小心地跟踪猎物。}
 UI_CREA_DESC_PREDATOR1_2	{它是凶猛的捕食者，在捕猎猎物时非常小心。}
 UI_CREA_DESC_PREDATOR1_3	{它是天生的捕食者，小心翼翼地跟踪猎物。}
@@ -973,49 +973,49 @@ UI_CREA_DESC_CARNIFISH13_1	{这种生物是好斗的狩猎者，会把所有被�
 UI_CREA_DESC_CARNIFISH14_1	{这种生物是好斗的狩猎者，会把所有被其咬住的鱼都当成食物。}
 UI_CREA_DESC_NOTE_15_2	{但是这种生物有一些令人特别不安的特质，重重阴影笼罩着它。对待它要极其谨慎。}
 UI_CREA_DESC_NOTE_89_1	{骨骼分析显示，它们的骨骼异常柔软，就好像是最近才长出来一样。可能这是它们防御机制？这样就能使其摆脱追击，然后再迅速重新长出肢体。}
-SENTINEL_NONE1	{⊗-无}
-SENTINEL_NONE2	{⊗-无处可寻}
-SENTINEL_NONE3	{⊗-不存在}
-SENTINEL_NONE4	{⊗-无法找到}
-SENTINEL_NONE5	{⊗-数量为零}
-SENTINEL_NONE6	{⊗-销声匿迹}
-SENTINEL_NONE7	{⊗-空}
-SENTINEL_NONE8	{⊗-消失}
-SENTINEL_NONE9	{⊗-荡然无存}
-SENTINEL_NONE10	{⊗-绝迹}
-SENTINEL_NONE11	{⊗-灭绝}
-SENTINEL_NONE12	{⊗-失踪}
-SENTINEL_RARE1	{△-低下}
-SENTINEL_RARE2	{△-鲜少}
-SENTINEL_RARE3	{△-低度警戒}
-SENTINEL_RARE4	{△-有限}
-SENTINEL_RARE5	{△-罕见}
-SENTINEL_RARE6	{△-稀少}
-SENTINEL_RARE7	{△-孤立}
-SENTINEL_RARE8	{△-松散}
-SENTINEL_RARE9	{△-偶见巡逻}
-SENTINEL_RARE10	{△-分散}
-SENTINEL_RARE11	{△-偶有发现}
-SENTINEL_RARE12	{△-鲜有}
-SENTINEL_DEFAULT1	{△△-聚精会神}
-SENTINEL_DEFAULT2	{△△-强制性}
-SENTINEL_DEFAULT3	{△△-繁多}
-SENTINEL_DEFAULT4	{△△-要求循矩}
-SENTINEL_DEFAULT5	{△△-要求服从}
-SENTINEL_DEFAULT6	{△△-定期巡逻}
-SENTINEL_DEFAULT7	{△△-常见}
-SENTINEL_DEFAULT8	{△△-无法动摇}
-SENTINEL_DEFAULT9	{△△-善于观察}
-SENTINEL_DEFAULT10	{△△-长存于世}
-SENTINEL_AGGRESSIVE1	{△△△-好斗}
-SENTINEL_AGGRESSIVE2	{△△△-狂乱}
-SENTINEL_AGGRESSIVE3	{△△△-高度警戒}
-SENTINEL_AGGRESSIVE4	{△△△-敌对巡逻}
-SENTINEL_AGGRESSIVE5	{△△△-有威胁性}
-SENTINEL_AGGRESSIVE6	{△△△-可憎}
-SENTINEL_AGGRESSIVE7	{△△△-狂热}
-SENTINEL_AGGRESSIVE8	{△△△-恶意}
-SENTINEL_AGGRESSIVE9	{△△△-不可避免}
+SENTINEL_NONE1	{无}
+SENTINEL_NONE2	{稀缺}
+SENTINEL_NONE3	{不存在}
+SENTINEL_NONE4	{不存在}
+SENTINEL_NONE5	{无}
+SENTINEL_NONE6	{不存在}
+SENTINEL_NONE7	{无}
+SENTINEL_NONE8	{无}
+SENTINEL_NONE9	{无}
+SENTINEL_NONE10	{无}
+SENTINEL_NONE11	{无}
+SENTINEL_NONE12	{失踪}
+SENTINEL_RARE1	{低}
+SENTINEL_RARE2	{最低}
+SENTINEL_RARE3	{低级警戒}
+SENTINEL_RARE4	{有限}
+SENTINEL_RARE5	{罕见}
+SENTINEL_RARE6	{稀少}
+SENTINEL_RARE7	{已隔离}
+SENTINEL_RARE8	{偏僻}
+SENTINEL_RARE9	{不定期巡逻}
+SENTINEL_RARE10	{分散}
+SENTINEL_RARE11	{间歇}
+SENTINEL_RARE12	{鲜有}
+SENTINEL_DEFAULT1	{聚精会神}
+SENTINEL_DEFAULT2	{强制}
+SENTINEL_DEFAULT3	{繁多}
+SENTINEL_DEFAULT4	{要求正统}
+SENTINEL_DEFAULT5	{要求服从}
+SENTINEL_DEFAULT6	{定期巡逻}
+SENTINEL_DEFAULT7	{繁多}
+SENTINEL_DEFAULT8	{坚定}
+SENTINEL_DEFAULT9	{善于观察}
+SENTINEL_DEFAULT10	{永久存在}
+SENTINEL_AGGRESSIVE1	{好斗}
+SENTINEL_AGGRESSIVE2	{狂乱}
+SENTINEL_AGGRESSIVE3	{高度警戒}
+SENTINEL_AGGRESSIVE4	{敌方巡逻}
+SENTINEL_AGGRESSIVE5	{有威胁性}
+SENTINEL_AGGRESSIVE6	{可憎}
+SENTINEL_AGGRESSIVE7	{狂热}
+SENTINEL_AGGRESSIVE8	{恶意}
+SENTINEL_AGGRESSIVE9	{不可避免}
 UI_CREA_DESC_NOTE_1_1	{额外观察数据：很多隐秘脚趾}
 UI_CREA_DESC_NOTE_1_2	{额外观察数据：很多隐秘脚趾}
 UI_CREA_DESC_NOTE_2_1	{额外观察数据：建造金属巢}
@@ -1588,8 +1588,8 @@ UI_SURVEY_READOUT_POWER	{潜在能量：%VALUE%}
 UI_SURVEY_READOUT_MINERALS	{矿物密度：%VALUE%}
 UI_SURVEY_READOUT_GAS	{气体浓度：%VALUE%}
 UI_MOVE_TECH_UI	{移动技术}
-UI_MOVE_TECH_SUB	{重新连接技术至新库存槽位}
-UI_MOVE_TECH_TIP	{<IMG>SELECT<>选择槽位以移动技术}
+UI_MOVE_TECH_SUB	{重新连接技术至新库存栏位}
+UI_MOVE_TECH_TIP	{<IMG>SELECT<>选择栏位以移动技术}
 PHOTO_UA_INSTRUCTIONS	{<IMG>PHOTO_COPYLOC<>复制地址<IMG>PHOTO_SHOWLOC<>隐藏}
 PHOTO_UA	{宇宙地址}
 FRONTEND_UA	{直接加载至宇宙地址}
@@ -1736,7 +1736,7 @@ UI_BASIC_TECH_SUB	{核心居住技术}
 UI_BASIC_WOOD_SUB	{木制藏身处}
 UI_BASIC_METAL_SUB	{金属藏身处}
 UI_BASIC_CONCRETE_SUB	{混凝土藏身处}
-UI_FREIGHTER_TREE	{<IMG>DIAMONDBULLET<>主力舰研究<IMG>DIAMONDBULLET<>}
+UI_FREIGHTER_TREE	{<IMG>DIAMONDBULLET<>主力飞船研究<IMG>DIAMONDBULLET<>}
 UI_WATER_TREE	{水中建筑}
 UI_EXOCRAFT_TREE	{运输模块}
 UI_BASETECH_TREE	{技术模块}
@@ -1951,7 +1951,7 @@ UI_NOT_HUNGRY	{近期喂过食}
 UI_WANTS_BAIT	{准备驯养}
 UI_COOKER_STORAGE_TIP	{使用<IMG>SELECT<>来快速传输原料至营养处理器的库存中}
 UI_ALIEN_BRACKETS	{-{{ %s }}-}
-UI_ALIEN_CLOSING_BRACKET	{ -}
+UI_ALIEN_CLOSING_BRACKET	{ }}-}
 UI_BURN_TIME_LABEL	{燃料可用%AMOUNT%}
 UI_FURNANCE_DEPLETED	{熔炉已空}
 UI_DISABLED	{已停用}
@@ -2295,19 +2295,19 @@ UI_COST_NO_CLASS	{达到最大等级}
 UI_SALVAGE_RES	{回收无人机已部署。飞船“<STELLAR>%SHIPNAME%<>”将立即被处理以回收废旧材料。回收的部件将自动加入客户的套装。}
 UI_SALVAGE_INV_OPTA	{购买库存容量}
 UI_SALVAGE_INV_OPTB	{应用强化}
-UI_SALVAGE_INV_RES	{库存扩大确认......1个<STELLAR>额外库存槽位<>已加入飞船。}
+UI_SALVAGE_INV_RES	{库存扩大确认......1个<STELLAR>额外库存栏位<>已加入飞船。}
 UI_SALVAGE_CLASS_RES	{飞船等级提升确认......“<STELLAR>%SHIPNAME%<>”已成功<TRADEABLE>升级<>！}
 UI_SALVAGE_LANG	{无人机已部署于目标飞船“<STELLAR>%SHIPNAME%<>”......可用操作：<STELLAR>升级<>等级和/或库存容量或<FUEL>将飞船熔为废料<>。}
 UI_SALVAGE_LANG2	{扩大飞船<TECHNOLOGY>库存容量<>或提升飞船<STELLAR>等级<>？使用<TECHNOLOGY>储备扩充<>部件可以免费提升库存容量。}
 UI_SALVAGE_CONFIRM_LANG	{<FUEL>警告：<>飞船“<STELLAR>%SHIPNAME%<>”和所有货物将被摧毁！确认回收决定？}
-UI_SALVAGE_SLOTS_OSD	{已扩展飞船库存！}
-UI_SALVAGE_CLASS_OSD	{已提升飞船等级！}
+UI_SALVAGE_SLOTS_OSD	{飞船库存大小提升了！}
+UI_SALVAGE_CLASS_OSD	{飞船等级提升了！}
 UI_SALVAGE_SCRAP_OSD	{摧毁飞船获取废料<IMG>SLASH<>已发放部件}
 UI_SALVAGE_TITLE	{飞船装备}
 UI_SALVAGE_DESC	{购买改良<IMG>SLASH<>回收飞船}
 UI_SALVAGE_IMPROVE_OPT	{升级飞船}
 UI_SALVAGE_CLASS_OPT	{升级等级}
-UI_SALVAGE_ACCEPT	{安装新槽位}
+UI_SALVAGE_ACCEPT	{安装新栏位}
 UI_SALVAGE_HELP_OPT	{哪里能找到升级件？}
 UI_SALVAGE_HELP_RES	{使用该装备站来提升飞船的<TECHNOLOGY>库存<>大小，或者升级它的<STELLAR>等级<>来提升它的基础属性值。
 特定功能例如武器或引擎的升级件，可以前去<TECHNOLOGY>技术商人<>处购买。}
@@ -2348,11 +2348,11 @@ UI_HYPERDRIVE	{超光速推进器}
 UI_ARMOUR	{防御系统}
 UI_WEAPONS	{武器}
 UI_TERRAINMODE_FLATTEN	{平整}
-NEW_SHIP_SLOT	{增加新的库存槽位}
+NEW_SHIP_SLOT	{增加新的库存栏位}
 UI_OUTFITS_HEADER	{已保存服装}
 SAVE_U	{保存}
 UI_SAVE_OUTFIT_TITLE	{覆盖服装？}
-UI_SAVE_OUTFIT_CONFIRM	{保存该自定义服装将覆盖该槽位目前存储的设置。你希望继续覆盖吗？}
+UI_SAVE_OUTFIT_CONFIRM	{保存该自定义服装将覆盖该栏位目前存储的设置。你希望继续覆盖吗？}
 UI_CHANGE_OUTFIT_CONFIRM_TITLE	{放弃变更？}
 UI_CHANGE_OUTFIT_CONFIRM	{当前服装已经改变，但所做变更尚未保存。你确定要离开定制器吗？}
 UI_DEMAND_SUFFIX	{<NEU_AVG>需要：<> %AMOUNT%}
@@ -2652,13 +2652,13 @@ UI_GUIDE_BODY_SPACE_STATION	{每一个已有人居住的星系都会拥有一座
 
 最后，每一座空间站还有一个<TECHNOLOGY>传送界标<>，可以让你快速前往<STELLAR>你的基地<>和<VAL_ON>之前访问过的星系<>。}
 MISSION_OBJ_BONES	{收集宝贵骸骨}
-NPC_MISSION_BONES_SUB	{挖掘远古骸骨}
-NPC_MISSION_BONES_HEAD_1	{挖掘远古骸骨}
+NPC_MISSION_BONES_SUB	{挖掘古代骸骨}
+NPC_MISSION_BONES_HEAD_1	{挖掘古代骸骨}
 UI_BONES_MARKER	{潜在挖掘点}
 UI_BONES_OBJ1	{找到骸骨}
-UI_BONES_OBJ1_TIP	{用 <IMG>SCAN<> 从太空扫描行星以定位珍贵的<STELLAR>远古骸骨<>。}
+UI_BONES_OBJ1_TIP	{用 <IMG>SCAN<> 从太空扫描行星以定位珍贵的<STELLAR>古代骸骨<>。}
 UI_BONES_OBJ2	{收集骸骨}
-UI_BONES_OBJ2_TIP	{收集<SPECIAL>史诗级<>或<STELLAR>传说级<>远古骸骨。
+UI_BONES_OBJ2_TIP	{收集<SPECIAL>史诗级<>或<STELLAR>传说级<>古代骸骨。
 使用<TECHNOLOGY>分析面甲<>定位<STELLAR>挖掘点<>。
 使用<TECHNOLOGY>地形操纵器<>进行挖掘。}
 UI_BONES_OBJ3	{将遗物数据传输给客户}
@@ -2668,14 +2668,14 @@ UI_BONES_OBJ1_MSG	{已定位到潜在的<STELLAR>挖掘点<>
 前往目标行星}
 UI_BONES_OBJ2_MSG	{已定位到潜在的<STELLAR>挖掘点<>
 在目标行星着陆}
-UI_BONES_OBJ3_MSG	{收集<SPECIAL>史诗级<>或<STELLAR>传说级<>远古骸骨
+UI_BONES_OBJ3_MSG	{收集<SPECIAL>史诗级<>或<STELLAR>传说级<>古代骸骨
 使用<TECHNOLOGY>分析面甲<>定位<STELLAR>挖掘点<>
 使用<TECHNOLOGY>地形操纵器<>进行挖掘}
 UI_BONES_OBJ4_MSG	{通过<TECHNOLOGY>交易终端<>传输数据给客户}
 NPC_MISSION_BONES_PROC_B_1	{数据已足够的：他们不需要实体样本。}
 NPC_MISSION_BONES_PROC_B_2	{他们需要所有物种的骸骨。扫描碎片并把记录输入他们的个人数据库。}
 NPC_MISSION_BONES_PROC_B_3	{他们正在征求探险家的协助。发现者可以保留所有出土骸骨。他们只求能得到样本的扫描数据或数字副本。}
-NPC_MISSION_BONES_PROC_B_4	{他们特别热衷于取回任意远古动物骸骨的扫描。记录完成后，探险家可以自由保留实体样本。}
+NPC_MISSION_BONES_PROC_B_4	{他们特别热衷于取回任意古代动物骸骨的扫描。记录完成后，探险家可以自由保留实体样本。}
 NPC_MISSION_BONES_PROC_B_5	{他们的历史记录存在很长的空白期，想找探险家进行古生物学远征，以填补这些缺失的数据。}
 NPC_MISSION_BONES_PROC_C_1	{客户对委托期间可能影响探险家的古老诅咒不承担责任。}
 NPC_MISSION_BONES_PROC_C_2	{客户对探险家委托期间被困于洞、坑或任何其他开采环境的情况不承担责任。}
@@ -2998,19 +2998,19 @@ UI_MP_DEPOT_RAID_OBJ3_TIP	{<SPECIAL>护卫仓库<>坐标已定位。前往并摧
 UI_MP_DEPOT_WANTED_MSG	{仓库防御系统启动<IMG>SLASH<>步行者小队已部署}
 UI_MP_SPACEBATTLE_OSD	{警告：敌对援军即将到达}
 UI_MP_SPACEBATTLE_OSD_2	{警告：最后一波援军}
-UI_MP_SPACEBATTLE_TITLE_1	{除尽祸根}
+UI_MP_SPACEBATTLE_TITLE_1	{清除祸害}
 UI_MP_SPACEBATTLE_DESC_1	{一伙横行霸道的不法分子一直在恐吓胁迫一个恒星系，拦截贸易飞船，切断物资，使当地居民忍饥挨饿。
 
 纳达和保罗为此苦恼不已，他们希望能让宇宙变得更加美好一点。他们想要寻找一支久经沙场的旅行者战队来根除这一海盗威胁。}
-UI_MP_SPACEBATTLE_TITLE_2	{叛变战团}
+UI_MP_SPACEBATTLE_TITLE_2	{叛变军团}
 UI_MP_SPACEBATTLE_DESC_2	{一段时间以来，保罗专家一直在观察两个外星群体之间的竞争，希望他们能和平解决。不幸的是，其中一个团体拿起了武器，冲突于是升级为暴力。保罗现在想要寻找一群旅行者加入这场战斗中的进攻战队，以结束这场暴力。}
-UI_MP_SPACEBATTLE_TITLE_3	{其利断金}
+UI_MP_SPACEBATTLE_TITLE_3	{友谊的力量}
 UI_MP_SPACEBATTLE_DESC_3	{一群组织严密的海盗在附近的恒星系制造了巨大的破坏，还声称没有人能在太空战斗中打败他们。保罗和纳达研究了旅行者朋友的动机和战斗力，要求一支武装战队前去对抗这些傲慢的不法分子，并终结他们的自吹自擂。}
-UI_MP_SPACEBATTLE_TITLE_4	{长空恶行}
+UI_MP_SPACEBATTLE_TITLE_4	{无礼的天空}
 UI_MP_SPACEBATTLE_DESC_4	{一伙横行霸道的不法分子一直在恐吓胁迫一个恒星系，拦截贸易飞船，切断物资，使当地居民忍饥挨饿。
 
 纳达和保罗为此苦恼不已，他们希望能让宇宙变得更加美好一点。他们想要寻找一支久经沙场的旅行者战队来根除这一海盗威胁。}
-UI_MP_SPACEBATTLE_TITLE_5	{贻害群星}
+UI_MP_SPACEBATTLE_TITLE_5	{星际枯萎病}
 UI_MP_SPACEBATTLE_DESC_5	{一伙横行霸道的不法分子一直在恐吓胁迫一个恒星系，拦截贸易飞船，切断物资，使当地居民忍饥挨饿。
 
 纳达和保罗为此苦恼不已，他们希望能让宇宙变得更加美好一点。他们想要寻找一支久经沙场的旅行者战队来根除这一海盗威胁。}
@@ -3031,15 +3031,15 @@ UI_MP_PIRATES_MSG3	{<STELLAR>消灭海盗！<>
 UI_MP_PIRATES_OBJ1	{消灭海盗中队}
 UI_MP_COLLECT_TITLE_1	{损失惨重}
 UI_MP_COLLECT_DESC_1	{由于一起实验室爆炸事件，使得保罗进行研究所需的原材料出现了短缺。纳达和保罗请求旅行者前去获取一些异星物质，以补充异象的物资。}
-UI_MP_COLLECT_TITLE_2	{奇异原料}
+UI_MP_COLLECT_TITLE_2	{神秘的原料}
 UI_MP_COLLECT_DESC_2	{保罗的研究已经扩展到一个新领域，尽管与上一个领域的区别太过微妙，大多数人都无法察觉。它声称即将取得令人振奋的突破，只需要再多一点某种原料，就能证实他们的最新假设。}
-UI_MP_COLLECT_TITLE_3	{专业化燃烧}
+UI_MP_COLLECT_TITLE_3	{专门化燃烧}
 UI_MP_COLLECT_DESC_3	{由于一起实验室爆炸事件，使得保罗进行研究所需的原材料出现了短缺。纳达和保罗请求旅行者前去获取一些异星物质，以补充异象的物资。}
-UI_MP_COLLECT_TITLE_4	{稀有矿物}
+UI_MP_COLLECT_TITLE_4	{不寻常矿物}
 UI_MP_COLLECT_DESC_4	{由于一起实验室爆炸事件，使得保罗进行研究所需的原材料出现了短缺。纳达和保罗请求旅行者前去获取一些异星物质，以补充异象的物资。}
 UI_MP_COLLECT_TITLE_5	{必要材料}
 UI_MP_COLLECT_DESC_5	{由于一起实验室爆炸事件，使得保罗进行研究所需的原材料出现了短缺。纳达和保罗请求旅行者前去获取一些异星物质，以补充异象的物资。}
-UI_MP_COLLECT_P_TITLE_1	{见面大礼}
+UI_MP_COLLECT_P_TITLE_1	{友好产品}
 UI_MP_COLLECT_P_DESC_1	{纳达和保罗那非同寻常的家园已经迎来许多新朋友的入驻。有些人在这里待的时间比其他人长。迭代%EXOTIC%请求一支远征队收集其所需的大量异星产品，目的不明。}
 UI_MP_COLLECT_P_TITLE_2	{专家礼物}
 UI_MP_COLLECT_P_DESC_2	{保罗迫切需要一个由旅行者组成的远征队前去一个遥远的地方取回一件特定的物品。他们要求谨慎进行这项任务，因为这个产品储物箱是送给一个朋友的礼物。}
@@ -3324,7 +3324,7 @@ UI_GUIDE_BODY_WORDS	{你在<VAL_ON>行星<>和<VAL_ON>空间站<>遇见的生命
 
 这些语言可以通过与外星生命体的相遇来习得。在空间站<STELLAR>与生命体友好互动<>能带来<STELLAR>永久习得新词语<>。
 
-语言也可以通过<SPECIAL>远古遗迹<>来学习，比如<SPECIAL>纪念碑<>、<SPECIAL>遗迹<>和<SPECIAL>知识之石<>。
+语言也可以通过<SPECIAL>古代遗迹<>来学习，比如<SPECIAL>纪念碑<>、<SPECIAL>遗迹<>和<SPECIAL>知识之石<>。
 
 在行星表面漫步，用<TECHNOLOGY>分析面甲<>来定位<SPECIAL>知识之石<>。大型区域可以用同样的方式发现，但也可以从空中发现，或者通过<TRADEABLE>空间站制图师<>的地图定位。}
 UI_GUIDE_TOPIC_SURVEY	{工业调查}
@@ -3608,13 +3608,13 @@ UI_MP_DIGSITE_DESC_1	{对纳达和保罗来说，时间是一个模糊的维度�
 UI_MP_DIGSITE_TITLE_2	{骸骨遗产}
 UI_MP_DIGSITE_DESC_2	{纳达和保罗正在对宇宙生物学进行分类，侧重研究各种最有趣的模式。它们发现，一颗行星上的一种现存物种和另一个完全独立的星系中早已灭绝的祖先之间存在着潜在联系。为了证实这种关系，它们需要对这个星系中发现的骨骼中进行骸骨扫描。研究人员可以自由保留实物样本。}
 UI_MP_DIGSITE_TITLE_3	{探寻先祖}
-UI_MP_DIGSITE_DESC_3	{纳达正在对生物疾病进行研究。它的研究比较了有机病原体和会影响其自身人工生理的病毒的特性。为了更好地了解这些疾病的起源，它们需要进行远古生物的骸骨扫描。研究人员可以自由保留实物标本。}
+UI_MP_DIGSITE_DESC_3	{纳达正在对生物疾病进行研究。它的研究比较了有机病原体和会影响其自身人工生理的病毒的特性。为了更好地了解这些疾病的起源，它们需要进行古代生物的骸骨扫描。研究人员可以自由保留实物标本。}
 UI_MP_DIGSITE_TITLE_4	{历史之脊}
 UI_MP_DIGSITE_DESC_4	{对纳达和保罗来说，时间是一个模糊的维度。它们希望研究一个来自遥远过去的自然古物遗迹，通过真正古老的东西来为现在赋予涵义。它们想请一个研究人员挖掘古生物墓地，并与他们的行星联系人共享数据。研究人员可以自由保留实物样本。}
 UI_MP_DIGSITE_TITLE_5	{不得安宁的祖先}
 UI_MP_DIGSITE_DESC_5	{对纳达和保罗来说，时间是一个模糊的维度。它们希望研究一个来自遥远过去的自然古物遗迹，通过真正古老的东西来为现在赋予涵义。它们想请一个研究人员挖掘古生物墓地，并与他们的行星联系人共享数据。研究人员可以自由保留实物样本。}
-NPC_MISSION_DIGSITE_SUB	{挖掘远古骸骨}
-MISSION_OBJ_DIGSITE	{挖掘远古骸骨}
+NPC_MISSION_DIGSITE_SUB	{挖掘古代骸骨}
+MISSION_OBJ_DIGSITE	{挖掘古代骸骨}
 UI_MP_DIGSITE_PLANET_LABEL	{富骨行星}
 UI_MP_DIGSITE_NPC_LABEL	{保罗的联系人}
 UI_MP_DIGSITE_NPC_OSD	{信号播送<IMG>SLASH<>已发现联系人}
@@ -3631,33 +3631,33 @@ UI_MP_DIGSITE_OBJ2_TIP	{纳达的研究只接受最古老的遗骸，必须是<S
 UI_MP_DIGSITE_OBJ2_TIP_ALT	{使用<TECHNOLOGY>分析面甲<>定位<STELLAR>自然墓地<>
 使用<TECHNOLOGY>地形操纵器<>进行挖掘。}
 UI_MP_DIGSITE_OBJ3	{获取骸骨的扫描文件}
-UI_MP_DIGSITE_OBJ3_TIP	{将远古骸骨送至当地的骸骨研究员处。
+UI_MP_DIGSITE_OBJ3_TIP	{将古代骸骨送至当地的骸骨研究员处。
 保罗的行星联系人会导出所需的数据。
 研究人员可以自由保留实物样本。}
 UI_MP_DIGSITE_MSG1	{已定位到潜在<STELLAR>自然墓地<>
 前往目标行星}
 UI_MP_DIGSITE_MSG2	{已到达富骨行星
 降落飞船，寻找<STELLAR>自然埋葬墓地<>}
-UI_MP_DIGSITE_MSG3	{收集<SPECIAL>史诗级<>或<STELLAR>传说级<>远古骸骨
+UI_MP_DIGSITE_MSG3	{收集<SPECIAL>史诗级<>或<STELLAR>传说级<>古代骸骨
 使用<TECHNOLOGY>分析面甲<>定位<STELLAR>自然墓地<>
 使用<TECHNOLOGY>地形操纵器<>进行挖掘。}
-UI_MP_DIGSITE_MSG3_ALT	{收集远古骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
+UI_MP_DIGSITE_MSG3_ALT	{收集古代骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
 使用<TECHNOLOGY>分析面甲<>定位<STELLAR>自然墓地<>
 使用<TECHNOLOGY>地形操纵器<>进行挖掘}
-UI_MP_DIGSITE_MSG3_SURVEY	{收集远古骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
+UI_MP_DIGSITE_MSG3_SURVEY	{收集古代骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
 使用<TECHNOLOGY>目标扫描<>定位挖掘点
 使用<TECHNOLOGY>地形操纵器<>在挖掘点进行挖掘}
-UI_MP_DIGSITE_MSG3_SURVEY_SWAP	{收集远古骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
+UI_MP_DIGSITE_MSG3_SURVEY_SWAP	{收集古代骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
 使用<IMG>SURVEYFILTERL<>/<IMG>SURVEYFILTERR<>激活<TECHNOLOGY>目标扫描<>
 使用<TECHNOLOGY>地形操纵器<>在挖掘点进行挖掘}
-UI_MP_DIGSITE_MSG3_SURVEY_OFF	{收集远古骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
+UI_MP_DIGSITE_MSG3_SURVEY_OFF	{收集古代骸骨：<STELLAR>%CURRENT%/%AMOUNT%<>
 激活<STELLAR>目标扫描<>（<IMG>AIM<>）定位挖掘点
 使用<TECHNOLOGY>地形操纵器<>在挖掘点进行挖掘}
-UI_MP_DIGSITE_MSG4	{将远古骸骨送至当地的骸骨研究员处
+UI_MP_DIGSITE_MSG4	{将古代骸骨送至当地的骸骨研究员处
 进行一次扫描（<IMG>SCAN<>）找到保罗的联系人}
 UI_MP_DIGSITE_MSG4B	{<FUEL>警告：<>已截获信号！
 击溃护卫队，或躲避他们}
-UI_MP_DIGSITE_MSG5	{将远古骸骨送至当地的骸骨研究员处
+UI_MP_DIGSITE_MSG5	{将古代骸骨送至当地的骸骨研究员处
 保罗的行星联系人会导出所需的数据
 研究人员可以自由保留实物样本}
 UI_MP_DIGSITE_NPC_INIT_DESC	{%NAME%摇了摇头，暗示在他们与我交谈之前，我该先应对护卫的威胁。}
@@ -4038,7 +4038,7 @@ UI_MP_PORTALQUEST_DESC_5	{纳达的时空交织机近期的读数让异象的居
 <SPECIAL>周末活动：<> 该任务一周只能完成一次。建议与其他探险家组队，也可以独自完成。}
 UI_MP_PORTALQUEST_LEAVE_NEXUS	{返回飞船并离开太空异象
 被扰动的区域只能通过传送门进入
-从远古知识之石中获得符文坐标。}
+从古代知识之石中获得符文坐标。}
 NPC_MISSION_PORTALQUEST_HEAD_1	{调查异常区域}
 MISSION_OBJ_PORTALQUEST	{调查异常区域}
 UI_MP_PORTALQUEST_PLANET_LABEL	{侦测到知识之石}
@@ -4066,7 +4066,7 @@ UI_MP_PORTALQUEST_MARKER_E3	{迭代：墨丘利}
 UI_MP_PORTALQUEST_MARKER_E4	{迭代：特提斯}
 UI_MP_PORTALQUEST_MARKER_E5	{迭代：赫斯珀洛斯}
 UI_MP_PORTALQUEST_OBJ1	{发现传送门坐标}
-UI_MP_PORTALQUEST_OBJ1_TIP	{远古建筑体中含有被扰动区域的坐标
+UI_MP_PORTALQUEST_OBJ1_TIP	{古代建筑体中含有被扰动区域的坐标
 搜索行星表面，寻找知识之石
 接近这些知识之石，以获得完整的符文段落}
 UI_MP_PORTALQUEST_MSG1	{从知识之石中获取符文坐标
@@ -4083,11 +4083,11 @@ UI_MP_PORTALQUEST_MSG1D	{寻找知识之石：2/3
 可以用<TECHNOLOGY>分析面甲<>（<IMG>AIM<>）侦测知识之石，
 以获得完整的传送门符文段落}
 UI_MP_PORTALQUEST_OBJ2	{进入标记的传送门}
-UI_MP_PORTALQUEST_OBJ2_TIP	{穿越远古传送门并进入扰动区域......}
+UI_MP_PORTALQUEST_OBJ2_TIP	{穿越古代传送门并进入扰动区域......}
 UI_MP_PORTALQUEST_MSG2	{抵达标记的传送门
-穿越远古传送门并进入扰动区域......}
+穿越古代传送门并进入扰动区域......}
 UI_MP_PORTALQUEST_MSG2A	{踏入传送门
-穿越远古传送门并进入扰动区域......}
+穿越古代传送门并进入扰动区域......}
 UI_MP_PORTALQUEST_OBJ3	{到达扰动区域}
 UI_MP_PORTALQUEST_OBJ3_TIP	{扰动源已经被你的套装标记
 前往扰动源执行进一步的调查}
@@ -4239,9 +4239,9 @@ UI_MP_PORTALQUEST_CRA_RES_1	{<AUDIO>TXT_StaticNoise_Start<>这儿并没有发生
 FTH_EXOTIC2_PQ_BLD_LANG_1	{你正在调查扰动吗，我的朋友？我希望你能接受同伴的加入。}
 FTH_EXOTIC2_PQ_BLD_OPT_A_1	{询问同伴}
 FTH_EXOTIC2_PQ_BLD_RES_A_1	{请不要认为我在质疑你的能力！我完全没有这个意思。只是这事可能会很危险。纳达听起来十分担心。
-我想你需要找到一扇传送门来前去那里。我对那种远古科技不是很了解，但这种科技在某种程度上与知识之石有关。如果你找到这些石头，你就应该能够找到坐标。
+我想你需要找到一扇传送门来前去那里。我对那种古代科技不是很了解，但这种科技在某种程度上与知识之石有关。如果你找到这些石头，你就应该能够找到坐标。
 希望这对你有那么些帮助。要是有帮到你的话那就太好了。这件事和你我都有关系，不是吗？}
-FTH_EXOTIC2_PQ_BLD_RES_B_1	{我想你需要找到一扇传送门来前去那里。我对那种远古科技不是很了解，但这种科技在某种程度上与知识之石有关。如果你找到这些石头，你就应该能够找到坐标。
+FTH_EXOTIC2_PQ_BLD_RES_B_1	{我想你需要找到一扇传送门来前去那里。我对那种古代科技不是很了解，但这种科技在某种程度上与知识之石有关。如果你找到这些石头，你就应该能够找到坐标。
 希望这对你有那么些帮助。要是有帮到你的话那就太好了。这件事和你我都有关系，不是吗？}
 UI_MP_PORTALQUEST_BLD_DESC_1	{<AUDIO>TXT_StaticNoise_Start<>一种非自然的能量在这个建筑体四周噼啪作响，静电能量向我阵阵袭来。我的套装闪烁着一连串警告和错误。<AUDIO>TXT_StaticNoise_End<>}
 UI_MP_PORTALQUEST_BLD_DESC_1A	{<AUDIO>TXT_StaticNoise_Start<>在这噪声中，我能分辨出一种节奏，持续地发出请求。这个建筑体的现实已经被打破了，产生的裂缝造成了静电扰动和不稳定性。它也许可以被稳定，但只有献祭材料才能做到。<AUDIO>TXT_StaticNoise_End<>}
@@ -4317,10 +4317,10 @@ FTH_EXOTIC3_PQ_BLD_OPT_A_5	{表示肯定}
 FTH_EXOTIC3_PQ_BLD_OPT_C_5	{表示否定}
 FTH_EXOTIC3_PQ_BLD_RES_A_5	{墨丘利再次仔细打量着我。它低头看了看自己的手，又抬头迎上我的目光。}
 FTH_EXOTIC3_PQ_BLD_RES2_A_5	{既然如此，希望你能从这次旅程中平安归来。
-传送门网络会打开一个通向不稳定区域的通道。你需要使用符文代码来激发正确的神经通道。你可以从远古的知识之石中了解到这个代码。}
+传送门网络会打开一个通向不稳定区域的通道。你需要使用符文代码来激发正确的神经通道。你可以从古代的知识之石中了解到这个代码。}
 FTH_EXOTIC3_PQ_BLD_RES_C_5	{你的毅力令我惊讶，传送门老手。
-和之前一样，传送门网络会打开一个通向不稳定区域的通道。你需要使用符文代码来激发正确的神经通道。你可以从远古的知识之石中了解到这个代码。}
-FTH_EXOTIC3_PQ_BLD_RES_B_5	{传送门网络会打开一个通向不稳定区域的通道。你需要使用符文代码来激发正确的神经通道。你可以从远古的知识之石中了解到这个代码。}
+和之前一样，传送门网络会打开一个通向不稳定区域的通道。你需要使用符文代码来激发正确的神经通道。你可以从古代的知识之石中了解到这个代码。}
+FTH_EXOTIC3_PQ_BLD_RES_B_5	{传送门网络会打开一个通向不稳定区域的通道。你需要使用符文代码来激发正确的神经通道。你可以从古代的知识之石中了解到这个代码。}
 UI_MP_PORTALQUEST_BLD_DESC_5	{<AUDIO>TXT_StaticNoise_Start<>静电扰动的嗡嗡声和噼啪声围绕着这个建筑体。我将手按在上面，感受到了一块没有实体的虚无区域，着实奇怪。我本应能触碰到固体物质，结果手指却穿了过去，只剩空气。<AUDIO>TXT_StaticNoise_End<>}
 UI_MP_PORTALQUEST_BLD_DESC_5A	{<AUDIO>TXT_StaticNoise_Start<>建筑体似乎在这里，又不在这里。我发现了静电扰动最嘈杂的地方有一点微光。它反复诉说自己的请求：带来献祭的材料，让它平静稳定下来。<AUDIO>TXT_StaticNoise_End<>}
 UI_MP_PORTALQUEST_BLD_RES_5	{<AUDIO>TXT_StaticNoise_Start<>闪闪发光的表面敞开，吞下了祭品。噼啪声变成了柔和的嗡嗡声，似乎得到了安抚。我能完成的工作都已经完成了。<AUDIO>TXT_StaticNoise_End<>}
@@ -4421,8 +4421,8 @@ FTH_EXOTIC2_PQ_BLD_LANG_11	{我亲眼看到了扰动，朋友。我在那里焕�
 FTH_EXOTIC2_PQ_BLD_OPT_A_11	{询问冒险}
 FTH_EXOTIC2_PQ_BLD_RES_A_11	{双子看向它的同伴，然后低声开口讲述。}
 FTH_EXOTIC2_PQ_BLD_RES_B_11	{曾经，赫斯珀洛斯需要救援，但那已经是过去。我一直在找借口，逃避自己，这样已经太久。我不能再这样了。
-将你的飞船驶向异象之门吧。飞向一颗行星，降落在它的表面。感受土壤在脚下碎裂。寻找远古的石柱，聆听它们向你的灵魂咏唱的传送门代码......}
-FTH_EXOTIC2_PQ_BLD_RES_B2_11	{将你的飞船驶向异象之门吧。飞向一颗行星，降落在它的表面。感受土壤在脚下碎裂。寻找远古的石柱，聆听它们向你灵魂咏唱的传送门代码......}
+将你的飞船驶向异象之门吧。飞向一颗行星，降落在它的表面。感受土壤在脚下碎裂。寻找古代的石柱，聆听它们向你的灵魂咏唱的传送门代码......}
+FTH_EXOTIC2_PQ_BLD_RES_B2_11	{将你的飞船驶向异象之门吧。飞向一颗行星，降落在它的表面。感受土壤在脚下碎裂。寻找古代的石柱，聆听它们向你灵魂咏唱的传送门代码......}
 UI_MP_PORTALQUEST_BLD_DESC_11	{这个建筑体显然很不对劲。它发出微弱的静电声，就像行将熄灭的火焰一样噼啪作响。}
 UI_MP_PORTALQUEST_BLD_DESC_11A	{<AUDIO>TXT_StaticNoise_Start<>静电噪声中，有着不断重复的规律。我的套装将支离破碎的数据转换成了信息，那是一个请求：特定材料，在这里献祭，应该可以稳定这里的扰动。<AUDIO>TXT_StaticNoise_End<>}
 UI_MP_PORTALQUEST_BLD_RES_11	{<AUDIO>TXT_StaticNoise_Start<>材料在静电云中粉碎，我手中空空如也。
@@ -4880,7 +4880,7 @@ UI_BASE_DETAIL_LINE1	{建造基地作为<TRADEABLE>藏身处<>，免遭严酷环
 UI_BASE_DETAIL_LINE2	{获取全新的<STELLAR>建筑设计图<>即可扩展基地}
 UI_BASE_DETAIL_LINE3	{探索过程中<TECHNOLOGY>返回基地<>以存储和处理物品}
 UI_BASE_EXTRA_DETAIL_TITLE	{套装指引提醒 <IMG>SLASH<> 扩展基地}
-UI_BASE_EXTRA_DETAIL_DESC	{从<STELLAR>建筑研究单位<>获取新的设计图。使用<TECHNOLOGY>先进技术<>和<TECHNOLOGY>大型建筑<>拓展基地。}
+UI_BASE_EXTRA_DETAIL_DESC	{从<STELLAR>建筑研究单位<>获取新的设计图。使用<TECHNOLOGY>先进技术<>和<TECHNOLOGY>大型建筑<>扩大基地。}
 UI_BASE_EXTRA_DETAIL_LINE1	{获取全新的<STELLAR>建筑设计图<>即可扩展基地}
 UI_BASE_EXTRA_DETAIL_LINE2	{挖掘<TECHNOLOGY>埋藏的技术<>以获取新设计图}
 UI_BASE_EXTRA_DETAIL_LINE3	{<FUEL>供能<>给你的基地以启用先进技术}
@@ -4906,7 +4906,7 @@ UI_TERRAINEDIT_DETAIL_LINE3	{地形操纵器<STELLAR>可以重塑世界<>，它�
 UI_WORDS_DETAIL_TITLE	{学习词汇}
 UI_WORDS_DETAIL_DESC	{外星生命体使用各种语言，没有一门语言是一开始就能听懂的。学习它们的语言来与其沟通。}
 UI_WORDS_DETAIL_LINE1	{在行星与空间站与<COMMODITY>外星人<>谈话来学习它们的方言}
-UI_WORDS_DETAIL_LINE2	{从<SPECIAL>远古废墟<>和历史古迹处学习词汇}
+UI_WORDS_DETAIL_LINE2	{从<SPECIAL>古代废墟<>和历史古迹处学习词汇}
 UI_WORDS_DETAIL_LINE3	{在套装上安装<TECHNOLOGY>自动翻译机<>来翻译对话}
 UI_FACTIONS_DETAIL_TITLE	{派系与声望}
 UI_FACTIONS_DETAIL_DESC	{<STELLAR>声望<>是你在外星种族与公会中的名声。更高的声望能允许你参与更多的<STELLAR>任务<>、接触更多的<TECHNOLOGY>技术<>以及<COMMODITY>贸易<>选项。}
@@ -5582,11 +5582,11 @@ DNT_TRA_A1S6_WORDGUY_LANG	{Friend! I am a Gek Trade Federation accredited engine
 DNT_EXP_A1S6_WORDGUY_LANG	{Unknown lifeform. Fascinating. The Korvax Convergence studies all lifeform data. Lifeform recorded.}
 DNT_WAR_A1S6_WORDGUY_LANG	{Ah, interloper. It is simple. Stop interloping, then all will have peace.}
 TRA_A1S6_WORDGUY_RES	{%NAME%散发出甜美的香味，并教我一个它的语言中的词汇。我感觉精神焕发。
-正当我转身要走的时候%NAME%拉我的袖子。它递给我一张寻找远古遗迹的地图，应该是很感谢我对它种族历史的兴趣。}
+正当我转身要走的时候%NAME%拉我的袖子。它递给我一张寻找古代遗迹的地图，应该是很感谢我对它种族历史的兴趣。}
 EXP_A1S6_WORDGUY_RES	{%NAME%闪烁着灯光，与我直接进行心灵沟通。它教了我一个它的语言中的词汇。我感觉精神焕发。
-正当我转身要走的时候，%NAME%吹起响亮的口哨。它递给我一张寻找远古遗迹的地图，应该是很感谢我对它种族历史的兴趣。}
+正当我转身要走的时候，%NAME%吹起响亮的口哨。它递给我一张寻找古代遗迹的地图，应该是很感谢我对它种族历史的兴趣。}
 WAR_A1S6_WORDGUY_RES	{我紧张地提出了请求，看上去令人胆怯的%NAME%却摆出了一个温和的姿态。它教了我一个它的语言中的词汇，并礼貌地鞠躬。
-正当我转身要走的时候，%NAME%用吠叫声停止了我的脚步。它递给我一张寻找远古遗迹的地图，应该是很感谢我对它种族历史的兴趣。}
+正当我转身要走的时候，%NAME%用吠叫声停止了我的脚步。它递给我一张寻找古代遗迹的地图，应该是很感谢我对它种族历史的兴趣。}
 TRA_MON_FIND_PORTAL	{居住在这块石碑的古人接受了我的存在。他们会接受一个请求。}
 EXP_MON_FIND_PORTAL	{居住在这块石碑的古人接受了我的存在。他们会接受一个请求。}
 WAR_MON_FIND_PORTAL	{居住在这块石碑的古人接受了我的存在。他们会接受一个请求。}
@@ -5732,7 +5732,7 @@ FTH_EXOTIC3_RES_A_1	{那旅行者眯起眼睛盯着我，似在评判我的说�
 FTH_EXOTIC3_RES_B_1	{我想也是。很少有人那样做过。更少有人活下来讲述它。}
 FTH_EXOTIC3_LANG_2	{我曾站在索莱兹主星的传送门前，但没有跨过门槛。我伸出了手。<DELAY>0.4<>我只让指尖擦过大门。
 下一刻，我在异象上醒来。我已被改变。
-这里的大门没有远古石碑的力量，但它与其网络的某些方面相通。请随意使用它。}
+这里的大门没有古代石碑的力量，但它与其网络的某些方面相通。请随意使用它。}
 FTH_EXOTIC3_OPT_A_2	{尊敬地点头}
 FTH_EXOTIC3_RES_A_2	{墨丘利冲我点头回应。这个简单的姿态蕴含着诸多理解。}
 FTH_EXOTIC3_LANG_3	{欢迎，传送门内行。}
@@ -6689,7 +6689,7 @@ EXP_CRASHSITE_DESC_6	{科尔瓦克斯激动地向我欢呼。我猜测附近的�
 EXP_CRASHSITE_OPT_A_6	{询问有关星图}
 EXP_CRASHSITE_OPT_B_6	{询问有关遗物}
 EXP_CRASHSITE_RES_A_6	{%NAME%对着我们周围的地形打着手势，并着重指出一颗被高亮的星球。显然，即使飞船暂时无法行动，但它并没有偏离本次旅程的航道。}
-EXP_CRASHSITE_RES_B_6	{%NAME%仿佛被我的兴趣打动了。它调出一幅现代集会立方的图像。毫无疑问，图像与遗物十分相似。后者肯定是如今这种重要的科尔瓦克斯设备的远古原型。}
+EXP_CRASHSITE_RES_B_6	{%NAME%仿佛被我的兴趣打动了。它调出一幅现代集会立方的图像。毫无疑问，图像与遗物十分相似。后者肯定是如今这种重要的科尔瓦克斯设备的古代原型。}
 EXP_CRASHSITE_RET_DESC_6	{科尔瓦克斯上下打量着我，仿佛在评估着什么。它调出最后一幅图像：那是一座曾经壮观的建筑，现在已经被毁，半埋在土中。它仿佛在<STELLAR>请求我的帮助<>......}
 EXP_CRASHSITE_RET_OPT_A_6	{请求坐标}
 EXP_CRASHSITE_RET_RES_A_6	{%NAME%高兴地向我指出了废墟的位置。它似乎想告诉我，在它提取继续旅程所需的关键数据后，我可以尽管拿走所发现的一切。}
@@ -7183,9 +7183,9 @@ DNT_EXP_NPC_SHOP_LANG_2	{Beautiful nanites... trade is disrespectful to ancestor
 EXP_NPC_SHOP_OPT_A_2	{询问纳米星团的事}
 EXP_NPC_SHOP_OPT_B_2	{询问它在想什么}
 EXP_NPC_SHOP_RES_A_2	{我指着纳米星团，询问%NAME%的行为。它迅速用手围住星团，把它们挡住。
-科尔瓦克斯人敲了敲自己甲壳上的一个空槽位。它来这里是想购买升级品，但是用纳米星团交换商品的想法似乎让它感到苦恼。}
+科尔瓦克斯人敲了敲自己甲壳上的一个空栏位。它来这里是想购买升级品，但是用纳米星团交换商品的想法似乎让它感到苦恼。}
 EXP_NPC_SHOP_RES_B_2	{我轻轻地触摸%NAME%。它马上回过神来，用手捏住纳米星团，不让我看见。
-那名科尔瓦克斯人敲了敲自己甲壳上的一个空槽位。它来这里是想购买升级品，但是用纳米星团交换商品的想法似乎让它感到苦恼。}
+那名科尔瓦克斯人敲了敲自己甲壳上的一个空栏位。它来这里是想购买升级品，但是用纳米星团交换商品的想法似乎让它感到苦恼。}
 EXP_NPC_SHOP_RET_OPT_A_2	{提供更多的纳米星团}
 EXP_NPC_SHOP_RET_OPT_B_2	{提供货币换取纳米星团}
 EXP_NPC_SHOP_RET_OPT_C_2	{提供纳米星团的知识}
@@ -7846,7 +7846,7 @@ WAR_NPC_SHOP_RET_OPT_A_3	{建议离子闪电发射器升级}
 WAR_NPC_SHOP_RET_OPT_B_3	{建议分析面甲升级}
 WAR_NPC_SHOP_RET_OPT_C_3	{建议脉冲喷射器升级}
 WAR_NPC_SHOP_RET_RES_A_3	{那名维吉恩人迫切地同意这一务实的选择。它撕扯掉旧的升级品，脸上一副突然为这老升级品感到尴尬的样子，然后把废弃的技术品甩给了我。}
-WAR_NPC_SHOP_RET_RES_B_3	{那名维吉恩人不屑一顾。它可不想把武器槽位浪费在数据收集配件上。它挥手示意我走开。}
+WAR_NPC_SHOP_RET_RES_B_3	{那名维吉恩人不屑一顾。它可不想把武器栏位浪费在数据收集配件上。它挥手示意我走开。}
 WAR_NPC_OUTPOST_DESC_1	{虽然通过肤色或姿态看不出来，但这是一名年龄很大的维吉恩，眼中闪烁着长达一生的星际战争所积累的智慧火花。
 这位老者似乎不认可这里的族群，不安地瞪着另一群维吉恩。不管它们曾习惯于什么样的社会，这场鱼龙混杂的战士聚会显然都不合它们的口味。}
 DNT_WAR_NPC_OUTPOST_LANG_1	{Pathetic warriors here. This is not Vy'keen tradition, this is tragedy. We have been conquered by machines. It must end.}
@@ -7933,7 +7933,7 @@ UI_FRIG_TOKEN_NAME_L	{回收的护卫舰模块}
 UI_FRIG_TOKEN_DESC	{取自大型飞船残骸的一种技术模块。可以从<STELLAR>货船坠毁地点<>收集，或在<STELLAR>护卫舰远征<>期间回收。
 
 当前状态下毫无用处，你货船上的<TECHNOLOGY>研究站<>也许能把它转化成可用的技术。}
-UI_FRIG_TOKEN_SUB	{主力舰接线平台}
+UI_FRIG_TOKEN_SUB	{主力飞船接线平台}
 UI_SHIP_INV_TOKEN_NAME	{储备扩充}
 UI_SHIP_INV_TOKEN_NAME_L	{储备扩充}
 UI_SHIP_INV_TOKEN_DESC	{从<STELLAR>飞船残骸<>里采集出来的技术模块。也可以从<STELLAR>货船失事地点<>获得，或在<STELLAR>护卫舰远征<>期间回收。
@@ -8262,11 +8262,11 @@ UI_STARCHART_SUB_ALIEN	{外星制图资料}
 UI_STARCHART_NAME_SECURE	{绝密图}
 UI_STARCHART_NAME_DISTRESS	{回收图}
 UI_STARCHART_NAME_HABITABLE	{交易图}
-UI_STARCHART_NAME_ALIEN	{远古图}
+UI_STARCHART_NAME_ALIEN	{古代图}
 UI_STARCHART_NAME_L_SECURE	{绝密图}
 UI_STARCHART_NAME_L_DISTRESS	{回收图}
 UI_STARCHART_NAME_L_HABITABLE	{交易图}
-UI_STARCHART_NAME_L_ALIEN	{远古图}
+UI_STARCHART_NAME_L_ALIEN	{古代图}
 UI_STARCHART_DESC_SECURE	{一张附近行星的地图，标有一个<FUEL>安全的兴趣点<>。这些地点一般拥有<STELLAR>新产品<>的设计图。
 
 选择地图并使用<VAL_ON>规划路线（<IMG>FE_ALT1<>）<>以在你的套装屏幕中标记该地点。
@@ -8282,7 +8282,7 @@ UI_STARCHART_DESC_HABITABLE	{一张附近行星的地图，标有一个<COMMODIT
 选择地图并使用<VAL_ON>规划路线（<IMG>FE_ALT1<>）<>以在你的套装屏幕中标记该地点。
 
 新地图可以通过与空间站制图师交换<COMMODITY>导航数据<>获取。}
-UI_STARCHART_DESC_ALIEN	{一张附近行星的地图，标有一个<SPECIAL>远古遗物地点<>。
+UI_STARCHART_DESC_ALIEN	{一张附近行星的地图，标有一个<SPECIAL>古代遗物地点<>。
 
 选择地图并使用<VAL_ON>规划路线（<IMG>FE_ALT1<>）<>以在你的套装屏幕中标记该地点。
 
@@ -9296,7 +9296,7 @@ BLD_HOTPLANT_2_DESCRIPTION	{一种纤细的树，拥有大而多肉的根系，�
 BLD_HOTPLANT_3_NAME	{岩石花园}
 BLD_HOTPLANT_3_NAME_L	{岩石花园}
 BLD_HOTPLANT_3_DESCRIPTION	{一种花园模块，配有装饰性矿物形状和内置毛细管垫，以实现最佳湿度控制。}
-UI_SPEC_HELMET_05_DESC	{好斗的<STELLAR>套装外观覆盖<>，设计基于远古吉克人的战争头盔。
+UI_SPEC_HELMET_05_DESC	{好斗的<STELLAR>套装外观覆盖<>，设计基于古代吉克人的战争头盔。
 可以在<TECHNOLOGY>外观修改器<>使用以更改你的套装外观。}
 UI_SPEC_HELMET_05_NAME	{初代战斗面具}
 UI_SPEC_HELMET_05_NAME_L	{初代战斗面具}

@@ -1,3 +1,9 @@
+UI_EXPED_GOT_NANITES_OBJ_TIP	{Nanites are earned from many exploration-related activities, and can often be found by exploring planetary structures or by selling/refining items you acquire.
+Nanites are also earned for every discovery <VAL_ON>Uploaded<>.
+<STELLAR>Ares<> and <STELLAR>Helios<> are found on the <SPECIAL>Space Anomaly<>. They seek new items and data each day, and <VAL_ON>offer Nanites in exchange<>.
+Missions offered from the <TECHNOLOGY>Listings Agent<> aboard the <VAL_ON>Space Station<> are a rich source of Nanites.
+
+See <STELLAR>Earning Nanites<> in the 'Upgrades & Crafting' section of the Guide for further details.}
 UPDATE6_TITLE	{No Man's Sky Origins Update}
 UPDATE6_NOTES	{No Man's Sky Origins brings a vast array of new features. For full details please see www.nomanssky.com.
 

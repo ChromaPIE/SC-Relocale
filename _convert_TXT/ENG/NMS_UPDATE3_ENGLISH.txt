@@ -1,3 +1,5 @@
+UI_NADAPOLO_MISSION_OBJ1_TIP_B	{Purchase <TECHNOLOGY>Technology Blueprints<> or <STELLAR>new base parts<> aboard the Anomaly.
+Exchange discoveries and rare products for <TECHNOLOGY>Nanites<>.}
 NAMEGEN_PLANET_ADORN_1	{Prime}
 NAMEGEN_PLANET_ADORN_2	{Major}
 NAMEGEN_PLANET_ADORN_3	{Minor}

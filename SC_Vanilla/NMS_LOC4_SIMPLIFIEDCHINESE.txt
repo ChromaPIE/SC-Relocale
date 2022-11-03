@@ -75,7 +75,7 @@ UI_GUIDE_BODY_GUNS	{新的多用途工具可以在<COMMODITY>空间站<>和<VAL_
 
 不同款式的多用途工具可以极大地提高你<STELLAR>收获资源<>、<TECHNOLOGY>扫描发现物<>或<FUEL>战斗<>的能力。多用途工具也有不同的基础能量等级：<TRADEABLE>C<>、<TECHNOLOGY>B<>、<SPECIAL>A<>和<COMMODITY>S级<>。
 
-一些受损的多用途工具可以免费获得。这是一种在有限预算下获得高价值技术的好办法。这种工具上的槽位需要经过修复来恢复设备的完整能力。}
+一些受损的多用途工具可以免费获得。这是一种在有限预算下获得高价值技术的好办法。这种工具上的栏位需要经过修复来恢复设备的完整能力。}
 UI_GUIDE_TOPIC_SHIPS	{购买新飞船}
 UI_GUIDE_BODY_SHIPS	{有停靠飞船的地方就能购买飞船：<COMMODITY<>空间站<>、<STELLAR>货船机库<>、<TECHNOLOGY>行星前哨基站<>或<VAL_ON>其他小型建筑物<>。
 
@@ -105,7 +105,7 @@ UI_GUIDE_BODY_UPLOAD	{你发现的每种动物、岩石、行星或星系都可�
 
 在选项菜单的<VAL_ON>发现物页面<>追踪、重新命名和上传你的发现。}
 UI_GUIDE_TOPIC_AMMO	{弹药}
-UI_GUIDE_BODY_AMMO	{大多数多用途工具<FUEL>武器<>，例如<TECHNOLOGY>离子闪电发射器<>都需要<VAL_ON>弹药<>。在你的库存的空置槽位中制作弹药。
+UI_GUIDE_BODY_AMMO	{大多数多用途工具<FUEL>武器<>，例如<TECHNOLOGY>离子闪电发射器<>都需要<VAL_ON>弹药<>。在你的库存的空置栏位中制作弹药。
 
 战斗时，使用<IMG>RELOAD<><VAL_ON>装填<>你当前的武器。这会从你的库存中自动提取弹药。在开战<STELLAR>前<>，确保你已经制作了足够多的弹药。
 
@@ -213,7 +213,7 @@ UI_GUIDE_BODY_SURVIVAL_5_VR	{你的<TECHNOLOGY>罗盘<>位于平视显示器（H
 
 罗盘的范围较小。探索时，使用<TECHNOLOGY>分析面甲<>从远处识别并确定行星物体。已识别的兴趣点可以用<IMG>MARKER_TAG<>固定至套装平视显示器，方便导航。
 
-星球上发现的小型发现物包括<TRADEABLE>物资贮存箱<>、<TECHNOLOGY>可回收机械<>、<SPECIAL>远古遗物<>和<COMMODITY>珍贵的稀有产品<>等。
+星球上发现的小型发现物包括<TRADEABLE>物资贮存箱<>、<TECHNOLOGY>可回收机械<>、<SPECIAL>古代遗物<>和<COMMODITY>珍贵的稀有产品<>等。
 
 例如你的<VAL_ON>飞船<>和<VAL_ON>基地<>这样的兴趣点会一直被追踪。
 
@@ -383,7 +383,7 @@ UI_GUIDE_BODY_TRADE_4	{登上一艘货船并与<VAL_ON>船长<>交谈即可购�
 
 货船拥有先进的<TECHNOLOGY>曲速飞行能力<>。使用舰桥上的<VAL_ON>地图<>访问<VAL_ON>星系图<>。
 
-货船拥有<VAL_ON>大容量库存<>。相较其他的库存类型，货船的库存槽位可堆叠的数量最多。
+货船拥有<VAL_ON>大容量库存<>。相较其他的库存类型，货船的库存栏位可堆叠的数量最多。
 
 使用<IMG>TRANSFER<>可以从库存向货船<VAL_ON>转移物品<>。与船长对话可取回储存的物品。更大、更昂贵的货船提供最大的库存容量。
 
@@ -527,14 +527,14 @@ UI_GUIDE_BODY_PORTALS	{传送门<VAL_ON>连接着各个星球<>。拜访<SPECIAL
 UI_GUIDE_TOPIC_SLOTS	{库存管理}
 UI_GUIDE_BODY_SLOTS	{<TECHNOLOGY>飞船<>和<TECHNOLOGY>套装<>有很多种库存类型。
 
-<STELLAR>货物槽位<>用于存放物品，<TECHNOLOGY>技术槽位<>则用于安装升级和其他科技设备。
+<STELLAR>货物栏位<>用于存放物品，<TECHNOLOGY>技术栏位<>则用于安装升级和其他科技设备。
 
-在空间站的<TECHNOLOGY>套装技术商店<>购买新的库存槽位。可以使用<STELLAR>套装升级图纸<>找到免费的升级从而找到并修理<TECHNOLOGY>空降舱<>。从空间站的<STELLAR>制图师<>处可以买到这些升级图纸。}
+在空间站的<TECHNOLOGY>套装技术商店<>购买新的库存栏位。可以使用<STELLAR>套装升级图纸<>找到免费的升级从而找到并修理<TECHNOLOGY>空降舱<>。从空间站的<STELLAR>制图师<>处可以买到这些升级图纸。}
 UI_GUIDE_HEADING_RUNES_CATA	{传送门符文}
 UI_GUIDE_HEADING_BLD_CATA	{建筑配件}
 UI_GUIDE_HEADING_RUNES_CATA_U	{传送门符文}
 UI_GUIDE_HEADING_BLD_CATA_U	{建筑配件}
-UI_GUIDE_PORTAL_SUB	{远古科技}
+UI_GUIDE_PORTAL_SUB	{古代科技}
 UI_GUIDE_PORTAL_DESC	{传送门启动后，会显示其所在星球的<VAL_ON>符文序列<>。拥有此符文序列的其他星际旅行者可以输入然后进入各自的传送门，并拜访你的星球。
 
 输入<VAL_ON>符文<>的能力必须<VAL_ON>通过努力才能获得<>。进入洞穴并使用<TECHNOLOGY>扫描仪<>找到已故旅行者的坟墓。从它们的日志中提取符文的知识。}
@@ -596,13 +596,13 @@ UI_GUIDE_BODY_DISMANTLE	{从建造菜单（<IMG>BUILD_MENU<>）中部署在星�
 <COMMODITY>警告<>：不要忘记你所部署的技术位置。}
 UI_GUIDE_TOPIC_FLEETS	{货船舰队}
 UI_GUIDE_TOPIC_FLEETSA	{舰队远征}
-UI_GUIDE_BODY_FLEETS	{指挥一艘大型<COMMODITY>主力舰<>可提供一些好处。其中最重要的是指挥<SPECIAL>护卫舰<>舰队的能力。
+UI_GUIDE_BODY_FLEETS	{指挥一艘大型<COMMODITY>主力飞船<>可提供一些好处。其中最重要的是指挥<SPECIAL>护卫舰<>舰队的能力。
 
 找到并购买<SPECIAL>护卫舰<>以添加到你的舰队中。一个<TECHNOLOGY>护卫舰组<>中可招募的护卫舰将以图标标注。靠近一艘<TRADEABLE>可招募的护卫舰<>，并通过<TECHNOLOGY>飞船通讯器<>与它们谈话。
 
 护卫舰有几种类型，每艘独立护卫舰的品质各不相同。未进行远征时，护卫舰会执行与它们的能力相关的任务。登陆一艘护卫舰来收集任务报酬。
 
-<STELLAR>贸易护卫舰<>可以积累财富，<TECHNOLOGY>科学飞船<>可以提供远古遗物的扫描，<FUEL>补给飞船<>可以产生燃料，而<COMMODITY>采矿飞船<>可以收集矿物。<SPECIAL>作战飞船<>会在你对抗附近海盗时前来支援。}
+<STELLAR>贸易护卫舰<>可以积累财富，<TECHNOLOGY>科学飞船<>可以提供古代遗物的扫描，<FUEL>补给飞船<>可以产生燃料，而<COMMODITY>采矿飞船<>可以收集矿物。<SPECIAL>作战飞船<>会在你对抗附近海盗时前来支援。}
 UI_GUIDE_BODY_FLEETSA	{远征需要一间<TECHNOLOGY>舰队指挥室<>。在舰桥和机库之间的宜居地带建立一座指挥站。
 
 <TECHNOLOGY>领航员<>会为舰队计划远征。前往货船舰桥拜访领航员以了解当前可进行的远征。每天都有一组新的远征航线。远征的<TECHNOLOGY>专长<>和<FUEL>难度<>各不相同。
@@ -619,7 +619,7 @@ UI_GUIDE_BODY_TECHNOLOGY	{拜访多数空间站都有设置的<STELLAR>市场<>�
 你虽然需要自寻材料，但总能在自己的套装、拥有的任何<STELLAR>飞船<>或<TECHNOLOGY>多用途工具<>上安装该技术。
 
 <VAL_ON>升级模块<>仅限于一次性购买。它们可升级你已安装于<VAL_ON>套装<>、<STELLAR>飞船<>或者<TECHNOLOGY>多用途工具<>上的某个特定技术。每项升级都有稍微不同的属性，用户可多多尝试不同的搭配。
-用<IMG>FE_ALT1<>选择库存中的升级模块，再用<IMG>SELECT<>将其部署到空置的<TECHNOLOGY>科技槽位<>，即可安装升级模块。
+用<IMG>FE_ALT1<>选择库存中的升级模块，再用<IMG>SELECT<>将其部署到空置的<TECHNOLOGY>科技栏位<>，即可安装升级模块。
 
 安装到同类别升级模块旁的升级模块可提供额外增益，从而进一步提升设备性能。
 
@@ -1020,7 +1020,7 @@ UI_SPACE_STAIRS_NAME_L	{货船楼梯}
 UI_SPACE_WALL_NAME_L	{货船内部墙}
 UI_FLEET_COMMAND_NAME	{舰队指挥室}
 UI_FLEET_COMMAND_NAME_L	{舰队指挥室}
-UI_FLEET_COMMAND_DESC	{核心<TECHNOLOGY>舰队管理站<>。这一先进的全息通讯站对于主力舰从舒适角度管理舰队探险是至关重要的。
+UI_FLEET_COMMAND_DESC	{核心<TECHNOLOGY>舰队管理站<>。这一先进的全息通讯站对于主力飞船从舒适角度管理舰队探险是至关重要的。
 
 建议使用者需要多座站点同时管理多个远征。}
 UI_FLEET_COMMAND_SUB	{远征管理终端}
@@ -1066,7 +1066,7 @@ UI_BP_ANALYSER_DESC	{便携式<TECHNOLOGY>设计图研究设备<>。
 UI_BP_ANALYSER_SUB	{技术回收设备}
 BP_SALVAGE_NAME	{已回收的数据}
 BP_SALVAGE_NAME_L	{已回收的数据}
-BP_SALVAGE_DESC	{某种远古科技的核心，可以回收，但在其当前形式下无法读取。
+BP_SALVAGE_DESC	{某种古代科技的核心，可以回收，但在其当前形式下无法读取。
 
 这种数据库可以在<TECHNOLOGY>建筑研究单位<>处使用，以用来研究新的<STELLAR>建筑设计图<>。}
 BP_SALVAGE_SUB	{已回收的技术}
@@ -1197,13 +1197,13 @@ DOOR_ARMOUR	{强化门}
 LADDER	{爬上楼梯}
 QUICK_MENU_SUMMON_SHIPS_MENU	{选择其他飞船}
 UI_TRADER_JOB_TITLE	{商人}
-UI_TRADE_TITLE_FORMAT	{%RACE%%TITLE%}
+UI_TRADE_TITLE_FORMAT	{%RACE% %TITLE%}
 UI_MUTE_PLAYER	{玩家禁言}
 UI_KICK_PLAYER	{踢出玩家}
-NAMEGEN_PROC_TECH_1	{%NAME%覆盖标记 %NUMERAL%}
-NAMEGEN_PROC_TECH_2	{%NAME%升级 %SERIALNUM%}
-NAMEGEN_PROC_TECH_3	{%NAME%%WEAP2% %NUMERAL%}
-NAMEGEN_PROC_TECH_4	{%ADJECTIVE%%NAME% 升级}
+NAMEGEN_PROC_TECH_1	{%NAME% 覆盖标记 %NUMERAL%}
+NAMEGEN_PROC_TECH_2	{%NAME% 升级 %SERIALNUM%}
+NAMEGEN_PROC_TECH_3	{%NAME% %WEAP2% %NUMERAL%}
+NAMEGEN_PROC_TECH_4	{%ADJECTIVE% %NAME% 升级}
 UI_REFINER_BTN_BEGIN	{开始}
 UI_REFINER_BTN_STOP	{停止}
 UWN_NAME	{曝气膜}
@@ -1218,7 +1218,7 @@ STAM_NAME	{体力}
 STAM_NAME_L	{体力}
 TOX_NAME	{毒性抑制器}
 TOX_NAME_L	{毒性抑制器}
-INTRCT_NOROOM_SLOT	{<IMG>SLASH<>需要%NUM%个库存槽位<IMG>SLASH<>}
+INTRCT_NOROOM_SLOT	{<IMG>SLASH<>需要%NUM%个库存栏位<IMG>SLASH<>}
 UI_PIN_REFINE	{精炼%ITEM%}
 UI_PIN_CRAFT	{制作%ITEM%}
 UI_TITLE_MILESTONES	{里程碑}
@@ -1262,7 +1262,7 @@ UI_NOTIFY_TIP_TITLE	{套装指引信息}
 UI_NOTIFY_SHIP_TIP_TITLE	{飞船指引信息}
 UI_NOTIFY_EXOCRAFT_TIP_TITLE	{强化艇指引信息}
 UI_NOTIFY_SHIP_COMBAT_TITLE	{飞船战斗警报}
-FRIENDS_CAPITAL_SHIP_NAME_L	{%NAME%的主力舰}
+FRIENDS_CAPITAL_SHIP_NAME_L	{%NAME%的主力飞船}
 HUD_RELOADING	{正在重新加载}
 HUD_COOLDOWN	{正在充能}
 MARKER_TAG	{按住 <IMG>MARKER_TAG<> 添加标签}
@@ -1653,7 +1653,7 @@ UI_INV_SWITCH_TIP_FREI_ALT2	{<IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存 <IMG>TRA
 UI_INV_SWITCH_TIP_FREI_ALT3	{<IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存 <IMG>TRANSFER<>启用堆叠切换 <IMG>TRADETOGGLEINV<>快速分割}
 UI_INV_SWITCH_TIP_WEAPON	{<IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存}
 UI_UNLIMITED	{无限}
-UI_TECH_SLOT_ERROR	{无法将物品放入技术槽位}
+UI_TECH_SLOT_ERROR	{无法将物品放入技术栏位}
 INTRCT_NANITES	{%AMOUNT% 纳米星团记入你的帐户}
 INTRCT_SPECIALS	{%AMOUNT% 水银已记入你的帐户}
 NANITES_COST_STRING	{%COST% 纳米星团}
@@ -1774,12 +1774,12 @@ TRADE_BUY_BUILDING_TITLE	{研究建造设计图}
 TRADE_BUY_BUILDING_NO_ITEMS	{回收模块不足}
 TRADE_BUY_RESEARCH_NO_TOKEN	{研究币不足}
 BUILD_PROD_DEPLOY	{安装}
-BUILD_PROD_DEPLOY_SUB	{选择槽位安装技术}
-UI_DEPLOY_PROD_TIP_SUIT	{<IMG>SELECT<>选择槽位安装新技术   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存}
-UI_DEPLOY_PROD_TIP_SHIP	{<IMG>SELECT<>选择槽位安装新技术   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存}
-UI_DEPLOY_PROD_TIP_EXO	{<IMG>SELECT<>选择槽位安装新技术   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存}
-UI_DEPLOY_PROD_TIP_FREIGHTER	{<IMG>SELECT<>选择槽位安装新技术   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存}
-UI_DEPLOY_PROD_TIP_WEAPON	{<IMG>SELECT<>选择槽位安装新技术   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存}
+BUILD_PROD_DEPLOY_SUB	{选择栏位安装技术}
+UI_DEPLOY_PROD_TIP_SUIT	{<IMG>SELECT<>选择栏位安装新技术   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存}
+UI_DEPLOY_PROD_TIP_SHIP	{<IMG>SELECT<>选择栏位安装新技术   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存}
+UI_DEPLOY_PROD_TIP_EXO	{<IMG>SELECT<>选择栏位安装新技术   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存}
+UI_DEPLOY_PROD_TIP_FREIGHTER	{<IMG>SELECT<>选择栏位安装新技术   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存}
+UI_DEPLOY_PROD_TIP_WEAPON	{<IMG>SELECT<>选择栏位安装新技术   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<>切换库存}
 UI_TECH_DEPLOY_ERROR	{无法安装这个库存类别}
 UI_YOU	{你}
 UI_PARTICIPANTS	{<IMG>DIAMONDBULLET<>参与者：%CURRENT%/%TOTAL%}
@@ -1821,7 +1821,7 @@ AMMO_PROD_DESC	{高级弹药碎片，符合通用多用途工具标准07/FF1。
 UI_AMMO_NOTIFY_TITLE	{射弹弹药}
 UI_AMMO_NOTIFY	{射弹武器如<TECHNOLOGY>离子闪电发射器<>需要弹药
 在你的库存中制造<STELLAR>弹药<>并使用<IMG>RELOAD<>装弹
-使用<IMG>PRODMENU<>的空置槽位制造，或使用<IMG>TECHMENU<>增加现有的堆叠}
+使用<IMG>PRODMENU<>的空置栏位制造，或使用<IMG>TECHMENU<>增加现有的堆叠}
 WARN_TECH_GROUP	{技术已过载！}
 WARN_TECH_GROUP_TEXT	{安装了过多的%TYPE%类别升级。移除过剩升级以恢复设备功能。}
 UI_JOIN_MP_MISSION	{加入任务}
@@ -1912,7 +1912,7 @@ UI_EMOTE_CHAT_ATTACK_WALKER	{%NAME%遇上了护卫步行机}
 UI_EMOTE_CHAT_DISCOVER_CRE	{%NAME%发现了一种生物（%DISC_NAME%）}
 UI_EMOTE_CHAT_DISCOVER_MIN	{%NAME%发现了一种矿物（%DISC_NAME%）}
 UI_EMOTE_CHAT_DISCOVER_PLANT	{%NAME%发现了一种植物（%DISC_NAME%）}
-UI_EMOTE_CHAT_SUMMON_FREIGHT	{%NAME%召唤了主力舰（%FREIGHT_NAME%）}
+UI_EMOTE_CHAT_SUMMON_FREIGHT	{%NAME%召唤了主力飞船（%FREIGHT_NAME%）}
 UI_EMOTE_CHAT_INSTALL_TECH	{%NAME%安装了%TECH%}
 UI_EMOTE_CHAT_NEW_PLANET	{%NAME%降落在了星球上（%PLANET%）}
 UI_EMOTE_CHAT_PULSE_TO_PLANET	{%NAME%正飞向%PLANET%行星}
@@ -1924,7 +1924,7 @@ UI_EMOTE_KILLED_WALKER	{%NAME%摧毁了一部护卫步行机}
 UI_EMOTE_KILLED_C_SENTINEL	{%NAME%摧毁了一个受损的护卫}
 UI_EMOTE_GATHERED	{%NAME%收集了%ITEM% x %NUM%}
 UI_EMOTE_GATHERED_NO_NUMBER	{%NAME%收集了%ITEM%}
-UI_EMOTE_FREIGHTER	{%NAME%购买了主力舰%FREIGHTER%}
+UI_EMOTE_FREIGHTER	{%NAME%购买了主力飞船%FREIGHTER%}
 UI_EMOTE_FRIGATE	{%NAME%购买了护卫舰%FRIGATE%}
 UI_EMOTE_CHAT_TAME_CREATURE	{%NAME%驯服了一只生物}
 UI_EMOTE_CHAT_TAME_CREATURE_ALT	{%NAME%驯服了一只生物（%DISC_NAME%）}
@@ -1934,8 +1934,8 @@ UI_EMOTE_CHAT_KILL_PLANT	{%NAME%消灭了一株危险植物}
 UI_EMOTE_CHAT_KILL_FIEND	{%NAME%消灭了一只怪物}
 UI_EMOTE_CHAT_KILL_DEPOT	{%NAME%摧毁了一个仓库}
 UI_EMOTE_CHAT_BUILD	{%NAME%建造了%ITEM%}
-UI_EMOTE_CHAT_GET_BONES	{%NAME%挖掘出了远古骸骨}
-UI_EMOTE_CHAT_GET_BONES_ALT	{%NAME%挖掘出了远古骸骨（%ITEM%）}
+UI_EMOTE_CHAT_GET_BONES	{%NAME%挖掘出了古代骸骨}
+UI_EMOTE_CHAT_GET_BONES_ALT	{%NAME%挖掘出了古代骸骨（%ITEM%）}
 UI_EMOTE_CHAT_GET_TREASURE	{%NAME%挖掘出了一件遗物}
 UI_EMOTE_CHAT_GET_TREASURE_ALT	{%NAME%挖掘出了一件遗物（%ITEM%）}
 UI_EMOTE_CHAT_GET_SCRAP	{%NAME%回收了废料}
@@ -2008,9 +2008,9 @@ UI_SHIPSLOT_DMG11_NAME_L	{电镀板烧焦}
 UI_SHIPSLOT_DMG12_NAME	{燃料电池熔化}
 UI_SHIPSLOT_DMG12_NAME_L	{燃料电池熔化}
 UI_SHIPSLOT_DMG_SUB	{受损的飞船部件}
-UI_SHIPSLOT_DMG_DESC	{飞船子系统<FUEL>严重受损<>。槽位无法用于<STELLAR>储存<>或<TECHNOLOGY>技术<>用途，直至损害得到修复。使用<IMG>REPAIR<>启动修复过程。
+UI_SHIPSLOT_DMG_DESC	{飞船子系统<FUEL>严重受损<>。栏位无法用于<STELLAR>储存<>或<TECHNOLOGY>技术<>用途，直至损害得到修复。使用<IMG>REPAIR<>启动修复过程。
 
-飞船核心机能将不受影响。修复该损伤将使槽位空出，以供一般库存用途使用。}
+飞船核心机能将不受影响。修复该损伤将使栏位空出，以供一般库存用途使用。}
 UI_EXO_MAINT1_NAME	{故障的全息图}
 UI_EXO_MAINT1_NAME_L	{故障的全息图}
 UI_EXO_MAINT2_NAME	{受损的电极}
@@ -2048,9 +2048,9 @@ UI_WEAPSLOT_DMG12_NAME_L	{电阻器故障}
 UI_WEAPSLOT_DMG_SUB	{受损的多用途工具部件}
 UI_WEAPSLOT_DMG_DESC	{多用途工具子系统<FUEL>严重受损<>。
 
-槽位无法使用，直至损害得到修复。使用<IMG>REPAIR<>启动修复过程。
+栏位无法使用，直至损害得到修复。使用<IMG>REPAIR<>启动修复过程。
 
-修复将使槽位空出，以供一般用途使用。}
+修复将使栏位空出，以供一般用途使用。}
 UI_BINOCS_LOCATION	{当前位置：%LATLONG%}
 UI_PALETTE_WHITE_ORANGE	{白橙}
 UI_PALETTE_BLACK_OLIVE	{黑黄}
@@ -2071,7 +2071,7 @@ UI_PALETTE_GREY_RED	{灰红}
 TEMPLATE_NAME	{升级模块}
 TEMPLATE_NAME_L	{升级模块}
 UI_DROPPOD_MAINT_TITLE	{套装升级模块}
-UI_DROPPOD_MAINT_SUB	{修复系统需要新的套装槽位}
+UI_DROPPOD_MAINT_SUB	{修复系统需要新的套装栏位}
 UI_RETURN	{返回<IMG>EXITMENU<>}
 NOTIFY_LAND_TOOFAST	{<IMG>SLASH<>无法着陆 :: 飞行速度太快<IMG>SLASH<>}
 NOTIFY_LAND_INVERTED	{<IMG>SLASH<>无法着陆 :: 飞船颠倒<IMG>SLASH<>}
@@ -2101,9 +2101,9 @@ VEHICLE_SKIDGRIP	{角速度控制}
 UI_VERSION_MISMATCH	{版本不匹配}
 NO_JOIN_MP_VERSION	{该游戏正在使用不同版本的《No Man's Sky》。请升级至最新版本。}
 UI_TERRAIN_EDIT_COUNTER	{基地地形编辑：}
-UI_MISSION_DEADLINE	{%DAYS% 天 %HOURS% 时 %MINUTES% 分 %SECONDS% 秒}
+UI_MISSION_DEADLINE	{%DAYS%日：%HOURS%时：%MINUTES%分：%SECONDS%秒}
 UI_MISSION_DEADLINE_ERROR	{无法连接至在线服务}
-UI_MISSION_DEADLINE_SHORT	{ %DAYS% 天 %HOURS 时}
+UI_MISSION_DEADLINE_SHORT	{ %DAYS%天：%HOURS%小时}
 BASEINV_OUT_OF_RANGE	{基地超出范围}
 UI_NETWORK_PLAYER_LIST_U	{玩家列表}
 UI_PRIV_TEXT_CHAT	{文字聊天：%VALUE%}
@@ -2362,7 +2362,7 @@ UI_WATERMISSION3_OBJ2_TIP	{大鹦鹉螺侦测到了一个从海底发出的中�
 UI_WATERMISSION3_OBJ3	{建造高功率声纳}
 UI_WATERMISSION3_OBJ3_TIP	{废弃的无线电建筑物里有<TECHNOLOGY>高功率声纳<>的设计图。
 为大鹦鹉螺建造<TECHNOLOGY>高功率声纳<>。
-进入大鹦鹉螺的库存并用 <IMG>TECHMENU<> 在一个空槽位制作。
+进入大鹦鹉螺的库存并用 <IMG>TECHMENU<> 在一个空栏位制作。
 用 <IMG>PIN<> 标记设计图配方以查看详细说明。}
 UI_WATERMISSION3_MSG1	{测试<STELLAR>大鹦鹉螺潜水艇<>
 探索深海并寻找陌生人远征的迹象}
@@ -2371,7 +2371,7 @@ UI_WATERMISSION3_MSG2	{大鹦鹉螺侦测到海床上有一座广播建筑物
 UI_WATERMISSION3_MSG3	{侦测到广播建筑物
 探索建筑并寻找失踪船员的迹象}
 UI_WATERMISSION3_MSG4	{安装<TECHNOLOGY>高功率声纳<>
-进入大鹦鹉螺的库存，并用 <IMG>TECHMENU<> 在一个空槽位制作
+进入大鹦鹉螺的库存，并用 <IMG>TECHMENU<> 在一个空栏位制作
 用 <IMG>PIN<> 标记设计图配方以查看详细说明}
 NPC_WATERMISSION3_DESC	{尽管已经腐朽，站点的主机仍然可以工作。早前到访这里的人物显然看过这些记录。最后一个条目是下载<TECHNOLOGY>高功率声纳装置<>。
 但奇怪的是，时间戳记已被清除，无法得知船员到访这里是多久以前。
@@ -2445,12 +2445,12 @@ SUB_RADAR_OSD_FREIGHTER	{侦测到沉没的残骸}
 SUB_RADAR_OSD_RUIN	{侦测到淹没的废墟}
 UI_BUILD_GROUP_UNDERWATER	{水中建筑}
 UI_BUILD_PATH_UNDERWATER	{水生}
-ITEMGEN_FORMAT_WATER_1	{%WATERADJ%%WATERNOUN%}
-ITEMGEN_FORMAT_WATER_2	{%WATERADJ%%WATERNOUN%}
+ITEMGEN_FORMAT_WATER_1	{%WATERADJ% %WATERNOUN%}
+ITEMGEN_FORMAT_WATER_2	{%WATERADJ% %WATERNOUN%}
 ITEMGEN_WATER_SUB	{水中珍宝}
 ITEMGEN_WATER_DESC	{保存完好的海洋珍宝，发现于海底深处。它被厚厚的海胆保护，未遭到元素的破坏，至少有 %AGE%00 年的历史。
 
-对远古制品收藏家而言具有极高价值。}
+对古代制品收藏家而言具有极高价值。}
 ITEMGEN_WATER_ADJ_1	{水浸的}
 ITEMGEN_WATER_ADJ_2	{乏味的}
 ITEMGEN_WATER_ADJ_3	{盐壳的}
@@ -2501,8 +2501,8 @@ ITEMGEN_WATER_NOUN_22	{蛋}
 ITEMGEN_WATER_NOUN_23	{胶冻}
 ITEMGEN_WATER_NOUN_24	{遗物}
 ITEMGEN_WATER_NOUN_25	{戒指}
-ITEMGEN_FORMAT_WATERWEIRD_1	{%WATERWEIRDADJ%%WATERWEIRDNOUN%}
-ITEMGEN_FORMAT_WATERWEIRD_2	{%WATERWEIRDADJ%%WATERWEIRDNOUN%}
+ITEMGEN_FORMAT_WATERWEIRD_1	{%WATERWEIRDADJ% %WATERWEIRDNOUN%}
+ITEMGEN_FORMAT_WATERWEIRD_2	{%WATERWEIRDADJ% %WATERWEIRDNOUN%}
 ITEMGEN_WATERWEIRD_DESC	{一件恐怖的遗物，某种深渊骇物的闹鬼遗骸。它至少已经活了 %AGE%0 辈子，而且会继续活下去。
 
 将追随持有者穿越一个个星系，除非能在诅咒生效前卖掉它。}
@@ -2798,7 +2798,7 @@ UP_EXOSUB_COMP_10	{涡轮通风口}
 UP_EXOSUB_COMMON_ADJ_1	{高效的}
 UP_EXOSUB_COMMON_ADJ_2	{替代的}
 UP_EXOSUB_COMMON_ADJ_3	{稳定的}
-UP_EXOSUB_COMMON_ADJ_4	{第二级}
+UP_EXOSUB_COMMON_ADJ_4	{第二的}
 UP_EXOSUB_COMMON_ADJ_5	{强化的}
 UP_EXOSUB_RARE_ADJ_1	{两瓣的}
 UP_EXOSUB_RARE_ADJ_2	{耐盐的}
@@ -2944,8 +2944,8 @@ BLD_WEIRDCUBE_NAME	{电立方}
 BLD_WEIRDCUBE_NAME_L	{电立方}
 INTRCT_PICKUP	{捡起}
 UI_UNDERGROUND_BONES_NAME_L	{自然墓地}
-UI_BONES_REWARD	{远古骸骨}
-UI_BONES_HINT	{远古骸骨}
+UI_BONES_REWARD	{古代骸骨}
+UI_BONES_HINT	{古代骸骨}
 UI_SCRAP_NAME_L	{废弃技术}
 UI_SCRAP_REWARD	{打捞容器}
 UI_SCRAP_HINT	{可回收废料}
@@ -2958,7 +2958,7 @@ UI_STORMCRYSTAL_DESC	{一簇稀有而珍贵的风暴水晶。这种晶体结构�
 BUY_SCRAP	{舍弃}
 BUY_SCRAP_DESC	{将飞船拆卸成为废料}
 UI_GUIDE_BODY_TRADE_1_EXTRA	{从太空中的<VAL_ON>小行星<>处采集<STELLAR>珍贵金属<>，或使用<TECHNOLOGY>分析面甲<>在行星上找到珍贵的<STELLAR>资源点<>和<STELLAR>可回收废料<>。}
-UI_GUIDE_BODY_TRADE_1_EXTRA2	{在太空中使用 <IMG>SCAN<> 扫描行星，识别含有珍贵<STELLAR>远古骸骨<>的行星，以及<FUEL>极端天气行星<>，在那里<STELLAR>资源点<>的价值更高，而且可以找到稀有的风暴水晶。}
+UI_GUIDE_BODY_TRADE_1_EXTRA2	{在太空中使用 <IMG>SCAN<> 扫描行星，识别含有珍贵<STELLAR>古代骸骨<>的行星，以及<FUEL>极端天气行星<>，在那里<STELLAR>资源点<>的价值更高，而且可以找到稀有的风暴水晶。}
 UI_GUIDE_BODY_SURVIVAL_6_EXTRA	{专注的探险家们还可能会在旅行中遇到<STELLAR>不寻常的生态群系类型<>，可以在那里找到独特的纪念品，并带回宜居的基地作为装饰......}
 POPUP_USEDFOR	{用途：}
 ITEMUSE_COMMA	{、 }
@@ -3044,15 +3044,15 @@ BLD_ATLAS_S_DESCRIPTION	{一件专属的可建造基地装饰，由白银铸成�
 BLD_ATLAS_S_NAME	{白银阿特拉斯雕像}
 BLD_ATLAS_S_NAME_L	{白银阿特拉斯雕像}
 BLD_BLOB_B_DESCRIPTION	{一件专属的可建造基地装饰，由青铜铸成。
-此雕像刻画了一只许多探险家都在寻找的原始远古生物。}
+此雕像刻画了一只许多探险家都在寻找的原始古代生物。}
 BLD_BLOB_B_NAME	{青铜小生物雕像}
 BLD_BLOB_B_NAME_L	{青铜小生物雕像}
 BLD_BLOB_G_DESCRIPTION	{一件专属的可建造基地装饰，由黄金铸成。
-此雕像刻画了一只许多探险家都在寻找的原始远古生物。}
+此雕像刻画了一只许多探险家都在寻找的原始古代生物。}
 BLD_BLOB_G_NAME	{黄金小生物雕像}
 BLD_BLOB_G_NAME_L	{黄金小生物雕像}
 BLD_BLOB_S_DESCRIPTION	{一件专属的可建造基地装饰，由白银铸成。
-此雕像刻画了一只许多探险家都在寻找的原始远古生物。}
+此雕像刻画了一只许多探险家都在寻找的原始古代生物。}
 BLD_BLOB_S_NAME	{白银小生物雕像}
 BLD_BLOB_S_NAME_L	{白银小生物雕像}
 BLD_DIP_B_DESCRIPTION	{一件专属的可建造基地装饰，由青铜铸成。
@@ -3152,7 +3152,7 @@ BLD_DECAL_ANOMALY_DESCRIPTION	{专属的可放置贴花，可以为你的基地�
 BLD_DECAL_ANOMALY_NAME	{异象贴花}
 BLD_DECAL_ANOMALY_NAME_L	{异象贴花}
 BLD_DECAL_PROSENT_DESCRIPTION	{专属的可放置贴花，可以为你的基地增添风格和美观。
-此贴花上画有一架闪亮的艾隆无人机。}
+此贴花上画有一架闪亮的艾伦无人机。}
 BLD_DECAL_PROSENT_NAME	{护卫贴花}
 BLD_DECAL_PROSENT_NAME_L	{护卫贴花}
 BLD_DECAL_ANTISENT_DESCRIPTION	{专属的可放置贴花，可以为你的基地增添风格和美观。
@@ -4014,7 +4014,7 @@ NPC_COMM_WEEK_06_STORY_OPT_A4	{叫它们睡一觉}
 NPC_COMM_WEEK_06_STORY_OPT_B4	{叫它们逃跑}
 NPC_COMM_WEEK_06_STORY_RES_A4	{我听到一声深深的叹息，数周以来的疲惫随着声音的主人沉入梦境而释放。它安静下来，声音被机器的嗡嗡音所取代。记录戛然而止。}
 NPC_COMM_WEEK_06_STORY_RES_B4	{陌生人开始讲话，但又中断了。它想知道往哪里跑，怎么才能逃脱，但某种东西告诉它们，我无法回复，询问也没有意义。我听到它离去的脚步，它的声音被机器的嗡嗡音所取代。}
-NPC_COMM_WEEK_06_STORY_DESC5A	{我听到了来自远古纪念碑的问候，话语直接映入我的脑海里。这样的东西将对保罗的操控作何反应？}
+NPC_COMM_WEEK_06_STORY_DESC5A	{我听到了来自古代纪念碑的问候，话语直接映入我的脑海里。这样的东西将对保罗的操控作何反应？}
 NPC_COMM_WEEK_06_STORY_DESC5B	{旅行者的“信标”周围的异常杂讯消散，一个强烈的新信号取代了古老的杂讯。保罗的处理使我愈加忧虑。}
 NPC_COMM_WEEK_06_STORY_LANG5A	{你......我知道你。你叫我<STELLAR>......嗞嗞......<>入梦，去睡觉<STELLAR>......嗞嗞......<>终于逃离了浓雾。
 我们跟随着那只眼睛，得到了拯救。我们必须<STELLAR>......嗞嗞......<>感谢你。传送门已经准备好了。我们站在了门口。<STELLAR>......嗞嗞......<>正在呼唤我们。}
@@ -4284,13 +4284,13 @@ NPC_COMM_WEEK_08_PORTAL_DESC	{传送门在我面前慢慢打开。
 NPC_COMM_WEEK_08_PORTAL_DESC2	{传送门中传来的能量既热又冷，既令人排斥又诱人靠近。那是一个非常刺耳的呜咽声，其频率之高几乎无法听见，但是我却听见了。那是某种来自远方的一个新生世界的回音。}
 UI_FLEET_TUT_TITLE	{货船命令}
 UI_FLEET_TUT_SUB	{召集舰队开始远征}
-UI_FLEET_TUT_DESC	{命令一艘大型<COMMODITY>主力舰<>提供一些福利。其中最重要的是计划和指挥远征的能力。
+UI_FLEET_TUT_DESC	{命令一艘大型<COMMODITY>主力飞船<>提供一些福利。其中最重要的是计划和指挥远征的能力。
 找到并购买<SPECIAL>护卫舰<>以添加到你的舰队中。在货船<TECHNOLOGY>领航员<>的帮助下，为你的舰队找到有利可图的远征航线。
 远征是一项高收益的工作，并提供了获得稀有和特殊奖励的机会。}
 UI_FLEET_TUT_OBJ0	{建立一个舰队指挥室}
 UI_FLEET_TUT_OBJ_TIP0	{远征需要一座<TECHNOLOGY>舰队指挥室<>。
 在你的货船上建立一座指挥模块。在舰桥和机库之间的宜居地带之间，使用建造菜单（<IMG>BUILD_MENU<>）建立。}
-UI_FLEET_TUT_OBJ1	{扩编你的舰队}
+UI_FLEET_TUT_OBJ1	{扩大你的舰队}
 UI_FLEET_TUT_OBJ_TIP1	{恒星系经常有大型<TECHNOLOGY>货船组<>通过。这些货船组中可招募的护卫舰将会有图标标注。
 接近一艘<TRADEABLE>可招募的护卫舰<>，并与它们在<TECHNOLOGY>飞船通讯器<>上谈话。}
 UI_FLEET_TUT_NAV_MSG	{与<STELLAR>货船领航员<>对话}
@@ -4359,7 +4359,7 @@ UI_CORE_LAUNCHSUB_MSG	{<TECHNOLOGY>二氢<>是<COMMODITY>飞船发射燃料<>的
 UI_CORE_FUEL2_MSG	{相比普通的碳，浓缩碳可以提供更多能量
 寻找晶体形式的浓缩碳，或放入<TECHNOLOGY>精炼机<>加工
 点击<IMG>OPTIONS<>了解更多}
-UI_CORE_NAV_DROP_MSG	{在<TECHNOLOGY>空降舱<>升级套装以增加库存槽位
+UI_CORE_NAV_DROP_MSG	{在<TECHNOLOGY>空降舱<>升级套装以增加库存栏位
 使用<STELLAR>套装升级图纸<>可定位空降舱
 通过空降舱可进行<STELLAR>免费<>升级}
 UI_CORE_CATALYST1_MSG	{钠可以用来给<COMMODITY>危险防护<>充能
@@ -4402,7 +4402,7 @@ UI_TUT_REPAIR_SHIP_MSG0C	{收集%ITEM%：%CURRENT%/%AMOUNT%
 UI_TUT_REPAIR_SHIP_MSG0	{制作<COMMODITY>金属电镀<>来修复<TECHNOLOGY>脉冲驱动器<>：%CURRENT%/%AMOUNT%
 已获取铁氧体粉末：<TRADEABLE>50<>/<TRADEABLE>50<>
 使用<IMG>INVENTORY<>打开你的库存
-使用<IMG>PRODMENU<>在空置槽位中进行制作。}
+使用<IMG>PRODMENU<>在空置栏位中进行制作。}
 UI_TUT_REPAIR_SHIP_MSG0A	{把<COMMODITY>金属电镀<>安装到<TECHNOLOGY>脉冲驱动器<>上
 在飞船库存（<IMG>INVENTORY<>）中，找到<TECHNOLOGY>脉冲驱动器<>
 然后使用 <IMG>REPAIR<> 开始修复}
@@ -4455,14 +4455,14 @@ UI_TUT_ADV_MATS_MSG2A	{已复原<COMMODITY>导航数据<>
 UI_TUT_ADV_MATS_MSG2B	{已复原<COMMODITY>导航数据<>
 建造<TECHNOLOGY>信号增强器<>来使用导航数据
 制造%ITEM%：%CURRENT%/%AMOUNT%
-打开库存（<IMG>INVENTORY<>），使用<IMG>PRODMENU<>在空置槽位中进行制造。}
+打开库存（<IMG>INVENTORY<>），使用<IMG>PRODMENU<>在空置栏位中进行制造。}
 UI_TUT_ADV_MATS_MSG2C	{已复原<COMMODITY>导航数据<>
 建造<TECHNOLOGY>信号增强器<>来使用导航数据
 收集%ITEM%：%CURRENT%/%AMOUNT%}
 UI_TUT_ADV_MATS_MSG2D	{已复原<COMMODITY>导航数据<>
 建造<TECHNOLOGY>信号增强器<>来使用导航数据
 制造%ITEM%：%CURRENT%/%AMOUNT%
-打开库存（<IMG>INVENTORY<>），使用<IMG>PRODMENU<>在空置槽位中进行制造。}
+打开库存（<IMG>INVENTORY<>），使用<IMG>PRODMENU<>在空置栏位中进行制造。}
 UI_TUT_ADV_MATS_MSG2E	{已复原<COMMODITY>导航数据<>
 建造<TECHNOLOGY>信号增强器<>来使用导航数据
 收集%ITEM%：%CURRENT%/%AMOUNT%
@@ -4565,7 +4565,7 @@ UI_TUT_ADV_MATS_MSG14	{收集<TECHNOLOGY>二氢<>：%CURRENT%/%AMOUNT%
 UI_TUT_ADV_MATS_MSG15	{制作<FUEL>二氢凝胶<>：%CURRENT%/%AMOUNT%
 已获得二氢：<TRADEABLE>40<>/<TRADEABLE>40<>
 打开<TECHNOLOGY>库存<>
-使用<IMG>PRODMENU<>在库存槽位中制作物品}
+使用<IMG>PRODMENU<>在库存栏位中制作物品}
 UI_TUT_ADV_MATS_MSG16	{使用<FUEL>二氢凝胶<>润滑<TECHNOLOGY>发射推进器<>
 通过 <IMG>INVENTORY<> 进入库存，并使用<IMG>REPAIR<>修理物品}
 UI_TUT_ADV_MATS_MSG16B	{返回<TECHNOLOGY>飞船<>
@@ -4576,7 +4576,7 @@ UI_TUT_ADV_MATS_REFINER_1A	{建造一台<TECHNOLOGY>便携式精炼机<>
 UI_TUT_ADV_MATS_REFINER_1B	{建造一个<TECHNOLOGY>便携式精炼机<>
 制作%ITEM%：%CURRENT%/%AMOUNT%
 使用<IMG>INVENTORY<>进入你的库存
-使用<IMG>PRODMENU<>在空置槽位中进行制作}
+使用<IMG>PRODMENU<>在空置栏位中进行制作}
 UI_TUT_ADV_MATS_REFINER_1C	{制造<TECHNOLOGY>便携式精炼机<>
 收集%ITEM%：%CURRENT%/%AMOUNT%
 使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位%ITEM%}
@@ -4657,15 +4657,15 @@ UI_SUIT_UPGRADE_OBJ2	{定位空降舱}
 UI_SUIT_UPGRADE_OBJ2_TIP	{<TECHNOLOGY>信号增强器<>可获取导航数据模块，并定位建筑物。
 特殊<SPECIAL>空降舱坐标数据<>可追踪<TECHNOLOGY>空降舱<>的位置。
 空降舱内包含了强大的<VAL_ON>套装升级<>。}
-UI_SUIT_UPGRADE_MSG1	{升级<TECHNOLOGY>空降舱<>套装以增加库存槽位
+UI_SUIT_UPGRADE_MSG1	{升级<TECHNOLOGY>空降舱<>套装以增加库存栏位
 将<SPECIAL>空降舱坐标数据<>输入<TECHNOLOGY>信号增强器<>
 使用建造菜单<IMG>BUILD_MENU<>制作信号增强器}
 UI_SUIT_UPGRADE_MSG2	{制作<TECHNOLOGY>信号增强器<>
 信号增强器可协助定位行星建筑}
 UI_SUIT_UPGRADE_MSG3	{将<SPECIAL>空降舱坐标数据<>输入<TECHNOLOGY>信号增强器<>
-升级<TECHNOLOGY>空降舱<>套装以增加库存槽位}
+升级<TECHNOLOGY>空降舱<>套装以增加库存栏位}
 UI_SUIT_UPGRADE_MSG4	{定位<TECHNOLOGY>空降舱<>
-升级<TECHNOLOGY>空降舱<>套装以增加库存槽位}
+升级<TECHNOLOGY>空降舱<>套装以增加库存栏位}
 UI_SUIT_UPGRADE_DESC	{到目前为止所有旅途中，我遇到的友好面孔少之又少。我所拥有的一切，都是我自己在废墟和垃圾中一点一点捡拾起来的。
 我搜索补给箱。里面似乎出现了一个合适的<TECHNOLOGY>空降舱坐标模块<>。}
 UI_SUIT_UPGRADE_OPT	{拿取数据}
@@ -4871,7 +4871,7 @@ TUT_BASEBUILD_MSG8B_VR4	{探索行星并定位<TECHNOLOGY>埋藏的技术<>：0/
 使用<TECHNOLOGY>分析面甲<>定位埋藏的技术
 将<STELLAR>左手<>举至头侧，然后按下 <IMG>AIM<> 切换}
 TUT_BASEBUILD_MSG8C	{寻找被掩埋的科技需要使用<TECHNOLOGY>分析面甲<>
-用<IMG>PRODMENU<>选择一个库存空置槽位，并选择<STELLAR>标记<> （<IMG>PIN<>）
+用<IMG>PRODMENU<>选择一个库存空置栏位，并选择<STELLAR>标记<> （<IMG>PIN<>）
 按日志（<IMG>OPTIONS<>）中标记的配方搜寻材料}
 TUT_BASEBUILD_MSGC	{部署<TECHNOLOGY>建筑研究单位<>：0/1
 通过<IMG>BUILD_MENU<>打开建造菜单}
@@ -5224,9 +5224,9 @@ UI_PIN_TECH_INSTALL_OBJ	{安装技术}
 UI_PIN_TECH_REPAIR_TITLE	{修复%ITEM%}
 UI_PIN_TECH_REPAIR_HINT	{修复%TECH%}
 UI_PIN_TECH_REPAIR_OBJ	{修复技术}
-UI_PIN_PROD_FINAL_OBJ_TIP	{使用<IMG>PRODMENU<>在空置<TECHNOLOGY>槽位<>中制作。}
+UI_PIN_PROD_FINAL_OBJ_TIP	{使用<IMG>PRODMENU<>在空置<TECHNOLOGY>栏位<>中制作。}
 UI_PIN_BUILD_FINAL_OBJ_TIP	{通过<IMG>BUILD_MENU<>打开建造菜单并放置在合适位置。}
-UI_PIN_PROD_FINAL_MSG	{使用<IMG>PRODMENU<>在空置<TECHNOLOGY>槽位<>中制作}
+UI_PIN_PROD_FINAL_MSG	{使用<IMG>PRODMENU<>在空置<TECHNOLOGY>栏位<>中制作}
 UI_PIN_BUILD_FINAL_MSG	{通过<IMG>BUILD_MENU<>打开建造菜单并放置在合适位置}
 UI_PIN_TECH_FINAL_MSG	{打开库存（<IMG>INVENTORY<>）来完成安装
 使用<IMG>TECHMENU<>检查部分安装的技术
@@ -5234,13 +5234,13 @@ UI_PIN_TECH_FINAL_MSG	{打开库存（<IMG>INVENTORY<>）来完成安装
 UI_PIN_TECH_REPAIR_MSG	{打开库存（<IMG>INVENTORY<>）来完成修复
 使用<IMG>TECHMENU<>检查受损的技术
 插入收集的部件来完成修复}
-UI_PIN_TECH_INSTALL_MSG	{使用<IMG>TECHMENU<>在空置的<TECHNOLOGY>库存槽位<>（<IMG>INVENTORY<>）中制作
+UI_PIN_TECH_INSTALL_MSG	{使用<IMG>TECHMENU<>在空置的<TECHNOLOGY>库存栏位<>（<IMG>INVENTORY<>）中制作
 安装至相关构件旁以获得奖励属性}
 UI_PIN_TECH_FINAL_OBJ_TIP	{使用 <IMG>TECHMENU<> 检查部分安装的技术
 插入收集的部件来完成安装。}
 UI_PIN_REPAIR_OBJ_TIP	{使用<IMG>TECHMENU<>检查受损的技术。
 插入收集的部件来完成修复工作。}
-UI_PIN_TECH_INSTALL_OBJ_TIP	{使用<IMG>TECHMENU<>在空置的<TECHNOLOGY>库存槽位<>中制作。
+UI_PIN_TECH_INSTALL_OBJ_TIP	{使用<IMG>TECHMENU<>在空置的<TECHNOLOGY>库存栏位<>中制作。
 安装技术至相关构件旁以获得奖励属性。}
 UI_PIN_PROGRESS_MSG	{进度：<STELLAR>%CURRENT% / %AMOUNT%<>
 详细信息参见日志（<IMG>OPTIONS<>）}
@@ -5261,11 +5261,11 @@ UI_PIN_TECH_SUB	{安装科技升级}
 UI_PIN_REPAIR_SUB	{修复受损的技术}
 UI_PIN_FUEL1_OBJ_TIP	{使用<TECHNOLOGY>开采光束<>从植物中采集<FUEL>碳<>。按下 <IMG>ATTACK<> 发射激光。
 警告：过度采集可能会吸引护卫无人机的注意。}
-UI_PIN_FUEL2_OBJ_TIP	{<FUEL>浓缩碳<>在大多数行星上以晶体形式出现。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位碳晶体。大型矿床可能需要采用<TECHNOLOGY>高级开采光束<>开采。
+UI_PIN_FUEL2_OBJ_TIP	{<FUEL>浓缩碳<>在大多数行星上以晶体形式出现。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位碳晶体。大形矿床可能需要采用<TECHNOLOGY>高级开采光束<>开采。
 可在<TECHNOLOGY>精炼机<>中用碳制得浓缩碳。}
 UI_PIN_OXYGEN_OBJ_TIP	{<FUEL>氧<>可以从所有行星上都有的红色植物中采集。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位富氧植物。
 氧也可以从某些有害植物中采集，或通过<TECHNOLOGY>分析面甲<>在一般植物群中识别。}
-UI_PIN_LAUNCHSUB_OBJ_TIP	{<FUEL>二氢<>在大多数行星上以晶体形式出现。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位二氢晶体。大型矿床可能需要采用<TECHNOLOGY>高级开采光束<>开采。}
+UI_PIN_LAUNCHSUB_OBJ_TIP	{<FUEL>二氢<>在大多数行星上以晶体形式出现。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位二氢晶体。大形矿床可能需要采用<TECHNOLOGY>高级开采光束<>开采。}
 UI_PIN_LAUNCHSUB2_OBJ_TIP	{在<TECHNOLOGY>中型<>或<TECHNOLOGY>大型精炼机<>中处理<TECHNOLOGY>二氢<>以制作<TECHNOLOGY>重氢<>。
 需要分两次放入二氢。}
 UI_PIN_ROCKETSUB_OBJ_TIP	{<VAL_ON>氚<>在小行星区域内很丰富。在行星环中，或在星际飞行的中途寻找小行星区域。扫描（<IMG>SCAN<>）以搜寻<TECHNOLOGY>富含氚的小行星<>。}
@@ -5351,18 +5351,18 @@ UI_PIN_PLANT_POOP_OBJ_TIP_ALT1	{<SPECIAL>鬼粪<>是一种富含氮元素的有�
 可以通过在适当的环境下种植恰当的寄主植物来培养出鬼粪。具体建议可咨询<TRADEABLE>农业专家<>。}
 UI_PIN_PLANT_POOP_OBJ_TIP_ALT2	{<FUEL>粪便样本<>是一种富含氮元素的有机材料，能从许多大型动物的排泄物中采集到。饲养动物来提升粪便样本的产量。
 可以通过在适当的环境下种植恰当的寄主植物来培养出粪便替代物。具体建议可咨询<TRADEABLE>农业专家<>。}
-UI_PIN_CASING_OBJ_TIP	{使用<EARTH>铁氧体粉末<>制作<COMMODITY>金属电镀<>。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>槽位<>中制作。
+UI_PIN_CASING_OBJ_TIP	{使用<EARTH>铁氧体粉末<>制作<COMMODITY>金属电镀<>。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>栏位<>中制作。
 使用<TECHNOLOGY>开采激光<>从小岩石块中采集<EARTH>铁氧体粉末<>。按下<IMG>ATTACK<>发射激光。}
-UI_PIN_NANOTUBES_OBJ_TIP	{使用<FUEL>碳<>制作<COMMODITY>碳纳米管<>。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>库存槽位<>中制作。
+UI_PIN_NANOTUBES_OBJ_TIP	{使用<FUEL>碳<>制作<COMMODITY>碳纳米管<>。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>库存栏位<>中制作。
 使用<TECHNOLOGY>开采激光<>从植物和树中收集<FUEL>碳<>。使用<IMG>ATTACK<>发射激光。}
-UI_PIN_CARBON_SEAL_OBJ_TIP	{使用<FUEL>浓缩碳<>制作<COMMODITY>密封剂<>。打开<IMG>PRODMENU<>在空余<TECHNOLOGY>库存槽位<>中制作。
+UI_PIN_CARBON_SEAL_OBJ_TIP	{使用<FUEL>浓缩碳<>制作<COMMODITY>密封剂<>。打开<IMG>PRODMENU<>在空余<TECHNOLOGY>库存栏位<>中制作。
 使用<FUEL>碳<>精炼制成浓缩碳。浓缩碳偶尔会以结晶形式在星球表面被找到。}
 UI_PIN_MICROCHIP_OBJ_TIP	{制作%ITEM%，或是在<TECHNOLOGY>交易终端<>里购买一个。在行星前哨基站中寻找交易终端，或是登上空间站进行寻找。}
-UI_PIN_PRODFUEL1_OBJ_TIP	{使用<FUEL>氧<>和<EARTH>铁氧体粉末<>制作%ITEM%。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>槽位<>中制作。
+UI_PIN_PRODFUEL1_OBJ_TIP	{使用<FUEL>氧<>和<EARTH>铁氧体粉末<>制作%ITEM%。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>栏位<>中制作。
 补给品偶尔能从被遗弃在星球上的<TECHNOLOGY>补给箱<>中找到。}
-UI_PIN_PRODFUEL2_OBJ_TIP	{使用<TECHNOLOGY>二氢凝胶<>和<FUEL>碳<>制作%ITEM%。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>槽位<>中制作。
+UI_PIN_PRODFUEL2_OBJ_TIP	{使用<TECHNOLOGY>二氢凝胶<>和<FUEL>碳<>制作%ITEM%。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>栏位<>中制作。
 使用在所有星球上都能找到的蓝色<TECHNOLOGY>二氢晶体<>精炼或制作<TECHNOLOGY>二氢凝胶<>。使用扫描仪（<IMG>SCAN<>）来定位晶体。}
-UI_PIN_POWERCELL_OBJ_TIP	{使用<TECHNOLOGY>钴<>和<EARTH>铁氧体粉末<>制作%ITEM%。使用 <IMG>PRODMENU<> 在空置<TECHNOLOGY>库存槽位<>中制作。
+UI_PIN_POWERCELL_OBJ_TIP	{使用<TECHNOLOGY>钴<>和<EARTH>铁氧体粉末<>制作%ITEM%。使用 <IMG>PRODMENU<> 在空置<TECHNOLOGY>库存栏位<>中制作。
 钴能在地下被找到。寻找天然洞穴的入口。<RED>警告：<>许多洞穴中存在危险植物群系。
 补给品偶尔能从留在行星上的<TECHNOLOGY>物资贮存箱<>中找到。}
 UI_PIN_POWERCELL2_OBJ_TIP	{使用<TECHNOLOGY>离子钴<>和<EARTH>纯铁氧体<>制作%ITEM%。使用<TECHNOLOGY>精炼机<>加工出先进材料。
@@ -5372,15 +5372,15 @@ UI_PIN_JELLY_OBJ_TIP	{使用在所有星球上都能找到的蓝色<TECHNOLOGY>�
 进度：<STELLAR>%CURRENT%/%AMOUNT%<>}
 UI_PIN_LAUNCHFUEL_OBJ_TIP	{使用<TECHNOLOGY>二氢<>和<COMMODITY>金属电镀<>制作%ITEM%
 <TECHNOLOGY>二氢<>在大多数行星上以晶体形式出现。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位二氢晶体。
-金属电镀由<EARTH>铁氧体粉末<>制作而成。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>槽位<>中制作。}
+金属电镀由<EARTH>铁氧体粉末<>制作而成。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>栏位<>中制作。}
 UI_PIN_GRENFUEL1_OBJ_TIP	{从<TECHNOLOGY>交易终端<>和<TECHNOLOGY>商店<>购买%ITEM%。
-使用<FUEL>氧<>和<COMMODITY>金属电镀<>制作%ITEM%。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>槽位<>中制作。
+使用<FUEL>氧<>和<COMMODITY>金属电镀<>制作%ITEM%。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>栏位<>中制作。
 补给品偶尔能从被遗弃在星球上的<TECHNOLOGY>补给箱<>中找到。}
-UI_PIN_AM_HOUSING_OBJ_TIP	{使用<FUEL>氧<>和<EARTH>铁氧体粉末<>制作%ITEM%。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>槽位<>中制作。
+UI_PIN_AM_HOUSING_OBJ_TIP	{使用<FUEL>氧<>和<EARTH>铁氧体粉末<>制作%ITEM%。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>栏位<>中制作。
 补给品偶尔能从被遗弃在星球上的<TECHNOLOGY>补给箱<>中找到。}
-UI_PIN_ANTIMATTER_OBJ_TIP	{使用<FUEL>浓缩碳<>和<SPECIAL>有色金属<>制作%ITEM%。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>库存槽位<>中制作。
+UI_PIN_ANTIMATTER_OBJ_TIP	{使用<FUEL>浓缩碳<>和<SPECIAL>有色金属<>制作%ITEM%。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>库存栏位<>中制作。
 使用普通植物碳精炼出<FUEL>浓缩碳<>。使用通过<TECHNOLOGY>分析面甲<>发现的大型矿床中的矿物精炼<STELLAR>有色金属<>。}
-UI_PIN_HYPERFUEL1_OBJ_TIP	{使用<FUEL>反物质<>和<COMMODITY>反物质外壳<>制作%ITEM%。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>槽位<>中制作。}
+UI_PIN_HYPERFUEL1_OBJ_TIP	{使用<FUEL>反物质<>和<COMMODITY>反物质外壳<>制作%ITEM%。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>栏位<>中制作。}
 UI_PIN_TECH_COMP_OBJ_TIP	{从空间站或行星商店里的<TECHNOLOGY>交易终端<>购买%ITEM%。}
 UI_PIN_FUELPROD3_OBJ_TIP	{使用<FUEL>浓缩碳<>制作或精炼出%ITEM%。精炼先进的产品需要<TECHNOLOGY>大型精炼机<>。
 %ITEM%偶尔能在稀有的星球晶体中找到。}
@@ -5482,13 +5482,13 @@ UI_PIN_ULTRAPROD1_OBJ_TIP	{非常先进的制作产品。通过突袭<TECHNOLOGY
 由<COMMODITY>便携式反应器<>、<COMMODITY>量子处理器<>和<COMMODITY>晶土矿<>制作而成。}
 UI_PIN_ULTRAPROD2_OBJ_TIP	{非常先进的制作产品。通过突袭<TECHNOLOGY>行星工厂<>或在<SPECIAL>太空异象<>上的<STELLAR>合成实验室<>学习相关设计图。
 由<COMMODITY>量子处理器<>、<COMMODITY>低温舱<>和<COMMODITY>辐矿<>制作而成。}
-UI_PIN_CATA_CRAFT_OBJ_TIP	{使用<CATALYST>钠<>制作<COMMODITY>钠二极管<>。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>槽位<>中制作。
+UI_PIN_CATA_CRAFT_OBJ_TIP	{使用<CATALYST>钠<>制作<COMMODITY>钠二极管<>。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>栏位<>中制作。
 <CATALYST>钠<>可以从所有行星上都有的黄色植物中采集。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位富含钠的植物。}
-UI_PIN_WATER_CRAFT_OBJ_TIP	{使用<TRADEABLE>盐<>制作<COMMODITY>盐折射器<>。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>槽位<>中制作。
+UI_PIN_WATER_CRAFT_OBJ_TIP	{使用<TRADEABLE>盐<>制作<COMMODITY>盐折射器<>。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>栏位<>中制作。
 从<EARTH>地下岩石矿床<>中容易提取出<TRADEABLE>盐<>。升级套装<TECHNOLOGY>换气薄膜<>或从<TRADEABLE>海藻袋<>中补充氧气补给，以提高在海洋中的效率。}
-UI_PIN_CAVE_CRAFT_OBJ_TIP	{使用<TECHNOLOGY>钴<>制作<COMMODITY>钴镜<>。使用 <IMG>PRODMENU<> 在空置<TECHNOLOGY>库存槽位<>中制作。
+UI_PIN_CAVE_CRAFT_OBJ_TIP	{使用<TECHNOLOGY>钴<>制作<COMMODITY>钴镜<>。使用 <IMG>PRODMENU<> 在空置<TECHNOLOGY>库存栏位<>中制作。
 从<EARTH>地下岩石矿床<>中容易提取出<TECHNOLOGY>钴<>。寻找天然洞穴的入口。}
-UI_PIN_OXY_CRAFT_OBJ_TIP	{使用<FUEL>氧<>制作<COMMODITY>氧过滤器<>。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>槽位<>中制作。
+UI_PIN_OXY_CRAFT_OBJ_TIP	{使用<FUEL>氧<>制作<COMMODITY>氧过滤器<>。使用<IMG>PRODMENU<>在空置<TECHNOLOGY>栏位<>中制作。
 <FUEL>氧<>可以从所有行星上都有的红色植物中采集。使用<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）定位富氧植物。}
 UI_PIN_QUAD_PROD_OBJ_TIP	{从一台在高度警惕级别时部署的高级战斗单位<SPECIAL>护卫四足机甲<>的残骸上，收集<SPECIAL>四足机甲伺服<>。
 通过摧毁<VAL_ON>战斗补给桶<>，从已击败的护卫身上收集战利品。}
@@ -5517,7 +5517,7 @@ UI_BASEFLAG_COOLDOWN_OBJ	{等待恢复更多的数据}
 UI_BASEFLAG_COOLDOWN_OBJ_TIP	{自动档案恢复程序正在试图恢复更多的数据。
 恢复完成后将通知用户。}
 UI_BASEFLAG_OBJ_LORE	{访问远程档案终端}
-UI_BASEFLAG_OBJ_TIP_LORE	{<TECHNOLOGY>基地电脑<>已定位到<STELLAR>外太空档案<>。
+UI_BASEFLAG_OBJ_TIP_LORE	{<TECHNOLOGY>基地电脑<>找到了<STELLAR>外部档案<>。
 抵达标记坐标进行调查。
 在太空中查看<VAL_ON>星系图<>以定位目的地}
 UI_BASEFLAG_COOLDOWN_MSG	{档案恢复进行中：<STELLAR>%TIME%<>
@@ -5606,29 +5606,29 @@ UI_BASEFLAG_BUILD_MSG	{建造<TECHNOLOGY>%ITEM%<>
 通过<IMG>BUILD_MENU<>打开建造菜单
 通过<IMG>PIN_BUILD<>跟踪部件列表}
 UI_BASEFLAG_TECH_MSG	{建造<TECHNOLOGY>%ITEM%<>
-安装至空置<STELLAR>库存<>或<TECHNOLOGY>技术<>槽位<IMG>INVENTORY<>
+安装至空置<STELLAR>库存<>或<TECHNOLOGY>技术<>栏位<IMG>INVENTORY<>
 安装时，通过<IMG>PIN<>跟踪部件列表}
 UI_BASEFLAG_PROC_MSG	{安装<TECHNOLOGY>升级模块<>
 在库存中找到模块，使用<IMG>FE_ALT1<>开始
-部署模块至任何<STELLAR>库存<>或<TECHNOLOGY>技术<>槽位}
+部署模块至任何<STELLAR>库存<>或<TECHNOLOGY>技术<>栏位}
 UI_BASEFLAG_OBJ_2	{建造一座<TECHNOLOGY>太阳能板<>}
 UI_BASEFLAG_OBJ_TIP_2	{通过建造<TECHNOLOGY>太阳能板<>升级你的基地。
 通过<IMG>BUILD_MENU<>打开建造菜单并用<IMG>PIN_BUILD<>标记制作图。}
 UI_BASEFLAG_OBJ_3	{在你的飞船上安装<TECHNOLOGY>传送接收器<>}
 UI_BASEFLAG_OBJ_TIP_3	{通过建造<TECHNOLOGY>传送接收器<>升级你的基地。
-选择空置<STELLAR>库存<>或<TECHNOLOGY>技术<>槽位，并通过<IMG>TECHMENU<>开始安装。
+选择空置<STELLAR>库存<>或<TECHNOLOGY>技术<>栏位，并通过<IMG>TECHMENU<>开始安装。
 通过<IMG>PIN<>标记所需部件。}
 UI_BASEFLAG_OBJ_4	{在你的套装上安装<TECHNOLOGY>神经刺激器<>。}
 UI_BASEFLAG_OBJ_TIP_4	{通过安装<TECHNOLOGY>神经刺激器<>升级你的套装。
-选择空置<STELLAR>库存<>或<TECHNOLOGY>技术<>槽位，并通过<IMG>TECHMENU<>开始安装。
+选择空置<STELLAR>库存<>或<TECHNOLOGY>技术<>栏位，并通过<IMG>TECHMENU<>开始安装。
 通过<IMG>PIN<>标记所需构件。}
 UI_BASEFLAG_OBJ_5	{在你的飞船上安装<TECHNOLOGY>高效推进器<>。}
 UI_BASEFLAG_OBJ_TIP_5	{通过安装<TECHNOLOGY>高效推进器<>升级你的飞船。
-选择空置<STELLAR>库存<>或<TECHNOLOGY>技术<>槽位，并通过<IMG>TECHMENU<>开始安装。
+选择空置<STELLAR>库存<>或<TECHNOLOGY>技术<>栏位，并通过<IMG>TECHMENU<>开始安装。
 通过<IMG>PIN<>标记所需部件。}
 UI_BASEFLAG_OBJ_6	{为你的套装安装<TECHNOLOGY>栅格护盾<>}
 UI_BASEFLAG_OBJ_TIP_6	{通过安装<TECHNOLOGY>栅格护盾<>升级你的套装。
-选择空置<STELLAR>库存<>或<TECHNOLOGY>技术<>槽位，并通过<IMG>TECHMENU<>开始安装。
+选择空置<STELLAR>库存<>或<TECHNOLOGY>技术<>栏位，并通过<IMG>TECHMENU<>开始安装。
 通过<IMG>PIN<>标记所需构件。}
 UI_BASEFLAG_OBJ_7	{建造一座<TECHNOLOGY>壁灯<>}
 UI_BASEFLAG_OBJ_TIP_7	{通过建造<TECHNOLOGY>壁灯<>升级你的基地。
@@ -5646,9 +5646,9 @@ UI_BASEFLAG_OBJ_TIP_10	{通过建造<TECHNOLOGY>降落场<>升级你的基地。
 通过<IMG>BUILD_MENU<>打开建造菜单并用<IMG>PIN_BUILD<>标记设计图。}
 UI_BASEFLAG_LORE_OSD	{侦测到档案位置<IMG>SLASH<>已加载坐标}
 UI_BASEFLAG_LORE_MAP_OSD	{侦测到档案位置<IMG>SLASH<>已获取星际坐标}
-UI_BASEFLAG_LORE_SURVEY_OSD	{已定位受损档案}
-UI_BASEFLAG_LORE_MARKER	{受损档案数据}
-UI_BASEFLAG_LORE_MSG	{<TECHNOLOGY>基地电脑<>已定位到外太空档案。
+UI_BASEFLAG_LORE_SURVEY_OSD	{已定位损坏档案}
+UI_BASEFLAG_LORE_MARKER	{损坏档案数据}
+UI_BASEFLAG_LORE_MSG	{<TECHNOLOGY>基地电脑<>找到了外部档案。
 抵达标记坐标进行调查}
 UI_BASEFLAG_LORE_SURVEY	{调查<TECHNOLOGY>基地电脑坐标<>
 使用<TECHNOLOGY>目标扫描<>来定位隐藏档案}
@@ -5656,8 +5656,8 @@ UI_BASEFLAG_LORE_SURVEY_SWAP	{调查<TECHNOLOGY>基地电脑坐标<>
 使用<IMG>SURVEYFILTERL<>/<IMG>SURVEYFILTERR<>激活<TECHNOLOGY>目标扫描<>}
 UI_BASEFLAG_LORE_SURVEY_OFF	{调查<TECHNOLOGY>基地电脑坐标<>
 激活<STELLAR>目标扫描<>（<IMG>AIM<>）来定位隐藏档案}
-UI_BASEFLAG_LORE_INTERSTELLAR	{<TECHNOLOGY>基地电脑<>已定位到外太空档案。
-在<STELLAR>星系图<>上寻找档案位置}
+UI_BASEFLAG_LORE_INTERSTELLAR	{<TECHNOLOGY>基地电脑<>找到了外部档案。
+在<STELLAR>星系图<>上定位档案}
 MSN_CRE_FEED_ADJ_1	{饥饿}
 MSN_CRE_FEED_ADJ_2	{极饿}
 MSN_CRE_FEED_ADJ_3	{超饿}
@@ -5735,15 +5735,15 @@ NPC_MISSION_CRE_FEED_PROC_C_11	{它将支付报酬给帮它在当地野生动物
 NPC_MISSION_CRE_FEED_PROC_C_12	{客户将为每一个被喂食的生物支付报酬。它要求有意的探险者只喂养食草动物。请注意：如果饥饿的生物吃掉探险家的任何部位，它将拒绝支付赔偿金。}
 UI_DIGGING_MARKER1	{线索位置}
 UI_DIGGING_MARKER2	{挖掘点坐标}
-MISSION_OBJ_DIGGING	{挖掘一件远古遗物}
+MISSION_OBJ_DIGGING	{挖掘一件古代遗物}
 NPC_MISSION_DIGGING_SUB	{寻找埋藏的珍宝}
 NPC_MISSION_DIGGING_HEAD_1	{寻找埋藏的珍宝}
 UI_DIGGING_OBJ1	{寻找挖掘点}
 UI_DIGGING_OBJ1_TIP	{寻找<SPECIAL>挖掘点<>。
-挖掘点位置的线索能在其他历史废墟里找到。提供外星遗物以访问远古记录。}
+挖掘点位置的线索能在其他历史废墟里找到。提供外星遗物以访问古代记录。}
 UI_DIGGING_OBJ2	{挖掘珍宝}
-UI_DIGGING_OBJ2_TIP	{使用<TECHNOLOGY>地形操纵器<>挖掘远古挖掘点。
-遗物可能锁在远古箱子里。找到和收集钥匙以打开箱子。}
+UI_DIGGING_OBJ2_TIP	{使用<TECHNOLOGY>地形操纵器<>挖掘古代挖掘点。
+遗物可能锁在古代箱子里。找到和收集钥匙以打开箱子。}
 UI_DIGGING_OBJ3	{传输遗物数据给客户}
 UI_DIGGING_OBJ3_TIP	{客户允许你保留实体样本，但要求你把该遗物的完整 4D 扫描上传至其数据库。
 寻找位于一座<STELLAR>贸易前哨基站<>的数据库上行线路点。}
@@ -5774,11 +5774,11 @@ NPC_DIGGING_LANG	{已建立数据库连接......正在进行全面 4D 历史扫�
 遗物扫描完成！是否同意上传至考古数据库？}
 NPC_DIGGING_OPT	{上传数据}
 NPC_DIGGING_RES	{遗物已扫描和上传！数据库注册已完成！}
-NPC_MISSION_DIGGING_PROC_A_1	{客户在这个恒星系里经营着一家大型教育机构。它想寻找远古遗物以丰富自己的收藏。}
+NPC_MISSION_DIGGING_PROC_A_1	{客户在这个恒星系里经营着一家大型教育机构。它想寻找古代遗物以丰富自己的收藏。}
 NPC_MISSION_DIGGING_PROC_A_2	{客户是一名被遗弃者，因其对过去的信仰而被同时代者排斥。}
 NPC_MISSION_DIGGING_PROC_A_3	{客户来自于一个富裕家庭，希望更多地了解自己的血统。}
 NPC_MISSION_DIGGING_PROC_A_4	{客户研究护卫多年，希望通过回顾过去来取得突破。}
-NPC_MISSION_DIGGING_PROC_A_5	{客户对不寻常的病原体特别感兴趣。它认为远古病原体有着极大的潜在研究价值。}
+NPC_MISSION_DIGGING_PROC_A_5	{客户对不寻常的病原体特别感兴趣。它认为古代病原体有着极大的潜在研究价值。}
 NPC_MISSION_DIGGING_PROC_A_6	{客户希望了解过去的技术，以提高未来的技术。}
 NPC_MISSION_DIGGING_PROC_A_7	{客户在一场环境灾难后被迫逃离家园。它希望通过回顾过去来了解那场灾难的根源。}
 NPC_MISSION_DIGGING_PROC_A_8	{客户最近发现了一件无价的传家宝。它想寻找相似的遗物，以期连贯地理解自己的历史。}
@@ -5787,14 +5787,14 @@ NPC_MISSION_DIGGING_PROC_A_10	{客户致力于研究我们共同祖先的历史�
 NPC_MISSION_DIGGING_PROC_A_11	{客户担心文明可能正在走向崩溃。它希望能通过研究避免过去所犯的错误。}
 NPC_MISSION_DIGGING_PROC_A_12	{客户相信自己发现了吉克与维吉恩之间的古老遗传联系。这种信息可能会造成政治不稳定，所以它希望能从化石记录中得到更多证据。}
 NPC_MISSION_DIGGING_PROC_A_13	{客户致力于从过去学习经验教训，希望能在当地历史协会上博得名声。}
-NPC_MISSION_DIGGING_PROC_A_14	{客户对远古废墟及其内容感兴趣。它不相信那些废墟出自吉克人或维吉恩人的远古始祖之手。它正在寻找遗物来帮助证明自己的论点。}
+NPC_MISSION_DIGGING_PROC_A_14	{客户对古代废墟及其内容感兴趣。它不相信那些废墟出自吉克人或维吉恩人的远古始祖之手。它正在寻找遗物来帮助证明自己的论点。}
 NPC_MISSION_DIGGING_PROC_A_15	{客户厌倦了现代生活。它正在寻找过去的碎片，以重建我们祖先的优秀文化。}
-NPC_MISSION_DIGGING_PROC_A_16	{客户是一名“医学”研究者，对肠道吸收化学物质的过程很感兴趣。它正在寻找远古废墟，希望能收集到远古逝者所食之物的样本。}
+NPC_MISSION_DIGGING_PROC_A_16	{客户是一名“医学”研究者，对肠道吸收化学物质的过程很感兴趣。它正在寻找古代废墟，希望能收集到远古逝者所食之物的样本。}
 NPC_MISSION_DIGGING_PROC_A_17	{客户经营着一家相当成功的矿业公司。它正在寻求多元化经营，希望能测试商业规模考古的可行性。}
 NPC_MISSION_DIGGING_PROC_B_1	{它对远古的文字记录特别感兴趣。数据已足够的：它不需要物理源。}
 NPC_MISSION_DIGGING_PROC_B_2	{它需要各类遗物。扫描碎片并把记录输入它的个人数据库。}
 NPC_MISSION_DIGGING_PROC_B_3	{它正在征求探险家的协助。发现者可以保留所有出土遗物。它只求能得到样本的扫描数据或数字副本。}
-NPC_MISSION_DIGGING_PROC_B_4	{它特别热衷于取回任意远古文化遗物的扫描。记录完成后，探险家可以自由保留物理样本。}
+NPC_MISSION_DIGGING_PROC_B_4	{它特别热衷于取回任意古代文化遗物的扫描。记录完成后，探险家可以自由保留物理样本。}
 NPC_MISSION_DIGGING_PROC_B_5	{它的历史记录存在很长的空白期，想找探险家进行考古远征，以填补这些缺失的数据。}
 NPC_MISSION_DIGGING_PROC_C_1	{它将独立验证所有数据。试图将新物件当做古物的提交者，将被上报给有关部门。}
 NPC_MISSION_DIGGING_PROC_C_2	{客户要求遗物至少应有100年的历史。新样本将被自动拒绝。}
@@ -5805,7 +5805,7 @@ NPC_MISSION_DIGGING_PROC_C_6	{客户对探险家委托期间被困于洞、坑�
 NPC_MISSION_DIGGING_PROC_C_7	{客户指出该恒星系的海盗最近已进入遗物市场，探险家应采取适当的谨慎措施。}
 NPC_MISSION_DIGGING_PROC_C_8	{客户建议探险家应谨慎处理此事，不要将任何挖掘点位置透露给不太谨慎的遗物猎手。}
 NPC_MISSION_DIGGING_PROC_C_9	{客户指出探险家应对任何疾病或其他从深处释放出来的恐怖事物承担责任。}
-NPC_MISSION_DIGGING_PROC_C_10	{客户要求谨慎地完成实地工作，避免损坏任何远古建筑。}
+NPC_MISSION_DIGGING_PROC_C_10	{客户要求谨慎地完成实地工作，避免损坏任何古代建筑。}
 PLANET_MISSION_PREFIX	{行星援助： }
 PLANET_MISSION_INTRO_1	{我在%PLANET%星上遇到了一个向我求助的生命体。 }
 PLANET_MISSION_INTRO_2	{%PLANET%星上的一个生命体向我求助。 }
@@ -7013,10 +7013,10 @@ ALL_FLEET_COMMAND_POST_DAMAGED	{舰队指挥在线......检测到货船受损
 正在校准%FRIGATE_NAME%的舰队指挥官%CAPTAIN%......}
 ALL_FLEET_COMMAND_POST_INTERV	{舰队指挥在线......有紧急信息待处理
 正在校准%FRIGATE_NAME%的舰队指挥官%CAPTAIN%......}
-ALL_FLEET_COMM_POST_INTERV_OPT	{与指挥官通话}
-ALL_FLEET_COMM_POST_DEBRIEF_OPT	{听取指挥官汇报}
+ALL_FLEET_COMM_POST_INTERV_OPT	{与指挥官交谈}
+ALL_FLEET_COMM_POST_DEBRIEF_OPT	{向指挥官汇报}
 ALL_FLEET_COMM_STATUS_OPT	{检查飞船}
-ALL_FLEET_STATUS_UPDATE	{向您问好，%CAP_RACE%。本次远征已航行 %EXP_DIST% 光年，距完成预定航线估计还需耗时%EXP_TIME%。所有系统运转正常。}
+ALL_FLEET_STATUS_UPDATE	{你好，%CAP_RACE%。远征覆盖了%EXP_DIST%，我预计我们计划的航线可能需要花费更多%EXP_TIME%。所有系统达基本需求。}
 ALL_FLEET_COMM_FIRST_OPT	{下载数据}
 ALL_FLEET_COMM_FIRST_LANG	{正在校准指挥站至新主人名下......成功！
 主人档案显示有<COMMODITY>1<>艘支援护卫舰可用。
@@ -7180,57 +7180,57 @@ NPC_OTHER_SCIENTIST	{我靠近的时候，科尔瓦克斯人歪了一下脑袋�
 NPC_OTHER_WEAPGUY	{维克恩人准备为我的到来致意，但是然后又自己停下了。在回去<FUEL>武器终端<>工作之前，它们看着我，眼里有一些迷惑。}
 UP_T_GREN_COMP_1	{压缩机}
 UP_T_GREN_COMP_2	{发射系统}
-UP_T_GREN_COMP_3	{喷射器塞头}
+UP_T_GREN_COMP_3	{注射器塞头}
 UP_T_GREN_COMP_4	{释放机制}
-UP_T_GREN_COMP_5	{气体膨胀机}
+UP_T_GREN_COMP_5	{气体扩张器}
 UP_T_GREN_COMP_6	{核心}
 UP_T_GREN_COMP_7	{线圈}
-UP_T_GREN_COMP_8	{载弹器}
+UP_T_GREN_COMP_8	{制弹器}
 UP_T_GREN_COMP_9	{热力泵}
 UP_T_GREN_COMP_10	{定时套管}
-UP_T_GREN_COMMON_ADJ_1	{增强}
-UP_T_GREN_COMMON_ADJ_2	{第二级}
-UP_T_GREN_COMMON_ADJ_3	{第三级}
-UP_T_GREN_COMMON_ADJ_4	{高效}
-UP_T_GREN_COMMON_ADJ_5	{润滑}
+UP_T_GREN_COMMON_ADJ_1	{增强的}
+UP_T_GREN_COMMON_ADJ_2	{第二的}
+UP_T_GREN_COMMON_ADJ_3	{第三的}
+UP_T_GREN_COMMON_ADJ_4	{高效的}
+UP_T_GREN_COMMON_ADJ_5	{润滑的}
 UP_T_GREN_RARE_ADJ_1	{普茵}
-UP_T_GREN_RARE_ADJ_2	{不稳定}
-UP_T_GREN_RARE_ADJ_3	{线性}
-UP_T_GREN_RARE_ADJ_4	{动能}
-UP_T_GREN_RARE_ADJ_5	{偏振}
-UP_T_GREN_EPIC_ADJ_1	{超临界}
-UP_T_GREN_EPIC_ADJ_2	{几何}
-UP_T_GREN_EPIC_ADJ_3	{回转式}
+UP_T_GREN_RARE_ADJ_2	{不稳的}
+UP_T_GREN_RARE_ADJ_3	{线状的}
+UP_T_GREN_RARE_ADJ_4	{动能的}
+UP_T_GREN_RARE_ADJ_5	{偏振的}
+UP_T_GREN_EPIC_ADJ_1	{超临界的}
+UP_T_GREN_EPIC_ADJ_2	{几何的}
+UP_T_GREN_EPIC_ADJ_3	{陀螺的}
 UP_T_GREN_EPIC_ADJ_4	{纳米星团}
-UP_T_GREN_EPIC_ADJ_5	{非线性}
-UP_T_GREN_SCLASS_ADJ_1	{磁场}
+UP_T_GREN_EPIC_ADJ_5	{非线性的}
+UP_T_GREN_SCLASS_ADJ_1	{M 场}
 UP_T_GREN_SCLASS_ADJ_2	{反物质}
-UP_T_GREN_SCLASS_ADJ_3	{引力}
-UP_T_GREN_SCLASS_ADJ_4	{纳米增强}
-UP_T_GREN_SCLASS_ADJ_5	{电磁感应}
+UP_T_GREN_SCLASS_ADJ_3	{引力的}
+UP_T_GREN_SCLASS_ADJ_4	{纳米增强的}
+UP_T_GREN_SCLASS_ADJ_5	{感应}
 UP_UNW_COMP_1	{空气过滤器}
 UP_UNW_COMP_2	{空气收集器}
 UP_UNW_COMP_3	{呼吸循环器}
-UP_UNW_COMP_4	{鱼鳃装置}
+UP_UNW_COMP_4	{腮装置}
 UP_UNW_COMP_5	{气体加压器}
 UP_UNW_COMP_6	{空气循环器}
-UP_UNW_COMP_7	{人工肺}
+UP_UNW_COMP_7	{肺替代品}
 UP_UNW_COMP_8	{气体泵}
 UP_UNW_COMP_9	{呼吸器}
-UP_UNW_COMP_10	{纵深防护装置}
-UP_UNW_RARE_ADJ_1	{后备}
-UP_UNW_RARE_ADJ_2	{第二级}
-UP_UNW_RARE_ADJ_3	{升级型}
-UP_UNW_RARE_ADJ_4	{高效}
-UP_UNW_RARE_ADJ_5	{自洁}
-UP_UNW_EPIC_ADJ_1	{增压}
-UP_UNW_EPIC_ADJ_2	{极端}
-UP_UNW_EPIC_ADJ_3	{饱和}
-UP_UNW_EPIC_ADJ_4	{有机}
-UP_UNW_EPIC_ADJ_5	{加压}
-UP_UNW_SCLASS_ADJ_1	{超压}
-UP_UNW_SCLASS_ADJ_2	{深水}
-UP_UNW_SCLASS_ADJ_3	{深渊}
+UP_UNW_COMP_10	{深度防护装置}
+UP_UNW_RARE_ADJ_1	{后备的}
+UP_UNW_RARE_ADJ_2	{第二的}
+UP_UNW_RARE_ADJ_3	{升级的}
+UP_UNW_RARE_ADJ_4	{高效的}
+UP_UNW_RARE_ADJ_5	{自洁的}
+UP_UNW_EPIC_ADJ_1	{增压的}
+UP_UNW_EPIC_ADJ_2	{极端的}
+UP_UNW_EPIC_ADJ_3	{浸透的}
+UP_UNW_EPIC_ADJ_4	{有机的}
+UP_UNW_EPIC_ADJ_5	{加压的}
+UP_UNW_SCLASS_ADJ_1	{超压的}
+UP_UNW_SCLASS_ADJ_2	{深水的}
+UP_UNW_SCLASS_ADJ_3	{深渊的}
 UP_UNW_SCLASS_ADJ_4	{微气泡}
 UP_UNW_SCLASS_ADJ_5	{纯氧}
 UP_TOX_COMP_1	{毒性过滤器}
@@ -7241,43 +7241,43 @@ UP_TOX_COMP_5	{毒性去除器}
 UP_TOX_COMP_6	{排气过滤器}
 UP_TOX_COMP_7	{生物碱中和器}
 UP_TOX_COMP_8	{微型过滤器}
-UP_TOX_COMP_9	{气体净化器}
-UP_TOX_COMP_10	{酸碱值平衡器}
-UP_TOX_RARE_ADJ_1	{升级型}
+UP_TOX_COMP_9	{空气净化器}
+UP_TOX_COMP_10	{pH平衡器}
+UP_TOX_RARE_ADJ_1	{升级的}
 UP_TOX_RARE_ADJ_2	{高效的}
-UP_TOX_RARE_ADJ_3	{整体改良型}
-UP_TOX_RARE_ADJ_4	{专业级}
-UP_TOX_RARE_ADJ_5	{改制型}
-UP_TOX_EPIC_ADJ_1	{微生物级}
-UP_TOX_EPIC_ADJ_2	{生物级}
-UP_TOX_EPIC_ADJ_3	{细菌级}
-UP_TOX_EPIC_ADJ_4	{碳级}
-UP_TOX_EPIC_ADJ_5	{真菌级}
+UP_TOX_RARE_ADJ_3	{翻修的}
+UP_TOX_RARE_ADJ_4	{专业的}
+UP_TOX_RARE_ADJ_5	{翻新的}
+UP_TOX_EPIC_ADJ_1	{微生物的}
+UP_TOX_EPIC_ADJ_2	{生物的}
+UP_TOX_EPIC_ADJ_3	{细菌的}
+UP_TOX_EPIC_ADJ_4	{碳}
+UP_TOX_EPIC_ADJ_5	{真菌}
 UP_TOX_SCLASS_ADJ_1	{电离}
 UP_TOX_SCLASS_ADJ_2	{蠕虫体}
 UP_TOX_SCLASS_ADJ_3	{千兆瓦}
 UP_TOX_SCLASS_ADJ_4	{辐照}
 UP_TOX_SCLASS_ADJ_5	{真空}
 UP_RAD_COMP_1	{辐射护盾}
-UP_RAD_COMP_2	{生物保全装置}
+UP_RAD_COMP_2	{生物完整装置}
 UP_RAD_COMP_3	{DNA修复系统}
-UP_RAD_COMP_4	{中子阱}
-UP_RAD_COMP_5	{抗辐射屏障}
+UP_RAD_COMP_4	{中子吸收器}
+UP_RAD_COMP_5	{希沃特屏障}
 UP_RAD_COMP_6	{离子护盾}
 UP_RAD_COMP_7	{剂量调制器}
-UP_RAD_COMP_8	{阿尔法射线屏障}
-UP_RAD_COMP_9	{伽马射线护盾}
+UP_RAD_COMP_8	{阿尔法屏障}
+UP_RAD_COMP_9	{伽马护盾}
 UP_RAD_COMP_10	{去离子器}
 UP_RAD_RARE_ADJ_1	{铅基}
-UP_RAD_RARE_ADJ_2	{效用型}
-UP_RAD_RARE_ADJ_3	{高效}
-UP_RAD_RARE_ADJ_4	{升级型}
+UP_RAD_RARE_ADJ_2	{有效的}
+UP_RAD_RARE_ADJ_3	{高效的}
+UP_RAD_RARE_ADJ_4	{升级的}
 UP_RAD_RARE_ADJ_5	{微粒}
-UP_RAD_EPIC_ADJ_1	{钡元素}
+UP_RAD_EPIC_ADJ_1	{钡}
 UP_RAD_EPIC_ADJ_2	{正电子}
-UP_RAD_EPIC_ADJ_3	{偏振}
-UP_RAD_EPIC_ADJ_4	{钽元素}
-UP_RAD_EPIC_ADJ_5	{硼元素}
+UP_RAD_EPIC_ADJ_3	{偏振的}
+UP_RAD_EPIC_ADJ_4	{钽}
+UP_RAD_EPIC_ADJ_5	{硼}
 UP_RAD_SCLASS_ADJ_1	{高能}
 UP_RAD_SCLASS_ADJ_2	{非线性}
 UP_RAD_SCLASS_ADJ_3	{Z级}
@@ -7285,10 +7285,10 @@ UP_RAD_SCLASS_ADJ_4	{电磁}
 UP_RAD_SCLASS_ADJ_5	{量子}
 UP_HAZPROT_COMP_1	{离子护盾}
 UP_HAZPROT_COMP_2	{剂量调制器}
-UP_HAZPROT_COMP_3	{人工肺}
+UP_HAZPROT_COMP_3	{肺替代品}
 UP_HAZPROT_COMP_4	{微型过滤器}
-UP_HAZPROT_COMP_5	{气体净化器}
-UP_HAZPROT_COMP_6	{酸碱值平衡器}
+UP_HAZPROT_COMP_5	{空气净化器}
+UP_HAZPROT_COMP_6	{pH平衡器}
 UP_HAZPROT_COMP_7	{对流装置}
 UP_HAZPROT_COMP_8	{能量力场}
 UP_HAZPROT_COMP_9	{大气调节器}
@@ -7305,23 +7305,23 @@ UP_COLDPROT_COMP_4	{供热系统}
 UP_COLDPROT_COMP_5	{对流装置}
 UP_COLDPROT_COMP_6	{热量收集器}
 UP_COLDPROT_COMP_7	{热量分配器}
-UP_COLDPROT_COMP_8	{抗冻护盾}
+UP_COLDPROT_COMP_8	{冰护盾}
 UP_COLDPROT_COMP_9	{热量稳定器}
 UP_COLDPROT_COMP_10	{寒冷防护}
-UP_COLDPROT_RARE_ADJ_1	{积极}
-UP_COLDPROT_RARE_ADJ_2	{高效}
-UP_COLDPROT_RARE_ADJ_3	{防霜}
-UP_COLDPROT_RARE_ADJ_4	{升级型}
-UP_COLDPROT_RARE_ADJ_5	{增压}
-UP_COLDPROT_EPIC_ADJ_1	{零下}
-UP_COLDPROT_EPIC_ADJ_2	{氮基}
-UP_COLDPROT_EPIC_ADJ_3	{有机}
-UP_COLDPROT_EPIC_ADJ_4	{动能}
-UP_COLDPROT_EPIC_ADJ_5	{生物}
-UP_COLDPROT_SCLASS_ADJ_1	{液相}
-UP_COLDPROT_SCLASS_ADJ_2	{溶剂燃料}
-UP_COLDPROT_SCLASS_ADJ_3	{完全抗凝}
-UP_COLDPROT_SCLASS_ADJ_4	{低温恒温}
+UP_COLDPROT_RARE_ADJ_1	{启用的}
+UP_COLDPROT_RARE_ADJ_2	{高效的}
+UP_COLDPROT_RARE_ADJ_3	{防冻的}
+UP_COLDPROT_RARE_ADJ_4	{升级的}
+UP_COLDPROT_RARE_ADJ_5	{增压的}
+UP_COLDPROT_EPIC_ADJ_1	{严寒的}
+UP_COLDPROT_EPIC_ADJ_2	{氮基的}
+UP_COLDPROT_EPIC_ADJ_3	{有机的}
+UP_COLDPROT_EPIC_ADJ_4	{动能的}
+UP_COLDPROT_EPIC_ADJ_5	{生物的}
+UP_COLDPROT_SCLASS_ADJ_1	{液相的}
+UP_COLDPROT_SCLASS_ADJ_2	{溶剂燃料的}
+UP_COLDPROT_SCLASS_ADJ_3	{不可冻的}
+UP_COLDPROT_SCLASS_ADJ_4	{低温的}
 UP_COLDPROT_SCLASS_ADJ_5	{能量力场}
 UP_HOTPROT_COMP_1	{散热器}
 UP_HOTPROT_COMP_2	{调温器}
@@ -7333,21 +7333,21 @@ UP_HOTPROT_COMP_7	{升华泵}
 UP_HOTPROT_COMP_8	{红外线偏导器}
 UP_HOTPROT_COMP_9	{太阳能调节器}
 UP_HOTPROT_COMP_10	{热量泵}
-UP_HOTPROT_RARE_ADJ_1	{被动}
-UP_HOTPROT_RARE_ADJ_2	{陶瓷}
-UP_HOTPROT_RARE_ADJ_3	{稳定}
-UP_HOTPROT_RARE_ADJ_4	{高效}
-UP_HOTPROT_RARE_ADJ_5	{改良型}
-UP_HOTPROT_EPIC_ADJ_1	{复合}
-UP_HOTPROT_EPIC_ADJ_2	{镀金}
-UP_HOTPROT_EPIC_ADJ_3	{气冷}
+UP_HOTPROT_RARE_ADJ_1	{被动的}
+UP_HOTPROT_RARE_ADJ_2	{陶瓷的}
+UP_HOTPROT_RARE_ADJ_3	{稳定的}
+UP_HOTPROT_RARE_ADJ_4	{高效的}
+UP_HOTPROT_RARE_ADJ_5	{改良的}
+UP_HOTPROT_EPIC_ADJ_1	{复合的}
+UP_HOTPROT_EPIC_ADJ_2	{镀金的}
+UP_HOTPROT_EPIC_ADJ_3	{气冷的}
 UP_HOTPROT_EPIC_ADJ_4	{石墨}
-UP_HOTPROT_EPIC_ADJ_5	{强力}
-UP_HOTPROT_SCLASS_ADJ_1	{碳碳符合}
-UP_HOTPROT_SCLASS_ADJ_2	{烧蚀材料}
+UP_HOTPROT_EPIC_ADJ_5	{强大的}
+UP_HOTPROT_SCLASS_ADJ_1	{碳碳}
+UP_HOTPROT_SCLASS_ADJ_2	{烧蚀的}
 UP_HOTPROT_SCLASS_ADJ_3	{红外线}
 UP_HOTPROT_SCLASS_ADJ_4	{负能量}
-UP_HOTPROT_SCLASS_ADJ_5	{碳键}
+UP_HOTPROT_SCLASS_ADJ_5	{碳键的}
 UP_SHIPBLOB_COMP_1	{放大器}
 UP_SHIPBLOB_COMP_2	{分离器}
 UP_SHIPBLOB_COMP_3	{振荡器}
@@ -7356,12 +7356,12 @@ UP_SHIPBLOB_COMP_5	{加速器}
 UP_SHIPBLOB_COMP_6	{偏振器}
 UP_SHIPBLOB_COMP_7	{单纤维}
 UP_SHIPBLOB_COMP_8	{折射镜}
-UP_SHIPBLOB_COMP_9	{镜面}
+UP_SHIPBLOB_COMP_9	{镜子}
 UP_SHIPBLOB_COMP_10	{解限器}
-UP_SHIPBLOB_COMMON_ADJ_1	{重调}
+UP_SHIPBLOB_COMMON_ADJ_1	{重新调整}
 UP_SHIPBLOB_COMMON_ADJ_2	{激光}
 UP_SHIPBLOB_COMMON_ADJ_3	{光导纤维}
-UP_SHIPBLOB_COMMON_ADJ_4	{抛光}
+UP_SHIPBLOB_COMMON_ADJ_4	{圆滑的}
 UP_SHIPBLOB_COMMON_ADJ_5	{电离}
 UP_SHIPBLOB_RARE_ADJ_1	{镉}
 UP_SHIPBLOB_RARE_ADJ_2	{蒸发}
@@ -7386,12 +7386,12 @@ UP_SHIPMINI_COMP_5	{加速器}
 UP_SHIPMINI_COMP_6	{偏振器}
 UP_SHIPMINI_COMP_7	{单纤维}
 UP_SHIPMINI_COMP_8	{折射镜}
-UP_SHIPMINI_COMP_9	{镜面}
+UP_SHIPMINI_COMP_9	{镜子}
 UP_SHIPMINI_COMP_10	{解限器}
-UP_SHIPMINI_COMMON_ADJ_1	{重调}
+UP_SHIPMINI_COMMON_ADJ_1	{重新调整}
 UP_SHIPMINI_COMMON_ADJ_2	{激光}
 UP_SHIPMINI_COMMON_ADJ_3	{光导纤维}
-UP_SHIPMINI_COMMON_ADJ_4	{抛光}
+UP_SHIPMINI_COMMON_ADJ_4	{圆滑的}
 UP_SHIPMINI_COMMON_ADJ_5	{电离}
 UP_SHIPMINI_RARE_ADJ_1	{镉}
 UP_SHIPMINI_RARE_ADJ_2	{蒸发}
@@ -7416,12 +7416,12 @@ UP_SHIPSHOT_COMP_5	{加速器}
 UP_SHIPSHOT_COMP_6	{偏振器}
 UP_SHIPSHOT_COMP_7	{单纤维}
 UP_SHIPSHOT_COMP_8	{折射镜}
-UP_SHIPSHOT_COMP_9	{镜面}
+UP_SHIPSHOT_COMP_9	{镜子}
 UP_SHIPSHOT_COMP_10	{解限器}
 UP_SHIPSHOT_COMMON_ADJ_1	{重新调整}
 UP_SHIPSHOT_COMMON_ADJ_2	{激光}
 UP_SHIPSHOT_COMMON_ADJ_3	{光导纤维}
-UP_SHIPSHOT_COMMON_ADJ_4	{抛光}
+UP_SHIPSHOT_COMMON_ADJ_4	{圆滑的}
 UP_SHIPSHOT_COMMON_ADJ_5	{电离}
 UP_SHIPSHOT_RARE_ADJ_1	{镉}
 UP_SHIPSHOT_RARE_ADJ_2	{蒸发}
@@ -7448,18 +7448,18 @@ UP_SHIPLAS_COMP_7	{二极管电池}
 UP_SHIPLAS_COMP_8	{滤光器}
 UP_SHIPLAS_COMP_9	{偏导玻璃}
 UP_SHIPLAS_COMP_10	{输出耦合器}
-UP_SHIPLAS_COMMON_ADJ_1	{重调}
-UP_SHIPLAS_COMMON_ADJ_2	{强化}
-UP_SHIPLAS_COMMON_ADJ_3	{增强}
-UP_SHIPLAS_COMMON_ADJ_4	{高效}
-UP_SHIPLAS_COMMON_ADJ_5	{附加}
-UP_SHIPLAS_RARE_ADJ_1	{先进}
-UP_SHIPLAS_RARE_ADJ_2	{精调}
-UP_SHIPLAS_RARE_ADJ_3	{过载}
-UP_SHIPLAS_RARE_ADJ_4	{液体}
-UP_SHIPLAS_RARE_ADJ_5	{振荡}
-UP_SHIPLAS_EPIC_ADJ_1	{增压}
-UP_SHIPLAS_EPIC_ADJ_2	{强力}
+UP_SHIPLAS_COMMON_ADJ_1	{重新调整}
+UP_SHIPLAS_COMMON_ADJ_2	{强化的}
+UP_SHIPLAS_COMMON_ADJ_3	{增强的}
+UP_SHIPLAS_COMMON_ADJ_4	{高效的}
+UP_SHIPLAS_COMMON_ADJ_5	{额外的}
+UP_SHIPLAS_RARE_ADJ_1	{先进的}
+UP_SHIPLAS_RARE_ADJ_2	{精调的}
+UP_SHIPLAS_RARE_ADJ_3	{过载的}
+UP_SHIPLAS_RARE_ADJ_4	{液体的}
+UP_SHIPLAS_RARE_ADJ_5	{振荡的}
+UP_SHIPLAS_EPIC_ADJ_1	{增压的}
+UP_SHIPLAS_EPIC_ADJ_2	{强大的}
 UP_SHIPLAS_EPIC_ADJ_3	{高能}
 UP_SHIPLAS_EPIC_ADJ_4	{电磁}
 UP_SHIPLAS_EPIC_ADJ_5	{共鸣}
@@ -7467,7 +7467,7 @@ UP_SHIPLAS_SCLASS_ADJ_1	{超导}
 UP_SHIPLAS_SCLASS_ADJ_2	{明亮}
 UP_SHIPLAS_SCLASS_ADJ_3	{耀眼}
 UP_SHIPLAS_SCLASS_ADJ_4	{至强}
-UP_SHIPLAS_SCLASS_ADJ_5	{无双}
+UP_SHIPLAS_SCLASS_ADJ_5	{无比}
 UP_SHIPSHIELD_COMP_1	{栅格}
 UP_SHIPSHIELD_COMP_2	{护盾}
 UP_SHIPSHIELD_COMP_3	{盔甲}
@@ -7478,7 +7478,7 @@ UP_SHIPSHIELD_COMP_7	{缓冲}
 UP_SHIPSHIELD_COMP_8	{偏振器}
 UP_SHIPSHIELD_COMP_9	{电池}
 UP_SHIPSHIELD_COMP_10	{共振器}
-UP_SHIPSHIELD_COMMON_ADJ_1	{第二级}
+UP_SHIPSHIELD_COMMON_ADJ_1	{第二的}
 UP_SHIPSHIELD_COMMON_ADJ_2	{高频率}
 UP_SHIPSHIELD_COMMON_ADJ_3	{增压的}
 UP_SHIPSHIELD_COMMON_ADJ_4	{钠}
@@ -7489,7 +7489,7 @@ UP_SHIPSHIELD_RARE_ADJ_3	{矢量}
 UP_SHIPSHIELD_RARE_ADJ_4	{仿生}
 UP_SHIPSHIELD_RARE_ADJ_5	{音波}
 UP_SHIPSHIELD_EPIC_ADJ_1	{核能}
-UP_SHIPSHIELD_EPIC_ADJ_2	{磁场}
+UP_SHIPSHIELD_EPIC_ADJ_2	{M 场}
 UP_SHIPSHIELD_EPIC_ADJ_3	{感应}
 UP_SHIPSHIELD_EPIC_ADJ_4	{中子}
 UP_SHIPSHIELD_EPIC_ADJ_5	{去离子}
@@ -7497,13 +7497,13 @@ UP_SHIPSHIELD_SCLASS_ADJ_1	{洛伦兹}
 UP_SHIPSHIELD_SCLASS_ADJ_2	{纳米星团}
 UP_SHIPSHIELD_SCLASS_ADJ_3	{谐波}
 UP_SHIPSHIELD_SCLASS_ADJ_4	{管腔}
-UP_SHIPSHIELD_SCLASS_ADJ_5	{量子场}
+UP_SHIPSHIELD_SCLASS_ADJ_5	{Q 场}
 UP_PULSEDRIVE_COMMON_ADJ_1	{高效的}
 UP_PULSEDRIVE_COMMON_ADJ_2	{替代的}
 UP_PULSEDRIVE_COMMON_ADJ_3	{后备的}
-UP_PULSEDRIVE_COMMON_ADJ_4	{第二级}
+UP_PULSEDRIVE_COMMON_ADJ_4	{第二的}
 UP_PULSEDRIVE_COMMON_ADJ_5	{调整的}
-UP_PULSEDRIVE_RARE_ADJ_1	{抛光}
+UP_PULSEDRIVE_RARE_ADJ_1	{圆滑的}
 UP_PULSEDRIVE_RARE_ADJ_2	{高热的}
 UP_PULSEDRIVE_RARE_ADJ_3	{升级的}
 UP_PULSEDRIVE_RARE_ADJ_4	{重新接线的}
@@ -7591,9 +7591,9 @@ UP_EXENG_COMP_10	{电子套管}
 UP_EXENG_COMMON_ADJ_1	{高效的}
 UP_EXENG_COMMON_ADJ_2	{替代的}
 UP_EXENG_COMMON_ADJ_3	{后备的}
-UP_EXENG_COMMON_ADJ_4	{第二级}
+UP_EXENG_COMMON_ADJ_4	{第二的}
 UP_EXENG_COMMON_ADJ_5	{调整的}
-UP_EXENG_RARE_ADJ_1	{抛光}
+UP_EXENG_RARE_ADJ_1	{圆滑的}
 UP_EXENG_RARE_ADJ_2	{高热的}
 UP_EXENG_RARE_ADJ_3	{升级的}
 UP_EXENG_RARE_ADJ_4	{重新接线的}
@@ -7701,7 +7701,7 @@ UI_TOX_NAME_CORE_L	{毒性防护}
 UI_RAD_NAME_CORE_L	{辐射防护}
 UI_COLD_NAME_CORE_L	{热能防护}
 UI_HOT_NAME_CORE_L	{热能防护}
-UP_NAME_FORMAT	{%ADJECTIVE%%COMPONENT%}
+UP_NAME_FORMAT	{%ADJECTIVE% %COMPONENT%}
 UP_LASER_COMP_1	{光束放大器}
 UP_LASER_COMP_2	{光束电容}
 UP_LASER_COMP_3	{镜头光学}
@@ -7847,7 +7847,7 @@ UP_BOLT_EPIC_ADJ_2	{炽热}
 UP_BOLT_EPIC_ADJ_3	{铂}
 UP_BOLT_EPIC_ADJ_4	{氘}
 UP_BOLT_EPIC_ADJ_5	{电子}
-UP_BOLT_SCLASS_ADJ_1	{远古}
+UP_BOLT_SCLASS_ADJ_1	{古代}
 UP_BOLT_SCLASS_ADJ_2	{普茵}
 UP_BOLT_SCLASS_ADJ_3	{微中子}
 UP_BOLT_SCLASS_ADJ_4	{星光}
@@ -7877,7 +7877,7 @@ UP_GREN_EPIC_ADJ_2	{几何}
 UP_GREN_EPIC_ADJ_3	{陀螺}
 UP_GREN_EPIC_ADJ_4	{纳米星团}
 UP_GREN_EPIC_ADJ_5	{非线性}
-UP_GREN_SCLASS_ADJ_1	{磁场}
+UP_GREN_SCLASS_ADJ_1	{M 场}
 UP_GREN_SCLASS_ADJ_2	{反物质}
 UP_GREN_SCLASS_ADJ_3	{引力}
 UP_GREN_SCLASS_ADJ_4	{纳米增强}
@@ -7988,7 +7988,7 @@ UP_SHIELDBOOST_RARE_ADJ_3	{矢量}
 UP_SHIELDBOOST_RARE_ADJ_4	{仿生}
 UP_SHIELDBOOST_RARE_ADJ_5	{音波}
 UP_SHIELDBOOST_EPIC_ADJ_1	{核能}
-UP_SHIELDBOOST_EPIC_ADJ_2	{磁场}
+UP_SHIELDBOOST_EPIC_ADJ_2	{M 场}
 UP_SHIELDBOOST_EPIC_ADJ_3	{感应}
 UP_SHIELDBOOST_EPIC_ADJ_4	{中子}
 UP_SHIELDBOOST_EPIC_ADJ_5	{去离子}
@@ -7996,7 +7996,7 @@ UP_SHIELDBOOST_SCLASS_ADJ_1	{洛伦兹}
 UP_SHIELDBOOST_SCLASS_ADJ_2	{纳米星团}
 UP_SHIELDBOOST_SCLASS_ADJ_3	{谐波}
 UP_SHIELDBOOST_SCLASS_ADJ_4	{管腔}
-UP_SHIELDBOOST_SCLASS_ADJ_5	{量子场}
+UP_SHIELDBOOST_SCLASS_ADJ_5	{Q 场}
 UP_SHIPGUN_COMP_1	{放大器}
 UP_SHIPGUN_COMP_2	{分离器}
 UP_SHIPGUN_COMP_3	{振荡器}
@@ -9766,7 +9766,7 @@ EXP_FLEET_PURCHASE_RES_A_1	{很好，旅行者船长。我们将立即与舰队�
 EXP_FLEET_PURCHASE_RES_A_2	{我们很乐意加入你的舰队，旅行者。}
 EXP_FLEET_PURCHASE_RES_A_3	{咦哟！我们的船是你的了，旅行者。}
 TRA_FLEET_PURCHASE_RES_A_1	{你做了一个很棒的决定，朋友。}
-TRA_FLEET_PURCHASE_RES_A_2	{好的，船长朋友！我们会立即将你指引至主力舰！}
+TRA_FLEET_PURCHASE_RES_A_2	{好的，船长朋友！我们会立即将你指引至主力飞船！}
 TRA_FLEET_PURCHASE_RES_A_3	{新船长是个好朋友！船员们会很高兴加入你们的舰队的！}
 WAR_FLEET_PURCHASE_RES_A_1	{你不会后悔的，闯入者！}
 WAR_FLEET_PURCHASE_RES_A_2	{格拉！我们将为你们的舰队带来莫大的荣耀！}
@@ -10859,7 +10859,7 @@ FLEET_TRADING_FAIL_30	{部署贸易无人机至%PLANET%星球。无人机的 AI 
 FLEET_TRADING_DAMAGE_1	{试图在互为对手的%RACE%贸易派系之间进行谈判。在会谈中，间谍登上了船，并设置了炸弹。内部损害严重。}
 FLEET_TRADING_DAMAGE_2	{接待来自重要贸易家族的代表团。在访问期间，敌对派系的特工登上了船并暗杀了几位客人。飞船内部损害严重。}
 FLEET_TRADING_DAMAGE_3	{从%PLANET%星球购买了大量压缩大气气体。货舱压缩机失效，系统破裂。气体泄露。少数船员中毒。}
-FLEET_TRADING_DAMAGE_4	{船员起事，企图获得更大份额的舰队利润。内部安保人员平定了叛乱并逮捕了团伙头目，但在此前飞船内部便已严重受损。}
+FLEET_TRADING_DAMAGE_4	{船员叛乱，企图获得更大份额的舰队利润。内部安保人员将其挫败并逮捕了团伙头目，但在战斗之前飞船内战已严重受损。}
 FLEET_TRADING_DAMAGE_5	{贸易无人机被部署至%SYSTEM%星系。AI 出现故障，惊动了太空站安保人员。自动武器系统向舰队开火。船体受损严重。最后只好逃跑。}
 FLEET_TRADING_DAMAGE_6	{在%SYSTEM%分区部署无人机。AI 发生故障。无人机移除并出售了几个核心飞船部件。}
 FLEET_TRADING_DAMAGE_7	{在舰队上接待了维吉恩贸易代表团。宴会持续了好几天。庆祝活动变得越来越疯狂。飞船内部严重损坏。船体上有几处被破坏。}
@@ -10966,7 +10966,7 @@ FLEET_EXPLORE_T4_7	{在%PLANET%星球进行徒步调查，发现了一个传送�
 FLEET_EXPLORE_T4_8	{将研究队部署至%PLANET%星球。跟随重复的信号。查明信号源是一个科尔瓦克斯求救信标。信号似乎是一系列有旋律的口哨声。无法翻译。}
 FLEET_EXPLORE_T4_9	{调查%PLANET%星球的异常信号。信号源是一座维吉恩广播塔。解码信号。广播是一首冗长的哀歌，是一段关于赫客和纳尔的口述历史。记录并归档。}
 FLEET_EXPLORE_T4_10	{研究队探索%PLANET%星球。侦测到星球表面的无线电发射塔之间在共享数据。跟踪并解密了信号。广播内容是吉克商人之间共享的资料，目的是操纵银河贸易市场。}
-FLEET_EXPLORE_T4_11	{侦测到%PLANET%星球上的信号源。部署地面人员。追踪信号，找到一个古老的求救信标，其正在一座被摧毁的石头建筑的中心向外广播。船员扫描了中继器，但无法翻译它的远古语言。}
+FLEET_EXPLORE_T4_11	{侦测到%PLANET%星球上的信号源。部署地面人员。追踪信号，找到一个古老的求救信标，其正在一座被摧毁的石头建筑的中心向外广播。船员扫描了中继器，但无法翻译它的古代语言。}
 FLEET_EXPLORE_T4_12	{探索%PLANET%星球。在一个浅洞里发现了一台小型设备。设备以一定频率进行振动，引起了洞穴中的谐波共振，产生了来自大地本身的美妙音乐。进行了扫描，但未扰动设备。}
 FLEET_EXPLORE_T4_13	{研究队被部署至%PLANET%星球。小队发现了埋藏在古老的石头废墟中的物理记录。对雕刻图案进行了扫描和数字化。回放时，发现记录的是鸟鸣声。估计数据年龄：%NUM%00 年。}
 FLEET_EXPLORE_T4_14	{登陆%PLANET%星球。探索了毁坏的建筑物。发现机械设备，是一个金属立方体，上面有着互相连接且旋转着的表面。该立方体似乎被用作基本翻译设备，可以用不同的字体显示意义相同的符文。}
@@ -11400,15 +11400,15 @@ FLEET_UI_DIFFICULTY_HIGH	{高<COMMODITY><IMG>DIFFICULTY<><IMG>DIFFICULTY<><IMG>D
 FLEET_UI_DIFFICULTY_EXT	{极度<FUEL><IMG>DIFFICULTY<><IMG>DIFFICULTY<><IMG>DIFFICULTY<><IMG>DIFFICULTY<><>}
 FLEET_UI_EXPED_DETAIL	{远征细节}
 FLEET_UI_EXPEDITION_LENGTH	{距离覆盖：%NUM%光年}
-FLEET_UI_DURATION	{所需时间： }
+FLEET_UI_DURATION	{持续时间： }
 FLEET_UI_CAPACITY	{已指派的飞船：%NUM% / %MAX%}
-FLEET_UI_TIME_FORMAT	{<IMG>CLOCK<> %HOURS% 时 %MINUTES% 分 %SECONDS% 秒}
-FLEET_UI_TIME_FORMAT_SHORT	{<IMG>CLOCK<> %HOURS% 时 %MINUTES% 分 %SECONDS% 秒}
+FLEET_UI_TIME_FORMAT	{<IMG>CLOCK<> %HOURS%时：%MINUTES%分：%SECONDS%秒}
+FLEET_UI_TIME_FORMAT_SHORT	{<IMG>CLOCK<> %HOURS%时：%MINUTES%分：%SECONDS%秒}
 FLEET_UI_FLEET_DETAIL	{舰队详情}
 FLEET_UI_FRIGATE_DETAIL	{护卫舰详情}
-FLEET_UI_STAT_EXPEDITIONS	{远征次数}
-FLEET_UI_STAT_VICTORY	{次途经事件}
-FLEET_UI_STAT_PROGRESS	{等级提升进度}
+FLEET_UI_STAT_EXPEDITIONS	{远征队}
+FLEET_UI_STAT_VICTORY	{成功会面}
+FLEET_UI_STAT_PROGRESS	{下一等级进度}
 FLEET_UI_STAT_DAMAGED	{损坏次数}
 FLEET_UI_STAT_FUEL_BURN	{每次曲速飞行花费燃料}
 FLEET_UI_FUEL_TITLE	{燃料需求}
@@ -11446,12 +11446,12 @@ FLEET_FRIGATE_BOARDED	{%NAME%目前在护卫舰上}
 FLEET_FRIGATE_BOARD_MULTIPLE	{护卫舰上有多名玩家}
 INTRCT_FLEET_MANAGE	{管理舰队}
 FLEET_UI_NOTIFY_TITLE	{远征：%NAME%}
-FLEET_UI_NOTIFY_NO_EVENT	{舰队已抵达%SYSTEM%星系。
-正在展开调查。}
-FLEET_UI_NOTIFY_EVENT	{舰队已抵达%SYSTEM%星系。
-船长报告了可能进行的活动......}
-FLEET_UI_NOTIFY_RETURN	{舰队已完成任务
-正在向主力舰%FREIGHTER%进近}
+FLEET_UI_NOTIFY_NO_EVENT	{舰队抵达%SYSTEM%星系。
+开始调查。}
+FLEET_UI_NOTIFY_EVENT	{舰队抵达%SYSTEM%星系。
+船长报告潜在的活动......}
+FLEET_UI_NOTIFY_RETURN	{舰队任务完成
+正在准备靠近主力飞船%FREIGHTER%}
 FLEET_UI_EXPED_RENAME	{重命名远征}
 FLEET_UI_FRIGATE_RENAME	{重命名护卫舰}
 FLEET_UI_HISTORY_TITLE	{历史}
@@ -11468,7 +11468,7 @@ FLEET_UI_REWARD_MINING_OBJ	{已采集}
 FLEET_UI_REWARD_FORMAT	{%REWARD%：%ITEM%}
 FLEET_UI_REWARD_FORMAT_PLURAL	{%REWARD%：%ITEM% x %AMOUNT%}
 FLEET_UI_DAMAGE_MARKER	{受损：%NAME%}
-FLEET_UI_DAMAGE_CONTINUE	{执意继续}
+FLEET_UI_DAMAGE_CONTINUE	{无论如何都继续}
 FLEET_UI_DAMAGE_RECALL	{召回护卫舰}
 FLEET_UI_EXPEDITION_ACTIVE	{启动远征}
 FLEET_UI_EXPEDITION_INACTIVE	{已完成远征}
@@ -11488,13 +11488,13 @@ FLEET_DAMAGED_COMPONENT	{受损部件}
 FLEET_DAMAGE_REPAIR	{%REPAIR%修复了%NAME%。}
 FLEET_DAMAGE_REPAIR_LONG	{%REPAIR%运用%TRAIT%修复了%NAME%。}
 FLEET_DAMAGE_REPAIR_SELF	{%REPAIR%运用%TRAIT%自我修复。}
-FLEET_RETURNED_HOME_SAVED_TIME	{任务完成。环绕主力舰%FREIGHTER%保持阵型
+FLEET_RETURNED_HOME_SAVED_TIME	{任务完成。环绕主力飞船%FREIGHTER%保持阵型
 %NAME%的驱动器升级节约了大约%HOURS%小时}
 FLEET_SALVAGED	{%NAME%回收了额外的物品。}
 FLEET_SALVAGED_LONG	{%NAME%运用%TRAIT%回收了额外的物品。}
 ALL_FLEET_COMMAND_POST_SUB	{管理远征}
 FLEET_UI_NO_FUEL	{燃料不足}
-FLEET_UI_TIME_NO_CLOCK	{%HOURS% 时 %MINUTES% 分 %SECONDS% 秒}
+FLEET_UI_TIME_NO_CLOCK	{%HOURS%时：%MINUTES%分：%SECONDS%秒}
 FLEET_UI_EQUIP_MODULE	{装备升级模块}
 FLEET_UI_MODULE_FORMAT	{<TECHNOLOGY>%NAME%：<>%DESC%<COMMODITY>+%STAT%<>}
 FLEET_UI_NO_MODULE	{未安装升级}
@@ -11504,7 +11504,7 @@ POWERUPS_TITLE	{技术模块}
 POWERUPS_DESC	{装备<COMMODITY>临时护卫舰升级<>。
 
 一次远征技术升级功能可以提升舰队中所有飞船的能力。模块将在探险队完成时消耗。}
-UI_FREI_BONUS_TITLE	{主力舰及升级}
+UI_FREI_BONUS_TITLE	{主力飞船及升级}
 FLEET_UI_COMMENCE	{开始远征}
 FLEET_EXPED_EXPLORE_NAME_1	{进入%PLACE%的%JOURNEY1%}
 FLEET_EXPED_EXPLORE_NAME_2	{在%PLACE%的%JOURNEY2%}
@@ -11556,7 +11556,7 @@ NAMEGEN_FLEET_BATTLE_32	{检查}
 NAMEGEN_FLEET_MISSION_1	{大旅行}
 NAMEGEN_FLEET_MISSION_2	{“和平”任务}
 NAMEGEN_FLEET_MISSION_3	{最近远征}
-NAMEGEN_FLEET_MISSION_4	{最后一次冒险}
+NAMEGEN_FLEET_MISSION_4	{最近一次冒险}
 NAMEGEN_FLEET_MISSION_5	{终点站}
 NAMEGEN_FLEET_MISSION_6	{复仇}
 NAMEGEN_FLEET_MISSION_7	{搜寻}
@@ -12167,7 +12167,7 @@ UI_REFINER_BUTTON_MORE	{添加更多}
 UI_REFINER_INPUT_LABEL	{输入}
 UI_REFINER_OUTPUT_LABEL	{输出}
 UI_REFINER_BUTTON_STOP	{停止处理}
-UI_REFINER_REMAINING	{处理耗时}
+UI_REFINER_REMAINING	{开始处理}
 UI_REFINER_PROCESSED	{已处理}
 UI_TECH_PLANT_NAME	{富氘植物}
 UI_FUEL_PLANT_NAME	{富氧植物}
@@ -12488,7 +12488,7 @@ RECIPE_WATERPROD3_UP	{请求操作：氯网格化}
 RECIPE_CAVEPROD3_UP	{请求操作：钴加压}
 RECIPE_OXYPROD3_UP	{请求操作：氧成核}
 UI_FLOATING_ROCK_NAME_L	{悬浮水晶}
-UI_CRYSTAL_ALTAR_NAME_L	{远古数据结构}
+UI_CRYSTAL_ALTAR_NAME_L	{古代数据结构}
 UI_EGG_POD_NAME_L	{嗡嗡作响的囊}
 UI_FIEND_POD_NAME_L	{低语的卵}
 UI_WEIRD_ROCK_NAME_L	{“有机”岩石}

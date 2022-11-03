@@ -146,6 +146,7 @@ VEHICLE_BUILDING_OUTPOST	{Trade Outpost}
 UI_NO_MM_CONNECTION_BAN	{NO CONNECTION TO MATCHMAKING SERVICES}
 UI_NO_MM_CONNECTION_BAN_DESC	{This account has been found to be in violation of the No Man's Sky code of conduct. Access to network features has been suspended.
 https://www.nomanssky.com/end-user-licence-agreement/}
+UI_NO_MM_CONNECTION_SOCKETS	{Error creating websockets. No connection to matchmaking services. Please check your firewall and router settings.}
 UI_OPTIONS_CAMERA_SHAKE_STRENGT	{Camera Shake Strength}
 UI_BUILD_MENU_ROTATE_NAME_X	{Rotate X}
 UI_BUILD_MENU_ROTATE_NAME_Z	{Rotate Z}
@@ -950,6 +951,7 @@ Some chosen settings may <FUEL>permanently invalidate<> a small number of diffic
 
 Do you want to apply these settings?}
 UI_DIFFICULTY_OSD_MIN_ERR	{Unavailable in a Permadeath game}
+UI_DIFFICULTY_OSD_ERR_SEASONAL	{Setting unavailable for this Expedition}
 UI_DIFFICULTY_OSD_MAX_ERR	{Unavailable after game has started}
 UI_DIFFICULTY_OSD_PDEATH_ERR	{Cannot select Permadeath after game has started}
 DIFFICULTY_SELF_BAN	{Difficulty Settings Changes}
@@ -1088,6 +1090,85 @@ UI_SUPERSLOT_TITLE	{SUPERCHARGED SLOT}
 UI_GRAPHICS_PAGE_COMBO_HEADER	{GRAPHICS & VIDEO}
 UI_SHIP_INV_CLASS_MAX	{Max slots for current ship class}
 UI_WEAPON_INV_CLASS_MAX	{Max slots for current Multi-Tool class}
+UI_PLAYER_TITLE_MS_PROC_PROD_5	{Connoisseur %NAME%}
+UI_PLAYER_TITLE_MS_PROC_PROD_7	{Treasure Hunter %NAME%}
+UI_PLAYER_TDESC_MS_PROC_PROD	{Advance your rank in the Rare Treasures milestone}
+UI_TITLE_OWNED_MS_PPROD	{Advanced ranks in the Rare Treasures milestone}
+UI_PLAYER_TITLE_MS_FIENDS_7	{Annihilator %NAME%}
+UI_PLAYER_TITLE_MS_FIENDS_9	{%NAME%, Face of Death}
+UI_PLAYER_TDESC_MS_FIENDS	{Advance your rank in the Horrors Eliminated milestone}
+UI_TITLE_OWNED_MS_FIENDS	{Advanced ranks in the Horrors Eliminated milestone}
+UI_PLAYER_TITLE_MS_FLORA_4	{Ecologist %NAME%}
+UI_PLAYER_TITLE_MS_FLORA_8	{Exobotanist %NAME%}
+UI_PLAYER_TDESC_MS_FLORA	{Advance your rank in the Plants Catalogued milestone}
+UI_TITLE_OWNED_MS_FLORA	{Advanced ranks in the Plants Catalogued milestone}
+UI_PLAYER_TITLE_MS_NANITES_6	{Impossibly Fragmented %NAME%}
+UI_PLAYER_TITLE_MS_NANITES_8	{%NAME%, Awash with Foam}
+UI_PLAYER_TDESC_MS_NANITES	{Advance your rank in the Nanite Clusters milestone}
+UI_TITLE_OWNED_MS_NANITES	{Advanced ranks in the Nanite Clusters milestone}
+UI_PLAYER_TITLE_MS_SMUGGLE_7	{Master Smuggler %NAME%}
+UI_PLAYER_TITLE_MS_SMUGGLE_8	{Uncatchable %NAME%}
+UI_PLAYER_TDESC_MS_SMUGGLE	{Advance your rank in the Goods Smuggled milestone}
+UI_TITLE_OWNED_MS_SMUGGLE	{Advanced ranks in the Goods Smuggled milestone}
+UI_PLAYER_TITLE_MS_WALKERS_4	{Vanquisher %NAME%}
+UI_PLAYER_TITLE_MS_WALKERS_5	{%NAME% the Battle Hardened}
+UI_PLAYER_TITLE_MS_WALKERS_7	{Hunter-Killer %NAME%}
+UI_PLAYER_TDESC_MS_WALKERS	{Advance your rank in the Walkers Killed milestone}
+UI_TITLE_OWNED_MS_WALKERS	{Advanced ranks in the Walkers Killed milestone}
+UI_PLAYER_TITLE_MS_DIST_WARP_1	{Trailblazer %NAME%}
+UI_PLAYER_TITLE_MS_DIST_WARP_9	{%NAME% the Discoverer}
+UI_PLAYER_TDESC_MS_DIST_WARP	{Advance your rank in the Space Exploration milestone}
+UI_TITLE_OWNED_MS_DIST_WARP	{Advanced ranks in the Space Exploration milestone}
+UI_PLAYER_TITLE_MS_WORDS_4	{Conversationalist %NAME%}
+UI_PLAYER_TITLE_MS_WORDS_8	{Linguist %NAME%}
+UI_PLAYER_TDESC_MS_WORDS	{Advance your rank in the Words Collected milestone}
+UI_TITLE_OWNED_MS_WORDS	{Advanced ranks in the Words Collected milestone}
+UI_PLAYER_TITLE_MS_MISSIONS_2	{Journeyman %NAME%}
+UI_PLAYER_TITLE_MS_MISSIONS_8	{%NAME% the Exalted}
+UI_PLAYER_TDESC_MS_MISSIONS	{Advance your rank in the Faction Missions milestones}
+UI_TITLE_OWNED_MS_MISSIONS	{Advanced ranks in the Faction Missions milestones}
+UI_PLAYER_TITLE_MS_PLANTS_1	{Farmhand %NAME%}
+UI_PLAYER_TITLE_MS_PLANTS_4	{Agriculturist %NAME%}
+UI_PLAYER_TITLE_MS_PLANTS_8	{Cropmaster %NAME%}
+UI_PLAYER_TDESC_MS_PLANTS	{Advance your rank in the Plants Farmed milestone}
+UI_TITLE_OWNED_MS_PLANTS	{Advanced ranks in the Plants Farmed milestone}
+UI_PLAYER_TITLE_MS_SCANNER_5	{Compiler %NAME%}
+UI_PLAYER_TITLE_MS_SCANNER_8	{Zoologist %NAME%}
+UI_PLAYER_TDESC_MS_SCANNER	{Advance your rank in the Rare Fauna Scanned milestone}
+UI_TITLE_OWNED_MS_SCANNER	{Advanced ranks in the Rare Fauna Scanned milestone}
+UI_PLAYER_TITLE_MS_ENEMIES_6	{%NAME% the Menace}
+UI_PLAYER_TITLE_MS_ENEMIES_10	{%NAME% the Legend}
+UI_PLAYER_TDESC_MS_ENEMIES	{Advance your rank in the Ships Destroyed milestone}
+UI_TITLE_OWNED_MS_ENEMIES	{Advanced ranks in the Ships Destroyed milestone}
+UI_PLAYER_TITLE_MS_SENTINEL_6	{%NAME% the Undying}
+UI_PLAYER_TITLE_MS_SENTINEL_8	{Crusader %NAME%}
+UI_PLAYER_TITLE_MS_SENTINEL_10	{%NAME%, Destroyer of Glass}
+UI_PLAYER_TDESC_MS_SENTINEL	{Advance your rank in the Sentinels Destroyed milestone}
+UI_TITLE_OWNED_MS_SENTINEL	{Advanced ranks in the Sentinels Destroyed milestone}
+UI_PLAYER_TITLE_MS_DIST_4	{Wayfarer %NAME%}
+UI_PLAYER_TITLE_MS_DIST_10	{Adventurer %NAME%}
+UI_PLAYER_TDESC_MS_DIST	{Advance your rank in the On-foot Exploration milestone}
+UI_TITLE_OWNED_MS_DIST	{Advanced ranks in the On-foot Exploration milestone}
+UI_PLAYER_TITLE_MS_MONEY_6	{Entrepreneur %NAME%}
+UI_PLAYER_TITLE_MS_MONEY_10	{Magnate %NAME%}
+UI_PLAYER_TDESC_MS_MONEY	{Advance your rank in the Units Accrued milestone}
+UI_TITLE_OWNED_MS_MONEY	{Advanced ranks in the Units Accrued milestone}
+UI_PLAYER_TITLE_MS_LONG_LIFE_8	{Indefatigable %NAME%}
+UI_PLAYER_TITLE_MS_LONG_LIFE_10	{Everlasting %NAME%}
+UI_PLAYER_TDESC_MS_LONG_LIFE	{Advance your rank in the Extreme Survival milestone}
+UI_TITLE_OWNED_MS_LONG_LIFE	{Advanced ranks in the Extreme Survival milestone}
+UI_PLAYER_TITLE_ABANDLORE1	{%NAME% the Corrupted}
+UI_PLAYER_TITLE_ABANDLORE2	{%NAME% the Shattered}
+UI_PLAYER_TITLE_ABANDLORE3	{%NAME% the Warned}
+UI_PLAYER_TITLE_ABANDLORE4	{%NAME% the Abandoned}
+UI_PLAYER_TDESC_ABANDLORE	{Retrieve decayed recordings from a long-dead Traveller}
+UI_TITLE_OWNED_ABANDLORE1	{Retrieved the decayed records of 'The Crimson Orb'}
+UI_TITLE_OWNED_ABANDLORE2	{Retrieved the decayed records of 'The World of Glass'}
+UI_TITLE_OWNED_ABANDLORE3	{Retrieved the decayed records of 'Odvinsko'}
+UI_TITLE_OWNED_ABANDLORE4	{Retrieved the decayed records of 'The Voice'}
+OPTIONS_EYE_TRACKING_L	{Eye Tracking}
+UI_LEFT_EYE_ONLY	{Left Eye Only}
+UI_RIGHT_EYE_ONLY	{Right Eye Only}
 UPDATE13_TITLE	{No Man's Sky Waypoint}
 UPDATE13_NOTES	{No Man's Sky Waypoint brings a vast array of new features. For full details please see www.nomanssky.com.
 
@@ -4773,7 +4854,7 @@ Missions completed: %CURRENT% / %AMOUNT%}
 UI_WIKI_TRA_MISS_MSG2	{Reach milestone <STELLAR>'%MILESTONE%'<> for Gek Missions
 Complete missions for the <TRANS_TRA>Gek<> by visiting a space station <COMMODITY>Listings Agent<>
 Check the <STELLAR>commissioning faction<> of the mission carefully
-Misisons completed: %CURRENT% / %AMOUNT%}
+Missions completed: %CURRENT% / %AMOUNT%}
 UI_WIKI_WAR_MISS_NAME	{Milestone: Vy'keen Missions}
 UI_WIKI_WAR_MISS_OBJ	{Complete missions for the Vy'keen: %CURRENT% / %AMOUNT%}
 UI_WIKI_WAR_MISS_DESC	{Advance your rank in the <STELLAR>Vy'keen Missions<> milestone by completing missions requested by the <TRANS_WAR>Vy'keen<> at a Space Station Mission Board.}
@@ -4784,7 +4865,7 @@ Missions completed: %CURRENT% / %AMOUNT%}
 UI_WIKI_WAR_MISS_MSG2	{Reach milestone <STELLAR>'%MILESTONE%'<> for Vy'keen Missions
 Complete missions for the <TRANS_WAR>Vy'keen<> by visiting a space station <COMMODITY>Listings Agent<>
 Check the <STELLAR>commissioning faction<> of the mission carefully
-Misisons completed: %CURRENT% / %AMOUNT%}
+Missions completed: %CURRENT% / %AMOUNT%}
 UI_WIKI_EXP_MISS_NAME	{Milestone: Korvax Missions}
 UI_WIKI_EXP_MISS_OBJ	{Complete missions for the Korvax: %CURRENT% / %AMOUNT%}
 UI_WIKI_EXP_MISS_DESC	{Advance your rank in the <STELLAR>Korvax Missions<> milestone by completing missions requested by the <TRANS_EXP>Korvax<> at a Space Station Mission Board.}
@@ -4795,7 +4876,7 @@ Missions completed: %CURRENT% / %AMOUNT%}
 UI_WIKI_EXP_MISS_MSG2	{Reach milestone <STELLAR>'%MILESTONE%'<> for Korvax Missions
 Complete missions for the <TRANS_EXP>Korvax<> by visiting a space station <COMMODITY>Listings Agent<>
 Check the <STELLAR>commissioning faction<> of the mission carefully
-Misisons completed: %CURRENT% / %AMOUNT%}
+Missions completed: %CURRENT% / %AMOUNT%}
 UI_WIKI_TG_MISS_NAME	{Milestone: Merchants Guild Missions}
 UI_WIKI_TG_MISS_OBJ	{Complete missions for the Merchants Guild: %CURRENT% / %AMOUNT%}
 UI_WIKI_TG_MISS_DESC	{Advance your rank in the <STELLAR>Merchants Guild Missions<> milestone by completing missions requested by the <STELLAR>Merchants Guild<> at a Space Station Mission Board.}
@@ -4841,7 +4922,7 @@ UI_WIKI_SMUGGLE_VAL_DESC	{Advance your rank in the <STELLAR>Goods Smuggled<> mil
 UI_WIKI_SMUGGLE_VAL_MSG	{Reach milestone <STELLAR>'%MILESTONE%'<> for Goods Smuggled
 Illegal goods can be obtained from a <STELLAR>Contraband Agent<> in an <FUEL>Outlaw Station<>
 Contraband can be sold in lawful systems for profit
-Sell contraband: %CURRENT% / %AMOUNT}
+Sell contraband: %CURRENT% / %AMOUNT%}
 UI_WIKI_JOURNEY_NAME	{Milestone: Overall Journey}
 UI_WIKI_JOURNEY_OBJ	{Complete Journey Milestones: %CURRENT% / %AMOUNT%}
 UI_WIKI_JOURNEY_DESC	{Advance your overall <STELLAR>Journey Milestone<> rank by completing the milestones detailed in the Catalogue & Guide.}
@@ -6044,6 +6125,7 @@ Find new milestones in the <STELLAR>Expedition<> tab (<IMG>OPTIONS<>)}
 UI_EXPED8_DETAIL_DESC	{The <TECHNOLOGY>cruise of the %FREIGHTER_NAME%<> has begun! The <STELLAR>Expedition<> tab will show your progress through the journey.
 
 Complete <TECHNOLOGY>Milestones<> to earn rewards. Complete all the milestones in a <COMMODITY>Phase<> for special, exclusive items.}
+UI_EXPED8_MAIN_DESC	{Cruise across the galaxy on an interstellar freighter voyage.}
 UI_EXPED8_DETAIL_LINE1	{Your <TECHNOLOGY>freighter<> will be your primary mode of transport, as the starship is heavily restricted. }
 UI_EXPED8_DETAIL_LINE2	{Earn <STELLAR>exclusive rewards<> by completing <TECHNOLOGY>Milestones<>. Complete milestones in <TRADEABLE>any order<>.}
 UI_EXPED8_DETAIL_LINE3	{Take your capital ship on a cruise through the galaxy to each of the <SPECIAL>Rendezvous Points<> to earn large rewards.}
@@ -7397,7 +7479,7 @@ UI_CAPE_BIOFRIG_NAME	{COSMIC MEGAFAUNA CAPE}
 UI_CAPE_BIOFRIG_NAME_L	{Cosmic Megafauna Cape}
 UI_CAPE_BIOFRIG_DESC	{An exclusive <STELLAR>Exosuit Appearance Override<>.
 
-In the furthest reaches of space swim the <SPECIAL>cosmic megafauna<>, aligning their paths with Travellers, dreaming of possible realities.
+In the furthest reaches of space swim <SPECIAL>cosmic megafauna<>, aligning their paths with Travellers, dreaming of possible realities.
 
 Transform the appearance of your Exosuit at an <TECHNOLOGY>Appearance Modifier<>.}
 UI_TIP_CAPE_BIOFRIG	{Organic Frigate Cape}
@@ -7411,22 +7493,22 @@ Transform the appearance of your Exosuit at an <TECHNOLOGY>Appearance Modifier<>
 UI_TIP_CAPE_WORM	{Titan Worm Cape}
 BLD_FLOWER_1_NAME	{NIGHTTONGUE FLOWERS}
 BLD_FLOWER_1_NAME_L	{Nighttongue Flowers}
-BLD_FLOWER_1_DESC	{A hardy floral patch, genetically modified to thrive in all biomes, soil types, and weather conditions. These stellate blossoms release an intoxicating perfume.}
+BLD_FLOWER_1_DESC	{A hardy floral patch, genetically modified to thrive in all biomes, soil types, and weather conditions. Barbed petals protect the flowers from would-be predators, piercing flesh with a deadly toxin. Haz-Mat Gauntlets recommended while handling.}
 BLD_FLOWER_2_NAME	{URCHIN FLOWERS}
 BLD_FLOWER_2_NAME_L	{Urchin Flowers}
-BLD_FLOWER_2_DESC	{}
+BLD_FLOWER_2_DESC	{A hardy floral patch, genetically modified to thrive in all biomes, soil types, and weather conditions. These unusually-shaped flowers are packed with pollen, and release a dizzyingly sweet perfume.}
 BLD_FLOWER_3_NAME	{ETERNAL EYE FLOWERS}
 BLD_FLOWER_3_NAME_L	{Eternal Eye Flowers}
-BLD_FLOWER_3_DESC	{}
-BLD_WATERPLANT_4_NAME	{}
-BLD_WATERPLANT_4_NAME_L	{}
-BLD_WATERPLANT_4_DESCRIPTION	{}
-BLD_WATERPLANT_5_NAME	{}
-BLD_WATERPLANT_5_NAME_L	{}
-BLD_WATERPLANT_5_DESCRIPTION	{}
-BLD_WATERPLANT_6_NAME	{}
-BLD_WATERPLANT_6_NAME_L	{}
-BLD_WATERPLANT_6_DESCRIPTION	{}
+BLD_FLOWER_3_DESC	{A hardy floral patch, genetically modified to thrive in all biomes, soil types, and weather conditions. These ligulate blossoms remain open day and night, absorbing light from both local and distant stars.}
+BLD_WATERPLANT_4_NAME	{ARMOURED ANEMONE}
+BLD_WATERPLANT_4_NAME_L	{Armoured Anemone}
+BLD_WATERPLANT_4_DESCRIPTION	{A carnivorous marine organism. An armoured shell encloses the core polyp, exposing only the stinging tentacles. Involuntary nerve spasms cause the creature to writhe perpetually: always seeking, always hungering.}
+BLD_WATERPLANT_5_NAME	{STRIP CORAL}
+BLD_WATERPLANT_5_NAME_L	{Strip Coral}
+BLD_WATERPLANT_5_DESCRIPTION	{A giant calcium formation, naturally configured into a strip of non-orientable space. Adds a mysterious deep-sea quality to any habitable base.}
+BLD_WATERPLANT_6_NAME	{AQUATIC COLONY}
+BLD_WATERPLANT_6_NAME_L	{Aquatic Colony}
+BLD_WATERPLANT_6_DESCRIPTION	{A rock formation pulled from the floor of a densely-populated ocean. The attached marine life is lacquered in a nutrient-rich mucus, to keep it fed and moist in terrestrial conditions.}
 DNT_TRA_CREW_OWNED_SEC_LANG_01	{Hello, supervisor friend!}
 DNT_TRA_CREW_OWNED_SEC_LANG_02	{Hello, commander friend!}
 DNT_TRA_CREW_OWNED_SEC_LANG_03	{Commander friend! Is it time to begin next trade expedition?}
@@ -8495,7 +8577,7 @@ EXP_OUTLAW_PILOT_DESC1	{The electronic lifeform blanks their visor as they turn 
 EXP_OUTLAW_PILOT_DESC2	{The Korvax scans me as I approach. They wait, wordless, surrendering no information.}
 EXP_OUTLAW_PILOT_DESC3	{Lights flicker around the carapace of the Korvax. Their pattern is unrestrained and expressive, unlike any I have seen before.}
 WAR_OUTLAW_PILOT_DESC1	{The Vy'keen stares at me, their eyes greedy...}
-WAR_OUTLAW_PILOT_DESC2	{The Vy'keen grins, their manibles churning. There is a confident power in their stance.}
+WAR_OUTLAW_PILOT_DESC2	{The Vy'keen grins, their mandibles churning. There is a confident power in their stance.}
 WAR_OUTLAW_PILOT_DESC3	{The lifeform's eyes narrow, their hand twitches. I must be careful.}
 DNT_TRA_OUTLAW_PILOT_LANG1	{Friend is idiot to come here without large weapon... dangerous space!}
 DNT_TRA_OUTLAW_PILOT_LANG2	{Suspicious to see friend in station like this...}

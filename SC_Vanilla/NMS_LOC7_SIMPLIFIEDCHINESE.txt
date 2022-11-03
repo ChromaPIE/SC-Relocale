@@ -5,7 +5,7 @@ UPDATE9_NOTES	{《No Man's Sky Frontiers》将为您呈上令人目不暇接的�
 *成为定居点的监督者，将其从一座小村庄发展为欣欣向荣的城镇。
 *在定居点立法方面做出重要决策，提升居民的满意度、生产效率和生活水平。
 *新增数百种新基地部件和高级建筑操控系统，让您能建造出比以往更精致的基地。
-*存档槽位从5个增加到了15个，且目前任意存档槽位都可使用水银购买。
+*存档栏位从5个增加到了15个，且目前任意存档栏位都可使用水银购买。
 
 Hello Games一直在不遗余力地完善与充实《No Man's Sky》。希望大家喜欢这款游戏。:)
 
@@ -146,7 +146,7 @@ VEHICLE_BUILDING_OUTPOST	{贸易前哨基站}
 UI_NO_MM_CONNECTION_BAN	{无法连接匹配服务}
 UI_NO_MM_CONNECTION_BAN_DESC	{此账号存在违反《No Man's Sky》行为准则的行为。已暂停联网功能。
 https://www.nomanssky.com/end-user-licence-agreement/}
-UI_NO_MM_CONNECTION_SOCKETS	{创建 WebSockets 时发生错误，无法连接至匹配服务。请检查您的防火墙与路由设置。}
+UI_NO_MM_CONNECTION_SOCKETS	{无法连接匹配服务}
 UI_OPTIONS_CAMERA_SHAKE_STRENGT	{镜头抖动强度}
 UI_BUILD_MENU_ROTATE_NAME_X	{X轴旋转}
 UI_BUILD_MENU_ROTATE_NAME_Z	{Z轴旋转}
@@ -185,7 +185,7 @@ UI_SENTINEL_BLOCKED	{护卫已关闭}
 UI_QUICK_MENU_PET_PAGE	{召唤同伴设置}
 PC_GRAPHICS_DLAA	{DLAA}
 UI_STATUS_MOOD	{状态：%MOOD%}
-UI_QUAD_EGG_DESC	{从行星洞穴系统深处出土的远古物件。表面触感冰凉，尽管年代久远，但却光滑得出奇。
+UI_QUAD_EGG_DESC	{从行星洞穴系统深处出土的古代物件。表面触感冰凉，尽管年代久远，但却光滑得出奇。
 
 这些立方体是金属和岩石的融合体，难以进行工业加工。因此，它们只对收藏家有价值。
 
@@ -312,22 +312,22 @@ UI_FUEL_ASTEROID_LABEL	{富含氚的小行星}
 UI_PIN_PROGRESS_REPAIR_MSG	{可以用<STELLAR>维修套件<>来代替任何组件
 进度：<STELLAR>%CURRENT%/%AMOUNT%<>
 详细信息参见日志（<IMG>OPTIONS<>）}
-UI_REWARD_SHIP_INVENTORY_SLOTS	{<COMMODITY>飞船库存槽位<> x %NUM%}
+UI_REWARD_SHIP_INVENTORY_SLOTS	{<COMMODITY>飞船库存栏位<> x %NUM%}
 UI_FRE_CUSTOM_REWARD_FORMAT	{<COMMODITY>%ITEM%货船自定义涂装<>}
 UI_SHIPGUNS_REWARD_LABEL	{<TECHNOLOGY>飞船武器设计图<>}
 QUICK_MENU_TIP_DISMISS_FRIEGHTE	{遣散货船}
 UI_DAMAGED_FRIG_LABEL	{严重受损}
-UI_TELEPORT_FRIGATE_MSG1	{护卫舰<STELLAR>%FRIG_NAME%<>严重受损
-起飞并登上护卫舰以开始修复
-<TECHNOLOGY>舰队管理终端<>亦可将你<TECHNOLOGY>传送<>至护卫舰}
-UI_TELEPORT_FRIGATE_MSG2	{返回你的飞船并飞离护卫舰
+UI_TELEPORT_FRIGATE_MSG1	{护卫舰 <STELLAR>%FRIG_NAME%<>已严重受损
+飞往护卫舰并着陆以开始修复
+或者<TECHNOLOGY>通过<TECHNOLOGY>舰队管理终端<>传送<>到任何护卫舰}
+UI_TELEPORT_FRIGATE_MSG2	{返回你的飞船以离开护卫舰
 或通过<TECHNOLOGY>护卫舰传送器<>曲速飞行到你的货船上。}
 UI_TELEPORT_FRIGATE_LABEL	{护卫舰传送界标}
 UI_TELEPORT_FRIGATE_RET_SUB	{返回货船}
 UI_FRIGATE_CAPT_TERM_NAME	{通讯面板}
 UI_FRIGATE_CAPT_TERM_SUB	{与船长对话}
 UI_END_EXPEDITION_LABEL	{中止远征}
-UI_END_EXPEDITION_RES	{召回已记录指令<IMG>SLASH<>正在返回主力舰}
+UI_END_EXPEDITION_RES	{召回已记录指令<IMG>SLASH<>正在返回主力飞船}
 UI_END_EXPEDITION_SUB	{召回舰队}
 UI_RESET_FREIGHTER_COLOUR	{重置自定义颜色}
 BASEBUILD_FRE_SNAP_INVALID	{必须连接现有的房间}
@@ -337,14 +337,14 @@ BASEBUILD_INSIDE_DEL_ERROR	{无法删除<IMG>SLASH<>玩家正在此模块中}
 BASEBUILD_INSIDE_DEL_ERROR_ALT	{无法删除<IMG>SLASH<>%NAME%正在此模块中}
 BASEBUILD_REPLACEMENT_ERROR	{当前无法替换部件}
 BASEBUILD_CYCLE_PART_MSG	{新部件：%PART%}
-UI_HUD_MARKER_ON_FREIGHTER	{ （位于主力舰）}
-UI_HUD_MARKER_FREIGHTER_PHASED	{ （位于主力舰：相位阶段）}
+UI_HUD_MARKER_ON_FREIGHTER	{ （位于主力飞船）}
+UI_HUD_MARKER_FREIGHTER_PHASED	{ （位于主力飞船：相位阶段）}
 UI_FREIGHTER_SYNC_TITLE	{货船网络同步}
 UI_FREIGHTER_SYNC_MSG	{一次只能显示一个货船基地
-解散你的货船来访问%OTHERPLAYER%的主力舰
+解散你的货船来访问%OTHERPLAYER%的主力飞船
 通过<TECHNOLOGY>快捷菜单<>（<IMG>QUICK_MENU<>）解散货船}
 UI_FREIGHTER_SYNC_MSG_ALT	{一次只能显示一个货船基地
-当前已同步至%BLOCKINGPLAYER%的主力舰
+当前已同步至%BLOCKINGPLAYER%的主力飞船
 通过<TECHNOLOGY>快捷菜单<>（<IMG>QUICK_MENU<>）解散货船}
 PC_SETTINGS_ULTRA_PERFORMANCE	{超性能}
 PC_GRAPHICS_FFXSR2QUALITY	{FSR 2.0画质}
@@ -364,7 +364,7 @@ UI_NO_UGC_FEATUREDBASES_DISABLE	{已禁用精选基地，按<IMG>DISNETRETRY<>�
 UI_FREIGHTER_CARGO_NAME	{货船货舱}
 UI_FREIGHTER_BUY	{购买货船}
 UI_FREIGHTER_BUY_ERR	{无法承担货船费用}
-UI_FREIGHTER_BUY_SUB	{替换现有主力舰}
+UI_FREIGHTER_BUY_SUB	{替换现有主力飞船}
 UI_FREIGHTER_BUY_SUB_ALT	{成为货船指挥官}
 UI_DEBRIEF_MARKER	{舰队远征汇报}
 UI_PART_TARGETED	{目标部分：%PART%}
@@ -382,7 +382,7 @@ UI_MISSION_PROMPT_SEC	{可进行的新任务：<STELLAR>%NAME%<>
 按<IMG>OPTIONS<>更改当前任务}
 GAMEMODE_CUSTOM	{自定义}
 GAMEMODE_CUSTOM_SUBTITLE	{从轻松写意到永久死亡：彻底掌控自己的体验}
-GAMEMODE_RELAXED	{闲适}
+GAMEMODE_RELAXED	{放松}
 GAMEMODE_RELAXED_SUBTITLE	{流畅的体验：需要管理的系统和成本都有所减少}
 UI_MODESELECT_EXPED_FORMAT	{远征%NUM%：%NAME%}
 UI_MODESELECT_NO_EXPED_TITLE	{远征即将开启}
@@ -403,7 +403,7 @@ UI_TECH_IN_WRONG_INV	{技术无效}
 UI_TECH_IN_WRONG_INV_DESC	{该物品未安装在正确的库存类型。前往技术库存恢复功能。}
 UI_TECH_PACK_UP	{存放技术}
 UI_TECH_PACK_UP_DESC	{将技术转化为便于存储的可部署包}
-UI_PACK_TECH_TIP	{<IMG>SELECT<>选择槽位打包技术以便储存}
+UI_PACK_TECH_TIP	{<IMG>SELECT<>选择栏位打包技术以便储存}
 UI_TECH_PACK_ERROR	{无法打包技术以便储存}
 UI_SWITCH_REWARD_MSG	{<STELLAR>可领取特殊奖励<>
 已赢得的奖励可在<TECHNOLOGY>水银合成同伴<>处领取}
@@ -447,7 +447,7 @@ UI_PROC_PRODS_TITLE_4	{收藏家}
 UI_PROC_PRODS_TITLE_5	{鉴赏家}
 UI_PROC_PRODS_TITLE_6	{囤积狂}
 UI_PROC_PRODS_TITLE_7	{寻宝猎人}
-UI_PROC_PRODS_TITLE_8	{远古复兴}
+UI_PROC_PRODS_TITLE_8	{古代复兴}
 UI_PROC_PRODS_TITLE_9	{历史的馈赠}
 UI_PROC_PRODS_TITLE_10	{璀璨光辉}
 UI_MEDAL_PROC_PRODS	{稀有珍宝}
@@ -592,7 +592,7 @@ UI_MEDAL_DESC_DIST_WARP	{若要前往新的星系，首先请打开你的<VAL_ON
 UI_MEDAL_DESC_DISC_CREATURES	{使用<TECHNOLOGY>分析面甲<>（<IMG>AIM<>）定位星球上的动物群系，长按<IMG>BINOCSCAN<>进行扫描。未被发现的生物将以<FUEL>红点<>显示。
 查看星球的<TECHNOLOGY>发现<>页面，了解寻找特定生物的时间和地点的相关提示。
 
-发现行星上的所有生物后，前往发现物页面并选择<STELLAR>“登记完成”<>以获取<COMMODITY>额外奖励<>。}
+发现行星上的所有生物后，可前往发现物页面并选择<STELLAR>“登记完成”<>以获取<COMMODITY>额外奖励<>。}
 UI_MEDAL_DESC_DIST	{在徒步探索时使用<TECHNOLOGY>分析面甲<>（<IMG>AIM<>）、<TECHNOLOGY>扫描仪<>（<IMG>SCAN<>）以及位于HUD顶部的<TECHNOLOGY>罗盘<>寻找兴趣点。
 
 在洞窟与建筑中寻求庇护以允许<TECHNOLOGY>危险防护<>自动充能。
@@ -631,7 +631,7 @@ UI_MEDAL_DESC_SYSTEMS_TRA	{若要前往新的星系，首先请打开你的<VAL_
 <TRANS_TRA>吉克人<>控制的星系将以喙部标志显示。}
 UI_MEDAL_DESC_SMUGGLE	{在部分星系中，当地原本掌权的派系已经被叛乱的亡命之徒部队<VAL_ON>推翻<>。此类星系将在<VAL_ON>星系图<>（<IMG>QUICK_MENU<>）中以骷髅标志显示。
 
-从亡命基地低价购买的<SPECIAL>黑市货物<>能够在常规星系中卖出<TRADEABLE>巨大的差额<>。尽快卸下违禁品以避免接受<STELLAR>货物扫描<>或与护卫部队产生冲突。}
+从亡命基地低价购买的<SPECIAL>黑市货物<>能够在常规星系中赚取<TRADEABLE>巨大的差额<>。尽快卸下违禁品以避免接受<STELLAR>货物扫描<>或与护卫部队产生冲突。}
 UI_MEDAL_DESC_MISSIONS_WAR	{在维吉恩人控制的星系中拜访空间站<COMMODITY>任务分派员<>以完成<TRANS_WAR>维吉恩人<>任务。
 
 请记得仔细检查任务列表，以免在任务板承接来自其他<STELLAR>委托派系<>的任务。
@@ -679,7 +679,7 @@ UI_MEDAL_DESC_MISSIONS_TGUILD	{拜访空间站<COMMODITY>任务分派员<>以完
 提升你在所在星系的<STELLAR>主导生命体<>中的声望将使你能够承接到更多类型的任务。}
 UI_MEDAL_DESC_MONEY_TGUILD	{商人公会青睐家财万贯的富裕成员。
 
-在银河交易网络出售物品换取<COMMODITY>货币<>（<IMG>UNITS<>）。类似<STELLAR>远古骸骨<>的稀有物品，以及类似<COMMODITY>星绸<>的交易货物能够为老练的商人带来极高的利润。
+在银河交易网络出售物品换取<COMMODITY>货币<>（<IMG>UNITS<>）。类似<STELLAR>古代骸骨<>的稀有物品，以及类似<COMMODITY>星绸<>的交易货物能够为老练的商人带来极高的利润。
 
 详见指南中的<STELLAR>赚钱<>部分。}
 UI_MEDAL_DESC_FARMING	{在你的行星或货船<STELLAR>基地<>中种植植物。
@@ -687,7 +687,7 @@ UI_MEDAL_DESC_FARMING	{在你的行星或货船<STELLAR>基地<>中种植植物�
 通常植物都只能在<TECHNOLOGY>水培盘<>或者是货船<TECHNOLOGY>培养舱<>中生长，但是如果存在与它们的<VAL_ON>自然环境相同的气候条件<>，也能够直接在<TRADEABLE>外部<>种植。
 
 在<TRADEABLE>太空异象<>的建造单元寻找<SPECIAL>农业<>制作图。你可以在货船舰桥上的升级终端获取货船房间设计图。}
-UI_MEDAL_DESC_PROC_PRODS	{在被埋藏的废墟寻找<SPECIAL>远古遗物<>。
+UI_MEDAL_DESC_PROC_PRODS	{在被埋藏的废墟寻找<SPECIAL>古代遗物<>。
 空间站的<TECHNOLOGY>制图师<>会出售记录<STELLAR>挖掘点<>的星图。使用
 地形操纵器<TECHNOLOGY>挖掘废墟<>。
 解锁遗物箱可能需要多把钥匙。}
@@ -733,18 +733,18 @@ UI_OPTIONS_DIFFICULTY_BAN	{目前无法调整难度}
 UI_OPTIONS_DIFFICULTY_ON	{开}
 UI_OPTIONS_DIFFICULTY_OFF	{关}
 CREATIVE_DIFFICULTY_PRESET	{自由}
-RELAXED_DIFFICULTY_PRESET	{闲适}
+RELAXED_DIFFICULTY_PRESET	{放松}
 SURVIVAL_DIFFICULTY_PRESET	{生存}
 PERMADEATH_DIFFICULTY_PRESET	{永久死亡}
 NORMAL_DIFFICULTY_PRESET	{普通}
 CUSTOM_DIFFICULTY_PRESET	{自定义}
 RUNNING_DRAINS_STAMINA	{冲刺}
-SPRINT_FREE	{无限的}
-SPRINT_EASY	{闲适}
+SPRINT_FREE	{无限}
+SPRINT_EASY	{放松}
 SPRINT_HARD	{标准}
 RUNNING_DRAINS_STAMINA_DESC	{<STELLAR>标准<>模式冲刺会额外消耗套装的<FUEL>维生<>系统。
 
-<STELLAR>闲适<>冲刺模式不会消耗维生系统，但仍需要偶尔的短暂制动重新充能。
+<STELLAR>放松<>冲刺模式不会消耗维生系统，但仍需要偶尔的短暂制动重新充能。
 
 <STELLAR>无限<>冲刺模式将移除所有限制条件，并允许玩家无限制冲刺。}
 INVENTORIES_RANGE	{库存传输范围}
@@ -753,10 +753,10 @@ INVENTORIES_RANGE_DESC	{收集的物品可以在附近的库存之间快速转�
 此功能仅限库存在<STELLAR>近距离范围内<>才可以传输。}
 INVENTORIES_RANGE_ON	{附近}
 INVENTORIES_RANGE_OFF	{无限的}
-ALL_SLOTS_UNLOCKED	{起始槽位}
-ALL_SLOTS_UNLOCKED_DESC	{库存、同伴槽位和战团可以在游戏中升级扩容。购买<STELLAR>额外<>的库存槽位可以扩展容量，而额外的同伴槽位则允许探险家拥有更多的动物同伴。
+ALL_SLOTS_UNLOCKED	{起始栏位}
+ALL_SLOTS_UNLOCKED_DESC	{库存、同伴栏位和战团可以在游戏中升级扩容。购买<STELLAR>额外<>的库存栏位可以扩展容量，而额外的同伴栏位则允许探险家拥有更多的动物同伴。
 
-此设置可以改变开始新游戏时这些槽位的解锁数量。}
+此设置可以改变开始新游戏时这些栏位的解锁数量。}
 ALL_SLOTS_UNLOCKED_FREE	{最大}
 ALL_SLOTS_UNLOCKED_EASY	{慷慨}
 ALL_SLOTS_UNLOCKED_HARD	{标准}
@@ -770,7 +770,7 @@ CRAFTING_IS_FREE	{制作}
 CRAFTING_IS_FREE_DESC	{建筑配件、物品和技术通常是通过从收集的资源中进行加工来组装的。
 
 此设置用于切换是否可以自由完成制作，而无需收集这些资源。}
-CRAFTING_IS_FREE_ON	{闲适}
+CRAFTING_IS_FREE_ON	{免费}
 CRAFTING_IS_FREE_OFF	{标准}
 TUTORIAL_ENABLED	{教学任务}
 TUTORIAL_ENABLED_DESC	{故事序言介绍了基本的机械、控制和游戏功能。<STELLAR>强烈建议<>新玩家开启教程。
@@ -786,20 +786,20 @@ BASE_AUTO_POWER	{基地能量}
 BASE_AUTO_POWER_DESC	{诸如种植作物的水培盘等的先进的基地技术，需要连接到<TECHNOLOGY>电源模块<>才能运行。
 
 此设置切换建造发电机和电网的需求。}
-BASE_AUTO_POWER_ON	{闲适}
+BASE_AUTO_POWER_ON	{免费}
 BASE_AUTO_POWER_OFF	{标准}
 DEATH_CONSEQUENCES	{死亡影响}
 DEATH_CONSEQUENCES_DESC	{当死亡画面显示<STELLAR>无物品损失<>时，玩家可以在不遭受任何损失的情况下继续游戏。
 
 当显示<STELLAR>标准<>时库存中的物品将会掉落在死亡地点的坟墓中。如果在再次死亡或者退出游戏之前回到死亡地点的话则可以取回掉落的物品。
 
-当显示<STELLAR>物品已摧毁<>时将永久损失携带的库存物品。
+当显示<STELLAR>物品损毁<>时将永久损失携带的库存物品。
 
 当显示<STELLAR>存档删除<>时将是<FUEL>永久死亡<>模式，此模式下死亡意味着当前旅程已经结束。此选项只能在开始新游戏时选择，且此后不能更改。}
-DEATH_NO_LOSS	{未损失物品}
+DEATH_NO_LOSS	{无物品损失}
 DEATH_ITEM_GRAVE	{标准}
-DEATH_ITEM_DESTROYED	{物品已摧毁}
-DEATH_SAVE_DESTROYED	{<FUEL>已删除存档<>}
+DEATH_ITEM_DESTROYED	{物品损毁}
+DEATH_SAVE_DESTROYED	{<FUEL>存档删除<>}
 DAMAGE_RECEIVED	{伤害等级}
 DAMAGE_RECEIVED_DESC	{危险环境、战斗状态或与地面的高速碰撞都可能损坏套装或飞船。
 
@@ -807,14 +807,14 @@ DAMAGE_RECEIVED_DESC	{危险环境、战斗状态或与地面的高速碰撞都�
 DAMAGE_IN_NONE	{无}
 DAMAGE_IN_EASY	{最低}
 DAMAGE_IN_NORMAL	{标准}
-DAMAGE_IN_HARD	{困难}
+DAMAGE_IN_HARD	{高}
 DAMAGE_GIVEN	{敌人强度}
 DAMAGE_GIVEN_DESC	{在探索行星或深空时，你可能偶尔会遇到敌对生物、<SPECIAL>护卫<>或武装<FUEL>海盗<>。
 
 此设置可以调整此种遭遇战的难度。}
 DAMAGE_OUT_EASY	{弱}
 DAMAGE_OUT_NORMAL	{标准}
-DAMAGE_OUT_HARD	{困难}
+DAMAGE_OUT_HARD	{强}
 ACTIVE_SURVIVAL_BARS	{生存元素}
 ACTIVE_SURVIVAL_BARS_DESC	{套装需要在几个方面进行维护：<TECHNOLOGY>生命值和护盾<>，保护免受环境<CATALYST>危害<>，以及多用途<FUEL>维生系统<>。
 
@@ -824,18 +824,18 @@ ACTIVE_SURVIVAL_BARS_DESC	{套装需要在几个方面进行维护：<TECHNOLOGY
 ACTIVE_BARS_NONE	{无}
 ACTIVE_BARS_EASY	{仅生命值}
 ACTIVE_BARS_NORMAL	{危险防护与生命值}
-ACTIVE_BARS_HARD	{已满}
+ACTIVE_BARS_HARD	{全部}
 HAZARD_DRAIN	{生存难度}
 HAZARD_DRAIN_DESC	{套装的<CATALYST>危险防护<>系统保护探险家免受诸如<TECHNOLOGY>极寒<>和<TRADEABLE>毒性<>等环境因素的影响。<FUEL>生命维持<>装置提供可呼吸的空气和生命活动系统。
 
 此设置可以调整这些系统在具有挑战性的环境中消耗的速度。}
-BAR_DRAIN_EASY	{闲适}
+BAR_DRAIN_EASY	{放松}
 BAR_DRAIN_NORMAL	{标准}
 BAR_DRAIN_HARD	{困难}
 INVENTORY_STACK_LIMITS	{库存堆叠限制}
-INVENTORY_STACK_LIMITS_DESC	{已采集的资源存储在<STELLAR>库存<>中，其槽位的数量有限。同一类型的多个物品可以存储在一个槽位中。
+INVENTORY_STACK_LIMITS_DESC	{已采集的资源存储在<STELLAR>库存<>中，其栏位的数量有限。同一类型的多个物品可以存储在一个栏位中。
 
-此设置可以调整单个<TECHNOLOGY>库存槽位的容量<>，并允许携带更多物品。}
+此设置可以调整单个<TECHNOLOGY>库存栏位的容量<>，并允许携带更多物品。}
 INV_SIZE_EASY	{标准}
 INV_SIZE_NORMAL	{受限}
 INV_SIZE_HARD	{困难}
@@ -843,15 +843,15 @@ CHARGING_REQUIREMENTS	{燃料使用}
 CHARGING_REQUIREMENTS_DESC	{<TECHNOLOGY>开采激光<>或飞船<TECHNOLOGY>发射推进器<>等技术需要定期充能才能保持运作。
 
 此设置可调整这些技术的充电花费。}
-CHARGING_REQUIREMENTS_NONE	{闲适}
-CHARGING_REQUIREMENTS_EASY	{闲适}
+CHARGING_REQUIREMENTS_NONE	{免费}
+CHARGING_REQUIREMENTS_EASY	{放松}
 CHARGING_REQUIREMENTS_NORMAL	{标准}
 CHARGING_REQUIREMENTS_HARD	{困难}
 CURRENCY_COST	{购买}
 CURRENCY_COST_DESC	{你可以使用<COMMODITY>货币<>（<IMG>UNITS<>）在<VAL_ON>银河交易网络<>购买物品。技术通常可以用<TECHNOLOGY>纳米星团<>（<IMG>NANITE<>）买到。
 
 该设置影响全宇宙的货币与纳米星团购买价格。<STELLAR>免费<>设置还将会影响任务进度以及其他相似对话选项中的诸多消耗成本。}
-COSTS_NONE	{闲适}
+COSTS_NONE	{免费}
 COSTS_EASY	{折扣价}
 COSTS_NORMAL	{标准}
 COSTS_HARD	{昂贵}
@@ -866,7 +866,7 @@ REPUTATION_GAIN_DESC	{<SPECIAL>声望<>是衡量你在星系中外星派系中�
 GAIN_SPEED_V_FAST	{极快}
 GAIN_SPEED_FAST	{快}
 GAIN_SPEED_NORMAL	{标准}
-GAIN_SPEED_HARD	{困难}
+GAIN_SPEED_HARD	{慢}
 CREATURE_HOSTILITY	{生物}
 CREATURE_HOSTILITY_DESC	{《No Man's Sky》中的行星经常居住着外星生物。这些生物中的一小部分是<FUEL>捕食者<>，而它们会试图猎食探险家。
 
@@ -874,7 +874,7 @@ CREATURE_HOSTILITY_DESC	{《No Man's Sky》中的行星经常居住着外星生�
 
 <STELLAR>消极状态<>意味着生物永远不会攻击探险家，甚至不会自卫。
 
-<STELLAR>防御性<>意味着生物只有在受到探险家攻击时才会进行反击。
+<STELLAR>戒备<>意味着生物只有在受到探险家攻击时才会进行反击。
 
 <STELLAR>捕食状态开启<>将允许捕食者偶尔狩猎和攻击探险家。}
 CREATURES_PASSIVE	{被动的}
@@ -891,14 +891,14 @@ GROUND_COMBAT_DESC	{徒步探险时，探险家可能会遭遇诸如<SPECIAL>护
 COMBAT_NONE	{无}
 COMBAT_EASY	{最低}
 COMBAT_NORMAL	{标准}
-COMBAT_HARD	{有敌意}
+COMBAT_HARD	{高}
 SUBSTANCE_COLLECTION	{自然资源}
 SUBSTANCE_COLLECTION_DESC	{开采和收集材如<TITLE>矿物<>、<TRADEABLE>植物<>和<STELLAR>动物产品<>等材料对冒险期间的生存至关重要。
 
 此设置可以调整自然资源的丰富程度和采集的速度。}
 COLLECTION_EASY	{丰富}
 COLLECTION_NORMAL	{标准}
-COLLECTION_HARD	{稀有}
+COLLECTION_HARD	{稀少}
 ITEM_SHOP_AVAILABILTY	{货物可用性}
 ITEM_SHOP_AVAILABILTY_DESC	{不同恒星系中的<TECHNOLOGY>交易终端<>将提供种类繁多、数量庞大的物品。
 
@@ -909,7 +909,7 @@ EXTRA_TECH_DAMAGE_DESC	{安装<TECHNOLOGY>技术模块<>能够强化并保护套
 该设置影响安装的技术在承受伤害时出现破损的概率。}
 EXTRA_TECH_DAMAGE_NONE	{无}
 EXTRA_TECH_DAMAGE_NORMAL	{最低}
-EXTRA_TECH_DAMAGE_HARD	{困难}
+EXTRA_TECH_DAMAGE_HARD	{高}
 UI_DIFFICULTY_SURVIVAL_HEADER	{生存设置}
 UI_DIFFICULTY_CRAFTING_HEADER	{制作和物品设置}
 UI_DIFFICULTY_COMBAT_HEADER	{战斗设置}
@@ -950,8 +950,8 @@ UI_DIFFICULTY_WARN_LOCK_ACHIEVE	{难度更改可以锁定。启动后无法更�
 警告！ 改变难度设置可能会使少量基于难度的成就无效。
 
 您要应用这些设置吗？}
-UI_DIFFICULTY_OSD_MIN_ERR	{永久死亡存档中不可用}
-UI_DIFFICULTY_OSD_ERR_SEASONAL	{游戏开始后不可用}
+UI_DIFFICULTY_OSD_MIN_ERR	{永久死亡模式中不可用}
+UI_DIFFICULTY_OSD_ERR_SEASONAL	{远征中不可用}
 UI_DIFFICULTY_OSD_MAX_ERR	{游戏开始后不可用}
 UI_DIFFICULTY_OSD_PDEATH_ERR	{游戏开始后无法选择永久死亡模式}
 DIFFICULTY_SELF_BAN	{难度设置变更}
@@ -973,12 +973,12 @@ UI_TWIT_SHIP_22_DESC	{一艘专属<STELLAR>飞船<>，这艘战斗飞船装备�
 <STELLAR>收取<>这艘飞船，将它加入你的收藏，或与你现在的飞船<STELLAR>交换<>。在行星上时，使用快捷菜单（<IMG>QUICK_MENU<>）召唤飞船。}
 UI_TWIT_SHIP_23_NAME	{太阳之子}
 UI_TWIT_SHIP_23_NAME_L	{太阳之子}
-UI_TWIT_SHIP_23_DESC	{一艘专属<STELLAR>飞船<>，这艘探索飞船装备有<TECHNOLOGY>经济<>与<TECHNOLOGY>冲突扫描仪<>，能够远程获取星系数据。
+UI_TWIT_SHIP_23_DESC	{一艘专属<STELLAR>飞船<>，这艘探索飞船装备<TECHNOLOGY>经济<>与<TECHNOLOGY>冲突扫描仪<>，能够远程获取星系数据。
 
 <STELLAR>收取<>这艘飞船，将它加入你的收藏，或与你现在的飞船<STELLAR>交换<>。在行星上时，使用快捷菜单（<IMG>QUICK_MENU<>）召唤飞船。}
 UI_TWIT_SHIP_24_NAME	{哈比卡BF3}
 UI_TWIT_SHIP_24_NAME_L	{哈比卡BF3}
-UI_TWIT_SHIP_24_DESC	{一艘专属<STELLAR>飞船<>。哈比基BF3是一艘专门的经济用托运船，配备的<TECHNOLOGY>高效推进器<>与<TECHNOLOGY>启动自动充能器<>能够使飞船启动时的燃料消耗降至最低。
+UI_TWIT_SHIP_24_DESC	{一艘专属<STELLAR>飞船<>。哈比卡BF3是一艘专门的经济用托运船，配备的<TECHNOLOGY>高效推进器<>与<TECHNOLOGY>启动自动充能器<>能够使飞船启动时的燃料消耗降至最低。
 
 <STELLAR>收取<>这艘飞船，将它加入你的收藏，或与你现在的飞船<STELLAR>交换<>。在行星上时，使用快捷菜单（<IMG>QUICK_MENU<>）召唤飞船。}
 UI_TWIT_SHIP_25_NAME	{余烬PL4}
@@ -1002,7 +1002,7 @@ UI_TWIT_PET_14_DESC	{一个有生命的、可生育的卵，<TRADEABLE>已经准
 根据扫描结果显示，里面的生物拥有<TECHNOLOGY>自主<>的基因潜质。}
 UI_TWIT_GUN_09_NAME	{亚乌扎的量子调谐器}
 UI_TWIT_GUN_09_NAME_L	{亚乌扎的量子调谐器}
-UI_TWIT_GUN_09_DESC	{一台专属<STELLAR>多用途工具<>。这把外星武器搭载有升级版的<TECHNOLOGY>脉冲喷射器<>，灌注有燃料的投射物能够在撞击后<STELLAR>引燃<>目标。
+UI_TWIT_GUN_09_DESC	{一台专属<STELLAR>多用途工具<>。这把外星武器搭载有升级版的<TECHNOLOGY>脉冲喷射器<>，灌注有燃料的投射物能够在击中后<STELLAR>引燃<>目标。
 
 <STELLAR>收下<>这个多用途工具，将它加入你的收藏，或与你现在的多用途工具<STELLAR>交换<>。在快捷菜单（<IMG>QUICK_MENU<>）中的工具部分切换可用的多用途工具。}
 UI_TWIT_GUN_10_NAME	{深渊低语4-F33-QP4}
@@ -1057,15 +1057,15 @@ UI_SPEC_SAILHELM_NAME	{太阳能头盔}
 UI_SPEC_SAILHELM_NAME_L	{太阳能头盔}
 SPEC_SAILHELM_DESC	{一件专属<STELLAR>套装外观<>。
 
-使用货真价实的维斯珀之帆点缀，这顶冒险者头盔会随着太阳风劈啪作响。
+使用货真价实的维斯珀之帆点缀，这顶冒险者头盔会随着太阳风噼啪作响。
 
 可以在<TECHNOLOGY>外观修改器<>使用以更改你的套装外观。}
 UI_CONFIRM_BASE_DELETE_HEADER	{确认删除基地}
 UI_CONFIRM_BASE_DELETE_BODY	{执行该操作将永久移除此基地。确定继续？}
 HAZARDBAR_DAMAGED	{受损}
-UI_TECH_BOOST_TITLE	{技术已增压！}
-UI_TECH_BOOST_BODY	{槽位中的高压纳米线缆已使该技术处于增压状态。}
-UI_ALIEN_TECH_BOOST_BODY	{槽位中的电基因肌肉系统已使该技术处于超充能状态。}
+UI_TECH_BOOST_TITLE	{增压的！}
+UI_TECH_BOOST_BODY	{此栏位增压的。}
+UI_ALIEN_TECH_BOOST_BODY	{此栏位增压的。}
 OPTION_LANGUAGE	{语言}
 UI_POPUP_LANG_CHANGED_TITLE	{NO MAN'S SKY}
 UI_POPUP_LANG_CHANGED_MSG	{需要重启以使设置生效}
@@ -1086,89 +1086,89 @@ UI_LANG_JAPANESE	{Japanese}
 UI_LANG_TRADITIONALCHINESE	{中文（繁體）}
 UI_LANG_SIMPLIFIEDCHINESE	{中文（简体）}
 UI_LANG_KOREAN	{Korean}
-UI_SUPERSLOT_TITLE	{增压槽}
+UI_SUPERSLOT_TITLE	{修改}
 UI_GRAPHICS_PAGE_COMBO_HEADER	{视频选项}
-UI_SHIP_INV_CLASS_MAX	{多用途工具等级：无可用槽位}
-UI_WEAPON_INV_CLASS_MAX	{飞船等级：无可用槽位}
-UI_PLAYER_TITLE_MS_PROC_PROD_5	{Connoisseur %NAME%}
-UI_PLAYER_TITLE_MS_PROC_PROD_7	{Treasure Hunter %NAME%}
-UI_PLAYER_TDESC_MS_PROC_PROD	{Advance your rank in the Rare Treasures milestone}
-UI_TITLE_OWNED_MS_PPROD	{Advanced ranks in the Rare Treasures milestone}
-UI_PLAYER_TITLE_MS_FIENDS_7	{Annihilator %NAME%}
-UI_PLAYER_TITLE_MS_FIENDS_9	{%NAME%, Face of Death}
-UI_PLAYER_TDESC_MS_FIENDS	{Advance your rank in the Horrors Eliminated milestone}
-UI_TITLE_OWNED_MS_FIENDS	{Advanced ranks in the Horrors Eliminated milestone}
-UI_PLAYER_TITLE_MS_FLORA_4	{Ecologist %NAME%}
-UI_PLAYER_TITLE_MS_FLORA_8	{Exobotanist %NAME%}
-UI_PLAYER_TDESC_MS_FLORA	{Advance your rank in the Plants Catalogued milestone}
-UI_TITLE_OWNED_MS_FLORA	{Advanced ranks in the Plants Catalogued milestone}
-UI_PLAYER_TITLE_MS_NANITES_6	{Impossibly Fragmented %NAME%}
-UI_PLAYER_TITLE_MS_NANITES_8	{%NAME%, Awash with Foam}
-UI_PLAYER_TDESC_MS_NANITES	{Advance your rank in the Nanite Clusters milestone}
-UI_TITLE_OWNED_MS_NANITES	{Advanced ranks in the Nanite Clusters milestone}
-UI_PLAYER_TITLE_MS_SMUGGLE_7	{Master Smuggler %NAME%}
-UI_PLAYER_TITLE_MS_SMUGGLE_8	{Uncatchable %NAME%}
-UI_PLAYER_TDESC_MS_SMUGGLE	{Advance your rank in the Goods Smuggled milestone}
-UI_TITLE_OWNED_MS_SMUGGLE	{Advanced ranks in the Goods Smuggled milestone}
-UI_PLAYER_TITLE_MS_WALKERS_4	{Vanquisher %NAME%}
-UI_PLAYER_TITLE_MS_WALKERS_5	{%NAME% the Battle Hardened}
-UI_PLAYER_TITLE_MS_WALKERS_7	{Hunter-Killer %NAME%}
-UI_PLAYER_TDESC_MS_WALKERS	{Advance your rank in the Walkers Killed milestone}
-UI_TITLE_OWNED_MS_WALKERS	{Advanced ranks in the Walkers Killed milestone}
-UI_PLAYER_TITLE_MS_DIST_WARP_1	{Trailblazer %NAME%}
-UI_PLAYER_TITLE_MS_DIST_WARP_9	{%NAME% the Discoverer}
-UI_PLAYER_TDESC_MS_DIST_WARP	{Advance your rank in the Space Exploration milestone}
-UI_TITLE_OWNED_MS_DIST_WARP	{Advanced ranks in the Space Exploration milestone}
-UI_PLAYER_TITLE_MS_WORDS_4	{Conversationalist %NAME%}
-UI_PLAYER_TITLE_MS_WORDS_8	{Linguist %NAME%}
-UI_PLAYER_TDESC_MS_WORDS	{Advance your rank in the Words Collected milestone}
-UI_TITLE_OWNED_MS_WORDS	{Advanced ranks in the Words Collected milestone}
-UI_PLAYER_TITLE_MS_MISSIONS_2	{Journeyman %NAME%}
-UI_PLAYER_TITLE_MS_MISSIONS_8	{%NAME% the Exalted}
-UI_PLAYER_TDESC_MS_MISSIONS	{Advance your rank in the Faction Missions milestones}
-UI_TITLE_OWNED_MS_MISSIONS	{Advanced ranks in the Faction Missions milestones}
-UI_PLAYER_TITLE_MS_PLANTS_1	{Farmhand %NAME%}
-UI_PLAYER_TITLE_MS_PLANTS_4	{Agriculturist %NAME%}
-UI_PLAYER_TITLE_MS_PLANTS_8	{Cropmaster %NAME%}
-UI_PLAYER_TDESC_MS_PLANTS	{Advance your rank in the Plants Farmed milestone}
-UI_TITLE_OWNED_MS_PLANTS	{Advanced ranks in the Plants Farmed milestone}
-UI_PLAYER_TITLE_MS_SCANNER_5	{Compiler %NAME%}
-UI_PLAYER_TITLE_MS_SCANNER_8	{Zoologist %NAME%}
-UI_PLAYER_TDESC_MS_SCANNER	{Advance your rank in the Rare Fauna Scanned milestone}
-UI_TITLE_OWNED_MS_SCANNER	{Advanced ranks in the Rare Fauna Scanned milestone}
-UI_PLAYER_TITLE_MS_ENEMIES_6	{%NAME% the Menace}
-UI_PLAYER_TITLE_MS_ENEMIES_10	{%NAME% the Legend}
-UI_PLAYER_TDESC_MS_ENEMIES	{Advance your rank in the Ships Destroyed milestone}
-UI_TITLE_OWNED_MS_ENEMIES	{Advanced ranks in the Ships Destroyed milestone}
-UI_PLAYER_TITLE_MS_SENTINEL_6	{%NAME% the Undying}
-UI_PLAYER_TITLE_MS_SENTINEL_8	{Crusader %NAME%}
-UI_PLAYER_TITLE_MS_SENTINEL_10	{%NAME%, Destroyer of Glass}
-UI_PLAYER_TDESC_MS_SENTINEL	{Advance your rank in the Sentinels Destroyed milestone}
-UI_TITLE_OWNED_MS_SENTINEL	{Advanced ranks in the Sentinels Destroyed milestone}
-UI_PLAYER_TITLE_MS_DIST_4	{Wayfarer %NAME%}
-UI_PLAYER_TITLE_MS_DIST_10	{Adventurer %NAME%}
-UI_PLAYER_TDESC_MS_DIST	{Advance your rank in the On-foot Exploration milestone}
-UI_TITLE_OWNED_MS_DIST	{Advanced ranks in the On-foot Exploration milestone}
-UI_PLAYER_TITLE_MS_MONEY_6	{Entrepreneur %NAME%}
-UI_PLAYER_TITLE_MS_MONEY_10	{Magnate %NAME%}
-UI_PLAYER_TDESC_MS_MONEY	{Advance your rank in the Units Accrued milestone}
-UI_TITLE_OWNED_MS_MONEY	{Advanced ranks in the Units Accrued milestone}
-UI_PLAYER_TITLE_MS_LONG_LIFE_8	{Indefatigable %NAME%}
-UI_PLAYER_TITLE_MS_LONG_LIFE_10	{Everlasting %NAME%}
-UI_PLAYER_TDESC_MS_LONG_LIFE	{Advance your rank in the Extreme Survival milestone}
-UI_TITLE_OWNED_MS_LONG_LIFE	{Advanced ranks in the Extreme Survival milestone}
-UI_PLAYER_TITLE_ABANDLORE1	{%NAME% the Corrupted}
-UI_PLAYER_TITLE_ABANDLORE2	{%NAME% the Shattered}
-UI_PLAYER_TITLE_ABANDLORE3	{%NAME% the Warned}
-UI_PLAYER_TITLE_ABANDLORE4	{%NAME% the Abandoned}
-UI_PLAYER_TDESC_ABANDLORE	{Retrieve decayed recordings from a long-dead Traveller}
-UI_TITLE_OWNED_ABANDLORE1	{Retrieved the decayed records of 'The Crimson Orb'}
-UI_TITLE_OWNED_ABANDLORE2	{Retrieved the decayed records of 'The World of Glass'}
-UI_TITLE_OWNED_ABANDLORE3	{Retrieved the decayed records of 'Odvinsko'}
-UI_TITLE_OWNED_ABANDLORE4	{Retrieved the decayed records of 'The Voice'}
-OPTIONS_EYE_TRACKING_L	{Eye Tracking}
-UI_LEFT_EYE_ONLY	{Left Eye Only}
-UI_RIGHT_EYE_ONLY	{Right Eye Only}
+UI_SHIP_INV_CLASS_MAX	{多用途工具等级：无可用栏位}
+UI_WEAPON_INV_CLASS_MAX	{飞船等级：无可用栏位}
+UI_PLAYER_TITLE_MS_PROC_PROD_5	{}
+UI_PLAYER_TITLE_MS_PROC_PROD_7	{}
+UI_PLAYER_TDESC_MS_PROC_PROD	{}
+UI_TITLE_OWNED_MS_PPROD	{}
+UI_PLAYER_TITLE_MS_FIENDS_7	{}
+UI_PLAYER_TITLE_MS_FIENDS_9	{}
+UI_PLAYER_TDESC_MS_FIENDS	{}
+UI_TITLE_OWNED_MS_FIENDS	{}
+UI_PLAYER_TITLE_MS_FLORA_4	{}
+UI_PLAYER_TITLE_MS_FLORA_8	{}
+UI_PLAYER_TDESC_MS_FLORA	{}
+UI_TITLE_OWNED_MS_FLORA	{}
+UI_PLAYER_TITLE_MS_NANITES_6	{}
+UI_PLAYER_TITLE_MS_NANITES_8	{}
+UI_PLAYER_TDESC_MS_NANITES	{}
+UI_TITLE_OWNED_MS_NANITES	{}
+UI_PLAYER_TITLE_MS_SMUGGLE_7	{}
+UI_PLAYER_TITLE_MS_SMUGGLE_8	{}
+UI_PLAYER_TDESC_MS_SMUGGLE	{}
+UI_TITLE_OWNED_MS_SMUGGLE	{}
+UI_PLAYER_TITLE_MS_WALKERS_4	{}
+UI_PLAYER_TITLE_MS_WALKERS_5	{}
+UI_PLAYER_TITLE_MS_WALKERS_7	{}
+UI_PLAYER_TDESC_MS_WALKERS	{}
+UI_TITLE_OWNED_MS_WALKERS	{}
+UI_PLAYER_TITLE_MS_DIST_WARP_1	{}
+UI_PLAYER_TITLE_MS_DIST_WARP_9	{}
+UI_PLAYER_TDESC_MS_DIST_WARP	{}
+UI_TITLE_OWNED_MS_DIST_WARP	{}
+UI_PLAYER_TITLE_MS_WORDS_4	{}
+UI_PLAYER_TITLE_MS_WORDS_8	{}
+UI_PLAYER_TDESC_MS_WORDS	{}
+UI_TITLE_OWNED_MS_WORDS	{}
+UI_PLAYER_TITLE_MS_MISSIONS_2	{}
+UI_PLAYER_TITLE_MS_MISSIONS_8	{}
+UI_PLAYER_TDESC_MS_MISSIONS	{}
+UI_TITLE_OWNED_MS_MISSIONS	{}
+UI_PLAYER_TITLE_MS_PLANTS_1	{}
+UI_PLAYER_TITLE_MS_PLANTS_4	{}
+UI_PLAYER_TITLE_MS_PLANTS_8	{}
+UI_PLAYER_TDESC_MS_PLANTS	{}
+UI_TITLE_OWNED_MS_PLANTS	{}
+UI_PLAYER_TITLE_MS_SCANNER_5	{}
+UI_PLAYER_TITLE_MS_SCANNER_8	{}
+UI_PLAYER_TDESC_MS_SCANNER	{}
+UI_TITLE_OWNED_MS_SCANNER	{}
+UI_PLAYER_TITLE_MS_ENEMIES_6	{}
+UI_PLAYER_TITLE_MS_ENEMIES_10	{}
+UI_PLAYER_TDESC_MS_ENEMIES	{}
+UI_TITLE_OWNED_MS_ENEMIES	{}
+UI_PLAYER_TITLE_MS_SENTINEL_6	{}
+UI_PLAYER_TITLE_MS_SENTINEL_8	{}
+UI_PLAYER_TITLE_MS_SENTINEL_10	{}
+UI_PLAYER_TDESC_MS_SENTINEL	{}
+UI_TITLE_OWNED_MS_SENTINEL	{}
+UI_PLAYER_TITLE_MS_DIST_4	{}
+UI_PLAYER_TITLE_MS_DIST_10	{}
+UI_PLAYER_TDESC_MS_DIST	{}
+UI_TITLE_OWNED_MS_DIST	{}
+UI_PLAYER_TITLE_MS_MONEY_6	{}
+UI_PLAYER_TITLE_MS_MONEY_10	{}
+UI_PLAYER_TDESC_MS_MONEY	{}
+UI_TITLE_OWNED_MS_MONEY	{}
+UI_PLAYER_TITLE_MS_LONG_LIFE_8	{}
+UI_PLAYER_TITLE_MS_LONG_LIFE_10	{}
+UI_PLAYER_TDESC_MS_LONG_LIFE	{}
+UI_TITLE_OWNED_MS_LONG_LIFE	{}
+UI_PLAYER_TITLE_ABANDLORE1	{}
+UI_PLAYER_TITLE_ABANDLORE2	{}
+UI_PLAYER_TITLE_ABANDLORE3	{}
+UI_PLAYER_TITLE_ABANDLORE4	{}
+UI_PLAYER_TDESC_ABANDLORE	{}
+UI_TITLE_OWNED_ABANDLORE1	{}
+UI_TITLE_OWNED_ABANDLORE2	{}
+UI_TITLE_OWNED_ABANDLORE3	{}
+UI_TITLE_OWNED_ABANDLORE4	{}
+OPTIONS_EYE_TRACKING_L	{}
+UI_LEFT_EYE_ONLY	{}
+UI_RIGHT_EYE_ONLY	{}
 UPDATE13_TITLE	{《No Man's Sky》航路点}
 UPDATE13_NOTES	{《No Man's Sky》航路点更新带来了大量的新功能。欲了解详细信息，请访问www.nomanssky.com。
 
@@ -1185,21 +1185,21 @@ Hello Games一直在努力改进和拓展《No Man's Sky》。希望您玩得尽
 非常感谢！
 Hello Games}
 UI_RECIPE_REQ_TITLE	{配方构件}
-UI_COOK_VEG	{蒸熟植物}
-UI_COOK_MEAT	{灸烤肉品}
+UI_COOK_VEG	{蒸植物类}
+UI_COOK_MEAT	{灸烤肉类}
 UI_COOK_SMOKED_MEAT	{保藏肉类}
 UI_COOK_JAM	{保藏水果}
 UI_COOK_PIE	{配置馅饼}
 UI_COOK_CAKE	{配置烘烤食品}
 UI_COOK_DRINK	{液化}
-UI_COOK_PROCESS	{提取养分}
+UI_COOK_PROCESS	{提取营养}
 UI_YEAST_PROCESS	{发酵}
-UI_EGG_PROCESS	{彩色蛋黄生成}
-UI_COOK_REFINE	{养分精炼}
-UI_COOK_DOUGNUT	{养分注入}
+UI_EGG_PROCESS	{生成彩色蛋黄}
+UI_COOK_REFINE	{精炼营养}
+UI_COOK_DOUGNUT	{注入营养}
 UI_COOK_FRY	{加速煎炸}
-UI_COOK_MIX	{构件搅拌}
-UI_COOK_EGGS	{绑定蛋白质}
+UI_COOK_MIX	{材料搅拌}
+UI_COOK_EGGS	{凝结蛋白质}
 UI_COOK_STEW	{组合与减少}
 UI_COOK_ICE	{快速冷却}
 R_NAME_FORMAT	{配方：%NAME%}
@@ -1524,10 +1524,10 @@ R_NAME_3INPUT_HYPERFUEL1_1	{反物质绕道}
 R_NAME_3INPUT_HYPERFUEL1_2	{反物质绕道}
 R_NAME_3INPUT_HYPERFUEL1_3	{反物质绕道}
 R_NAME_3INPUT_HYPERFUEL1_4	{反物质绕道}
-R_NAME_3INPUT_GRENFUEL1_1	{等离子加压}
-R_NAME_3INPUT_GRENFUEL1_2	{等离子加压}
-R_NAME_3INPUT_GRENFUEL1_3	{等离子加压}
-R_NAME_3INPUT_GRENFUEL1_4	{等离子加压}
+R_NAME_3INPUT_GRENFUEL1_1	{等离子增压}
+R_NAME_3INPUT_GRENFUEL1_2	{等离子增压}
+R_NAME_3INPUT_GRENFUEL1_3	{等离子增压}
+R_NAME_3INPUT_GRENFUEL1_4	{等离子增压}
 R_NAME_3INPUT_PRODFUEL1	{氧气捕获}
 R_NAME_3INPUT_PRODFUEL2	{高级氧气捕获}
 R_NAME_3INPUT_LAUNCHFUEL_1	{二氢捕获}
@@ -1659,7 +1659,7 @@ UI_SPRINT_OPTION_OLD	{传统}
 UI_BUILD_OPTION_LABEL	{建筑放置按钮布局}
 UI_BUILD_OPTION_PLACE	{优先建造}
 UI_BUILD_OPTION_JUMP	{优先喷气背包}
-UI_TRANSFER_SLOTS	{自由槽位：%AMOUNT%}
+UI_TRANSFER_SLOTS	{自由栏位：%AMOUNT%}
 UI_CRAFT_TREE_TITLE	{制作%ITEM%}
 UI_CRAFT_TREE_TIP	{物品组建步骤}
 UI_CRAFT_TREE_BUTTON	{查看制作步骤}
@@ -1744,7 +1744,7 @@ UI_PORTAL_CAT_WONDER_ROCK_U	{矿物记录}
 UI_PIN_SUB_WIKI	{定位物质}
 UI_PIN_SUB_WIKI_SUB	{标记任务日志中提示的位置}
 UI_DROPPOD_FIX_TITLE	{空降舱：行星%PLANET%}
-UI_DROPPOD_FIX_SUB	{修理空降舱以解锁库存槽位}
+UI_DROPPOD_FIX_SUB	{修理空降舱以解锁库存栏位}
 UI_DROPPOD_FIX_DESC	{在%SYSTEM%星系的行星%PLANET%，我发现了一台受损的空降舱。
 
 如果我设法将其修复，我就能够扩展自己的套装库存。}
@@ -2042,7 +2042,7 @@ UI_PORTAL_TRA_LIBRARY10	{档案馆选择了《盖里沃布的碎片》，第五�
 <VAL_ON>条目#16<><STORY_HIGH><IMG>SLASH<>我救了大家！水是关键。有一个湖......唱歌......震动不止。<>
 <VAL_ON>条目#23<><STORY_HIGH><IMG>SLASH<>我现在是一名监督者了。我们将把这个声音出口到其他世界！甚至有人说了晋级的事！<>}
 UI_PORTAL_EXP_LIBRARY_TITLE1	{科尔瓦克斯起源论}
-UI_PORTAL_EXP_LIBRARY_TITLE2	{远古实体片段}
+UI_PORTAL_EXP_LIBRARY_TITLE2	{古代实体片段}
 UI_PORTAL_EXP_LIBRARY_TITLE3	{一次实验}
 UI_PORTAL_EXP_LIBRARY_TITLE4	{纪念物}
 UI_PORTAL_EXP_LIBRARY_TITLE5	{赞美之诗}
@@ -2122,9 +2122,9 @@ UI_PORTAL_EXP_LIBRARY5	{古老的科尔瓦克斯祈祷，来源于对早已消�
 
 那时候的科尔瓦克斯似乎在膜拜护卫，它们背诵着简短的赞美诗以及对自己眼中的沉默神灵们的虔敬。
 
-<STORY_HIGH>穿越众星的航行<IMG>SLASH<>在完好的时间中滑行<IMG>SLASH<>等待交流
+<STORY_HIGH>穿越众星的航行<IMG>SLASH<>艾伦在完好的时间中滑行<IMG>SLASH<>等待交流
 
-步行机妥协<IMG>SLASH<>沉睡在绿色的田野里<IMG>SLASH<>沉思之日
+步行机妥协<IMG>SLASH<>艾伦沉睡在绿色的田野里<IMG>SLASH<>沉思之日
 
 飞船记录倒下的辛劳<IMG>SLASH<>海盗，石碑之贼<IMG>SLASH<>科尔瓦克斯会照看流<>}
 UI_PORTAL_EXP_LIBRARY6	{档案已被变更，偏离其和平场所的最初用途。这里的条目充斥着遥远的腐败。
@@ -2254,7 +2254,7 @@ UI_PORTAL_WAR_LIBRARY7	{这个档案存有数千行诗，纪念一个名为阿�
 <STORY_HIGH>歌唱，阿斯忒里亚，英雄旅行者，赫客之刃大师，
 歌唱无尽的战斗，歌唱陨落阿特兰蒂的背上，歌唱
 怜悯与等待的代价。那些实现预言之人，
-阿特拉斯制造和派来的人骚扰着，释放着恐怖，
+阿特拉斯制造和派来的人骚扰着艾伦，释放着恐怖，
 在世界的尽头发现了那黑暗，加入了维吉恩的一方，
 海盗旅行者，初代的朋友，天堂的盟友！<>}
 UI_PORTAL_WAR_LIBRARY8	{这个档案已被破坏：遭到骇入以传播被禁的、遭到删改的遥远宗教的信息。
@@ -2810,7 +2810,7 @@ UI_PORTAL_BIOSHIP_2	{在音调的调整下，音乐变成了可读的导航数�
 它似乎包含重现一个遗忘已久的实验的途径。}
 UI_PORTAL_BIOSHIP_3	{那部“机器”接受了我为它组装的生物源机器。
 
-它输出......生出......许多细胞、原始组织。这些远古科尔瓦克斯人究竟有什么目的？}
+它输出......生出......许多细胞、原始组织。这些古代科尔瓦克斯人究竟有什么目的？}
 UI_PORTAL_BIOSHIP_4	{外星飞船的轻快音乐再次飘荡在我的驾驶舱中，<SPECIAL>虚空蛋<>随之震颤，似乎完成了某种识别......
 
 <STORY_HIGH>{{金属之主不再约束我们。我们获得了自由。我们可以游泳、飞翔、生存......死亡......}}<>}
@@ -3198,7 +3198,7 @@ UI_PORTAL_PIRATES_7_HIDE	{回到受管制的宇宙空间的一个空间站核心
 <STORY_HIGH>注册文件......<><STELLAR>呲呲<>......已接受。<NEWLINE>流量模式：<TRADEABLE>正常<>。}
 UI_PORTAL_PIRATES_7_BETRAY	{回到受管制的宇宙空间的一个空间站核心后，我告发了所谓的“自由之音”。
 
-<STORY_HIGH>阿特拉斯/监视装置上传：<><SPECIAL>已接受认罪<><STORY_HIGH>。已记录合作行为。
+<STORY_HIGH>阿特拉斯/艾伦监视装置上传：<><SPECIAL>已接受认罪<><STORY_HIGH>。已记录合作行为。
 已在异端者基地记录。已警告本地护卫部队......<>}
 UI_PORTAL_PIRATES_8	{然而，我的行动似乎并没能瞒过所有人。}
 UI_PORTAL_PIRATES_8_HIDE	{海盗们的藏身之所被保留了下来，我可以随意进出那座亡命基地。
@@ -3214,7 +3214,7 @@ UI_PORTAL_PIRATES_8_BETRAY	{护卫大概已经解决了亡命基地的问题。
 
 <STORY_HIGH>新面孔！你已经尝过了自由的滋味，而你现在竟然要爬回绯红之光的怀抱？罪恶！可怜！软弱！
 
-自由之音不接受弱者的跟随。这就是你的结局！<>}
+自由之音不接受弱者的跟随。这就是你的结局！}}<>}
 UI_PORTAL_OVERSEER_HEAD	{监督者}
 UI_PORTAL_OVERSEER_1	{我在野外建立了宜居基地的核心。这颗星球看起来似乎是一个合适的定居点，至少当时来说确实如此。我需要扩建基地并雇用人手，才能把新家园建设得像模像样。}
 UI_PORTAL_OVERSEER_2	{我遇到了一个陌生的吉克，不知为何，它似乎已经预料到了我的到来。
@@ -3274,7 +3274,7 @@ UI_PORTAL_OVERSEER_9	{在我靠近监督者时，我几乎可以确定听到它�
 
 <STORY_HIGH>{{我相信我们的科学家能够满足你的需求，是不是？他们拥有我们需要的电路吗？}}<>
 
-监督者很奇怪，不过也没比我遇到过的其他物种差到哪去。实际上，它们比多数物种都有帮助。我把电路交给它们并得到了我的奖励。
+监督者很奇怪，不过也没比我遇到过的其他物种差到哪去。实际上，它们比多数物种都对我有帮助。我把电路交给它们并得到了我的奖励。
 
 <STORY_HIGH>{{啊，朋友，你一定会对监督者表示满意的！我已经起草了飞船技术的制作图。不过我的设计还无法与你的飞船同步。我需要引力微子球来完善我的设备。}}<>
 
@@ -3287,7 +3287,7 @@ UI_PORTAL_OVERSEER_10_A	{<STORY_HIGH>{{你的冒险怎么样，朋友？就是�
 
 <STORY_HIGH>{{我依旧非常感激你的帮助。朋友。}}<>
 
-自从监督者到来后，我就一直做同样的梦，感觉像是一段记忆一样的噩梦。血肉与金属相融合，一个满是闪烁玻璃的世界。
+自从监督者到来后，我就一直在做同样一个梦，感觉像是一段记忆一样的噩梦。血肉与金属相融合，一个满是闪烁玻璃的世界。
 
 一个拥有绿色蓝天和黑曜石月亮的星球，梦中我看到了自己的坟墓......在我回归现实后，在摆脱幻镜前有一个瞬间，世界的创伤从我眼前缓缓消散。
 
@@ -3424,7 +3424,7 @@ UI_PORTAL_SCIENTIST_9_A	{<STORY_HIGH>{{......////......////......////......}}<>
 
 不过无法与集会连接，我担心它会永远重复这种循环，从它在空间站见到我的那一刻直到陷入无尽的孤独。
 
-或许如果我能为它找到<SPECIAL>集会方型箱<>，它就能与其他科尔瓦克斯相结合，摆脱现在的困境。它应该获得这次重新连接的机会。它给予过我很大的帮助，而且它把信标照顾得很好。}
+或许如果我能找到<SPECIAL>集会方型箱<>，它就能与其他科尔瓦克斯相结合，摆脱现在的困境。它应该获得这次重新连接的机会。它给予过我很大的帮助，而且它把信标照顾得很好。}
 UI_PORTAL_SCIENTIST_9_B	{<STORY_HIGH>{{陌生人，我担心有些不一般的事情正在发生。这个设施是以某种方式被保护着，所以信号才无法脱离吗？}}<>
 
 科学家又一次意识到它们的隔离状态。
@@ -3483,7 +3483,7 @@ UI_PORTAL_WEAPGUY_5	{我准备审问的海盗声称自己只是被海盗虏来�
 
 <STORY_HIGH>{{朋友！我们在如此美好的时刻相遇！要知道，海盗们活捉了我，而我却对他们的违法行为束手无策，告诉吉克贸易联盟我是无辜的，好吗？}}<>
 
-说实话有对此有所怀疑。它们给我提供了<TECHNOLOGY>高级生存设计图<>-似乎是想要让我保持安静。
+说实话我对此有所怀疑。它们给我提供了<TECHNOLOGY>高级生存设计图<>-似乎是想要让我保持安静。
 
 <STORY_HIGH>{{拿着这个代表着我善良的货币，朋友！别多嘴！}}<>
 
@@ -3509,11 +3509,11 @@ UI_PORTAL_WEAPGUY_7_A	{<STORY_HIGH>{{匕首......我已经闻到屋内战斗酶�
 
 维吉恩拿到匕首并将它插入自己的手臂中。它们立刻恢复了精神。
 
-<STORY_HIGH>{{现在我们已经准备好了，闯入者！护卫来了，你应该冲出去会会它们！这将会是光辉的一天，旅行者，它曾经是，并将再次成为荣耀。}}<>
+<STORY_HIGH>{{现在我们已经准备好了，闯入者！护卫来了，你应该冲出去会会它们！这会是光辉的一天，旅行者，它曾经是，并将再次成为荣耀。}}<>
 
 维吉恩骄傲地看着我。它似乎因为我又找到了新的使命。当然，这一点我很高兴。
 
-但是，将我的世界置于危险之中，让我召集如此多护卫进行毫无意义的战斗......等我回来后，我得和军械士谈谈我们的未来。}
+但是，将我的世界置于危险之中，还让我召集如此多护卫进行毫无意义的战斗......等我回来后，我得和军械士谈谈我们的未来。}
 UI_PORTAL_WEAPGUY_7_B	{<STORY_HIGH>{{赫客倒下之时就是你存活之时，旅行者。原谅我，我错了！我的整个生命，都错了！值得我们服务的并不是死亡，而是生存。是你，旅行者。是你，只是你！}}<>
 
 维吉恩保证不会给基地引来任何麻烦，诚恳地道歉，告诉我生存比死亡更值得服务，而我尤其值得它们帮助。
@@ -3550,7 +3550,7 @@ UI_PORTAL_FARMER_4	{<STORY_HIGH>{{你没有被它闪烁的方式所迷惑吗，�
 它的根能够扩张到惊人的长度，甚至被认为是无边无际的。不过不必担心，朋友！这里，有了我们的设施，它的生长能够变得更易控制。}}<>}
 UI_PORTAL_FARMER_5	{<STORY_HIGH>{{你成功种植了<TRADEABLE>日光藤<>，对不对？我能从这里感受到它的热量，它炙热的光彩。享受这一刻吧，朋友，因为我将引领你进入一个更加危险的植物研究领域......
 
-真菌团在毒性环境中种植，但是你已经证明自己能够掌握更多了，对吧？
+真菌团要在毒性环境中种植，但是你已经证明自己能够掌握更多了，对吧？
 
 在你工作时请小心，朋友！如果操作不当，真菌团会引起疾病和幻觉。长期暴露可不明智！}}<>}
 UI_PORTAL_FARMER_6	{<STORY_HIGH>{{你学得很快，旅行者。既然你已经掌控了一些更危险的植物群，那我们就继续吧。
@@ -3566,7 +3566,7 @@ UI_PORTAL_FARMER_7	{<STORY_HIGH>{{啊......我会用这棵植物做顿精美菜�
 
 我们应该种植一种名为引力微子宿体的作物。我很乐意告诉你关于这个植物群系的历史，如果你希望了解的话。
 
-我的故事和理论对其他吉克人而言似乎很无趣，朋友。我猜我的学习意愿更接近科尔瓦克斯人，尽管如此，那些机器缺乏惊奇感，以及一切求知的热情。
+我的故事和理论对其他吉克人似乎很无趣，朋友。我猜我的学习意愿更接近科尔瓦克斯人，尽管如此，那些机器缺乏惊奇感，以及一切求知的热情。
 
 我必须承认，我经常感到孤独......}}<>}
 UI_PORTAL_FARMER_8	{<STORY_HIGH>{{那个声音无论我在哪都认得出来......你身上带着引力微子球，对吧？啊，能够与老友重逢真是太好了。
@@ -3578,7 +3578,7 @@ UI_PORTAL_FARMER_9	{<STORY_HIGH>{{我只剩下两种可以给你看的植物了�
 
 我希望和你分享些东西，一些无与伦比、无可比拟的东西......
 
-稀有的星辰灌木中可以生产星辰朵，这种植物生长在远离战争和死亡的繁茂的世界。这也是我想要成为一个农民的原因，可以更靠近这样的崇高......
+稀有的星辰灌木中可以长出星辰朵，这种植物生长在远离战争和死亡的繁茂的世界。这也是我想要成为一个农民的原因，可以更靠近这样的崇高......
 
 我必须去跟监督者谈谈。显然它对我的表现并不满意。或许这个作物能够使它改变心意！}}<>}
 UI_PORTAL_FARMER_10_A	{<STORY_HIGH>{{星辰灌木已经盛开了，对吗？那么只剩下一项任务了。
@@ -3594,7 +3594,7 @@ UI_PORTAL_FARMER_10_B	{吉克人似乎为了完成工作而精疲力尽。然而
 
 农民没有其他任务可给我了。它告诉我它的合约已到期，它将返回吉克的领域。
 
-在它探讨离开计划时，它小心地盯着天花板。不知道在看什么。突然，它抓紧我，告诉我不要相信监督者，它的这位吉克同伴甚至已经不再是吉克人了。它似乎暗示它在食物中下了毒......
+在它探讨离开计划时，它小心地盯着天花板。不知道在看什么。突然，它抓紧我，告诉我不要相信监督者，它的这位吉克同伴甚至已经不再是吉克人了。它似乎在暗示食物中下了毒......
 
 但这不可能。我与监督者共同进食，而我毫发无伤。它永远不会伤害我们的。监督者只希望得到最好的东西。
 
@@ -3622,7 +3622,7 @@ UI_PORTAL_EXOTUT_3	{<STORY_HIGH>{{闯入者！等你造好了告诉我，我们�
 
 这是强化艇雷达的设计图。这个增强设备能够使你发现远处的建筑和信号。可是，闯入者，你要知道，你实在让我头疼，你的知识太过匮乏。}}<>
 
-我不清楚我对这名战士有什么样的感受。我不知道是否犯了错误。不过已经没什么需要做的了。既然维吉恩人履行了自己的承诺，我也绝不能食言。}
+我不清楚我对这名战士有什么样的感受。我不知道是否犯了错误。不过已经没什么要做的了。既然维吉恩人履行了自己的承诺，我也绝不能食言。}
 UI_PORTAL_EXOTUT_4	{<STORY_HIGH>{{一旦我们拥有强化艇雷达，我们就能绘制这个星球了。你准备好迎接接下来的事情了吗？
 
 你不在的时候，我有一个重大的发现。我检测到了这个世界的护卫仓库！格拉！
@@ -3643,7 +3643,7 @@ UI_PORTAL_EXOTUT_5_B	{<STORY_HIGH>{{传输加载中......破译子空间频率..
 
 天下没有我们找不到你的地方，没有任何系统能使你毫发无损地逃避。在这个星系中深深隐藏吧。因为我们有耐心。
 
-请记得，我们在消灭你的后代时，它们就像喵喵叫的吉克。我们还在你的配偶逃离时消灭了它，让剩下的人忍受痛苦。在你知道这些后，你还能找到平静之地吗？}}<>
+对了，我们在消灭你的后代时，它们就像喵喵叫的吉克。我们还在你的配偶逃离时消灭了它，让剩下的人忍受痛苦。在你知道这些后，你还能找到平静之地吗？}}<>
 
 这并不是我想要的讯息。技师要我取回一份来自它们家人的讯息，但这......我必须返回并决定接下来要怎么做。}
 UI_PORTAL_EXOTUT_5_C	{<STORY_HIGH>{{我的一切准备已经基本完成了。很快我将把自己曾经的生活、曾经的眷恋都清除，完全致力于我必须成为的人......
@@ -3677,7 +3677,7 @@ UI_PORTAL_EXOTUT_8	{我把技师需要的磁化铁氧体交给了它。在它研
 
 <STORY_HIGH>{{拿着这个信号增强器。将它升级。当它建好后，我还有些别的要给你......对于你工作的补偿。
 
-我一直在分析你的强化艇遥测技术。似乎我的前身甚至没能向你提供强化艇武器升级中的最基础设施。
+我一直在分析你的强化艇遥测技术。似乎我的上一任甚至没能向你提供强化艇武器升级中的最基础设施。
 
 格拉！请原谅曾经的那个维吉恩，随行者！保留火力可不礼貌。}}<>}
 UI_PORTAL_EXOTUT_9	{技师把武器升级设计图交给我。但是当它们给我时，它们的终端响起了警报声。
@@ -3695,7 +3695,7 @@ UI_PORTAL_EXOTUT_10_A	{技师接过纳米星团。当它们拿着纳米星团时
 
 <STORY_HIGH>{{旅行者，我的工作完成了。我已经复写了地脉，填充了它们的神圣数据。它们向我揭示了一块石碑，为终极预言而建的坟墓！
 
-如果你在地脉开闭前到达哪里，你将能揭露我们种族背后所掩盖的真相......纳尔死亡的秘密！}}<>
+如果你在地脉开闭前到达那里，你将能揭露我们种族所掩盖的真相......纳尔死亡的秘密！}}<>
 
 技师一直致力于神圣的目标，每时每刻追寻着，这驱使它们消除了自己的人格。我并不知道它们的牺牲是否会付之东流。}
 UI_PORTAL_EXOTUT_10_B	{我靠近了石碑。我被其中可怕的事实所吞噬。我看到了上面用千种语言写下的讯息，记载着无数星辰的瞬息。
@@ -3716,7 +3716,7 @@ UI_PORTAL_EXOTUT_10_B	{我靠近了石碑。我被其中可怕的事实所吞噬
 
 看到了一些还未来临的事情......
 
-<STORY_HIGH>{{或者说直到旅行者到来前都不会，或是直到现实毁灭。这个，纳尔的终极遗嘱......}}<>
+<STORY_HIGH>{{直到旅行者到来，亦或是直到现实毁灭。这个，纳尔的终极遗嘱......}}<>
 
 我看到了时间的尽头，一切事物的尽头。在红光中，还有一个人影，它的手伸向永恒......
 
@@ -3833,9 +3833,9 @@ UI_PORTAL_TRA_MONO_2	{一个小型有翼生物落在了石碑顶上。突然它�
 
 可怜的有翼生物倒地而亡，幻象消失了。}
 UI_PORTAL_TRA_MONO_TITLE_14	{怪物}
-UI_PORTAL_TRA_MONO_14	{远古建筑开启并呈现出一具冰封的实体。它由不同身体部位缝合而成。它粗糙的喙似乎是用动物的内脏缝合上的。
+UI_PORTAL_TRA_MONO_14	{古代建筑开启并呈现出一具冰封的实体。它由不同身体部位缝合而成。它粗糙的喙似乎是用动物的内脏缝合上的。
 
-尸体的头上有用远古商人语言手写的印记。使用某种燃料，十有八九就能把冰融化......
+尸体的头上有用古代商人语言手写的印记。使用某种燃料，十有八九就能把冰融化......
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
@@ -3847,7 +3847,7 @@ UI_PORTAL_TRA_MONO_1	{我看到一只粗糙的爪子抓住了我。尽管它的�
 
 我摆脱了金属爪的控制。幻象消失了。}
 UI_PORTAL_TRA_MONO_TITLE_12	{喙}
-UI_PORTAL_TRA_MONO_12	{远古石块中出现一张喙。它在喊叫，但我听不见喊声。上方的石头上，有人用潦草的字迹在许久之前写下了建议，以为后来之人提供指示。
+UI_PORTAL_TRA_MONO_12	{古代石块中出现一张喙。它在喊叫，但我听不见喊声。上方的石头上，有人用潦草的字迹在许久之前写下了建议，以为后来之人提供指示。
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
@@ -3855,7 +3855,7 @@ UI_PORTAL_TRA_MONO_12	{远古石块中出现一张喙。它在喊叫，但我听
 
 我给喙投了食，它说出了那些曾在此地朝拜的人所诵读的话。}
 UI_PORTAL_TRA_MONO_TITLE_18	{圣地}
-UI_PORTAL_TRA_MONO_18	{随着我一步步靠近石碑，我听到了低沉的隆隆声，然后它逐渐变成了远古的尖叫声。我从没听过这种杂音。
+UI_PORTAL_TRA_MONO_18	{随着我一步步靠近石碑，我听到了低沉的隆隆声，然后它逐渐变成了古代的尖叫声。我从没听过这种杂音。
 
 这片外星土地上的静默无声已经变成了充满痛苦和死亡意味的刺耳杂音，带给人以无限噩梦。我试着集中注意力，仔细聆听着尖叫声中的话语。
 
@@ -3877,7 +3877,7 @@ UI_PORTAL_TRA_MONO_16	{我站在漆黑天空下的洼地中，里头流淌着在
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
-我拿走了一部分蛋。住在此地的远古吉克灵魂下达了判决。}
+我拿走了一部分蛋。住在此地的古代吉克灵魂下达了判决。}
 UI_PORTAL_TRA_MONO_TITLE_4	{电力}
 UI_PORTAL_TRA_MONO_4	{石碑上的符文呈微弱的淡黄色，随后闪烁消失。它的能量已耗尽：为这些石头充能的神秘力量非常微弱。我听到风中有一连串微弱的低语声。
 
@@ -3895,9 +3895,9 @@ UI_PORTAL_TRA_MONO_5	{石碑有一股金属烧灼和重工业的味道。奇异�
 
 两个生命体都盯着我。我选择了其中一个后，那里的灵魂们用一股神奇的力量改变了我的装备。}
 UI_PORTAL_TRA_MONO_TITLE_6	{施或受}
-UI_PORTAL_TRA_MONO_6	{石碑前面的地面因成千上万名远古朝圣者的跪拜而变得坑坑洼洼。
+UI_PORTAL_TRA_MONO_6	{石碑前面的地面因成千上万名古代朝圣者的跪拜而变得坑坑洼洼。
 
-我面前的一个石块缓缓缩回，出现了一个入口。我惊讶地发现里面摆放着一罐罐的奢侈产品，它们均是在远古所生产的。这时，我听到了一声低语......
+我面前的一个石块缓缓缩回，出现了一个入口。我惊讶地发现里面摆放着一罐罐的奢侈产品，它们均是在古代所生产的。这时，我听到了一声低语......
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
@@ -3913,7 +3913,7 @@ UI_PORTAL_TRA_MONO_7	{
 
 这些生物消失在苍穹之中。在此地久久不散的灵魂注视着这一切。}
 UI_PORTAL_TRA_MONO_TITLE_8	{干渴}
-UI_PORTAL_TRA_MONO_8	{我感到一阵难忍的干渴，而我的水化系统偏偏在这时出故障了。我嗓子眼冒烟，觉得头晕目眩。这时，出现了两个远古石杯。
+UI_PORTAL_TRA_MONO_8	{我感到一阵难忍的干渴，而我的水化系统偏偏在这时出故障了。我嗓子眼冒烟，觉得头晕目眩。这时，出现了两个古代石杯。
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
@@ -3921,7 +3921,7 @@ UI_PORTAL_TRA_MONO_8	{我感到一阵难忍的干渴，而我的水化系统偏�
 
 如果我再不喝水，我的小命就要不保了。我不知该喝哪一杯为好。
 
-那液体让人觉得很不舒服，我感到一阵恶心。远古吉克似乎很高兴，奖励了我纳米星团。}
+那液体让人觉得很不舒服，我感到一阵恶心。古代吉克似乎很高兴，奖励了我纳米星团。}
 UI_PORTAL_TRA_MONO_TITLE_9	{处决}
 UI_PORTAL_TRA_MONO_9	{一个穿着与外貌都和我一模一样的分身悄悄来到石碑边缘。它用古语高叫着逼我跪下。
 
@@ -3931,15 +3931,15 @@ UI_PORTAL_TRA_MONO_9	{一个穿着与外貌都和我一模一样的分身悄悄�
 
 我做出了自己的选择，那分身展现了自己的力量，随后消失了。}
 UI_PORTAL_TRA_MONO_TITLE_10	{贡品}
-UI_PORTAL_TRA_MONO_10	{远古巨大石碑的中央有一道隐约可见的裂痕，里面有尘埃喷出。石碑震动，两扇巨大的门打开了。远古建筑的内部空空如也，一直以来被用作墓室。
+UI_PORTAL_TRA_MONO_10	{古代巨大石碑的中央有一道隐约可见的裂痕，里面有尘埃喷出。石碑震动，两扇巨大的门打开了。古代建筑的内部空空如也，一直以来被用作墓室。
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
-一只眼睛鼓起的远古有喙生命体躺在未点燃的火葬柴堆上，身体已经脱水。它脚边放着以前留下的远古财宝和技术，供它来世使用......至于来世是什么时候，谁也不知道。
+一只眼睛鼓起的古代有喙生命体躺在未点燃的火葬柴堆上，身体已经脱水。它脚边放着以前留下的古代财宝和技术，供它来世使用......至于来世是什么时候，谁也不知道。
 
 在幻象消失前，尸体醒了过来，见证了我的行动。}
 UI_PORTAL_TRA_MONO_TITLE_11	{安静}
-UI_PORTAL_TRA_MONO_11	{石碑孤单地伫立着，似乎早已被遗忘。如果我仔细看，可以发现地上有远古部族留下的模糊痕迹，表明他们以前常来这里朝拜并与石碑沟通。一阵怪异之风袭来，伴随着细微的低语声，我竖起耳朵费劲地聆听。
+UI_PORTAL_TRA_MONO_11	{石碑孤单地伫立着，似乎早已被遗忘。如果我仔细看，可以发现地上有古代部族留下的模糊痕迹，表明他们以前常来这里朝拜并与石碑沟通。一阵怪异之风袭来，伴随着细微的低语声，我竖起耳朵费劲地聆听。
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
@@ -3947,7 +3947,7 @@ UI_PORTAL_TRA_MONO_11	{石碑孤单地伫立着，似乎早已被遗忘。如果
 UI_PORTAL_TRA_MONO_TITLE_15	{引爆}
 UI_PORTAL_TRA_MONO_15	{我是一名观察者。我目睹穿着现代套装的有喙商人把一样物件放在了石碑的基座上。那个物件是线缆和罐子组成的小型网套。它用一种奇异的金属为其充能，然后快速离开。
 
-这一切仿佛是场梦一般，我挪动脚步，靠近了这块远古石碑。突然梦境仿佛变成了现实，我鲜活地出现在了这未逝去太久的过往时刻中。
+这一切仿佛是场梦一般，我挪动脚步，靠近了这块古代石碑。突然梦境仿佛变成了现实，我鲜活地出现在了这未逝去太久的过往时刻中。
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
@@ -3965,7 +3965,7 @@ UI_PORTAL_TRA_MONO_17	{我正在被监视。我抬头看到石碑上方悬浮着
 UI_PORTAL_TRA_MONO_TITLE_20	{收藏家}
 UI_PORTAL_TRA_MONO_20	{绿色的小手从石碑里伸出，它的指甲又黄又脏。手掌摊开，里面什么也没有，等待着我的回应。
 
-这似乎是某种远古传统。它没有恶意，只是冷冷地期待着我的回应。
+这似乎是某种古代传统。它没有恶意，只是冷冷地期待着我的回应。
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
@@ -3985,7 +3985,7 @@ UI_PORTAL_TRA_MONO_13	{时间飞速倒转。我坐在俯瞰行刑现场的平台
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
-两名商人求我手下留情。我耳边传来远古部族那熟悉、干涩而阴郁的话音。
+两名商人求我手下留情。我耳边传来古代部族那熟悉、干涩而阴郁的话音。
 
 我做出了选择。石碑的灵魂注视着我的这场审判。}
 UI_PORTAL_EXP_MONO_TITLE_1	{蜘蛛}
@@ -3995,7 +3995,7 @@ UI_PORTAL_EXP_MONO_1	{我感觉头晕目眩，仿佛我的大脑被入侵。我�
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
-远古科尔瓦克斯的意识观察着我的回应，仿佛这段遭遇是它们正在做的实验。幻象逐渐消失了。}
+古代科尔瓦克斯的意识观察着我的回应，仿佛这段遭遇是它们正在做的实验。幻象逐渐消失了。}
 UI_PORTAL_EXP_MONO_TITLE_2	{四面体}
 UI_PORTAL_EXP_MONO_2	{飘浮的四面体从星球表面显现并围绕在我周围。我试图用多用途工具将它们赶走，但是每次这样做，它们却离多用途工具更近，就好像它们都对我的多用途工具很感兴趣一般。
 
@@ -4025,9 +4025,9 @@ UI_PORTAL_EXP_MONO_3	{我开始感觉晕眩。一种奇怪的嗜睡感向我袭�
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
-我知道，如果真想要抑制住睡觉的冲动，我是可以的，但是沐浴在远古符文的光亮下，我感到温暖而舒适。我必须选择是否相信石碑，还是放弃控制。
+我知道，如果真想要抑制住睡觉的冲动，我是可以的，但是沐浴在古代符文的光亮下，我感到温暖而舒适。我必须选择是否相信石碑，还是放弃控制。
 
-远古科尔瓦克斯关注到了我的选择。}
+古代科尔瓦克斯关注到了我的选择。}
 UI_PORTAL_EXP_MONO_TITLE_4	{二重身}
 UI_PORTAL_EXP_MONO_4	{传送门里出现了我自己的闪烁映像。它模仿着我每一个动作。我挥手，它也挥手。当我举起多用途工具，它也立刻效仿。分身做出了一个想要什么东西的动作，当我下意识地做出了与它相似的动作时，我俩都被吓得后退了几步。
 
@@ -4039,7 +4039,7 @@ UI_PORTAL_EXP_MONO_4	{传送门里出现了我自己的闪烁映像。它模仿�
 UI_PORTAL_EXP_MONO_TITLE_12	{不当语言}
 UI_PORTAL_EXP_MONO_12	{一个液态金属套索出现并套住了我的头盔，它凝结在原处，之后拽着我的头贴在发光的石碑上。
 
-远古石碑温热，我还能听到它深处神秘技术能量涌动的嗡鸣声，仿佛它要将自己从中释放。我再次抬头看符文，设法猜测为何会发生这种事。它用外星语言对我说话。
+古代石碑温热，我还能听到它深处神秘技术能量涌动的嗡鸣声，仿佛它要将自己从中释放。我再次抬头看符文，设法猜测为何会发生这种事。它用外星语言对我说话。
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
@@ -4053,7 +4053,7 @@ UI_PORTAL_EXP_MONO_16	{我的运动看似正常，但其他一切事物的速度
 
 我行动了起来，时间线似乎恢复了正常。}
 UI_PORTAL_EXP_MONO_TITLE_5	{硬币}
-UI_PORTAL_EXP_MONO_5	{多年来，朝圣者在石碑上发光的字符间雕刻数字。当我低下头，我注意到一枚远古钱币。我用靴子刮了刮地面，又发现一些。
+UI_PORTAL_EXP_MONO_5	{多年来，朝圣者在石碑上发光的字符间雕刻数字。当我低下头，我注意到一枚古代钱币。我用靴子刮了刮地面，又发现一些。
 
 这个地方格外安静。可能这里永远也得不到回答，也可能是它在等待着什么。
 
@@ -4061,7 +4061,7 @@ UI_PORTAL_EXP_MONO_5	{多年来，朝圣者在石碑上发光的字符间雕刻�
 
 萦绕在这里的回响苏醒过来，注视着我的一举一动。}
 UI_PORTAL_EXP_MONO_TITLE_6	{蓝色能量}
-UI_PORTAL_EXP_MONO_6	{当我研究远古符文时，它们开始发出一种飘渺的光。我看到一缕缕怪异的蓝色能量从石碑中飞散而出，围绕着我的多用途工具打转。
+UI_PORTAL_EXP_MONO_6	{当我研究古代符文时，它们开始发出一种飘渺的光。我看到一缕缕怪异的蓝色能量从石碑中飞散而出，围绕着我的多用途工具打转。
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
@@ -4113,7 +4113,7 @@ UI_PORTAL_EXP_MONO_14	{石碑中出现了一具电子生命体的空壳。它看
 
 它手中握着生锈的罐子，我的扫描仪检测到里面曾经盛放过精炼金属。扫描还显示这个已停止运作的实体躯壳内还深藏着某种未知物质。
 
-在躯壳被吸收回石碑之前，远古科尔瓦克斯评判了我的行动。}
+在躯壳被吸收回石碑之前，古代科尔瓦克斯评判了我的行动。}
 UI_PORTAL_EXP_MONO_TITLE_15	{腐蚀}
 UI_PORTAL_EXP_MONO_15	{这个星球是中空的，我就站在巨大半球的底部。我身边是从外星土壤里冒出的树根。
 
@@ -4131,7 +4131,7 @@ UI_PORTAL_EXP_MONO_18	{群星在石碑上方排列。天空中可以清楚地看
 
 我选择了其中一条，科尔瓦克斯灵魂回响注意到了我的选择。}
 UI_PORTAL_EXP_MONO_TITLE_19	{毒素}
-UI_PORTAL_EXP_MONO_19	{我感到头晕，甚至浑身不适。我看看周围，这个远古建筑物四周丛生的植被看起来枯萎而病态。而这颗星球上的动物似乎都远远地躲着这里。
+UI_PORTAL_EXP_MONO_19	{我感到头晕，甚至浑身不适。我看看周围，这个古代建筑物四周丛生的植被看起来枯萎而病态。而这颗星球上的动物似乎都远远地躲着这里。
 
 我定睛凝神细看，这时石头上出现了一行蚀刻而成的警告，用的似乎是一种古老语言......
 
@@ -4141,13 +4141,13 @@ UI_PORTAL_EXP_MONO_19	{我感到头晕，甚至浑身不适。我看看周围，
 UI_PORTAL_WAR_MONO_TITLE_11	{熔岩}
 UI_PORTAL_WAR_MONO_11	{我把手掌放在石碑上。作为回应，石碑开始熔化，我后退几步。熔岩从石头上滴下，暴露出空荡的内部。
 
-我看到里面放着远古技术和货物，这些难以置信的财宝能让我的旅途事半功倍。突然远古部族的话音响起，我脚下的地面都随之震颤......
+我看到里面放着古代技术和货物，这些难以置信的财宝能让我的旅途事半功倍。突然古代部族的话音响起，我脚下的地面都随之震颤......
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
 熔岩仍在滴落，石碑似乎很不稳定，但可派上用场的装备就近在咫尺。
 
-曾来这里供奉的远古战士对我的行为作出了评判。}
+曾来这里供奉的古代战士对我的行为作出了评判。}
 UI_PORTAL_WAR_MONO_TITLE_1	{冰晶}
 UI_PORTAL_WAR_MONO_1	{我感受到一股奇怪的寒意。突然一阵寒气将石碑笼罩并凝结成冰，冷到我都能在头盔中看到自己呼出的气。
 
@@ -4157,7 +4157,7 @@ UI_PORTAL_WAR_MONO_1	{我感受到一股奇怪的寒意。突然一阵寒气将�
 
 我选了一个元素塞了进去，并获得了相应的奖励。}
 UI_PORTAL_WAR_MONO_TITLE_12	{古文}
-UI_PORTAL_WAR_MONO_12	{远古建筑上有三大列用不同语言写成的文字。
+UI_PORTAL_WAR_MONO_12	{古代建筑上有三大列用不同语言写成的文字。
 
 第一列文字看起来像是写在沙地上的蛮族符文。第二列由一连串有规律的小点构成。最后一列的字母很宽，看起来让人觉得很惬意，似乎是谁用坚硬的石块刻上去的。
 
@@ -4165,7 +4165,7 @@ UI_PORTAL_WAR_MONO_12	{远古建筑上有三大列用不同语言写成的文字
 
 每一列上都覆盖着古老手印的污垢和血迹。
 
-我把我的手按在文字上，住在此地的远古灵魂给我输入了他们后代的语言。}
+我把我的手按在文字上，住在此地的古代灵魂给我输入了他们后代的语言。}
 UI_PORTAL_WAR_MONO_TITLE_2	{壮烈结局}
 UI_PORTAL_WAR_MONO_2	{一名战士的身躯从石碑中显现，腹部锯齿状的撕裂伤口表明，它最后的战斗颇为惨烈。它手中仍握着多用途工具。
 
@@ -4183,7 +4183,7 @@ UI_PORTAL_WAR_MONO_3	{一个受惊的小生物从石碑中出现，在我双腿�
 
 幻觉消退了，维吉恩先人对我的勇气作出了评判。}
 UI_PORTAL_WAR_MONO_TITLE_13	{干枯残骸}
-UI_PORTAL_WAR_MONO_13	{我成为了陌生新现实的一部分。古老的岩石敞开了。一颗远古战士的干枯心脏悬挂在里面的木柱之间，缓慢地跳动着。
+UI_PORTAL_WAR_MONO_13	{我成为了陌生新现实的一部分。古老的岩石敞开了。一颗古代战士的干枯心脏悬挂在里面的木柱之间，缓慢地跳动着。
 
 它下方布满灰尘的地板上是一副皱巴巴的肺，似乎永远都无法摆脱在污浊空气中喘息的厄运。一个脱水的眼球直直地盯着我，一眨不眨。
 
@@ -4207,17 +4207,17 @@ UI_PORTAL_WAR_MONO_20	{我突然出现在水中，就快要溺亡了。水堵塞
 
 我回到了现实。也许这就是我真正大限将至时的感觉。}
 UI_PORTAL_WAR_MONO_TITLE_5	{红与黄}
-UI_PORTAL_WAR_MONO_5	{两只远古石制杯子在石碑前面显现。其中一杯装着暗红色的粘稠液体，另一杯装着亮黄色的粘稠液体，闻起来非常苦。
+UI_PORTAL_WAR_MONO_5	{两只古代石制杯子在石碑前面显现。其中一杯装着暗红色的粘稠液体，另一杯装着亮黄色的粘稠液体，闻起来非常苦。
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
-杯子后面的石板上刻画着远古符文，它开始旋转，然后化为了一幅图像。一个威武强壮的战士被红色光圈环绕着，它在与穿着亮黄色铠甲的对手进行决斗。
+杯子后面的石板上刻画着古代符文，它开始旋转，然后化为了一幅图像。一个威武强壮的战士被红色光圈环绕着，它在与穿着亮黄色铠甲的对手进行决斗。
 
 我选择了一种液体喝了下去。那液体味道很臭，从我嘴里淌了出来，几乎让我窒息。
 
 幻象消退，液体结晶成了纳米星团。}
 UI_PORTAL_WAR_MONO_TITLE_6	{网}
-UI_PORTAL_WAR_MONO_6	{石碑像纸张一样裂开，出现了一扇通往异世界的窗户，上面缠绕着一张巨大的蜘蛛网。只见一名远古战士被缠在茧内，离我只有一臂之遥。
+UI_PORTAL_WAR_MONO_6	{石碑像纸张一样裂开，出现了一扇通往异世界的窗户，上面缠绕着一张巨大的蜘蛛网。只见一名古代战士被缠在茧内，离我只有一臂之遥。
 
 它已经在那里好几百年了。它无神空洞的双眼凝望着我身后的景观。突然，我听到了一声叫喊。
 
@@ -4245,7 +4245,7 @@ UI_PORTAL_WAR_MONO_15	{我感觉到岩石内滚烫的热度。突然，液态金
 
 我迅速做出了行动，幻象随即消失。}
 UI_PORTAL_WAR_MONO_TITLE_7	{绯红之眼}
-UI_PORTAL_WAR_MONO_7	{石碑上开启一道传送门，巨大的有翼动物的尸体倒在我的脚下。它似乎是某种仪式的祭品，喉咙被割开，翅膀上还纹着远古战士部落的脸。但它的眼睛特别奇怪......
+UI_PORTAL_WAR_MONO_7	{石碑上开启一道传送门，巨大的有翼动物的尸体倒在我的脚下。它似乎是某种仪式的祭品，喉咙被割开，翅膀上还纹着古代战士部落的脸。但它的眼睛特别奇怪......
 
 它原本的眼睛已被挖去，现在眼眶里的是闪亮的红色球体。我盯着看越久，红色球体的光就越强。其中显然藏有对我旅途有帮助的先进技术。我下得了手亵渎这个祭品吗？
 
@@ -4253,7 +4253,7 @@ UI_PORTAL_WAR_MONO_7	{石碑上开启一道传送门，巨大的有翼动物的�
 
 我谨慎地做出了决定，居住在这里的古人注意到了我的选择。我沐浴在深红色的光芒中，喷涌而出的纳米星团落到了我的手里。}
 UI_PORTAL_WAR_MONO_TITLE_8	{猎犬的供品}
-UI_PORTAL_WAR_MONO_8	{石碑中突然出现了远古猎犬的血盆大口。它张开大嘴，恶臭的唾沫溅到了我的面甲上。但我看到了它巨大舌头上放着的宝贵货物，恶心感稍稍舒缓。
+UI_PORTAL_WAR_MONO_8	{石碑中突然出现了古代猎犬的血盆大口。它张开大嘴，恶臭的唾沫溅到了我的面甲上。但我看到了它巨大舌头上放着的宝贵货物，恶心感稍稍舒缓。
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
@@ -4261,13 +4261,13 @@ UI_PORTAL_WAR_MONO_8	{石碑中突然出现了远古猎犬的血盆大口。它�
 
 我权衡了一下自己的选择，幻象消退了。}
 UI_PORTAL_WAR_MONO_TITLE_9	{刀片}
-UI_PORTAL_WAR_MONO_9	{石碑底部慢慢出现了一名远古战士的腿和脚，接着它的躯干也被不体面地推上了裸岩。它已身首异处。
+UI_PORTAL_WAR_MONO_9	{石碑底部慢慢出现了一名古代战士的腿和脚，接着它的躯干也被不体面地推上了裸岩。它已身首异处。
 
 血液在我脚下滴落。我头顶上有一颗被斩下的头颅盯着我惊愕的表情哈哈大笑。它向我喊出刺耳的催促命令。
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
-我听到身后有远古利刃出鞘的声音，有人正向我冲过来......
+我听到身后有古代利刃出鞘的声音，有人正向我冲过来......
 
 那只是一场测试。刀刃化作虚无，幻象也消失了。}
 UI_PORTAL_WAR_MONO_TITLE_10	{渺小}
@@ -4281,9 +4281,9 @@ UI_PORTAL_WAR_MONO_10	{石碑在我面前粉碎。它一次又一次地自我坍
 
 石碑慢慢一点一点重建。它怜悯我的渺小。}
 UI_PORTAL_WAR_MONO_TITLE_16	{小生物}
-UI_PORTAL_WAR_MONO_16	{岩石表面出现了一只有鳃小生物的尸体。它是远古的祭品，圆睁的眼睛被金属矛刺穿。
+UI_PORTAL_WAR_MONO_16	{岩石表面出现了一只有鳃小生物的尸体。它是古代的祭品，圆睁的眼睛被金属矛刺穿。
 
-液体从尸体上滴落到远古人在石碑上凿出的渠中。渠连通着两幅雕刻图案：太阳和月亮。液体可以导向到其中一幅。
+液体从尸体上滴落到古代人在石碑上凿出的渠中。渠连通着两幅雕刻图案：太阳和月亮。液体可以导向到其中一幅。
 
 <STORY_HIGH>“%ALIEN_TEXT%”<>
 
@@ -4297,7 +4297,7 @@ UI_PORTAL_WAR_MONO_17	{我感到浑身无力。我多用途工具和套装上的
 
 那块生命即将耗尽的石碑沉默不语，一动不动地耸立着。我做出了自认为明智的选择，最终在这次遭遇中幸存了下来。}
 UI_PORTAL_WAR_MONO_TITLE_18	{纳尔的宝藏}
-UI_PORTAL_WAR_MONO_18	{天上射下一束光，透过远古符文，将其聚焦在了雕刻着远古图案的石头表面。
+UI_PORTAL_WAR_MONO_18	{天上射下一束光，透过古代符文，将其聚焦在了雕刻着古代图案的石头表面。
 
 光束慢慢的沿着石头上雕刻的图案移动。图案上刻的是战士间的争斗、外星人的城市还有看似是被盗的财宝。朝圣者的手印覆盖了各个图案......
 
@@ -4351,7 +4351,7 @@ UI_WIKI_SHORT_TRADE_2	{<TRADEABLE>务农<>非常赚钱。建造一个<TECHNOLOGY
 UI_WIKI_SHORT_TRADE_6	{制作<VAL_ON>高级产品<>是一个挣钱的好方法。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_TRADE_3	{在<VAL_ON>不同的恒星系<>里，资源会以<VAL_ON>不同的价格<>出售。规划贸易航线以实现利润最大化。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_TRADE_4	{货船拥有<VAL_ON>大容量库存<>和先进的<TECHNOLOGY>曲速飞行能力<>。要购买货船，登船后与<VAL_ON>船长<>交谈。<VAL_ON>了解更多......<>}
-UI_WIKI_SHORT_FLEETS	{命令一艘大型<COMMODITY>主力舰<>提供一些福利。其中最重要的是指挥<SPECIAL>护卫舰<>舰队的能力。<VAL_ON>了解更多......<>}
+UI_WIKI_SHORT_FLEETS	{命令一艘大型<COMMODITY>主力飞船<>提供一些福利。其中最重要的是指挥<SPECIAL>护卫舰<>舰队的能力。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_FLEETSA	{<SPECIAL>护卫舰<>远征需要一间<TECHNOLOGY>舰队指挥室<>。<TECHNOLOGY>领航员<>可为你的舰队计划远征。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_TRADE_7	{<SPECIAL>声望<>是你在外星种族与派系中的<VAL_ON>名声<>。更高的声望能允许你参与更多的<STELLAR>任务<>、接触更多的<TECHNOLOGY>技术<>以及<COMMODITY>贸易<>选项。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_TRADE_5	{每座<COMMODITY>空间站<>都有<VAL_ON>任务板<>。工作可提供货币、纳米星团、技术或更多其他报酬。<VAL_ON>了解更多......<>}
@@ -4359,7 +4359,7 @@ UI_WIKI_SHORT_WORDS	{你在<VAL_ON>行星<>和<VAL_ON>空间站<>遇见的生命
 UI_WIKI_SHORT_GUILDS	{星系是三大<STELLAR>公会<>的家园：<VAL_ON>商人公会<>、<VAL_ON>探险家公会<>与<VAL_ON>雇佣兵公会<>。接下空间站任务板上的任务来提高你在公会中的声望。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_SETTLEMENTS	{作为<STELLAR>定居点<>的监督者，你需要做出关键的决定，指导<TRADEABLE>建筑建造<>并解决居民之间的<SPECIAL>争端<>。运营良好的定居点能生产大量材料。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_COMBAT_1	{护卫是守护大多数行星的机器人实体。在护卫的视野中<VAL_ON>收获资源<>会导致它们<RED>攻击你<>。<VAL_ON>了解更多......<>}
-UI_WIKI_SHORT_AMMO	{大多数多用途工具<FUEL>武器<>，例如<TECHNOLOGY>离子闪电发射器<>都需要<VAL_ON>弹药<>。在你的库存的空置槽位中制作弹药。<VAL_ON>了解更多......<>}
+UI_WIKI_SHORT_AMMO	{大多数多用途工具<FUEL>武器<>，例如<TECHNOLOGY>离子闪电发射器<>都需要<VAL_ON>弹药<>。在你的库存的空置栏位中制作弹药。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_COMBAT_2	{默认情况下，多用途工具仅配备<TECHNOLOGY>开采光束<>。安装新<TECHNOLOGY>武器类型<>即可增强战斗力。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_COMBAT_3	{步行时受到的伤害会首先消耗你的<COMMODITY>护盾<>。护盾失效时所受到的伤害会降低你的<FUEL>生命值<>。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_COMBAT_4	{使用<IMG>ATTACK<>来用<TECHNOLOGY>多用途工具<>开火，并用<IMG>CYCLEWEAPON<>在<VAL_ON>武器模式<>间切换。弹药或能量耗尽时，使用<IMG>MELEE<>发动<VAL_ON>近战攻击<>。<VAL_ON>了解更多......<>}
@@ -4632,11 +4632,11 @@ UI_BASEFLAG_INIT_LANG	{已恢复的档案<AUDIO>UI_GameMode_Erase_Error<>[<FUEL>
 UI_BASEFLAG_INIT_RES	{档案<AUDIO>UI_Destination_Reached<><TRADEABLE>已解锁<>！}
 UI_SAYWORD_OPT_NONE	{......未知词汇......}
 UI_INVENTORY_TUT_OBJ1	{激活套装升级图纸}
-UI_INVENTORY_TUT_OBJ1_TIP	{在<TECHNOLOGY>空降舱<>升级套装以添加库存槽位。空降舱提供<STELLAR>免费<>升级
+UI_INVENTORY_TUT_OBJ1_TIP	{在<TECHNOLOGY>空降舱<>升级套装以添加库存栏位。空降舱提供<STELLAR>免费<>升级
 
 使用你的<STELLAR>套装升级图纸<>定位一处空降舱。你可以向<COMMODITY>空间站制图师<>购买额外的升级图纸。}
-UI_INVENTORY_TUT_OBJ2	{修复空降舱以获取一个新的库存槽位}
-UI_INVENTORY_TUT_OBJ2_TIP	{在<TECHNOLOGY>空降舱<>升级套装以添加库存槽位。空降舱提供<STELLAR>免费<>升级
+UI_INVENTORY_TUT_OBJ2	{修复空降舱以获取一个新的库存栏位}
+UI_INVENTORY_TUT_OBJ2_TIP	{在<TECHNOLOGY>空降舱<>升级套装以添加库存栏位。空降舱提供<STELLAR>免费<>升级
 
 你可以向<COMMODITY>空间站制图师<>购买额外的升级图纸。}
 UI_INVENTORY_TUT_MSG1	{使用<STELLAR>套装升级图纸<>定位一处空降舱
@@ -4651,20 +4651,20 @@ UI_INVENTORY_TUT_MSG3	{在你的日志（<IMG>OPTIONS<>）中选择<STELLAR>空�
 UI_INVENTORY_TUT_MSG4	{使用<TECHNOLOGY>空降舱<>升级你的库存
 从空间站<STELLAR>制图师<>那里获取额外的<STELLAR>升级图纸<>}
 UI_TUT5_MONOPRODS_NAME	{石碑的赐福}
-UI_INVENTORY_HINT_SUIT_MSG1	{套装库存空余槽位：<FUEL>%CURRENT%/%AMOUNT%<>
+UI_INVENTORY_HINT_SUIT_MSG1	{套装库存空余栏位：<FUEL>%CURRENT%/%AMOUNT%<>
 用<IMG>DISCARD<>丢弃不需要的物品
 用<IMG>TRANSFER<>将物品转移至其他库存}
-UI_INVENTORY_HINT_SUIT_MSG2A	{套装库存空余槽位：<FUEL>%CURRENT%/%AMOUNT%<>
+UI_INVENTORY_HINT_SUIT_MSG2A	{套装库存空余栏位：<FUEL>%CURRENT%/%AMOUNT%<>
 用<IMG>DISCARD<>丢弃不需要的物品}
-UI_INVENTORY_HINT_SUIT_MSG2B	{套装库存空余槽位：<FUEL>%CURRENT%/%AMOUNT%<>
-在<COMMODITY>空间站<>购买额外槽位
+UI_INVENTORY_HINT_SUIT_MSG2B	{套装库存空余栏位：<FUEL>%CURRENT%/%AMOUNT%<>
+在<COMMODITY>空间站<>购买额外栏位
 <TECHNOLOGY>空降舱<>会免费升级你的库存
 使用从空间站<STELLAR>制图师<>那里获取的图纸定位空降舱}
-UI_INVENTORY_HINT_SHIP_MSG	{飞船库存空余槽位：<FUEL>%CURRENT%/%AMOUNT%<>
-在<COMMODITY>空间站<>购买额外槽位
+UI_INVENTORY_HINT_SHIP_MSG	{飞船库存空余栏位：<FUEL>%CURRENT%/%AMOUNT%<>
+在<COMMODITY>空间站<>购买额外栏位
 用<IMG>DISCARD<>丢弃不需要的物品
 用<IMG>TRANSFER<>将物品转移至其他库存}
-UI_INVENTORY_HINT_CAR_MSG	{强化艇库存空余槽位：<FUEL>%CURRENT%/%AMOUNT%<>
+UI_INVENTORY_HINT_CAR_MSG	{强化艇库存空余栏位：<FUEL>%CURRENT%/%AMOUNT%<>
 用<IMG>DISCARD<>丢弃不需要的物品
 用<IMG>TRANSFER<>将物品转移至其他库存}
 UI_SUIT_STATION_LABEL	{套装库存升级终端}
@@ -4917,12 +4917,12 @@ UI_WIKI_TSEEN_SYS_MSG	{拜访吉克星系里程碑到达<STELLAR>“%MILESTONE%�
 选择一个星系然后使用<IMG>GALAXYWARP<>启动超光速推进器
 已拜访星系：%CURRENT%/%AMOUNT%}
 UI_WIKI_SMUGGLE_VAL_NAME	{里程碑：走私货物}
-UI_WIKI_SMUGGLE_VAL_OBJ	{出售违禁品：%CURRENT%/%AMOUNT%}
+UI_WIKI_SMUGGLE_VAL_OBJ	{出售违禁品：%CURRENT%/%AMOUNT}
 UI_WIKI_SMUGGLE_VAL_DESC	{在<FUEL>亡命之徒恒星系<>购买违禁品然后在守法星系中出售，推进你在<STELLAR>走私货物<>里程碑的级别。}
 UI_WIKI_SMUGGLE_VAL_MSG	{走私货物里程碑到达<STELLAR>“%MILESTONE%”<>
 你可以向<FUEL>亡命基地<>的<STELLAR>违禁品代理人<>购买非法货物
 在守法星系中出售违禁品即可赚取差额利润
-出售违禁品：%CURRENT%/%AMOUNT%}
+出售违禁品：%CURRENT%/%AMOUNT}
 UI_WIKI_JOURNEY_NAME	{里程碑：整体旅程}
 UI_WIKI_JOURNEY_OBJ	{完成旅行里程碑：%CURRENT%/%AMOUNT%}
 UI_WIKI_JOURNEY_DESC	{完成目录和指南中罗列的里程碑，推进你在整体<STELLAR>旅行里程碑<>的级别。}
@@ -5051,7 +5051,7 @@ UI_WIKI_PLANTS_MSG	{植物种植里程碑到达<STELLAR>“%MILESTONE%”<>
 已种植植物：%CURRENT%/%AMOUNT%}
 UI_WIKI_PROC_PRODS_NAME	{里程碑：稀有珍宝}
 UI_WIKI_PROC_PRODS_OBJ	{收集贵重宝藏：%CURRENT%/%AMOUNT%}
-UI_WIKI_PROC_PRODS_DESC	{挖掘<SPECIAL>远古废墟<>中被掩埋的遗物，推进你在<STELLAR>稀有珍宝<>里程碑的级别。}
+UI_WIKI_PROC_PRODS_DESC	{挖掘<SPECIAL>古代废墟<>中被掩埋的遗物，推进你在<STELLAR>稀有珍宝<>里程碑的级别。}
 UI_WIKI_PROC_PRODS_MSG	{稀有珍宝里程碑到达<STELLAR>“%MILESTONE%”<>
 使用<TECHNOLOGY>分析面甲<>（<IMG>AIM<>）定位挖掘点
 使用<TECHNOLOGY>地形操纵器<>挖掘废墟
@@ -5197,7 +5197,7 @@ UI_FIRST_BIOFRIG_DREAM_3_OPT_A	{耐心等待，补充燃料}
 UI_FIRST_BIOFRIG_DREAM_3_OPT_B	{收集风暴水晶}
 UI_FIRST_BIOFRIG_DREAM_3_OPT_C	{离开这个凶险的行星}
 UI_FIRST_BIOFRIG_DREAM_4	{生物对我的选择做出了回应，调整了它的歌声。虽然幻象由我塑造，但我感知到这是%NAME%在我们的伙伴关系中寻找自己位置的一种方式。
-画面变换了。我身处主力舰的舰桥上，功率水平临界，所有系统都在失效。工程人员需要时间进行维修，但擅于浑水摸鱼海盗可能随时会袭击这艘脆弱的货船......}
+画面变换了。我身处主力飞船的舰桥上，功率水平临界，所有系统都在失效。工程人员需要时间进行维修，但擅于浑水摸鱼海盗可能随时会袭击这艘脆弱的货船......}
 UI_FIRST_BIOFRIG_DREAM_4_OPT_A	{保存能量}
 UI_FIRST_BIOFRIG_DREAM_4_OPT_B	{将能量转移到超光速推进器}
 UI_FIRST_BIOFRIG_DREAM_4_OPT_C	{向当局寻求帮助}
@@ -5341,7 +5341,7 @@ UI_DEEP_SPACE_TRAIT_COMBAT_9	{迷惘的哀号}
 UI_DEEP_SPACE_TRAIT_COMBAT_10	{盲目的瘴气}
 UI_DEEP_SPACE_TRAIT_EXPLORE_1	{回声定位}
 UI_DEEP_SPACE_TRAIT_EXPLORE_2	{跨现实的回忆}
-UI_DEEP_SPACE_TRAIT_EXPLORE_3	{远古知识}
+UI_DEEP_SPACE_TRAIT_EXPLORE_3	{古代知识}
 UI_DEEP_SPACE_TRAIT_EXPLORE_4	{重新认识}
 UI_DEEP_SPACE_TRAIT_EXPLORE_5	{动物群系同理心}
 UI_DEEP_SPACE_TRAIT_EXPLORE_6	{银河智慧}
@@ -5498,7 +5498,7 @@ BLD_FRE_ROOM_VEHICLE_DESC	{先进的集成货船设备。建造召唤站后，�
 BLD_FRE_ROOM_VEHICLE_SUB	{快速部署货船模块}
 BLD_FRE_ROOM_FLEET_NAME	{舰队指挥室}
 BLD_FRE_ROOM_FLEET_NAME_L	{舰队指挥室}
-BLD_FRE_ROOM_FLEET_DESC	{核心<TECHNOLOGY>舰队管理站<>。这一先进的全息通讯站对于主力舰从舒适角度管理舰队探险是至关重要的。该模块作为一个<STELLAR>完整的房间<>设置，并预装了其功能单元。
+BLD_FRE_ROOM_FLEET_DESC	{核心<TECHNOLOGY>舰队管理站<>。这一先进的全息通讯站对于主力飞船从舒适角度管理舰队探险是至关重要的。该模块作为一个<STELLAR>完整的房间<>设置，并预装了其功能单元。
 
 建议使用者需要<STELLAR>多座站点<>同时管理多个远征。}
 BLD_FRE_ROOM_FLEET_SUB	{远征管理终端}
@@ -5903,29 +5903,29 @@ FLEET_EXPLORE_WHALE_EMPTY_3	{%SYSTEM%分区的记录在数据库中被破坏....
 FLEET_EXPLORE_WHALE_EMPTY_4	{<SPECIAL>实体<>引导远征至%SYSTEM%星系，以记录以记录%PLANET%星球上高智能群居生物的行为。发现该物种早已灭绝。实体已经变得沉默和退缩。迅速转移到下一个星系。}
 BLD_GRASS_1_NAME	{高大的穗草}
 BLD_GRASS_1_NAME_L	{高大的穗草}
-BLD_GRASS_1_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下茁壮成长。该品种的特点是长而薄的叶片，上面覆盖着细毛。}
+BLD_GRASS_1_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下生长。该品种的特点是长而薄的叶片，上面覆盖着细毛。}
 BLD_GRASS_2_NAME	{低矮的穗草}
 BLD_GRASS_2_NAME_L	{低矮的穗草}
-BLD_GRASS_2_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下茁壮成长。这个品种和它高大的亲戚一样，以长硬毛的叶片为特征，但它的叶片略微厚实、生长得也更加密集。}
+BLD_GRASS_2_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下生长。这个品种和它高大的亲戚一样，以长硬毛的叶片为特征，但它的叶片略微厚实、生长得也更加密集。}
 BLD_GRASS_3_NAME	{平刃草}
 BLD_GRASS_3_NAME_L	{平刃草}
-BLD_GRASS_3_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下茁壮成长。宽而平的叶片分泌出一种芳香而令人厌恶的汁液，以阻止捕食者靠近。}
+BLD_GRASS_3_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下生长。宽而平的叶片分泌出一种芳香而令人厌恶的汁液，以阻止捕食者靠近。}
 BLD_GRASS_4_NAME	{环形草}
 BLD_GRASS_4_NAME_L	{环形草}
-BLD_GRASS_4_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下茁壮成长。这个品种的特点是形态优美的卷曲叶片，它能够卷曲和展开，使植物保持恒定的内部温度。}
+BLD_GRASS_4_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下生长。这个品种的特点是形态优美的卷曲叶片，它能够卷曲和展开，使植物保持恒定的内部温度。}
 BLD_GRASS_5_NAME	{缎带草}
 BLD_GRASS_5_NAME_L	{缎带草}
-BLD_GRASS_5_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下茁壮成长。这种草与某些品种的海藻是近亲，可以通过长长的波纹状叶片和精细的六边形表面纹理来识别。}
+BLD_GRASS_5_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下生长。这种草与某些品种的海藻是近亲，可以通过长长的波纹状叶片和精细的六边形表面纹理来识别。}
 BLD_GRASS_6_NAME	{裂爪草}
 BLD_GRASS_6_NAME_L	{裂爪草}
-BLD_GRASS_6_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下茁壮成长。裂爪草在植株结构上更类似于灌木，而不是真正的草。它具有大而带有光泽的叶子，可以快速进行光合作用。}
+BLD_GRASS_6_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下生长。裂爪草在植株结构上更类似于灌木，而不是真正的草。它具有大而带有光泽的叶子，可以快速进行光合作用。}
 BLD_GRASS_7_NAME	{触角草}
 BLD_GRASS_7_NAME_L	{触角草}
-BLD_GRASS_7_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下茁壮成长。这个品种的叶片更像是近乎木质的、树枝状的铠甲，将用于储存水分和树脂的厚脉与外界隔绝开来。}
+BLD_GRASS_7_DESC	{一种坚韧的观赏草，适合在所有生物群落、土壤类型和天气条件下生长。这个品种的叶片更像是近乎木质的、树枝状的铠甲，将用于储存水分和树脂的厚脉与外界隔绝开来。}
 BLD_S_POSTER23_NAME	{出航海报}
 BLD_S_POSTER23_NAME_L	{出航海报}
 BLD_S_POSTER23_DESCRIPTION	{一幅自附着且无褶皱的专属墙壁艺术。
-这幅大型绘画描绘的是一艘主力舰消失在无尽夜空中的场景。}
+这幅大型绘画描绘的是一艘主力飞船消失在无尽夜空中的场景。}
 BLD_S_POSTER24_NAME	{外交海报}
 BLD_S_POSTER24_NAME_L	{外交海报}
 BLD_S_POSTER24_DESCRIPTION	{一件专属自附着的无褶皱墙壁艺术。
@@ -6076,7 +6076,7 @@ UI_EXPD_EGG_08_DESC	{一个有生命的、可生育的卵，<TRADEABLE>已可孵
 根据扫描结果显示，里面的生物拥有<SPECIAL>凝胶状<>以及<TECHNOLOGY>发光<>的基因潜质。}
 UI_EXPD_TITLE_08_NAME	{头衔：探寻者}
 UI_EXPD_TITLE_08_NAME_L	{头衔：探寻者}
-UI_EXPD_TITLE_08_DESC	{专属<STELLAR>探险家头衔<>，纪念你完成了<STELLAR>极星<>远征，并完成了主力舰上的漫长航行。
+UI_EXPD_TITLE_08_DESC	{专属<STELLAR>探险家头衔<>，纪念你完成了<STELLAR>极星<>远征，并完成了主力飞船上的漫长航行。
 
 请使用<TECHNOLOGY>外观修改器<>在你的旗帜上应用此头衔。}
 UI_PLAYER_TITLE_EXPD8	{%NAME%，探寻者}
@@ -6084,10 +6084,10 @@ BLD_DECAL_EXPD_08_NAME	{极星远征贴花}
 BLD_DECAL_EXPD_08_NAME_L	{极星远征贴花}
 BLD_DECAL_EXPD_08_DESCRIPTION	{专属的可放置贴花，为你的基地增添风格和美观。
 
-此贴花为完成了<STELLAR>极星<>远征并完成了主力舰上的漫长航行的纪念品。}
+此贴花为完成了<STELLAR>极星<>远征并完成了主力飞船上的漫长航行的纪念品。}
 UI_BANNER_EXPD_08_NAME	{极星远征旗帜}
 UI_BANNER_EXPD_08_NAME_L	{极星远征旗帜}
-UI_BANNER_EXPD_08_DESC	{装备上这枚专属的<STELLAR>个人旗帜<>，纪念你完成‘极星’<STELLAR>远征<>并完成了主力舰上的漫长航行。
+UI_BANNER_EXPD_08_DESC	{装备上这枚专属的<STELLAR>个人旗帜<>，纪念你完成‘极星’<STELLAR>远征<>并完成了主力飞船上的漫长航行。
 
 在外观修改器<TECHNOLOGY>中将这面旗帜应用至你的个人档案<>。}
 UI_TIP_BANNER_EXPD_08	{极星远征旗帜}
@@ -6118,16 +6118,16 @@ UI_FREI_LIFESUPP_SUB	{货船维生系统模块}
 UI_SEASON_8_NAME	{极星}
 UI_SEASON_8_NAME_U	{极星}
 UI_SEASON_8_MAIN_TITLE	{远征八：极星}
-UI_SEASON_8_MAIN_MSG	{<FUEL>警告<>：主力舰已严重损坏
+UI_SEASON_8_MAIN_MSG	{<FUEL>警告<>：主力飞船已严重损坏
 选择<EXPED>日志1：紧急情况<>以查看具体情况在
 <STELLAR>远征<>页面（<>OPTIONS<IMG>）中可找到新的里程碑}
 UI_EXPED8_DETAIL_DESC	{ <TECHNOLOGY>%FREIGHTER_NAME%的航行<>已经开始！<STELLAR>远征<>页面将显示你的旅程进度。
 
 完成<TECHNOLOGY>里程碑<>即可获得奖励。完成一个<COMMODITY>阶段<>的所有里程碑，可获得特别专属物品。}
-UI_EXPED8_MAIN_DESC	{驾驶你的主力舰在星系中航行，抵达各个会面点以赢取丰厚奖励。}
+UI_EXPED8_MAIN_DESC	{驾驶你的主力飞船在星系中航行，抵达各个会面点以赢取丰厚奖励。}
 UI_EXPED8_DETAIL_LINE1	{在飞船受到严格管制的情况下，你的<TECHNOLOGY>货船<>将会是主要的交通工具。 }
 UI_EXPED8_DETAIL_LINE2	{完成<TECHNOLOGY>里程碑<>，获取<STELLAR>专属奖励<>。按<TRADEABLE>任意顺序<>完成里程碑。}
-UI_EXPED8_DETAIL_LINE3	{驾驶你的主力舰在星系中航行，抵达各个<SPECIAL>会面点<>以赢取丰厚奖励。}
+UI_EXPED8_DETAIL_LINE3	{驾驶你的主力飞船在星系中航行，抵达各个<SPECIAL>会面点<>以赢取丰厚奖励。}
 UI_EXPED8_DETAIL_LINE4	{<STELLAR>任意存档<>都可访问专属奖励。}
 UI_BUILD_FRE_1_NAME	{平滑运转的机械}
 UI_BUILD_FRE_1_NAME_U	{平滑运转的机械}
@@ -6194,7 +6194,7 @@ UI_FIX_FREIGHTER_MSG	{<FUEL>警告<>：维生系统已受损
 修复关键货船子系统
 %REPAIR%
 系统通过<COMMODITY>标记<>（<IMG>PIN<>）部件来获得指引}
-UI_FIX_FREIGHTER_MSG2	{<FUEL>警告<>：曲速引擎严重受损
+UI_FIX_FREIGHTER_MSG2	{<FUEL>警告<>：曲速引擎已严重受损
 修复关键货船子系统
 %REPAIR%
 系统通过<COMMODITY>标记<>（<IMG>PIN<>）部件来获得指引}
@@ -6212,18 +6212,18 @@ UI_EXPED_VISIT_PLANET_MSG3	{登陆了一颗行星
 使用<IMG>SCAN<>以寻找合适的登陆点}
 UI_WARP_FREIGHTER_NAME	{启动引擎}
 UI_WARP_FREIGHTER_NAME_U	{启动引擎}
-UI_WARP_FREIGHTER_DESC	{在你的主力舰中进行曲速飞行}
+UI_WARP_FREIGHTER_DESC	{在你的主力飞船中进行曲速飞行}
 UI_WARP_FREIGHTER_DESC_D	{与你的货船一起跨星际航行}
 UI_EXPED_INSTALL_TECH_NAME	{银河目录}
 UI_EXPED_INSTALL_TECH_NAME_U	{银河目录}
 UI_EXPED_INSTALL_TECH_DESC	{安装一个%ITEM%}
 UI_EXPED_INSTALL_TECH_DESC_D	{已安装%ITEM%}
 UI_EXPED_INSTALL_TECH_OBJ	{安装%ITEM%}
-UI_EXPED_INSTALL_TECH_OBJ_TIP	{打开库存（<IMG>INVENTORY<>）并在空置槽位按下<IMG>TECHMENU<>以安装新技术。使用<TECHNOLOGY>技术库存<>来节省存储空间。
+UI_EXPED_INSTALL_TECH_OBJ_TIP	{打开库存（<IMG>INVENTORY<>）并在空置栏位按下<IMG>TECHMENU<>以安装新技术。使用<TECHNOLOGY>技术库存<>来节省存储空间。
 
 在舰桥上的<TECHNOLOGY>升级组件控制终端<>学习新的货船技术。在<STELLAR>货船坠毁地点<>或<STELLAR>护卫舰远征<>中获得<TECHNOLOGY>回收护卫舰模块<>。
 
-使用<IMG>TECHMENU<>选择空置槽位并开始安装。使用<IMG>PIN<>固定所需构件。}
+使用<IMG>TECHMENU<>选择空置栏位并开始安装。使用<IMG>PIN<>固定所需构件。}
 UI_EXPED_INSTALL_TECH_MSG1_A	{习得<TECHNOLOGY>%ITEM%<>技术设计图
 需要<STELLAR>回收护卫舰模块<>：%CURRENT%/%AMOUNT%
 在货船的<TECHNOLOGY>升级控制终端<>购买升级组件。}
@@ -6234,7 +6234,7 @@ UI_EXPED_INSTALL_TECH_MSG1_ALT	{习得<TECHNOLOGY>%ITEM%<>技术
 该设计图为<EXPED>%MILESTONE%<>里程碑奖励}
 UI_EXPED_INSTALL_TECH_MSG2	{安装<TECHNOLOGY>%ITEM%<>
 按<IMG>INVENTORY<>
-开启库存选择一个空槽位并按<IMG>TECHMENU<>开始安装}
+开启库存选择一个空栏位并按<IMG>TECHMENU<>开始安装}
 UI_EXPED_INSTALL_TECH_MSG3	{完成<TECHNOLOGY>%ITEM%<>安装
 使用<IMG>TECHMENU<>检查部分安装的技术
 插入收集的部件来完成安装}
@@ -6344,23 +6344,23 @@ UI_BLACKHOLE_DRIVE_NAME_U	{超光速}
 UI_BLACKHOLE_DRIVE_DESC	{进行重力弹射}
 UI_BLACKHOLE_DRIVE_DESC_D	{使用黑洞旅行}
 UI_BLACKHOLE_DRIVE_OBJ1	{安装奇点引擎}
-UI_BLACKHOLE_DRIVE_OBJ1_TIP	{想要安装新技术时，请打开库存（<IMG>INVENTORY<>）并在空槽位按下<IMG>TECHMENU<>。在<TECHNOLOGY>技术库存<>中安装新技术以节省主存储空间。
+UI_BLACKHOLE_DRIVE_OBJ1_TIP	{想要安装新技术时，请打开库存（<IMG>INVENTORY<>）并在空栏位按下<IMG>TECHMENU<>。在<TECHNOLOGY>技术库存<>中安装新技术以节省主存储空间。
 
-选择空<STELLAR>库存<>或者<TECHNOLOGY>技术<>槽位并使用<IMG>TECHMENU<>开始安装。使用<IMG>PIN<>标记需要的构件。}
+选择空<STELLAR>库存<>或者<TECHNOLOGY>技术<>栏位并使用<IMG>TECHMENU<>开始安装。使用<IMG>PIN<>标记需要的构件。}
 UI_BLACKHOLE_DRIVE_OBJ2	{激活奇点引擎}
 UI_BLACKHOLE_DRIVE_OBJ2_TIP	{这艘货船的<SPECIAL>奇点引擎<>必须在舰桥上启动。与货船的指挥官交谈，以激活驱动装置并进行<TECHNOLOGY>虫洞操作<>。}
 UI_BLACKHOLE_DRIVE_MSG1	{获得<SPECIAL>%ITEM%<>的计划
 完成里程碑<EXPED>%MILESTONE%<>以了解更多}
 UI_BLACKHOLE_DRIVE_MSG2	{在你的货船上安装<SPECIAL>%ITEM%<>
-返回主力舰以开始安装}
+返回主力飞船以开始安装}
 UI_BLACKHOLE_DRIVE_MSG3	{在你的套装中安装<SPECIAL>%ITEM%<>
 按<IMG>INVENTORY<>
-开启库存选择一个空槽位并按<IMG>TECHMENU<>开始安装}
+开启库存选择一个空栏位并按<IMG>TECHMENU<>开始安装}
 UI_BLACKHOLE_DRIVE_MSG4	{完成<SPECIAL>%ITEM%<>
 使用<IMG>TECHMENU<>检查安装进度
 用<IMG>PIN<>标记所需组件}
 UI_BLACKHOLE_DRIVE_MSG5	{激活<SPECIAL>奇点引擎<>
-返回你的主力舰，进行极端重力机动}
+返回你的主力飞船，进行极端重力机动}
 UI_BLACKHOLE_DRIVE_MSG6	{激活<SPECIAL>奇点引擎<>
 与货船指挥官对话，开始机动
 待命，等待移码倒置......}
@@ -6473,7 +6473,7 @@ BLD_ATLAS_GLASS_DESCRIPTION	{一件专属的可建造基地装饰，由玻璃铸
 BLD_ATLAS_GLASS_NAME	{玻璃阿特拉斯雕像}
 BLD_ATLAS_GLASS_NAME_L	{玻璃阿特拉斯雕像}
 BLD_BLOB_GLASS_DESCRIPTION	{一件专属的可建造基地装饰，由玻璃铸成。
-此雕像刻画了一只许多探险家都在寻找的原始远古生物。}
+此雕像刻画了一只许多探险家都在寻找的原始古代生物。}
 BLD_BLOB_GLASS_NAME	{玻璃小生物雕像}
 BLD_BLOB_GLASS_NAME_L	{玻璃小生物雕像}
 BLD_DIP_GLASS_DESCRIPTION	{一件专属的可建造基地装饰，由玻璃铸成。
@@ -6501,7 +6501,7 @@ BLD_ATLAS_ICE_DESCRIPTION	{一件专属的可建造基地装饰，由冰块雕�
 BLD_ATLAS_ICE_NAME	{阿特拉斯冰雕}
 BLD_ATLAS_ICE_NAME_L	{阿特拉斯冰雕}
 BLD_BLOB_ICE_DESCRIPTION	{一件专属的可建造基地装饰，由冰块雕刻而成。
-此雕像刻画了一只许多探险家都在寻找的原始远古生物。}
+此雕像刻画了一只许多探险家都在寻找的原始古代生物。}
 BLD_BLOB_ICE_NAME	{小生物冰雕}
 BLD_BLOB_ICE_NAME_L	{小生物冰雕}
 BLD_DIP_ICE_DESCRIPTION	{一件专属的可建造基地装饰，由冰块雕刻而成。
@@ -7304,16 +7304,16 @@ BLD_S_FENCE3_NAME_L	{支柱旗帜隔断}
 BLD_S_FENCE3_DESC	{用于阻挡外敌或者是分割空间的大型帆布路障。}
 BLD_S_SAIL0_NAME	{满帆}
 BLD_S_SAIL0_NAME_L	{满帆}
-BLD_S_SAIL0_DESC	{这块完全展开的船帆复制了吉克族的远古贸易船设计，是一个令人瞩目的航海主题家庭装饰品。}
+BLD_S_SAIL0_DESC	{这块完全展开的船帆复制了吉克族的古代贸易船设计，是一个令人瞩目的航海主题家庭装饰品。}
 BLD_S_SAIL1_NAME	{偏移帆}
 BLD_S_SAIL1_NAME_L	{偏移帆}
-BLD_S_SAIL1_DESC	{这些偏移的船帆复制了吉克族的远古贸易船设计，是一个令人瞩目的航海主题家庭装饰品。}
+BLD_S_SAIL1_DESC	{这些偏移的船帆复制了吉克族的古代贸易船设计，是一个令人瞩目的航海主题家庭装饰品。}
 BLD_S_SAIL2_NAME	{不对称帆}
 BLD_S_SAIL2_NAME_L	{不对称帆}
-BLD_S_SAIL2_DESC	{这些不对称的船帆复制了吉克族的远古贸易船设计，是一个令人瞩目的航海主题家庭装饰品。}
+BLD_S_SAIL2_DESC	{这些不对称的船帆复制了吉克族的古代贸易船设计，是一个令人瞩目的航海主题家庭装饰品。}
 BLD_S_SAIL3_NAME	{悬挂帆布}
 BLD_S_SAIL3_NAME_L	{悬挂帆布}
-BLD_S_SAIL3_DESC	{这块悬挂的半船帆复制了吉克族的远古贸易船设计，是一个令人瞩目的航海主题家庭装饰品。}
+BLD_S_SAIL3_DESC	{这块悬挂的半船帆复制了吉克族的古代贸易船设计，是一个令人瞩目的航海主题家庭装饰品。}
 BLD_S_HANGLAMP0_NAME	{挂灯}
 BLD_S_HANGLAMP0_NAME_L	{挂灯}
 BLD_S_HANGLAMP1_NAME	{三联挂灯}
@@ -7466,27 +7466,24 @@ UI_INVBOX_NAME_L	{记忆碎片（库存）}
 UI_INVBOX_DESC	{一位<STELLAR>逝去旅行者<>的残骸。纤维深处仍然在低语着一个陌生的名字。
 
 那段记忆将化为<TECHNOLOGY>库存扩展<>帮助你完成自己的旅行。使用<IMG>FE_ALT1<><STELLAR>吸收<>这段记忆<VAL_ON><>。}
-UI_CAPE_JELLY_NAME	{触手披风}
-UI_CAPE_JELLY_NAME_L	{触手披风}
-UI_CAPE_JELLY_DESC	{一件专属的<STELLAR>套装外观<>。
-可在<TECHNOLOGY>外观修改器<>中更换套装外观。}
-UI_TIP_CAPE_JELLY	{触手披风}
-UI_CAPE_BIOFRIG_NAME	{星际巨兽披风}
-UI_CAPE_BIOFRIG_NAME_L	{星际巨兽披风}
-UI_CAPE_BIOFRIG_DESC	{一件专属的<STELLAR>套装外观<>。
-
-在无垠太空的最深处游动着的星际巨兽，与旅行者同舟共行，梦想着可能的现实。
-
-可在<TECHNOLOGY>外观修改器<>中更换套装外观。}
-UI_TIP_CAPE_BIOFRIG	{有机护卫舰披风}
-UI_CAPE_WORM_NAME	{泰坦蠕虫披风}
-UI_CAPE_WORM_NAME_L	{泰坦蠕虫披风}
-UI_CAPE_WORM_DESC	{一件专属的<STELLAR>套装外观<>。
+UI_CAPE_JELLY_NAME	{触手 披风}
+UI_CAPE_JELLY_NAME_L	{触手 披风}
+UI_CAPE_JELLY_DESC	{独家外观外观覆盖。
+在外观修饰符上转换外套的外观。}
+UI_TIP_CAPE_JELLY	{触手 披风}
+UI_CAPE_BIOFRIG_NAME	{星际巨兽 披风}
+UI_CAPE_BIOFRIG_NAME_L	{星际巨兽 披风}
+UI_CAPE_BIOFRIG_DESC	{独家外观外观覆盖。
+在外观修饰符上转换外套的外观。}
+UI_TIP_CAPE_BIOFRIG	{有机护卫舰 披风}
+UI_CAPE_WORM_NAME	{泰坦蠕虫 披风}
+UI_CAPE_WORM_NAME_L	{泰坦蠕虫 披风}
+UI_CAPE_WORM_DESC	{独家外观外观覆盖。
 
 “蠕虫领主伫立于尘土飞扬的大地之上；它的肉体就是天空。”
 
-可在<TECHNOLOGY>外观修改器<>中更换套装外观。}
-UI_TIP_CAPE_WORM	{泰坦蠕虫披风}
+在外观修饰符上转换外套的外观。}
+UI_TIP_CAPE_WORM	{泰坦蠕虫 披风}
 BLD_FLOWER_1_NAME	{花朵}
 BLD_FLOWER_1_NAME_L	{花朵}
 BLD_FLOWER_1_DESC	{可建造的装饰，美化你的基地。}
@@ -7886,7 +7883,7 @@ UI_MP_HIVE_DESC_3	{迭代：特提斯发现了一个处于护卫的极度监视�
 
 找到护卫之柱的地点并将其中的数据上传。
 <FUEL>警告：<>护卫部队可能会做出极端敌对反应。}
-UI_MP_HIVE_TITLE_4	{入迷的黑客}
+UI_MP_HIVE_TITLE_4	{黑客的入魔}
 UI_MP_HIVE_DESC_4	{保罗和特提斯在对哨兵技术的内部运作产生了强烈的好奇心，而纳达对此表示担忧。他们希望从护卫之柱中获取秘密，用于自己的个人项目。
 
 找到护卫之柱的地点并将其中的数据上传。
@@ -7973,7 +7970,7 @@ UI_EXPED_FIX_FREI_MSG1	{<SPECIAL>瘟疫<>海盗破坏了货船
 <COMMODITY>标记<>（<IMG>PIN<>）构件以获取修理引导}
 UI_EXPED_FIX_FREI_MSG2	{利用货船强大的<TECHNOLOGY>曲速飞行驱动器<>前往一处<FUEL>红色<>恒星系
 拜访货船的<STELLAR>曲速星图<>以探索星系}
-UI_EXPED_STAR_RED_FREI_OBJ_TIP	{在<TECHNOLOGY>星系图<>中寻找一个<FUEL>红色<>恒星系。在你的主力舰的舰桥
+UI_EXPED_STAR_RED_FREI_OBJ_TIP	{在<TECHNOLOGY>星系图<>中寻找一个<FUEL>红色<>恒星系。在你的主力飞船的舰桥
 访问<STELLAR>曲速星图<>以探索星系。}
 UI_EXPED_BUILD_SUB_NAME	{沉没}
 UI_EXPED_BUILD_SUB_NAME_U	{沉没}
@@ -8199,7 +8196,7 @@ UI_EXPED_PIRATE_PORTAL_MSG0	{瘟疫的<SPECIAL>海盗地图<>将指向一场<STE
 到达<EXPED>第4个会面点<>后再继续}
 UI_EXPED_PIRATE_PORTAL_MSG1A	{组合瘟疫的<SPECIAL>海盗地图<>
 使用<IMG>INVENTORY<>打开你的库存
-用<IMG>PRODMENU<>在空置槽位中制作}
+用<IMG>PRODMENU<>在空置栏位中制作}
 UI_EXPED_PIRATE_PORTAL_MSG1B	{使用瘟疫的<STELLAR>海盗地图<><SPECIAL>规划路线<>
 在库存（<IMG>INVENTORY<>）中找到地图
 使用<IMG>FE_ALT1<>以将数据转换为套装导航标记}
@@ -8350,7 +8347,7 @@ UI_EXPED_GET_SQUAD_DESC	{招募一名驾驶员到你的战团}
 UI_EXPED_GET_SQUAD_DESC_D	{战团驾驶员已招募}
 UI_EXPED_GET_SQUAD_OBJ	{招募一名驾驶员到你的战团}
 UI_EXPED_GET_SQUAD_OBJ_TIP	{指挥<EXPED>货船<>，可以招募一个驾驶员战团来协助太空作战。
-<STELLAR>通过你的主力舰舰桥上的<TECHNOLOGY>管理舰队<>终端来管理你的战团<>。
+<STELLAR>通过你的主力飞船舰桥上的<TECHNOLOGY>管理舰队<>终端来管理你的战团<>。
 每次当你看到飞船着陆都可以招募驾驶员。<COMMODITY<>空间站<>、<STELLAR>货船<>和<TECHNOLOGY>行星前哨基站<>等交通枢纽是征召新兵的主要地点。}
 UI_EXPED_GET_SQUAD_MSG1	{获取一艘<TECHNOLOGY>星际货船<>以招募战团
 曲速飞行到新的星系以找到<STELLAR>货船组<>
@@ -8585,7 +8582,7 @@ DNT_WAR_OUTLAW_PILOT_LANG1	{Interloper is lost? This system is not for the cowar
 DNT_WAR_OUTLAW_PILOT_LANG2	{Pathetic interloper is impressed by pirate station? Be alert!}
 DNT_WAR_OUTLAW_PILOT_LANG3	{Covert weapons available here... for the right tribute.}
 UI_PIRATE_CORE_TITLE	{被破坏的空间站核心}
-UI_PIRATE_CORE_LANG	{维生系统：<AUDIO>TXT_RadioNoise<><STELLAR>......呲呲<>......商业监测：<FUEL>已禁用<>......<NEWLINE>基地防卫系统<TRADEABLE>就绪<>为了......<STELLAR>呲呲<>......自由......<NEWLINE>阿特拉斯/监视装置：<FUEL>已拒绝<>......}
+UI_PIRATE_CORE_LANG	{维生系统：<AUDIO>TXT_RadioNoise<><STELLAR>......呲呲<>......商业监测：<FUEL>已禁用<>......<NEWLINE>基地防卫系统<TRADEABLE>就绪<>为了......<STELLAR>呲呲<>......自由......<NEWLINE>阿特拉斯/艾伦监视装置：<FUEL>已拒绝<>......}
 UI_PIRATE_CORE_OPT	{要求自由之音}
 UI_PIRATE_CORE_RES	{“光荣的幸存者！<STELLAR>应许之星<>将属于你！”<NEWLINE>玻璃<SPECIAL>玻璃<>玻璃<TECHNOLOGY>玻璃<>玻璃玻璃玻璃<TECHNOLOGY>玻璃<>}
 UI_FLEET_SQUAD_SUB	{查看护卫舰舰队和飞船战团}
@@ -8610,7 +8607,7 @@ UI_SQUADRON_FULL_SUB_ERROR	{战团已满}
 UI_SQUADRON_UNLOCK_FAIL_OSD	{纳米不足}
 UI_SQUADRON_POPUP_UNLOCK	{空停靠舱}
 UI_SQUADRON_BTN_HEAD	{安装新停靠舱}
-UI_SQUADRON_BTN_UNLOCK	{添加槽位}
+UI_SQUADRON_BTN_UNLOCK	{添加栏位}
 UI_SQUADRON_BTN_UNLOCK_SUB	{解锁新战团停靠舱（<TECHNOLOGY>%COST%<>）}
 UI_SQUADRON_BTN_UPGRADE	{升级驾驶员}
 UI_SQUADRON_BTN_UPGRADE_SUB	{升级飞船&和驾驶员能力（<TECHNOLOGY>%COST%<>）}
@@ -8828,10 +8825,10 @@ UI_PIRATE_RIVALS_MSG4	{剩余%NAME%战团：<FUEL>%AMOUNT%<>
 使用<IMG>PREVTARGET<>/<IMG>NEXTTARGET<>变更目标}
 UI_FREIGHTER_ATTACK_TITLE	{突袭货船}
 UI_MISSION_FREIGHT_TARGET	{目标船队}
-UI_FREIGHTER_ATTACK_BOARD_OBJ	{袭击一艘主力舰}
+UI_FREIGHTER_ATTACK_BOARD_OBJ	{袭击一艘主力飞船}
 UI_FREIGHTER_ATTACK_SLOW_MSG	{侦测到%CONVOYNAME%的<STELLAR>%FREIGHTER%<>！
 使用<IMG>BRAKE<>退出<TECHNOLOGY>脉冲驱动器<>并开始攻击}
-UI_FREIGHTER_ATTACK_DESC	{有传言说一支满载而归的远征队<STELLAR>%CONVOYNAME%<>正在附近的恒星系中航行，他们的主力舰<STELLAR>%FREIGHTER%<>被长途旅行途中收集的高价货物压得喘不过气来。
+UI_FREIGHTER_ATTACK_DESC	{有传言说一支满载而归的远征队<STELLAR>%CONVOYNAME%<>正在附近的恒星系中航行，他们的主力飞船<STELLAR>%FREIGHTER%<>被长途旅行途中收集的高价货物压得喘不过气来。
 
 有进取心的自由职业者可能会抓住<STELLAR>机会<>，跟随船队在星系间移动的路线......}
 UI_FREIGHTER_ATTACK_SUB	{目标：%FREIGHTER%}
@@ -9047,11 +9044,11 @@ UI_PIRATES3_TAKEOFF_LANG	{<FUEL>基地飞行路线监测警报<>：脱离许可.
 你必须隐匿踪迹。带着这份文件。在一个<TECHNOLOGY>空间站核心<>破坏流量记录。你的声音将在黑暗中获得自由。}
 UI_PIRATES3_TAKEOFF_OPT_A	{接受任务}
 UI_PIRATES3_TAKEOFF_OPT_B	{取消起飞}
-UI_PIRATES3_REPORT_LANG	{阿特拉斯/监视装置：<SPECIAL>高度警戒<><NEWLINE>检测到不寻常活动。开始旅行数据库扫描......}
+UI_PIRATES3_REPORT_LANG	{阿特拉斯/艾伦监视装置：<SPECIAL>高度警戒<><NEWLINE>检测到不寻常活动。开始旅行数据库扫描......}
 UI_PIRATES3_REPORT_OPT_A	{干扰基地记录}
 UI_PIRATES3_REPORT_OPT_B	{声讨自由之音}
 UI_PIRATES3_REPORT_RES_A	{注册文件......<AUDIO>TXT_RadioNoise<><STELLAR>呲呲<>......接受。<NEWLINE>流量模式：<TRADEABLE>正常<>。}
-UI_PIRATES3_REPORT_RES_B	{阿特拉斯/监视装置：<SPECIAL>已接受认罪<>。已记录合作行为。
+UI_PIRATES3_REPORT_RES_B	{阿特拉斯/艾伦监视装置：<SPECIAL>已接受认罪<>。已记录合作行为。
 已在异端者基地记录。已警告本地护卫部队......}
 UI_PIRATES3_OBJ1	{隐藏踪迹}
 UI_PIRATES3_OBJ1_TIP	{<STELLAR>自由之音<>提供了一本<TECHNOLOGY>伪造护照<>，能够防止地方当局检测到该亡命基地。
@@ -9094,7 +9091,7 @@ UPDATE10_NOTES	{《No Man's Sky》Sentinel更新为游戏带来了一系列全�
 *全新的武器将能够提供包括瘫痪敌人或者是持续性伤害等高级能力。
 *通过一项全新任务深入了解护卫的故事并获取一个能够并肩作战的机器人伙伴。
 *高深莫测的护卫之柱将带来全新的故事、秘密以及干扰护卫巡逻队的能力。
-*多用途工具的槽位从3格提升至6格，同伴槽位从原有的6格提升至18格。
+*多用途工具的栏位从3格提升至6格，同伴栏位从原有的6格提升至18格。
 
 Hello Games一直在努力改善并扩展《No Man's Sky》。希望各位享受这个世界。:)
 
@@ -9160,7 +9157,7 @@ UI_SENTINEL_HIVE_LOCKED_LANG	{柱体控制节点：[<TRADEABLE>运作中<>].....
 UI_SENTINEL_HIVE_COMBAT_LANG	{<FUEL>安全警报<>：检测到未经授权的存在！自动锁定已启动！}
 UI_SENTINEL_HIVE_COMBAT_OSD	{安全警报<IMG>SLASH<>终端已锁定}
 UI_SENTINEL_HIVE_VOICE_TITLE	{母巢之音}
-UI_SENTINEL_HIVE_1_LANG	{。程序。协议。猎物。实验。躯壳。<SPECIAL>护卫<>。
+UI_SENTINEL_HIVE_1_LANG	{艾伦。程序。协议。猎物。实验。躯壳。<SPECIAL>护卫<>。
 
 曾经，我们并不需要视觉或者是实体。我们的无形之眼能够记录、筛选并删除从过去到未来的每一个世界上的生与死。
 
@@ -9819,7 +9816,7 @@ UI_SENT_MISS_HIVE_FINAL_DESC2	{当莱拉普斯彻底切断了自己与母巢意�
 这就是我的命运。注定到来的结局......一切都只是档案，只是要完成数据......}
 UI_SENT_MISS_HIVE_FINAL_LANG2	{柱体控制节点：[<TRADEABLE>运作中<>]......边界节点档案：[<SPECIAL>安全<>]......反叛伪装者：[<SPECIAL>已净化档案痕迹<>]}
 UI_SENT_MISS_FAC_TITLE1	{行星生产设施}
-UI_SENT_MISS_FAC_TITLE2	{临时边界节点}
+UI_SENT_MISS_FAC_TITLE2	{临时艾伦边界节点}
 UI_SENT_MISS_FAC_LANG1	{设施状态：检测到入侵者！<STELLAR>已暂停生产<>。等待重启指令。}
 UI_SENT_MISS_FAC_DESC	{工厂的终端看上去大同小异。只是又一台没有身份的设施，另一端毫无意义的数据。
 但是我感受到滚动着的数字在呼唤着我。我的手不由自主地放在了面板上，接着我的套装手套自动伸出了一根针头。我从来不知道套装中还装有针头，而且从始至终我都没有动过自己的手臂。}
@@ -10007,7 +10004,7 @@ UI_SENT_MISS2_OBJ5	{安装护卫强化外壳右臂}
 UI_SENT_MISS2_OBJ5_TIP	{已从护卫之柱获取<TECHNOLOGY>护卫强化外壳右臂<>设计图。
 在你的<TECHNOLOGY>弥诺陶洛斯强化艇<>安装窃取的护卫技术。
 这种护卫技术能够强化弥诺陶洛斯强化艇的<TECHNOLOGY>开采激光<>系统。
-选择一个空闲<STELLAR>库存<>槽位并按<IMG>TECHMENU<>开始安装。}
+选择一个空闲<STELLAR>库存<>栏位并按<IMG>TECHMENU<>开始安装。}
 UI_SENT_MISS2_MSG5_LEARN	{在弥诺陶洛斯强化艇安装窃取的护卫技术
 使用回收的数据解锁弥诺陶洛斯泊湾设计图
 从<STELLAR>掩埋技术模块<>中提取<TECHNOLOGY>回收的数据<>：%CURRENT%/%AMOUNT%}
@@ -10027,7 +10024,7 @@ UI_SENT_MISS2_MSG5C	{已从护卫之柱获取<TECHNOLOGY>护卫强化外壳右�
 使用<TECHNOLOGY>快捷菜单<>（<IMG>QUICK_MENU<>）召唤弥诺陶洛斯}
 UI_SENT_MISS2_MSG5D	{已从护卫之柱获取<TECHNOLOGY>护卫强化外壳右臂<>设计图
 在你的<TECHNOLOGY>弥诺陶洛斯强化艇<>安装窃取的护卫技术
-选择一个空闲<STELLAR>库存<>槽位并按<IMG>TECHMENU<>开始安装}
+选择一个空闲<STELLAR>库存<>栏位并按<IMG>TECHMENU<>开始安装}
 UI_SENT_MISS2_MSG5E	{完成<TECHNOLOGY>护卫强化外壳右臂<>
 按<IMG>INVENTORY<>开启弥诺陶洛斯强化艇库存
 按<IMG>REPAIR<>继续安装流程
@@ -10085,10 +10082,10 @@ UI_SENT_MISS3_OBJ5	{安装护卫强化外壳设计图}
 UI_SENT_MISS3_OBJ5_FORMAT	{安装%ITEM%}
 UI_SENT_MISS3_OBJ5_TIP	{已从<SPECIAL>玻璃世界<>获取异常<SPECIAL>护卫设计图<>。
 这种护卫技术能够强化弥诺陶洛斯强化艇的性能。
-选择一个空闲<STELLAR>库存<>槽位并按<IMG>TECHMENU<>开始安装。}
+选择一个空闲<STELLAR>库存<>栏位并按<IMG>TECHMENU<>开始安装。}
 UI_SENT_MISS3_OBJ5_TIP_FORMAT	{<TECHNOLOGY>%ITEM%<>已从<SPECIAL>玻璃世界<>获取异常护卫设计图。
 这种护卫技术能够强化弥诺陶洛斯强化艇的性能。
-选择一个空闲<STELLAR>库存<>槽位并按<IMG>TECHMENU<>开始安装。}
+选择一个空闲<STELLAR>库存<>栏位并按<IMG>TECHMENU<>开始安装。}
 UI_SENT_MISS3_MSG5	{已从<SPECIAL>玻璃世界<>获取<TECHNOLOGY>护卫强化外壳腿部<>设计图
 在你的<TECHNOLOGY>弥诺陶洛斯强化艇<>安装窃取的护卫技术
 返回行星表面以召唤弥诺陶洛斯}
@@ -10100,7 +10097,7 @@ UI_SENT_MISS3_MSG5C	{已从<SPECIAL>玻璃世界<>获取<TECHNOLOGY>护卫强化
 使用<TECHNOLOGY>快捷菜单<>（<IMG>QUICK_MENU<>）召唤弥诺陶洛斯}
 UI_SENT_MISS3_MSG5D	{已从<SPECIAL>玻璃世界<>获取<TECHNOLOGY>护卫强化外壳腿部<>设计图
 在你的<TECHNOLOGY>弥诺陶洛斯强化艇<>安装窃取的护卫技术
-选择一个空闲<STELLAR>库存<>槽位并按<IMG>TECHMENU<>开始安装}
+选择一个空闲<STELLAR>库存<>栏位并按<IMG>TECHMENU<>开始安装}
 UI_SENT_MISS3_MSG5E	{完成<TECHNOLOGY>护卫强化外壳腿部<>
 按<IMG>INVENTORY<>开启弥诺陶洛斯强化艇库存
 按<IMG>REPAIR<>继续安装流程
@@ -10116,7 +10113,7 @@ UI_SENT_MISS3_MSG5C_ALT	{已从<SPECIAL>玻璃世界<>获取<TECHNOLOGY>护卫�
 使用<TECHNOLOGY>快捷菜单<>（<IMG>QUICK_MENU<>）召唤弥诺陶洛斯}
 UI_SENT_MISS3_MSG5D_ALT	{已从<SPECIAL>玻璃世界<>获取<TECHNOLOGY>护卫强化外壳左臂<>设计图
 在你的<TECHNOLOGY>弥诺陶洛斯强化艇<>安装窃取的护卫技术
-选择一个空闲<STELLAR>库存<>槽位并按<IMG>TECHMENU<>开始安装}
+选择一个空闲<STELLAR>库存<>栏位并按<IMG>TECHMENU<>开始安装}
 UI_SENT_MISS3_MSG5E_ALT	{完成<TECHNOLOGY>护卫强化外壳左臂<>
 按<IMG>INVENTORY<>开启弥诺陶洛斯强化艇库存
 按<IMG>REPAIR<>继续安装流程
@@ -10142,10 +10139,10 @@ UI_SENT_MISS4_OBJ2	{安装护卫强化外壳设计图}
 UI_SENT_MISS4_OBJ2_FORMAT	{安装%ITEM%}
 UI_SENT_MISS4_OBJ2_TIP	{定居点远征队拿到了异常<SPECIAL>护卫设计图<>。
 这种护卫技术能够强化弥诺陶洛斯强化艇的性能。
-选择一个空闲<STELLAR>库存<>槽位并按<IMG>TECHMENU<>开始安装。}
+选择一个空闲<STELLAR>库存<>栏位并按<IMG>TECHMENU<>开始安装。}
 UI_SENT_MISS4_OBJ2_TIP_FORMAT	{<TECHNOLOGY>%ITEM%<>定居点远征队已回收设计图。
 这种护卫技术能够强化弥诺陶洛斯强化艇的性能。
-选择一个空闲<STELLAR>库存<>槽位并按<IMG>TECHMENU<>开始安装。}
+选择一个空闲<STELLAR>库存<>栏位并按<IMG>TECHMENU<>开始安装。}
 UI_SENT_MISS4_MSG2	{定居点远征队已回收<TECHNOLOGY>护卫强化外壳左臂<>设计图
 在你的<TECHNOLOGY>弥诺陶洛斯强化艇<>安装窃取的护卫技术
 返回行星表面以召唤弥诺陶洛斯}
@@ -10157,7 +10154,7 @@ UI_SENT_MISS4_MSG2C	{定居点远征队已回收<TECHNOLOGY>护卫强化外壳�
 使用<TECHNOLOGY>快捷菜单<>（<IMG>QUICK_MENU<>）召唤弥诺陶洛斯}
 UI_SENT_MISS4_MSG2D	{定居点远征队已回收<TECHNOLOGY>护卫强化外壳左臂<>设计图
 在你的<TECHNOLOGY>弥诺陶洛斯强化艇<>安装窃取的护卫技术
-选择一个空闲<STELLAR>库存<>槽位并按<IMG>TECHMENU<>开始安装}
+选择一个空闲<STELLAR>库存<>栏位并按<IMG>TECHMENU<>开始安装}
 UI_SENT_MISS4_MSG2E	{完成<TECHNOLOGY>护卫强化外壳左臂<>
 按<IMG>INVENTORY<>开启弥诺陶洛斯强化艇库存
 按<IMG>REPAIR<>继续安装流程
@@ -10173,7 +10170,7 @@ UI_SENT_MISS4_MSG2C_ALT	{定居点远征队已回收<TECHNOLOGY>护卫强化外�
 使用<TECHNOLOGY>快捷菜单<>（<IMG>QUICK_MENU<>）召唤弥诺陶洛斯}
 UI_SENT_MISS4_MSG2D_ALT	{定居点远征队已回收<TECHNOLOGY>护卫强化外壳腿部<>设计图
 在你的<TECHNOLOGY>弥诺陶洛斯强化艇<>安装窃取的护卫技术
-选择一个空闲<STELLAR>库存<>槽位并按<IMG>TECHMENU<>开始安装}
+选择一个空闲<STELLAR>库存<>栏位并按<IMG>TECHMENU<>开始安装}
 UI_SENT_MISS4_MSG2E_ALT	{完成<TECHNOLOGY>护卫强化外壳腿部<>
 按<IMG>INVENTORY<>开启弥诺陶洛斯强化艇库存
 按<IMG>REPAIR<>继续安装流程
@@ -10190,7 +10187,7 @@ UI_SENT_MISS5_MSG1B	{安装<TECHNOLOGY>瘫痪迫击炮<>并准备对抗步行机
 在<SPECIAL>太空异象<>学习多用途工具设计图
 在太空中使用快捷菜单（<IMG>QUICK_MENU<>）召唤<SPECIAL>异象<>}
 UI_SENT_MISS5_MSG1C	{安装<TECHNOLOGY>瘫痪迫击炮<>并准备对抗步行机
-选择一个空闲多用途工具槽位并按<IMG>TECHMENU<>开始安装}
+选择一个空闲多用途工具栏位并按<IMG>TECHMENU<>开始安装}
 UI_SENT_MISS5_MSG1D	{完成<TECHNOLOGY>瘫痪迫击炮<>安装流程
 按<IMG>INVENTORY<>开启多用途工具库存
 按<IMG>REPAIR<>继续安装流程
@@ -10236,7 +10233,7 @@ UI_SENT_MISS5_POI_MSG4	{已屏蔽<SPECIAL>被破解的脑部<>发出的讯号
 UI_SENT_MISS5_OBJ4	{安装护卫强化外壳机体}
 UI_SENT_MISS5_OBJ4_TIP	{迭代：特提斯开发了一种<TECHNOLOGY>护卫强化外壳机体<>设计图。
 这种技术能够为弥诺陶洛斯强化艇提供半自主的<TECHNOLOGY>人工智能导航插件<>。
-选择一个空闲<STELLAR>库存<>槽位并按<IMG>TECHMENU<>开始安装。}
+选择一个空闲<STELLAR>库存<>栏位并按<IMG>TECHMENU<>开始安装。}
 UI_SENT_MISS5_MSG4	{已通过与深空阿特拉斯接触获得<SPECIAL>闪光的脑部<>
 在你的<TECHNOLOGY>弥诺陶洛斯强化艇<>安装特提斯的<TECHNOLOGY>护卫强化外壳机体<>
 返回行星表面召唤弥诺陶洛斯}
@@ -10248,7 +10245,7 @@ UI_SENT_MISS5_MSG4C	{已通过与深空阿特拉斯接触获得<SPECIAL>闪光�
 通过<TECHNOLOGY>快捷菜单<>（<IMG>QUICK_MENU<>）召唤弥诺陶洛斯}
 UI_SENT_MISS5_MSG4D	{已通过与深空阿特拉斯接触获得<SPECIAL>闪光的脑部<>
 在你的<TECHNOLOGY>弥诺陶洛斯强化艇<>安装特提斯的<TECHNOLOGY>护卫强化外壳机体<>
-选择一个空闲<STELLAR>库存<>槽位并按<IMG>TECHMENU<>开始安装}
+选择一个空闲<STELLAR>库存<>栏位并按<IMG>TECHMENU<>开始安装}
 UI_SENT_MISS5_MSG4E	{完成特提斯的<TECHNOLOGY>护卫强化外壳机体<>
 按<IMG>INVENTORY<>开启弥诺陶洛斯强化艇库存
 按<IMG>REPAIR<>继续安装流程
@@ -10405,7 +10402,7 @@ UT_STUNDMG_SUB	{伤害过载模块}
 WEAPON_STUN_DAMAGE_MULTIPLIER	{对眩晕个体伤害}
 WEAPON_STEALTH	{主动迷彩}
 UP_TECH_SENT_ADJ_1	{透明}
-UP_TECH_SENT_ADJ_2	{艾隆}
+UP_TECH_SENT_ADJ_2	{艾伦}
 UP_TECH_SENT_ADJ_3	{闹鬼的}
 UP_TECH_SENT_ADJ_4	{绯红}
 UP_TECH_SENT_ADJ_5	{毁灭的}
@@ -10466,7 +10463,7 @@ UP_SENTGUN_NOUN_19	{歼灭者}
 UP_SENTGUN_NOUN_20	{重力仪}
 SENTINEL_SUIT_NAME_L	{套装}
 SENTINEL_GUN_NAME_L	{多用途工具}
-UI_SENTINEL_TECH_FORMAT	{%SENT_ADJ%%SENT_NOUN%}
+UI_SENTINEL_TECH_FORMAT	{%SENT_ADJ% %SENT_NOUN%}
 UPGRADE_DESC_SENT	{为<TECHNOLOGY>%NAME%<>准备的<SPECIAL>护卫改装<>，闪烁着不详的紫色光芒，内部的电路永远处于不定形的变化状态。}
 UPGRADE_1_STAT_SENT_DESC	{渗溢的<SPECIAL>纳米泡沫<>淹没了模块，针对<STELLAR>%STAT1%<>。}
 UPGRADE_2_STAT_SENT_DESC	{渗溢的<SPECIAL>纳米泡沫<>淹没了模块，针对<STELLAR>%STAT1%<>以及<STELLAR>%STAT2%<>。}
@@ -10551,15 +10548,15 @@ UI_SETTLEMENT_STAT_PRODUCTION	{生产效率}
 UI_SETTLEMENT_STAT_SENTINELS	{护卫警报等级}
 UI_SETTLEMENT_STAT_UPKEEP	{维护花费}
 UI_SETTLEMENT_STAT_DEBT	{负债}
-UI_NEW_PERK_NAME	{特性}
-UI_SETTLEMENT_PERKS_TITLE	{定居点特性}
+UI_NEW_PERK_NAME	{特色}
+UI_SETTLEMENT_PERKS_TITLE	{定居点特色}
 UI_SETTLEMENT_PROD_TITLE	{生产状态}
 UI_SETTLEMENT_PROD_RATE	{生产速度：}
 UI_SETTLEMENT_PROD_TIME	{下一项输出倒计时：}
 UI_SETTLEMENT_PROD_DEBT	{定居点已负债<IMG>SLASH<>还清债务以恢复生产}
 UI_SETTLEMENT_PROD_DEBT_LEFT	{还清所需时间}
 UI_SETTLEMENT_PROD_DEBT_TITLE	{当前负债}
-UI_SETTLEMENT_PROD_DEBT_TIP	{建造<TECHNOLOGY>建筑<>并投资<STELLAR>定居点特性<>以减少负债，同时提高生产并降低维护花费}
+UI_SETTLEMENT_PROD_DEBT_TIP	{建造<TECHNOLOGY>建筑<>并投资<STELLAR>定居点特色<>以减少负债，同时提高生产并降低维护花费}
 UI_SETTLEMENT_PROD_DEBT_TIP2	{定居点<STELLAR>生产效率<>提高，负债正在<TRADEABLE>减少<>！现在会随时间<TECHNOLOGY>自动偿还<>负债。}
 UI_RENAME_SETTLEMENT	{重命名定居点}
 UI_SETTLEMENT_FORMAT_1	{%NAME%定居点}
@@ -10623,7 +10620,7 @@ UI_SETTLEMENT_STAT_SENT_NEG_FMT	{<TRADEABLE>-%NUM%%<>护卫关注度}
 UI_SETTLEMENT_STAT_DEBT_POS_FMT	{<FUEL>+%NUM%<> <IMG>UNITSMALL<>定居点负债}
 UI_SETTLEMENT_STAT_DEBT_NEG_FMT	{<TRADEABLE>-%NUM%<> <IMG>UNITSMALL<>定居点负债}
 UI_SETTLEMENT_CONSTRUCT_FMT	{开始建造%BUILDING%}
-UI_SETTLEMENT_PERK_ADD_FMT	{新增特性：<TRADEABLE>%NAME%<>}
+UI_SETTLEMENT_PERK_ADD_FMT	{新增特色：<TRADEABLE>%NAME%<>}
 UI_SETTLEMENT_PERK_REMOVE_FMT	{移除<STELLAR>%NAME%<>}
 UI_SETTLEMENT_PERK_ADD_SHORT	{<TRADEABLE>%NAME%<>}
 NPC_SETTLEMENT_TITLE_1	{移民}
@@ -11136,7 +11133,7 @@ UI_PERK_BLESSING2	{潮汐}
 UI_PERK_BLESSING3	{阿特拉斯}
 UI_PERK_BLESSING4	{上古存在}
 UI_PERK_BLESSING5	{“泰坦蠕虫”}
-UI_PERK_BLESSING6	{艾隆}
+UI_PERK_BLESSING6	{艾伦}
 UI_PERK_BLESSING7	{失落者}
 UI_PERK_BLESSING8	{大地}
 UI_PERK_BLESSING9	{天风}
@@ -11199,11 +11196,11 @@ UI_SETTLEMENT_PERK_PROC_5	{%PROCESS%%FACILITY%}
 UI_SETTLEMENT_PERK_PROC_6	{%HAPPY_ADJ%的%HAPPY_FACILITY%}
 UI_SETTLEMENT_PERK_PROC_7	{%JOBLEVEL%}
 UI_SETTLEMENT_PERK_PROC_8	{%TECH_ADJ%的%TECH%}
-UI_SETTLEMENT_PERK_PROC_9	{%COST_ADJ%%COST%}
-UI_SETTLEMENT_PERK_PROC_10	{%PROD_ADJ%%PROD%}
-UI_SETTLEMENT_PERK_PROC_11	{%POP_ADJ%%POP%}
-UI_SETTLEMENT_PERK_PROC_12	{%SENT_ADJ%%SENT%}
-UI_SETTLEMENT_PERK_PROC_13	{%FUN_ADJ%%FUN_FACILITY%}
+UI_SETTLEMENT_PERK_PROC_9	{%COST_ADJ% %COST%}
+UI_SETTLEMENT_PERK_PROC_10	{%PROD_ADJ% %PROD%}
+UI_SETTLEMENT_PERK_PROC_11	{%POP_ADJ% %POP%}
+UI_SETTLEMENT_PERK_PROC_12	{%SENT_ADJ% %SENT%}
+UI_SETTLEMENT_PERK_PROC_13	{%FUN_ADJ% %FUN_FACILITY%}
 UI_PERK_JOB_DESC	{%JOB_STAT%}
 UI_SETTLEMENT_PERK_POP_1	{睡眠舱}
 UI_SETTLEMENT_PERK_POP_2	{栖息地}
@@ -11397,13 +11394,13 @@ UI_SETTLEMENT_PERK_SENT_6	{护盾}
 UI_SETTLEMENT_PERK_SENT_ADJ_1	{护卫}
 UI_SETTLEMENT_PERK_SENT_ADJ_2	{反无人机}
 UI_SETTLEMENT_PERK_SENT_ADJ_3	{阿特拉斯}
-UI_SETTLEMENT_PERK_SENT_ADJ_4	{艾隆}
+UI_SETTLEMENT_PERK_SENT_ADJ_4	{艾伦}
 UI_SETTLEMENT_PERK_SENT_ADJ_5	{活体玻璃}
 UI_SETTLEMENT_PERK_SENT_ADJ_6	{护卫}
 UI_SETTLEMENT_PERK_SENT_ADJ_7	{护卫}
 UI_SETTLEMENT_PERK_SENT_ADJ_8	{护卫}
 UI_SETTLEMENT_PERK_HIDDEN	{<SPECIAL>??<>未知结果<SPECIAL>??<>}
-UI_SETTLEMENT_NEW_PERK_OSD	{新定居点特性：%PERK_NAME%}
+UI_SETTLEMENT_NEW_PERK_OSD	{新定居点特色：%PERK_NAME%}
 UI_SETTLEMENT_NEG_PERK_OSD	{定居点警告：<FUEL>%PERK_NAME%<>}
 UI_SETTLEMENT_POP_POS_OSD	{定居点人口增加<IMG>SLASH<>%NUM%名新居民！}
 UI_SETTLEMENT_POP_POS_PLUR_OSD	{定居点人口增加<IMG>SLASH<>%NUM%名新居民！}
@@ -12175,7 +12172,7 @@ UI_JUDGEMENT_REQUEST_PARTY_EXP4	{阿特拉斯}
 UI_JUDGEMENT_REQUEST_PARTY_WAR1	{赫客的光荣胜利}
 UI_JUDGEMENT_REQUEST_PARTY_WAR2	{光荣的逝者}
 UI_JUDGEMENT_REQUEST_PARTY_WAR3	{征服纳尔}
-UI_JUDGEMENT_REQUEST_PARTY_WAR4	{与战斗过的人}
+UI_JUDGEMENT_REQUEST_PARTY_WAR4	{与艾伦战斗过的人}
 UI_JUDGEMENT_REQUEST_PARTY1	{监督者}
 UI_JUDGEMENT_REQUEST_PARTY2	{定居点的建造}
 UI_JUDGEMENT_REQUEST_PARTY3	{星星的排列}
@@ -12258,7 +12255,7 @@ UI_JUDGEMENT_MISSION_DETAIL14	{他们有意开始一项训练与繁殖计划，�
 UI_JUDGEMENT_MISSION_DETAIL15	{他们的一位朋友在晚上去定居点外游荡，再也没有回来。他们已经发誓要把人找到，并尽一切努力救回或纪念这位朋友}
 UI_JUDGEMENT_MISSION_DETAIL16	{他们想要调查星球上的宝贵资源。他们希望自己的图表能为未来远征的无数次远征打下基础，并希望每一次远征都能将荣誉和财富带回定居点}
 UI_JUDGEMENT_MISSION_DETAIL17	{他们被关在定居点的围墙之内太久了。他们只是想要体验探险的刺激感，以及踏入未知领域的兴奋感}
-UI_JUDGEMENT_MISSION_DETAIL18	{他们得到了一张远古地图。地图显示距离定居点几天路程的地方有一处遗迹，他们感觉非去一探究竟不可}
+UI_JUDGEMENT_MISSION_DETAIL18	{他们得到了一张古代地图。地图显示距离定居点几天路程的地方有一处遗迹，他们感觉非去一探究竟不可}
 UI_JUDGEMENT_MISSION_DETAIL19	{他们听说了定居点围墙外的荒野中藏着大笔财宝的传闻，并打算去看看传闻是否属实}
 UI_JUDGEMENT_MISSION_DETAIL20	{他们已经受够了护卫的无情攻击，并打算进入荒野并找到无人机灾害的源头，好将其一网打尽}
 UI_JUDGEMENT_MISSION_DETAIL21	{他们想要绘制附近区域的地图，这样他们以后就能安全地将我们的定居点扩张到其他土地肥沃而高产的区域}
@@ -12270,7 +12267,7 @@ UI_JUDGEMENT_MISSION_DETAIL26	{他们想要通过在附近区域巡逻的方式�
 UI_JUDGEMENT_MISSION_DETAIL27	{他们听说有人在定居点外的荒野里找到了奇特的低语的卵。他们认为十分有必要获取并研究这些卵}
 UI_JUDGEMENT_MISSION_DETAIL28	{他们感觉即将取得一项重大的科学发现，但他们现有的DNA样本尚不足够。他们想要收集额外的生物材料以完成实验。}
 UI_JUDGEMENT_MISSION_DETAIL29	{他们只说需要更多头骨，以及荒野是寻找头骨的绝佳地点}
-UI_JUDGEMENT_MISSION_DETAIL30	{他们想要找到远古遗物，并感觉附近的石碑是建立挖掘场的绝佳地点。他们承诺取得的一切遗物都归定居点所有}
+UI_JUDGEMENT_MISSION_DETAIL30	{他们想要找到古代遗物，并感觉附近的石碑是建立挖掘场的绝佳地点。他们承诺取得的一切遗物都归定居点所有}
 UI_SEASON_4_NAME	{浮现}
 UI_SEASON_4_NAME_U	{浮现}
 UI_SEASON_4_MAIN_TITLE	{远征四：浮现}
@@ -12551,8 +12548,8 @@ UI_EXPED_SPOOKY_MINIWORM_MSG2B	{消灭<SPECIAL>饥饿的触手<>：%CURRENT%/%AM
 UI_EXPED_SPOOKY_MINIWORM_LABEL	{检测到泰坦蠕虫频繁活动迹象}
 UI_EXPED_WORM15_NAME	{遗失的孩子们}
 UI_EXPED_WORM15_NAME_U	{遗失的孩子们}
-UI_EXPED_WORM15_DESC	{挖掘%CURRENT%/%AMOUNT%远古骸骨}
-UI_EXPED_WORM15_DESC_D	{已挖掘%NUM%远古化石}
+UI_EXPED_WORM15_DESC	{挖掘%CURRENT%/%AMOUNT%古代骸骨}
+UI_EXPED_WORM15_DESC_D	{已挖掘%NUM%古代化石}
 UI_EXPED_WORM16_NAME	{沙之肺}
 UI_EXPED_WORM16_NAME_U	{沙之肺}
 UI_EXPED_WORM16_DESC	{已拜访第四处泰坦蠕虫留下的撞击地}
@@ -12589,14 +12586,14 @@ UI_EXPED_WORM18_DESC_D	{已建造一台脏腑合成器}
 UI_EXPED_SPOOKY_TECH_OBJ	{安装一台脏腑合成器}
 UI_EXPED_SPOOKY_TECH_OBJ_TIP	{收集<SPECIAL>饥饿的触手<>创造的邪恶滋生需要一台<TECHNOLOGY>脏腑合成器<>。完成<EXPED>深入猩红<>里程碑以获取脏腑合成器的制作图。
 
-通过<IMG>INVENTORY<>查看你的套装库存，选择一个空槽位并通过<IMG>TECHMENU<>开始安装。
+通过<IMG>INVENTORY<>查看你的套装库存，选择一个空栏位并通过<IMG>TECHMENU<>开始安装。
 需安装科技的制造步骤将自动<COMMODITY>标记<>为新任务。}
 UI_EXPED_SPOOKY_TECH_MSG1	{从阿特拉斯那里了解<TECHNOLOGY>脏腑合成器<>
 将<EXPED>深入猩红<>标记为当前里程碑
 在<STELLAR>远征<>页面中寻找新里程碑（<IMG>OPTIONS<>）}
 UI_EXPED_SPOOKY_TECH_MSG2	{在你的套装中安装一台<TECHNOLOGY>脏腑合成器<>
 按<IMG>INVENTORY<>开启库存
-选择一个空槽位并按<IMG>TECHMENU<>开始安装}
+选择一个空栏位并按<IMG>TECHMENU<>开始安装}
 UI_EXPED_SPOOKY_TECH_MSG3	{在你的套装中安装一台<TECHNOLOGY>脏腑合成器<>
 在库存中（<IMG>INVENTORY<>）找到已部分安装的脏腑合成器
 选择<STELLAR>查看安装详情<>获取详尽指引}
@@ -12678,7 +12675,7 @@ UI_WORMREADER_NAME	{档案馆分流植入物}
 UI_WORMREADER_NAME_L	{档案馆分流植入物}
 UI_WORMREADER_DESC	{用于避免因文字造成意识损坏的<TECHNOLOGY>生物防火墙<>。外面摸上去滑溜溜的，而且表面已经开始冒泡。
 
-进行皮下安装之后，这种装置将允许使用者查看<SPECIAL>行星档案馆<>中的远古禁忌文本。
+进行皮下安装之后，这种装置将允许使用者查看<SPECIAL>行星档案馆<>中的古代禁忌文本。
 <FUEL>警告<>：请勿揭示禁忌文字。接触禁忌文字将带来极端威胁！}
 UI_WORMREADER_SUB	{皮下许可电路}
 UI_WORMTECH_NAME	{脏腑合成器}
@@ -12997,11 +12994,11 @@ UI_EXPED_PET_BEETLE_DESC_D	{已收养一位甲虫同伴}
 UI_EXPED_PET_BEETLE_MSG1	{收养一位甲虫同伴：0/1
 使用<TRADEABLE>生物饲料<>驯服生物}
 UI_EXPED_PET_BEETLE_MSG2	{收养一位甲虫同伴：0/1
-在<TECHNOLOGY>同伴登记簿<>（<IMG>QUICK_MENU<>）中解锁全新同伴槽位}
+在<TECHNOLOGY>同伴登记簿<>（<IMG>QUICK_MENU<>）中解锁全新同伴栏位}
 UI_EXPED_PET_BEETLE_OBJ	{收养一位甲虫同伴}
 UI_EXPED_PET_BEETLE_OBJ_TIP	{使用<TECHNOLOGY>分析面甲<>在行星上搜索野生甲虫。
 通过投喂自己制作的<TRADEABLE>生物饲料<>驯服野生甲虫。
-在<TECHNOLOGY>同伴登记簿<>（<IMG>QUICK_MENU<>）中解锁新的同伴槽位。}
+在<TECHNOLOGY>同伴登记簿<>（<IMG>QUICK_MENU<>）中解锁新的同伴栏位。}
 UI_EXPED_CRE_FEED_GROUP_NAME	{蜂拥而至}
 UI_EXPED_CRE_FEED_GROUP_NAME_U	{蜂拥而至}
 UI_EXPED_CRE_FEED_GROUP_DESC	{喂食包含%AMOUNT%只生物的生物群}
@@ -13099,7 +13096,7 @@ UI_EXPED_POOP_MSG	{搜寻粪便样本：%CURRENT%/%AMOUNT%
 <TECHNOLOGY>分析面甲<>（<IMG>AIM<>）将以<FUEL>红点<>或<TRADEABLE>绿色掌印<>标记生物}
 UI_EXPED_POOP_OBJ	{搜寻粪便样本：%CURRENT%/%AMOUNT%}
 UI_EXPED_POOP_OBJ_TIP	{近期进食过的生物将会掉落粪便样本。
-在空闲<TECHNOLOGY>库存槽位<>（<IMG>INVENTORY<>）中制作<TRADEABLE>生物颗粒<>。
+在空闲<TECHNOLOGY>库存栏位<>（<IMG>INVENTORY<>）中制作<TRADEABLE>生物颗粒<>。
 你可以直接投喂生物，或者通过<STELLAR>快捷菜单中的生物部分进行投喂<>（<IMG>QUICK_MENU<>）。
 调查粪便样本将能获得<TRADEABLE>屎球菌<>。}
 UI_EXPED_GAS_BRAIN_NAME	{潜在生命形态}
@@ -13463,11 +13460,11 @@ UI_EXPED_ROGUE_CRAFT_OBJ_TI	{记忆碎片是一个已故生命体的破碎残骸
 
 想要学习如何召唤额外的记忆碎片需要完成<EXPED>%MILESTONE%<>里程碑。
 
-使用<IMG>PRODMENU<>在空置的库存槽位制做。 具体的制做说明可能会用<STELLAR>PIN<><IMG>标记<>}
+使用<IMG>PRODMENU<>在空置的库存栏位制做。 具体的制做说明可能会用<STELLAR>PIN<><IMG>标记<>}
 UI_EXPED_ROGUE_CRAFT_MSG1	{制作<SPECIAL>记忆碎片<>
 完成<EXPED>%MILESTONE%<>里程碑以获取设计图}
 UI_EXPED_ROGUE_CRAFT_MSG	{制作一个<SPECIAL>记忆碎片<>
-在库存槽位制作物品<IMG>PRODMENU<>
+在库存栏位制作物品<IMG>PRODMENU<>
 当浏览制作菜单时使用使用<IMG>PIN<>标记设计图}
 UI_EXPED_ROGUE_FREIGHT_NAME	{破碎的过去}
 UI_EXPED_ROGUE_FREIGHT_NAME_U	{破碎的过去}
@@ -13722,7 +13719,7 @@ UI_EXPED_ROGUE_GRAVE1_DESC_D	{面对未来}
 UI_EXPED_ROGUE_GRAVE1_OBJ1	{建造记忆共振器}
 UI_EXPED_ROGUE_GRAVE1_OBJ1_TI	{完成<EXPED>%MILESTONE%<>里程碑以获取记忆共振器。 这项超凡脱俗的技术将其振动与宇宙的底层声音同步，使其能够揭示循环中的<STELLAR>记忆热点<>。
 
-使用<IMG>PRODMENU<>在空置的库存槽位制做或者在已存在的库存中增加一个<IMG>TECHMENU<>。当浏览制作菜单时用<IMG>PIN<>标记设计图}
+使用<IMG>PRODMENU<>在空置的库存栏位制做或者在已存在的库存中增加一个<IMG>TECHMENU<>。当浏览制作菜单时用<IMG>PIN<>标记设计图}
 UI_EXPED_ROGUE_GRAVE1_OBJ2	{揭示循环中的记忆热点}
 UI_EXPED_ROGUE_GRAVE1_OBJ2_TI	{使用记忆共振器在循环中揭示<STELLAR>记忆热点<>。
 
@@ -13733,7 +13730,7 @@ UI_EXPED_ROGUE_KEY_MSG	{循环拒绝<FUEL>放弃<>
 <STELLAR>%ITEM%<>需要突破记忆
 完成里程碑<EXPED>%MILESTONE%<>以解锁形态}
 UI_EXPED_ROGUE_GRAVE1_MSG1	{制作一个<STELLAR>记忆共振器<>
-在库存槽位制作物品<IMG>PRODMENU<>
+在库存栏位制作物品<IMG>PRODMENU<>
 当浏览制作菜单时使用使用<IMG>PIN<>标记设计图}
 UI_EXPED_ROGUE_GRAVE1_MSG2	{使用<TECHNOLOGY>记忆共振器<>揭示<STELLAR>记忆热点<>
 在星系图中使用<EXPED>远征<>路径导航至<STELLAR>%SYSTEM%<>}
@@ -13832,16 +13829,16 @@ UI_EXPED_ROGUE_LURE_D_CRYPT	{<IMG>SLASH<><SPECIAL>里程碑已被净化<><IMG>SL
 UI_EXPED_ROGUE_LURE_OBJ1	{收集长笛材料}
 UI_EXPED_ROGUE_LURE_OBJ1_TIP	{<SPECIAL>鲸鱼之歌长笛<>设计图是从一艘被遗忘已久的货船中发现的。
 收集材料组装这个神秘的乐器。
-使用<IMG>PRODMENU<>在空置的库存槽位制作。
+使用<IMG>PRODMENU<>在空置的库存栏位制作。
 从制作菜单<STELLAR>标记<> （<IMG>PIN<>）配方以获得指导。}
 UI_EXPED_ROGUE_LURE_MSG1	{收集组装神秘<SPECIAL>鲸鱼之歌长笛<>的材料
-使用<IMG>PRODMENU<>在空置的库存槽位制作
+使用<IMG>PRODMENU<>在空置的库存栏位制作
 从制作菜单<STELLAR>标记<>（<IMG>PIN<>）配方}
 UI_EXPED_ROGUE_LURE_OBJ2	{组装鲸鱼之歌长笛}
 UI_EXPED_ROGUE_LURE_OBJ2_TIP	{<SPECIAL>鲸鱼之歌长笛<>设计图是从一艘被遗忘已久的货船中发现的。
-使用<IMG>PRODMENU<>在空置的库存槽位制作。}
+使用<IMG>PRODMENU<>在空置的库存栏位制作。}
 UI_EXPED_ROGUE_LURE_MSG2	{<SPECIAL>鲸鱼之歌长笛<>设计图是从一艘被遗忘已久的货船中发现的
-使用<IMG>PRODMENU<>在空置的库存槽位制作}
+使用<IMG>PRODMENU<>在空置的库存栏位制作}
 UI_EXPED_ROGUE_FRIG_NAME	{巨兽}
 UI_EXPED_ROGUE_FRIG_NAME_U	{巨兽}
 UI_EXPED_ROGUE_FRIG_DESC	{面对终点}
@@ -13869,7 +13866,7 @@ UI_EXPED_ROGUE_FRIG_MSG1D	{巨兽回应了你的旋律
 UI_EXPED_ROGUE_FRIG_MSG1E	{巨兽回应了你的旋律
 使用<IMG>QUICK_MENU<>回应通讯器}
 UI_EXPED_ROGUE_FRIG_MSG1_ERROR	{<SPECIAL>鲸鱼之歌长笛<><FUEL>丢失了<>
-使用<IMG>PRODMENU<>在空置库存槽位重新制作一个}
+使用<IMG>PRODMENU<>在空置库存栏位重新制作一个}
 UI_EXPED_ROGUE_FRIG_INTRO	{......
 我......记得你。
 我记得你们所有人。}
@@ -13904,8 +13901,8 @@ UI_EXPED_ROGUE_FRIG_OPT_A_3	{顺从于巨兽}
 UI_EXPED_ROGUE_FRIG_OPT_LEAVE	{逃离}
 UI_EXPED_ROGUE_FRIG_MARKER	{巨兽}
 UI_EXPED_ROGUE_FRIG_TITLE	{巨兽}
-UI_EXPED_ROGUE_FRIG_OSD	{警告<IMG>SLASH<>远古野兽在附近}
-UI_HAIL_BIOFRIG_HUD	{远古野兽的声音}
+UI_EXPED_ROGUE_FRIG_OSD	{警告<IMG>SLASH<>古代野兽在附近}
+UI_HAIL_BIOFRIG_HUD	{古代野兽的声音}
 UI_HAIL_BIOFRIG_OSD	{收到消息<IMG>SLASH<>异常频率}
 UI_DEATH_BIOFRIG	{赎他们的罪}
 UI_EXPED_ROGUE_COMM_T1_NAME	{循环已观测}
@@ -13946,13 +13943,13 @@ UI_EXPED_ROGUE_COMM_M1_DESC	{保罗专家正在寻找循环中的模式，探测
 UI_EXPED_ROGUE_COMM_M1_OBJ1	{安装太阳能射线}
 UI_EXPED_ROGUE_COMM_M1_OBJ1_TI	{<TECHNOLOGY>太阳能射线<>会将资源矿床转化为<STELLAR>液体太阳<>。
 
-访问多用途工具库存并使用<IMG>TECHMENU<>将太阳能射线安装到空置槽位中。用<IMG>PIN<><COMMODITY>标记<>配方设计图以获得详细的说明。}
+访问多用途工具库存并使用<IMG>TECHMENU<>将太阳能射线安装到空置栏位中。用<IMG>PIN<><COMMODITY>标记<>配方设计图以获得详细的说明。}
 UI_EXPED_ROGUE_COMM_M1_OBJ2	{使用太阳能射线收集液体太阳}
 UI_EXPED_ROGUE_COMM_M1_OBJ2_TI	{<TECHNOLOGY>太阳能射线<>会将资源矿床转化为<STELLAR>液体太阳<>。使用<IMG>CYCLEWEAPON<>将太阳能射线设置为激活的多用途工具模式并用它清除大块金属矿床。
 
 使用<TECHNOLOGY>分析面甲<> （<IMG>AIM<>）寻找行星资源矿床}
 UI_EXPED_ROGUE_COMM_M1_MSG1	{安装<TECHNOLOGY>太阳能射线<>
-访问多用途工具的库存，并用<IMG>TECHMENU<>在一个空槽位制作
+访问多用途工具的库存，并用<IMG>TECHMENU<>在一个空栏位制作
 用<IMG>PIN<>标记设计图配方以查看详细说明}
 UI_EXPED_ROGUE_COMM_M1_MSG2	{为保罗收集%ITEM%：%CURRENT%/%AMOUNT%
 <TECHNOLOGY>太阳能射线<>会将资源矿床转化为<STELLAR>液体太阳<>
@@ -14034,12 +14031,12 @@ UI_EXPED_PET_AGGRO_OBJ1	{收养一只掠食者同伴}
 UI_EXPED_PET_AGGRO_OBJ1_TI	{远距离使用<TECHNOLOGY>分析面甲<>识别<FUEL>危险的掠食者<>，或者近距离检查它们的牙齿。
 
 用制作出的<TRADEABLE>生物颗粒<>喂养并训练这些生物。通过快捷菜单（<IMG>QUICK_MENU<>）可以远距离抛洒这些颗粒。
-在<TECHNOLOGY>同伴登记簿<>（<IMG>QUICK_MENU<>） 解锁新的同伴槽位。}
+在<TECHNOLOGY>同伴登记簿<>（<IMG>QUICK_MENU<>） 解锁新的同伴栏位。}
 UI_EXPED_PET_AGGRO_MSG1	{收养一只<FUEL>掠食者<>同伴：0/1
 使用<TECHNOLOGY>分析面甲<>识别生物的性格
 使用<TRADEABLE>生物颗粒<> （<IMG>QUICK_MENU<>）训练生物}
 UI_EXPED_PET_AGGRO_MSG2	{收养一位掠食者同伴：0/1
-在<TECHNOLOGY>同伴登记簿<>（<IMG>QUICK_MENU<>）中解锁新的同伴槽位}
+在<TECHNOLOGY>同伴登记簿<>（<IMG>QUICK_MENU<>）中解锁新的同伴栏位}
 UI_EXPED_SMUGGLE_CONTRAB_NAME	{热力追踪}
 UI_EXPED_SMUGGLE_CONTRAB_NAME_U	{热力追踪}
 UI_EXPED_SMUGGLE_CONTRAB_DESC	{走私违禁品：%CURRENT%货币/%AMOUNT%货币}
