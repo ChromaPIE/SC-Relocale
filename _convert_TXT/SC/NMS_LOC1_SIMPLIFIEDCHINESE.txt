@@ -336,7 +336,7 @@ HAZARD	{保护}
 BLUEPRINT	{获得设计图}
 NEXT_PAGE	{下一页}
 PREV_PAGE	{上一页}
-TRADE_BUY	{从银河交易网络购买物品}
+TRADE_BUY	{从星系贸易网络购买物品}
 TRADE_SELL	{从你的库存中出售物品}
 TRADE_SUIT_INVENTORY	{套装库存}
 TRADE_SHIP_INVENTORY	{飞船库存}
@@ -370,7 +370,7 @@ OPTIONS_L1	{<IMG>ALTATTACK<> 发射榴弹}
 OPTIONS_L2	{<IMG>AIM<> 分析面甲}
 OPTIONS_L3	{<IMG>RUN<> 冲刺}
 OPTIONS_OPTIONS	{<IMG>INVENTORY<> 打开库存}
-OPTIONS_TOUCHPAD	{<IMG>INVENTORY<> 银河星图}
+OPTIONS_TOUCHPAD	{<IMG>INVENTORY<> 星系图}
 OPTIONS_SQUARE	{互动 <IMG>INTERACT<>}
 OPTIONS_CIRCLE	{扫描 <IMG>SCAN<>}
 OPTIONS_X	{激活喷气背包 <IMG>JUMP<>}
@@ -484,7 +484,7 @@ UNPIN_RECIP	{取消固定配方}
 OPT_TOUCH_TXT	{<IMG>INVENTORY<> 库存}
 OPT_L2_TXT	{<IMG>AIM<> 视觉增强器}
 OPT_L1_TXT	{<IMG>ALTATTACK<> 发射榴弹}
-OPT_DDOWN_TXT	{<IMG>QUICK_MENU<> 银河星图}
+OPT_DDOWN_TXT	{<IMG>QUICK_MENU<> 星系图}
 OPT_L3_TXT	{<IMG>SHOWHUD<> 显示平视显示器}
 OPT_LS_TXT	{<IMG>MOVE<> 移动}
 OPT_OPTIONS_TXT	{发现物/选项 <IMG>OPTIONS<>}
@@ -1991,7 +1991,7 @@ NOTIFY_GRAVE	{库存丢失<IMG>SLASH<>回到死亡地点以取回物品。
 NOTIFY_MINE_ASTEROIDS	{长按 <IMG>SHIPFIRE<> 开采小行星上的%SUBSTANCE%
 扫描（<IMG>SCAN<>）以搜寻<TECHNOLOGY>富含氚的小行星<>}
 HYPERDRIVE_HINT	{<TITLE>激活超光速推进<>
-使用快速菜单打开银河星图
+使用快速菜单打开星系图
 你能通过 <IMG>QUICK_MENU<> 进入快速菜单}
 NOTIFY_PRODUCT_UNKOWN	{%TITLE%
 在终端购买%PRODUCT%
@@ -2097,9 +2097,9 @@ NOTIFY_LEAVE_GOSTATION1	{<TITLE>制作超光速推进<>
 NOTIFY_LEAVE_GOSTATION2	{<TITLE>制作超光速推进<>
 前往空间站}
 NOTIFY_LEAVE_GOTOTERMINAL	{<TITLE>制作超光速推进<>
-在银河交易终端购买动力共振器}
+在星系贸易终端购买动力共振器}
 NOTIFY_LEAVE_TRADE	{<TITLE>赚取货币<>
-在银河交易终端
+在星系贸易终端
 出售<TRADE>贵重元素<> <IMG>TRADEABLE<> 和<RARE>稀有物品<>}
 NOTIFY_REPAIR_BINOCULARS	{<TITLE>修复分析面甲<>}
 NOTIFY_SCAN_CREATURE_UPLOAD	{<TITLE>分析并上传发现<>
@@ -2164,7 +2164,7 @@ NOTIFY_PIRATE_BATTLE	{<TITLE>攻击飞船<>
 攻击飞船还剩：<FUEL>%AMOUNT%<>}
 NOTIFY_MAKEFUEL_BUY_FLUID	{<TITLE>制作反物质<>
 基础元素 <COMMODITY>悬浮液<> 可从
-银河交易终端购买}
+星系贸易终端购买}
 NOTIFY_MAKEFUEL_ANTI_TITLE	{<TITLE>制作反物质<>}
 NOTIFY_PRODUCT_ONLY_NORES3	{你需要 %AMOUNT1%、%AMOUNT2%
 和 %AMOUNT3% 才能制作 %PRODUCT%}
@@ -2189,7 +2189,7 @@ TECH_PIN_INFO	{技术设计图已成功固定
 PRODUCT_PIN_INFO	{产品配方已成功固定
 在建造菜单按 <IMG>PIN<> 变更激活的配方}
 NOTIFY_GATHER_PROD	{在库存中制作 <IMG>INVENTORY<>}
-NOTIFY_BUY_PROD	{从银河交易终端购买}
+NOTIFY_BUY_PROD	{从星系贸易终端购买}
 NOTIFY_FINAL_GOTOMONOLITH	{<TITLE>阿特拉斯<>
 来找我们。聆听我们}
 NOTIFY_FINAL_USEMONOLITH	{<TITLE>阿特拉斯<>
@@ -2199,7 +2199,7 @@ NOTIFY_FINAL_TRAVEL	{<TITLE>阿特拉斯<>
 攀上群星}
 NOTIFY_FINAL_GOMAP	{<TITLE>阿特拉斯<>
 你的命运栖息在彼方
-按 <IMG>QUICK_MENU<> 打开银河星图}
+按 <IMG>QUICK_MENU<> 打开星系图}
 NOTIFY_FINAL_GOFORTH	{<TITLE>阿特拉斯<>
 你自由了。星系的中心在等待着你。
 不论过去未来，它会永远等着你。}
@@ -2278,7 +2278,7 @@ NOTIFY_LEAVE_GOSTATION1_ENT	{<TITLE>给超光速推进器加燃料<>
 NOTIFY_LEAVE_GOSTATION2_ENT	{<TITLE>给超光速推进器加燃料<>
 前往空间站}
 NOTIFY_LEAVE_GOTOTERMINAL_ENT	{<TITLE>给超光速推进器加燃料<>
-从银河交易终端购买反物质}
+从星系贸易终端购买反物质}
 NOTIFY_EXTREME_3	{<FUEL>大气稀薄星球<>
 可能含有大量资源
 生命维持系统压力很大}
@@ -3759,7 +3759,7 @@ TRA_HARV_RES_A_2	{收到一条带有少量货币奖励的即时回复！}
 TRA_HARV_RES_B_2	{我接收到一条忧心忡忡的回复，还有我举报的奖励。}
 TRA_HARV_DESC_3	{终端上有一条群发的公司信息尚未阅读。上面满是大数目和看似很诱人的利润率。从信中的语气来看，发信人似乎很满意，满怀感激。}
 DNT_TRA_HARV_LANG_3	{Friend! Gek Trade Federation announces high profit! Choose units or product recipe reward!}
-TRA_HARV_DESC_3A	{在其末尾有两幅图片可供雇员选择：一个是银河货币银行账户，另一个是一整批货物。}
+TRA_HARV_DESC_3A	{在其末尾有两幅图片可供雇员选择：一个是星系货币银行账户，另一个是一整批货物。}
 TRA_HARV_OPT_A_3	{选择货币账户}
 TRA_HARV_OPT_B_3	{选择飞船的货物}
 TRA_HARV_RES_A_3	{自动气味散播器打开时，一道怡人的香气扑面而来！
@@ -5489,7 +5489,7 @@ EXP_NPC_ANOMALY_DESC_4	{我靠近纳达时发现它正连接着一系列仪器�
 纳达看到了我并向我解释。星系各处都在重复这种模式，本该是千差万别的元素却完全相同。这绝不是巧合。这是阿特拉斯造成的吗？房间另一头的保罗笑了起来。}
 EXP_NPC_ANOMALY_DESC_5	{这次纳达没有靠近我。它面甲上闪动着警示的灯光。我们之间的关系发生了变化。
 
-纳达解释道它的理论机能进化了。它发现银河中除了残酷的因果关系外其他什么都没有，更别说什么自由意志了。它担忧我们只不过是更高等存在创造出来的棋子，也就是任他们摆布的傀儡而已。纳达感觉我可能是个例外。难道我也是傀儡的操控者吗？}
+纳达解释道它的理论机能进化了。它发现星系中除了残酷的因果关系外其他什么都没有，更别说什么自由意志了。它担忧我们只不过是更高等存在创造出来的棋子，也就是任他们摆布的傀儡而已。纳达感觉我可能是个例外。难道我也是傀儡的操控者吗？}
 EXP_NPC_ANOMALY_DESC_6	{纳达多疑的性格感染了我。我进入房间之前先探查了里面的情况。吉克和保罗似乎正不亦乐乎地干着杂活。而纳达的躯体静止不动，只有灯光仍在闪动。它面甲上......刚刚似乎闪过了一点红光？如果是，那红光并没有再次出现。
 
 我等了一阵后，大摇大摆地进了房间。保罗热情无比地向我打招呼，而纳达跟我保持着距离，他们之间的信任越来越脆弱。}
@@ -8229,7 +8229,7 @@ FINAL_ATLAS_RES_B_1	{无论是不是模拟，我已经从这条直径中被释�
 
 空间的结构展示了它自身及内部的黑洞。或许我会在那里找到答案。}
 INTRCT_NONE	{无}
-INTRCT_SHOP	{银河交易终端}
+INTRCT_SHOP	{星系贸易终端}
 INTRCT_NPC_WAR	{维吉恩}
 INTRCT_NPC_EXP	{科尔瓦克斯}
 INTRCT_NPC_TRA	{吉克}
@@ -8394,7 +8394,7 @@ TRADEABLE3_SYMBOL	{Ni}
 TRADEABLE3_SUBTITLE	{中性元素 - 罕见}
 TRADEABLE3_DESCRIPTION	{这种银白色金属在多种工业生产过程中都要用到。
 
-通常可以在银河交易网络中进行买卖。
+通常可以在星系贸易网络中进行买卖。
 
 如果有正确的配方，可以将其与其他元素组合成珍贵的合金。}
 TRADEABLE4_NAME	{铝}
@@ -8450,21 +8450,21 @@ ION1_NAME	{超光速推进}
 ION1_SUBTITLE	{光速曲速推进器}
 ION1_DESCRIPTION	{可让飞船达到曲速并在相邻星系间跳跃的超光速推进器。
 
-建议使用者通过银河星图使用超光速推进系统。}
+建议使用者通过星系图使用超光速推进系统。}
 ION2_NAME	{曲速反应器（西格玛型）}
 ION2_SUBTITLE	{超光速推进配件}
 ION2_DESCRIPTION	{超光速推进被赋予更为强劲的深空探索性能。
  
 在深空中独自旅行时请多加小心。
 
-建议使用者通过银河星图使用超光速推进系统。}
+建议使用者通过星系图使用超光速推进系统。}
 ION3_NAME	{曲速反应器（陶型）}
 ION3_SUBTITLE	{超光速推进配件}
 ION3_DESCRIPTION	{超光速推进运用先进的聚变反应，使飞船曲速和强度更高。使用者能驾驶飞船跳跃到更深层的空间。
 
 为了避免核心熔毁、融合物质失控和人员伤亡，我们限制了曲速核心的能量输出。
 
-建议使用者通过银河星图使用超光速推进系统。}
+建议使用者通过星系图使用超光速推进系统。}
 ION4_NAME	{曲速反应器（西塔型）}
 ION4_SUBTITLE	{超光速推进配件}
 ION4_DESCRIPTION	{这种热核反应系统没有能量输出的限制，但做了稳定化处理。装进使用者的超光速推进后，飞船在深空中跳跃的距离可进一步增加。
@@ -9397,7 +9397,7 @@ ALLOY1_NAME_L	{阿洛姆}
 ALLOY1_SUBTITLE	{中性金属合金}
 ALLOY1_DESCRIPTION	{可塑性很强的轻质合金。
 
-此金属广泛运用于行星前哨基站与设施的建筑工作，在银河交易网络中十分抢手。}
+此金属广泛运用于行星前哨基站与设施的建筑工作，在星系贸易网络中十分抢手。}
 ALLOY2_NAME	{赫罗克斯}
 ALLOY2_NAME_L	{赫罗克斯}
 ALLOY2_SUBTITLE	{中性金属合金}
@@ -9409,13 +9409,13 @@ ALLOY3_NAME_L	{列米姆}
 ALLOY3_SUBTITLE	{中性金属合金}
 ALLOY3_DESCRIPTION	{重金属合金。
  
-这种重要的材料强度很高，广泛运用于建造货船，在银河交易网络中销路很好。}
+这种重要的材料强度很高，广泛运用于建造货船，在星系贸易网络中销路很好。}
 ALLOY4_NAME	{克罗尼姆}
 ALLOY4_NAME_L	{克罗尼姆}
 ALLOY4_SUBTITLE	{中性金属合金}
 ALLOY4_DESCRIPTION	{这种合金坚固耐用，主要用来建造飞船外壳与深空探索无人机技术。
 
-克罗尼姆交易市场是银河交易网络中的重要组成部分。}
+克罗尼姆交易市场是星系贸易网络中的重要组成部分。}
 ALLOY5_NAME	{马格莫克斯}
 ALLOY5_NAME_L	{马格莫克斯}
 ALLOY5_SUBTITLE	{中性金属合金}
@@ -9471,7 +9471,7 @@ NEWPROD2_DESC	{多用于仪式的武器，是维吉恩传统和文化中的重�
 NEWPROD3_DESC	{科尔瓦克斯使用的设备，用于存储历史文化信息。}
 NEWPROD4_DESC	{非常珍贵的科学工具。}
 NEWPROD5_DESC	{贵重电脑配件。一款受人喜爱的交易物品。}
-NEWPROD6_DESC	{抢手设备，常见于银河交易市场。}
+NEWPROD6_DESC	{抢手设备，常见于星系贸易市场。}
 NEWPROD7_DESC	{用于科学研究和试验中的重要物质。}
 NEWPROD10_NAME	{水之球体}
 NEWPROD11_NAME	{漩涡立方}
@@ -9490,18 +9490,18 @@ NEWPROD11_DESC	{从行星洞穴系统深处出土的远古物件。表面入手�
 
 这些立方体是金属和岩石的融合体，难以进行工业加工。因此，它们只对收藏家有价值。
 
-可以在<TECHNOLOGY>银河交易终端<>出售。}
+可以在<TECHNOLOGY>星系贸易终端<>出售。}
 NEWPROD12_DESC	{从陆生海胆中提取的稳定毒腺。其宿主海胆实际上是一群体形较小的原始生物，是很多年缓慢生长和合作基础上的群体。
 
 既可药用，也可在一些风险较高的菜肴中用作食材。
 
-可以在<TECHNOLOGY>银河交易终端<>出售。}
+可以在<TECHNOLOGY>星系贸易终端<>出售。}
 NEWPROD13_DESC	{在发散超重力作用下形成的超对称粒子簇。它们形成时会产生一个<STELLAR>微型裂缝<>，提取球体会促生局部现实弱化。<FUEL>护卫部队<>会做出反应来稳定这种异象。
 
-可以在<TECHNOLOGY>银河交易终端<>出售。}
+可以在<TECHNOLOGY>星系贸易终端<>出售。}
 NEWPROD14_DESC	{这种宝石要花几百年的时间才能形成于超级卵生物种的卵中。这些活体种子极具观赏性，是蕴含着潜在生命的透明颗粒。
 
-可以在<TECHNOLOGY>银河交易终端<>出售。}
+可以在<TECHNOLOGY>星系贸易终端<>出售。}
 ATLAS_SEED_SUBTITLE	{独特的珍品}
 ATLAS_SEED_10_NAME	{太阳之心}
 ATLAS_SEED_10_NAME_L	{太阳之心}
@@ -11141,7 +11141,7 @@ PC_KEYBOARD_LEFT	{左}
 PC_KEYBOARD_RIGHT	{右}
 PC_KEYBOARD_UP	{上}
 SHIP_PULSEJUMP	{脉冲发动机}
-SHIP_GALACTICMAP	{银河星图}
+SHIP_GALACTICMAP	{星系图}
 PC_GRAPHICS_MAX_FPS	{帧数最大值}
 PC_GRAPHICS_MAX	{最大值}
 MOUSE_SMOOTHING	{鼠标平滑}
@@ -11226,8 +11226,8 @@ NPC_HIRE_BUILDER_OPT_B_9	{不，我建的还不够}
 NPC_HIRE_BUILDER_RES_B_9	{那就别站着发愣。开始建造吧。}
 NPC_HIRE_BUILDER_DESC_10	{我的建造师希望能在我们那渺小的前哨基站和更为广阔的星系之间建立一条贸易链。我们已经生产了很多额外的资源，若能出售，将是一笔不小的利润。
 
-幸运的是，解决办法恰好属于它的专业领域。建造师说它可以提供一份<TECHNOLOGY>银河交易终端<>的设计图，我所需要做的，就是找到一些适合新终端电路的<COMMODITY>绝缘胶<>。}
-NPC_HIRE_BUILDER_LANG_10	{只要有相应的终端就能访问银河交易网络，可如果它在交易时过热，你就有可能损失数百万。找科学家问问，它知道如何制作我所需要的<COMMODITY>绝缘胶<>。}
+幸运的是，解决办法恰好属于它的专业领域。建造师说它可以提供一份<TECHNOLOGY>星系贸易终端<>的设计图，我所需要做的，就是找到一些适合新终端电路的<COMMODITY>绝缘胶<>。}
+NPC_HIRE_BUILDER_LANG_10	{只要有相应的终端就能访问星系贸易网络，可如果它在交易时过热，你就有可能损失数百万。找科学家问问，它知道如何制作我所需要的<COMMODITY>绝缘胶<>。}
 NPC_HIRE_BUILDER_OPT_A_10	{我拿到了你需要的绝缘胶}
 NPC_HIRE_BUILDER_RES_A_10	{好极了。宇宙级的商业机会正等着我们。吉克人会以你为荣的。}
 NPC_HIRE_BUILDER_OPT_B_10	{我换个时间再来找你}
@@ -12386,7 +12386,7 @@ GMAP_HOMEBASE	{当前已认领基地}
 GMAP_HOMEBASE_CAPS	{当前已认领基地}
 GMAP_PLANET_BASE	{侦测到星球基地}
 GMAP_PLANET_BASE_CAPS	{侦测到星球基地}
-DISC_UI_SET_GMAP_WP	{设置银河航路点}
+DISC_UI_SET_GMAP_WP	{设置星系航路点}
 GMAP_DISC_WP	{发现航路点}
 LOC_SIGNAL_CODE	{信号代码}
 LOC_SIGNAL_CODE_CAPS	{信号代码}
@@ -12723,7 +12723,7 @@ SHOP_PRODUCT	{产品}
 SHOP_BLUEPRINT	{设计图}
 STANDING_UI_NEXT	{下一级声望（%STAND%）：%NUM%}
 MULTI_SHIP_BUY_ADD	{购买}
-MULTI_SHIP_BUY_ADD_DESC	{全额购买并添加至收藏}
+MULTI_SHIP_BUY_ADD_DESC	{全额购买并纳入飞船库}
 MULTI_SHIP_EXCHANGE	{交换}
 MULTI_SHIP_EXCHANGE_DESC	{以折扣价交易当前资产}
 OPTIONS_VIEW_CTRLS_VEHICLE	{查看载具操控}
@@ -13381,8 +13381,8 @@ BLD_LADDER_NAME	{梯子}
 BLD_LADDER_NAME_L	{梯子}
 BLD_LADDER_DESCRIPTION	{结实轻便的梯子，具有经过强化的锚可被附于墙上。}
 BLD_LADDER_SUBTITLE	{建造物品}
-BLD_TRADETERMINAL_NAME	{银河交易终端}
-BLD_TRADETERMINAL_NAME_L	{银河交易终端}
+BLD_TRADETERMINAL_NAME	{星系贸易终端}
+BLD_TRADETERMINAL_NAME_L	{星系贸易终端}
 BLD_TRADETERMINAL_DESCRIPTION	{一座专为提供通往市场的道路，便于交易资源与商品的交易终端。}
 BLD_TRADETERMINAL_SUBTITLE	{交易终端}
 BLD_HARVESTER_NAME	{自主采矿机}

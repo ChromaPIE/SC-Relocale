@@ -189,7 +189,7 @@ UI_QUAD_EGG_DESC	{从行星洞穴系统深处出土的远古物件。表面触�
 
 这些立方体是金属和岩石的融合体，难以进行工业加工。因此，它们只对收藏家有价值。
 
-可以在<TECHNOLOGY>银河交易终端<>出售。}
+可以在<TECHNOLOGY>星系贸易终端<>出售。}
 SET_STONE_NATURAL_1	{自然粉}
 SET_STONE_NATURAL_2	{自然棕}
 SET_STONE_NATURAL_3	{灰红}
@@ -588,7 +588,7 @@ UI_MEDAL_DESC_WORDS	{许多<STELLAR>外星生命体<>会传授它们母语中的
 详见指南中“外星生命体”部分的<STELLAR>学习词汇<>。}
 UI_MEDAL_DESC_DIST_WARP	{若要前往新的星系，首先请打开你的<VAL_ON>星系图<>（<IMG>QUICK_MENU<>）。选择一个星系然后用<IMG>GALAXYWARP<>激活超光速推进器。
 
-通过<VAL_ON>自由查看<>直接选择星系，或者跟随<VAL_ON>预设路径<>的方向<VAL_ON>推进<>。调整后的路径将显示不同的银河系目的地。}
+通过<VAL_ON>自由查看<>直接选择星系，或者跟随<VAL_ON>预设路径<>的方向<VAL_ON>推进<>。调整后的路径将显示不同的星系目的地。}
 UI_MEDAL_DESC_DISC_CREATURES	{使用<TECHNOLOGY>分析面甲<>（<IMG>AIM<>）定位星球上的动物群系，长按<IMG>BINOCSCAN<>进行扫描。未被发现的生物将以<FUEL>红点<>显示。
 查看星球的<TECHNOLOGY>发现<>页面，了解寻找特定生物的时间和地点的相关提示。
 
@@ -606,7 +606,7 @@ UI_MEDAL_DESC_SENTINELS	{大多数世界都有<SPECIAL>护卫无人机<>巡逻�
 使用<TECHNOLOGY>分析面甲<>定位护卫。
 
 详见指南中的<STELLAR>战斗<>部分。}
-UI_MEDAL_DESC_MONEY	{你可以在银河交易网络上出售物品获取<COMMODITY>货币<>（<IMG>UNITS<>）。
+UI_MEDAL_DESC_MONEY	{你可以在星系贸易网络上出售物品获取<COMMODITY>货币<>（<IMG>UNITS<>）。
 
 在你的飞船里安装一台<TECHNOLOGY>经济扫描仪<>来查看星系图上的经济数据，然后规划<COMMODITY>贸易路线<>以实现利润最大化。找出<VAL_ON>互补的经济体类型<>，规划出完美的贸易路线。
 
@@ -626,7 +626,7 @@ UI_MEDAL_DESC_WORDS_TRA	{许多<TRANS_TRA>吉克人<>会传授它们母语中的
 详见指南中“外星生命体”部分的<STELLAR>学习词汇<>。}
 UI_MEDAL_DESC_SYSTEMS_TRA	{若要前往新的星系，首先请打开你的<VAL_ON>星系图<>（<IMG>QUICK_MENU<>）。选择一个星系然后用<IMG>GALAXYWARP<>激活超光速推进器。
 
-通过<VAL_ON>自由查看<>直接选择星系，或者跟随<VAL_ON>预设路径<>的方向<VAL_ON>推进<>。调整后的路径将显示不同的银河系目的地。
+通过<VAL_ON>自由查看<>直接选择星系，或者跟随<VAL_ON>预设路径<>的方向<VAL_ON>推进<>。调整后的路径将显示不同的星系目的地。
 
 <TRANS_TRA>吉克人<>控制的星系将以喙部标志显示。}
 UI_MEDAL_DESC_SMUGGLE	{在部分星系中，当地原本掌权的派系已经被叛乱的亡命之徒部队<VAL_ON>推翻<>。此类星系将在<VAL_ON>星系图<>（<IMG>QUICK_MENU<>）中以骷髅标志显示。
@@ -643,7 +643,7 @@ UI_MEDAL_DESC_WORDS_WAR	{许多<TRANS_WAR>维吉恩人<>会传授它们母语中
 
 详见指南中“外星生命体”部分的<STELLAR>学习词汇<>。}
 UI_MEDAL_DESC_SYSTEMS_WAR	{若要前往新的星系，首先请打开你的<VAL_ON>星系图<>（<IMG>QUICK_MENU<>）。选择一个星系然后用<IMG>GALAXYWARP<>激活超光速推进器。
-通过<VAL_ON>自由查看<>直接选择星系，或者跟随<VAL_ON>预设路径<>的方向<VAL_ON>推进<>。调整后的路径将显示不同的银河系目的地。
+通过<VAL_ON>自由查看<>直接选择星系，或者跟随<VAL_ON>预设路径<>的方向<VAL_ON>推进<>。调整后的路径将显示不同的星系目的地。
 
 <TRANS_WAR>维吉恩人<>控制的星系将以眼睛标志显示。}
 UI_MEDAL_DESC_WALKERS	{大多数世界都有护卫无人机巡逻。
@@ -664,7 +664,7 @@ UI_MEDAL_DESC_WORDS_EXP	{许多<TRANS_EXP>科尔瓦克斯人<>会传授它们母
 详见指南中“外星生命体”部分的<STELLAR>学习词汇<>。}
 UI_MEDAL_DESC_SYSTEMS_EXP	{若要前往新的星系，首先请打开你的<VAL_ON>星系图<>（<IMG>QUICK_MENU<>）。选择一个星系然后用<IMG>GALAXYWARP<>激活超光速推进器。
 
-通过<VAL_ON>自由查看<>直接选择星系，或者跟随<VAL_ON>预设路径<>的方向<VAL_ON>推进<>。调整后的路径将显示不同的银河系目的地。
+通过<VAL_ON>自由查看<>直接选择星系，或者跟随<VAL_ON>预设路径<>的方向<VAL_ON>推进<>。调整后的路径将显示不同的星系目的地。
 
 <TRANS_EXP>科尔瓦克斯人<>控制的星系将以面甲标志显示。}
 UI_MEDAL_DESC_NANITES	{纳米星团常常可以通过探索行星建筑物，或出售/精炼你获得的物品来得到以及<VAL_ON>上传<>发现来得到。
@@ -679,7 +679,7 @@ UI_MEDAL_DESC_MISSIONS_TGUILD	{拜访空间站<COMMODITY>任务分派员<>以完
 提升你在所在星系的<STELLAR>主导生命体<>中的声望将使你能够承接到更多类型的任务。}
 UI_MEDAL_DESC_MONEY_TGUILD	{商人公会青睐家财万贯的富裕成员。
 
-在银河交易网络出售物品换取<COMMODITY>货币<>（<IMG>UNITS<>）。类似<STELLAR>远古骸骨<>的稀有物品，以及类似<COMMODITY>星绸<>的交易货物能够为老练的商人带来极高的利润。
+在星系贸易网络出售物品换取<COMMODITY>货币<>（<IMG>UNITS<>）。类似<STELLAR>远古骸骨<>的稀有物品，以及类似<COMMODITY>星绸<>的交易货物能够为老练的商人带来极高的利润。
 
 详见指南中的<STELLAR>赚钱<>部分。}
 UI_MEDAL_DESC_FARMING	{在你的行星或货船<STELLAR>基地<>中种植植物。
@@ -723,7 +723,7 @@ UI_MEDAL_DESC_SCANNING	{参考<TECHNOLOGY>发现物<>页面，了解行星上具
 UI_MEDAL_DESC_DIST_WARP_EGUILD	{数据是探险家公会的硬通货，拥有在星辰之间长途跋涉的经历将会赢得公会成员们的一致好感。
 
 若要前往新的星系，首先请打开你的<VAL_ON>星系图<>（<IMG>QUICK_MENU<>）。选择一个星系然后用<IMG>GALAXYWARP<>激活超光速推进器。
-通过<VAL_ON>自由查看<>直接选择星系，或者跟随<VAL_ON>预设路径<>的方向<VAL_ON>推进<>。调整后的路径将显示不同的银河系目的地。}
+通过<VAL_ON>自由查看<>直接选择星系，或者跟随<VAL_ON>预设路径<>的方向<VAL_ON>推进<>。调整后的路径将显示不同的星系目的地。}
 UI_MEDAL_DESC_PLANTS	{使用<TECHNOLOGY>分析面甲<>（<IMG>AIM<>）扫描<TRADEABLE>行星植被<>。
 扫描植物可获取<STELLAR>货币<>。为你的发现命名并将其上传，获得<STELLAR>纳米星团<>。
 可在日志中的<STELLAR>探险指南<>中查看行星的整体发现进度。}
@@ -848,7 +848,7 @@ CHARGING_REQUIREMENTS_EASY	{闲适}
 CHARGING_REQUIREMENTS_NORMAL	{标准}
 CHARGING_REQUIREMENTS_HARD	{困难}
 CURRENCY_COST	{购买}
-CURRENCY_COST_DESC	{你可以使用<COMMODITY>货币<>（<IMG>UNITS<>）在<VAL_ON>银河交易网络<>购买物品。技术通常可以用<TECHNOLOGY>纳米星团<>（<IMG>NANITE<>）买到。
+CURRENCY_COST_DESC	{你可以使用<COMMODITY>货币<>（<IMG>UNITS<>）在<VAL_ON>星系贸易网络<>购买物品。技术通常可以用<TECHNOLOGY>纳米星团<>（<IMG>NANITE<>）买到。
 
 该设置影响全宇宙的货币与纳米星团购买价格。<STELLAR>免费<>设置还将会影响任务进度以及其他相似对话选项中的诸多消耗成本。}
 COSTS_NONE	{闲适}
@@ -1031,7 +1031,7 @@ UI_FIREWORK_PACK_TWIT_03_DESC	{一包包含三种烟花的综合烟花包。其�
 SUIT_ROCKETLOCKER	{交易火箭}
 UI_SUIT_ROCKET_NAME	{交易火箭}
 UI_SUIT_ROCKET_NAME_L	{交易火箭}
-UI_SUIT_ROCKET_DESC	{直接连接至<TECHNOLOGY>银河交易网络<>的私人火箭装置。这种单元将允许使用者在一艘小型太空飞船中装载货物。发射之后，飞船装载的货物将被运输至最近的贸易枢纽并<STELLAR>自动出售<>。
+UI_SUIT_ROCKET_DESC	{直接连接至<TECHNOLOGY>星系贸易网络<>的私人火箭装置。这种单元将允许使用者在一艘小型太空飞船中装载货物。发射之后，飞船装载的货物将被运输至最近的贸易枢纽并<STELLAR>自动出售<>。
 
 用<IMG>QUICK_MENU<><STELLAR>召唤<>交易火箭。}
 UI_SUIT_ROCKET_SUB	{商贸导弹召唤装置}
@@ -3265,11 +3265,11 @@ UI_PORTAL_OVERSEER_6	{<STORY_HIGH>{{现在......想象一下，朋友。一个�
 UI_PORTAL_OVERSEER_7	{<STORY_HIGH>{{一切都在调整中。我们现在已经准备好迎接一名吉克农民了。实际上，我已经准备好它们的合同了。你只需要收集完成它们工作站所需的日光茄就可以了。}}<>
 
 监督者的信心大增，并又想要扩展我的家园。我觉得很难拒绝它们，因为农民的确可能打开新世界的大门，创造更多可能性。}
-UI_PORTAL_OVERSEER_8	{监督者要求我提供<TECHNOLOGY>电路板<>，以打造一个<TECHNOLOGY>银河交易终端<>设计图。
+UI_PORTAL_OVERSEER_8	{监督者要求我提供<TECHNOLOGY>电路板<>，以打造一个<TECHNOLOGY>星系贸易终端<>设计图。
 
 <STORY_HIGH>{{一旦你拥有了农民，就能够畅通无阻地进行交易了！不用被来回牵制就能从光荣的收获中获益！}}<>
 
-我对吉克所执着的交易没有什么热情。不过，在家园中就能直接访问银河市场的确很便利。}
+我对吉克所执着的交易没有什么热情。不过，在家园中就能直接访问星系市场的确很便利。}
 UI_PORTAL_OVERSEER_9	{在我靠近监督者时，我几乎可以确定听到它们用一种我听过却不明白的语言自言自语。但是过了一会，我就没再听到关于毒液的事情了。我一定是搞错了。
 
 <STORY_HIGH>{{我相信我们的科学家能够满足你的需求，是不是？他们拥有我们需要的电路吗？}}<>
@@ -3342,7 +3342,7 @@ UI_PORTAL_SCIENTIST_3_B	{我把科尔瓦克斯的智慧核心插入传输塔，�
 
 <><TECHNOLOGY>假设<><STORY_HIGH>：护卫|阿特拉斯|宇宙焦点|对策处理中
 
-<><TECHNOLOGY>风险评估<><STORY_HIGH>：熵。银河毁灭|重生
+<><TECHNOLOGY>风险评估<><STORY_HIGH>：熵。星系毁灭|重生
 
 错误
 阿特拉斯
@@ -4346,7 +4346,7 @@ UI_WIKI_SHORT_DISMANTLE	{从建造菜单（<IMG>BUILD_MENU<>）中部署在星�
 UI_WIKI_SHORT_POWER	{许多基地技术设备都需要<TECHNOLOGY>电力模块<>才能运行。这些技术都必须要连接到由<STELLAR>发电机<>和<STELLAR>电池<>组成的电网上。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_SILOS	{工业部件包含<TECHNOLOGY>电磁发电机<>和<TECHNOLOGY>矿物提取器<>与<TECHNOLOGY>气体提取器<>，且如果将它们放置在正确位置，可以产生无尽电力和资源。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_SURVEY	{<TECHNOLOGY>调查设备<>是多用途工具<TECHNOLOGY>分析面甲<>的升级装备。它可以探测到行星上的<STELLAR>能源<>和<STELLAR>资源热点<>。<VAL_ON>了解更多......<>}
-UI_WIKI_SHORT_TRADE_1	{你可以在<VAL_ON>银河交易网络<>上出售物品获取<COMMODITY>货币<>（<IMG>UNITS<>）。空间站里的<SPECIAL>任务板<>是不错的收入来源。<TRADEABLE>务农<>非常赚钱。<VAL_ON>了解更多......<>}
+UI_WIKI_SHORT_TRADE_1	{你可以在<VAL_ON>星系贸易网络<>上出售物品获取<COMMODITY>货币<>（<IMG>UNITS<>）。空间站里的<SPECIAL>任务板<>是不错的收入来源。<TRADEABLE>务农<>非常赚钱。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_TRADE_2	{<TRADEABLE>务农<>非常赚钱。建造一个<TECHNOLOGY>农业终端<>，并雇佣一名<TRADEABLE>农民<>研究新植物品种。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_TRADE_6	{制作<VAL_ON>高级产品<>是一个挣钱的好方法。<VAL_ON>了解更多......<>}
 UI_WIKI_SHORT_TRADE_3	{在<VAL_ON>不同的恒星系<>里，资源会以<VAL_ON>不同的价格<>出售。规划贸易航线以实现利润最大化。<VAL_ON>了解更多......<>}
@@ -4795,7 +4795,7 @@ UI_WIKI_EXP_STANDING_MIS_MSG3	{与<TRANS_EXP>科尔瓦克斯人<>的声望达到
 UI_WIKI_EXP_STANDING_SE	{科尔瓦克斯星系}
 UI_WIKI_TG_STANDING_NAME	{里程碑：商人公会声望}
 UI_WIKI_TG_STANDING_OBJ	{提升你在商人公会中的声望：%CURRENT%/%AMOUNT%}
-UI_WIKI_TG_STANDING_OBJ_TIP	{代表着遍布银河的贸易公司与独立商人的集体组织，<STELLAR>商人公会<>会以成员的名义帮助管理并招募有志向的驾驶员。
+UI_WIKI_TG_STANDING_OBJ_TIP	{代表着遍布星系的贸易公司与独立商人的集体组织，<STELLAR>商人公会<>会以成员的名义帮助管理并招募有志向的驾驶员。
 
 完成空间站<COMMODITY>任务分派员<>提供的商人公会任务以提高你的<SPECIAL>声望<>。}
 UI_WIKI_TG_STANDING_DESC	{提高你与<STELLAR>商人公会<>之间的关系，推进你在<STELLAR>商人公会声望<>里程碑中的级别。}
@@ -4812,7 +4812,7 @@ UI_WIKI_TG_STANDING_MIS_MSG3	{与<STELLAR>商人公会<>的声望达到<STELLAR>
 级别进度：%CURRENT%/%AMOUNT%}
 UI_WIKI_WG_STANDING_NAME	{里程碑：雇佣兵公会声望}
 UI_WIKI_WG_STANDING_OBJ	{提升你在雇佣兵公会中的声望：%CURRENT%/%AMOUNT%}
-UI_WIKI_WG_STANDING_OBJ_TIP	{遍布银河的各个佣兵组织构成的松散联盟，<STELLAR>雇佣兵公会<>的成员中不乏有相互竞争的派系，往往一有机会便会大打出手。
+UI_WIKI_WG_STANDING_OBJ_TIP	{遍布星系的各个佣兵组织构成的松散联盟，<STELLAR>雇佣兵公会<>的成员中不乏有相互竞争的派系，往往一有机会便会大打出手。
 
 完成空间站<COMMODITY>任务分派员<>提供的雇佣兵公会任务以提高你的<SPECIAL>声望<>。}
 UI_WIKI_WG_STANDING_DESC	{提高你与<STELLAR>雇佣兵公会<>之间的关系，推进你在<STELLAR>雇佣兵公会声望<>里程碑中的级别。}
@@ -4931,7 +4931,7 @@ UI_WIKI_JOURNEY_MSG	{<STELLAR>旅行里程碑<>记录着你在宇宙中的旅行
 <COMMODITY>标记<>一个里程碑以在任务日志中添加指引}
 UI_WIKI_ALIENS_MET_NAME	{里程碑：遭遇外星人}
 UI_WIKI_ALIENS_MET_OBJ	{遇见外星人：%CURRENT%/%AMOUNT%}
-UI_WIKI_ALIENS_MET_DESC	{与遍布银河系的智慧<STELLAR>外星生命体<>见面，推进你在<STELLAR>遭遇外星人<>里程碑的级别。}
+UI_WIKI_ALIENS_MET_DESC	{与遍布星系的智慧<STELLAR>外星生命体<>见面，推进你在<STELLAR>遭遇外星人<>里程碑的级别。}
 UI_WIKI_ALIENS_MET_MSG	{遭遇外星人里程碑到达<STELLAR>“%MILESTONE%”<>
 空间站与行星前哨基站能够找到各式各样的外星生命体
 与外星人互动（<IMG>INTERACT<>）并与他们打招呼
@@ -4982,7 +4982,7 @@ UI_WIKI_MONEY_NAME	{里程碑：已获得货币}
 UI_WIKI_MONEY_OBJ	{获取货币：%CURRENT%/%AMOUNT%}
 UI_WIKI_MONEY_DESC	{积累<COMMODITY>货币<>财富，推进你在<STELLAR>已获得货币<>里程碑的级别。}
 UI_WIKI_MONEY_MSG	{已获得货币里程碑到达<STELLAR>“%MILESTONE%”<>
-在银河交易网络出售物品以换取<COMMODITY>货币<>（<IMG>UNITS<>）
+在星系贸易网络出售物品以换取<COMMODITY>货币<>（<IMG>UNITS<>）
 查看指南中的<STELLAR>赚钱<>部分，了解获取货币的途径
 已获得货币：%CURRENT%/%AMOUNT%}
 UI_WIKI_ENEMIES_NAME	{里程碑：飞船摧毁}
@@ -5344,7 +5344,7 @@ UI_DEEP_SPACE_TRAIT_EXPLORE_2	{跨现实的回忆}
 UI_DEEP_SPACE_TRAIT_EXPLORE_3	{远古知识}
 UI_DEEP_SPACE_TRAIT_EXPLORE_4	{重新认识}
 UI_DEEP_SPACE_TRAIT_EXPLORE_5	{动物群系同理心}
-UI_DEEP_SPACE_TRAIT_EXPLORE_6	{银河智慧}
+UI_DEEP_SPACE_TRAIT_EXPLORE_6	{星系智慧}
 UI_DEEP_SPACE_TRAIT_EXPLORE_7	{迁徙洞察力}
 UI_DEEP_SPACE_TRAIT_EXPLORE_8	{群星记忆}
 UI_DEEP_SPACE_TRAIT_EXPLORE_9	{深空土著}
@@ -5449,9 +5449,9 @@ BLD_FRE_ROOM_EXTR_DESC	{先进的集成货船设备。使用复杂的吸气口�
 
 该模块作为一个<STELLAR>完整的房间<>设置，并预装了其功能单元。}
 UI_FRE_EXTR_DESC	{收获深空气体}
-BLD_FRE_ROOM_SHOP_NAME	{银河交易室}
-BLD_FRE_ROOM_SHOP_NAME_L	{银河交易室}
-BLD_FRE_ROOM_SHOP_DESC	{集成货船设备，可以即时在本地访问<TECHNOLOGY>银河交易市场<>以购买资源和商品。
+BLD_FRE_ROOM_SHOP_NAME	{星系贸易室}
+BLD_FRE_ROOM_SHOP_NAME_L	{星系贸易室}
+BLD_FRE_ROOM_SHOP_DESC	{集成货船设备，可以即时在本地访问<TECHNOLOGY>星系贸易市场<>以购买资源和商品。
 
 该模块作为一个<STELLAR>完整的房间<>设置，并预装了其功能单元。}
 BLD_FRE_ROOM_LADDER_NAME	{梯子模块}
@@ -5881,7 +5881,7 @@ FLEET_TRADING_WHALE_7	{在%PLANET%星球上与%RACE%商人进行交易......<STE
 FLEET_EXPLORE_WHALE_1	{活体飞船舰指挥舰队穿过<SPECIAL>黑洞<>......<STELLAR>呲呲呲<>......在%SYSTEM%分区重新出现......<STELLAR>呲呲呲<>......<SPECIAL>现实折叠矢量<>......<STELLAR>呲呲<>......在两个星系中都部署了调查探测器。}
 FLEET_EXPLORE_WHALE_2	{探险队被%NUM%艘活体飞船舱室改变了方向......<STELLAR>呲呲呲<>......追赶到%CLASS%级星体。发现了<SPECIAL>巢穴<>......<STELLAR>呲呲呲<>......数个星球。迁移模式已被记录。}
 FLEET_EXPLORE_WHALE_3	{核实档案显示......<STELLAR>呲呲呲<>......%SYSTEM%由工作人员充分记录......<STELLAR>呲呲呲<>...... <SPECIAL>不记得了？<>......<STELLAR>......<>......继续前进。}
-FLEET_EXPLORE_WHALE_4	{活体飞船坚持......<STELLAR>呲呲呲<>......银河系道路......<STELLAR>呲呲<>......<SPECIAL>转向<>......<STELLAR>呲呲<>......勉强避免了与超新星的碰撞。%SYSTEM%坍缩的细节已被观测并记录。}
+FLEET_EXPLORE_WHALE_4	{活体飞船坚持......<STELLAR>呲呲呲<>......星系道路......<STELLAR>呲呲<>......<SPECIAL>转向<>......<STELLAR>呲呲<>......勉强避免了与超新星的碰撞。%SYSTEM%坍缩的细节已被观测并记录。}
 FLEET_EXPLORE_WHALE_5	{指向......<STELLAR>呲呲呲<>...... <SPECIAL>深空<>......<STELLAR>呲呲呲<>......获救的搁浅者%RACE%，没有燃料的漂流。<SPECIAL>实体<>扩展了......<STELLAR>呲呲呲<>......来自家人的感激之情。}
 FLEET_EXPLORE_WHALE_6	{......<STELLAR>呲呲呲<>......<SPECIAL>歌声<>引诱了一个......<STELLAR>呲呲呲<>......在%SYSTEM%深空的异常动物群......DNA样本已存档。}
 FLEET_EXPLORE_WHALE_7	{行星引力场%PLANET%被接近的...... <STELLAR>呲呲呲<>...... 潮汐<SPECIAL>上升<>会面...... <STELLAR>呲呲呲<>...... 发现%NUM%深海物种干扰。}
@@ -6214,8 +6214,8 @@ UI_WARP_FREIGHTER_NAME	{启动引擎}
 UI_WARP_FREIGHTER_NAME_U	{启动引擎}
 UI_WARP_FREIGHTER_DESC	{在你的主力舰中进行曲速飞行}
 UI_WARP_FREIGHTER_DESC_D	{与你的货船一起跨星际航行}
-UI_EXPED_INSTALL_TECH_NAME	{银河目录}
-UI_EXPED_INSTALL_TECH_NAME_U	{银河目录}
+UI_EXPED_INSTALL_TECH_NAME	{星系目录}
+UI_EXPED_INSTALL_TECH_NAME_U	{星系目录}
 UI_EXPED_INSTALL_TECH_DESC	{安装一个%ITEM%}
 UI_EXPED_INSTALL_TECH_DESC_D	{已安装%ITEM%}
 UI_EXPED_INSTALL_TECH_OBJ	{安装%ITEM%}
@@ -6532,10 +6532,10 @@ BLD_DECAL_P_STARTSHIP_NAME	{着陆飞船贴花}
 BLD_DECAL_P_STARTSHIP_NAME_L	{着陆飞船贴花}
 BLD_DECAL_P_STARTSHIP_DESC	{专属的可放置贴花，可以为你的基地增添风格和美观。
 此贴花上画有一艘着陆的飞船，正在等待飞行员返回。}
-BLD_DECAL_P_GALCORE_NAME	{紫色银河核心贴花}
-BLD_DECAL_P_GALCORE_NAME_L	{紫色银河核心贴花}
+BLD_DECAL_P_GALCORE_NAME	{紫色星系核心贴花}
+BLD_DECAL_P_GALCORE_NAME_L	{紫色星系核心贴花}
 BLD_DECAL_P_GALCORE_DESC	{专属的可放置贴花，可以为你的基地增添风格和美观。
-此贴花上画有两艘星际飞船，正在向银河系核心航行。}
+此贴花上画有两艘星际飞船，正在向星系核心航行。}
 BLD_DECAL_P_UWTREASURE_NAME	{失落的潜水球贴花}
 BLD_DECAL_P_UWTREASURE_NAME_L	{失落的潜水球贴花}
 BLD_DECAL_P_UWTREASURE_DESC	{专属的可放置贴花，可以为你的基地增添风格和美观。
@@ -7265,7 +7265,7 @@ BLD_S_BARREL1_NAME_L	{密封桶}
 BLD_S_BARREL1_DESC	{用于安全存放各类危险材料的工业级密封桶。}
 BLD_S_SPARKPLUG_NAME	{火花塞}
 BLD_S_SPARKPLUG_NAME_L	{火花塞}
-BLD_S_SPARKPLUG_DESC	{太空燃料点火装置，兼容银河系标准工业设备标准以及特定型号的飞船。}
+BLD_S_SPARKPLUG_DESC	{太空燃料点火装置，兼容星系标准工业设备标准以及特定型号的飞船。}
 BLD_S_CARRIAGE_NAME	{牵引式手推车}
 BLD_S_CARRIAGE_NAME_L	{牵引式手推车}
 BLD_S_CARRIAGE_DESC	{一台未启动的载具，具备原始的承重稳定技术。}
@@ -7327,7 +7327,7 @@ BLD_S_CURTAIN0_NAME_L	{束起的窗帘}
 BLD_S_CURTAIN0_DESC	{缝有精致刺绣的窗帘，收起来就是点缀窗户的最好装饰。其中采用的抗菌纳米纤维能够保证布料永远整洁防尘。}
 BLD_S_GLOWGLOBE_NAME	{行星球}
 BLD_S_GLOWGLOBE_NAME_L	{行星球}
-BLD_S_GLOWGLOBE_DESC	{一个呈现整个世界的全息图，可映射所有已知的银河系坐标，模拟当地的行星数据。用于布置办公室环境时，给人一种学术智慧的印象。}
+BLD_S_GLOWGLOBE_DESC	{一个呈现整个世界的全息图，可映射所有已知的星系坐标，模拟当地的行星数据。用于布置办公室环境时，给人一种学术智慧的印象。}
 BLD_S_DRAPE0_NAME	{华丽挂毯}
 BLD_S_DRAPE0_NAME_L	{华丽挂毯}
 BLD_S_DRAPE0_DESC	{引人注目的丝绸制墙壁挂饰，有着丰富的染色以及金线和镉线装饰。放置在任何房间都会给人富丽堂皇的印象。}
@@ -7917,7 +7917,7 @@ UI_PIRATE_MAP1_NAME	{海盗地图碎片3片中的第2片}
 UI_PIRATE_MAP1_NAME_L	{海盗地图碎片3片中的第2片}
 UI_PIRATE_MAP1_DESC	{部分坐标数据，从一艘被海盗派系<STELLAR>“瘟疫”<>击落的<SPECIAL>货运飞船<>上获得。图表上书写着一句海盗宣言：
 
-“银河隧道属于瘟疫！”
+“星系隧道属于瘟疫！”
 
 导航信息已损坏，但似乎与从<STELLAR>货船船长<>获得的数据有关。}
 UI_PIRATE_MAP2_NAME	{海盗地图碎片3片中的第3片}
@@ -8024,7 +8024,7 @@ UI_EXPED_SAVE_FREIGHT_D_CRYPT	{<IMG>SLASH<><SPECIAL>里程碑损毁<><IMG>SLASH<
 UI_EXPED_SAVE_FREIGHT_OSD	{货船信号已锁定}
 UI_EXPED_SAVE_FREIGHT_MARKER	{货船船长}
 UI_EXPED_SAVE_FREIGHT_OBJ1	{解救一艘星际货船}
-UI_EXPED_SAVE_FREIGHT_OBJ1_TIP	{深入了解困扰银河系的<FUEL>海盗活动<>。
+UI_EXPED_SAVE_FREIGHT_OBJ1_TIP	{深入了解困扰星系的<FUEL>海盗活动<>。
 海盗经常以<TRADEABLE>民用货船<>为目标。曲速飞行到附近的恒星系，寻找被<FUEL>海盗<>袭击的货船。
 与<STELLAR>货船船长<>交谈，了解海盗袭击的信息。此外，船员们会对救援表示感谢，并自愿免费提供服务。}
 UI_EXPED_SAVE_FREIGHT_MSG1A	{从<FUEL>海盗<>手中解救一艘星际货船
@@ -8037,7 +8037,7 @@ UI_EXPED_SAVE_FREIGHT_MSG1B	{<FUEL>检测到附近海盗活动<>
 UI_EXPED_SAVE_FREIGHT_MSG1C	{剩余敌对海盗：<FUEL>%AMOUNT%<>
 %FLIGHT_TIP%
 使用<IMG>PREVTARGET<>/<IMG>NEXTTARGET<>变更目标}
-UI_EXPED_SAVE_FREIGHT_MSG1D	{深入了解困扰银河系的<FUEL>海盗活动<>
+UI_EXPED_SAVE_FREIGHT_MSG1D	{深入了解困扰星系的<FUEL>海盗活动<>
 与<STELLAR>货船船长<>交谈，了解更多信息}
 UI_EXPED_SAVE_FREIGHT_WAR_DESC	{当我靠近时，外星人发出了一声响亮的战吼，希望是在庆祝我们的胜利。}
 UI_EXPED_SAVE_FREIGHT_EXP_DESC	{光点在这个生命体的面甲上快速闪烁，而它的头则轻轻地向前点了点。它似乎是在向我表示......感激？}
@@ -8226,11 +8226,12 @@ UI_EXPED_PIRATE_PORTAL_TITLE	{瘟疫隧道网络}
 UI_EXPED_PIRATE_PORTAL_P2_LANG	{欢迎，海盗新兵。请选择：}
 UI_EXPED_PIRATE_PORTAL_P2_OPT_A	{激活传送门}
 UI_EXPED_PIRATE_PORTAL_P2_OPT_B	{查询目的地}
-UI_EXPED_PIRATE_PORTAL_P3_LANG	{传送门目的地：<SPECIAL>最终乌米派亚恒星系<>。<NEWLINE>跨星系隧道访问权限：<TRADEABLE>可用<>。<NEWLINE>准备运输战利品：<COMMODITY>439,531<>。}
+UI_EXPED_PIRATE_PORTAL_P3_LANG	{传送门目的地：<SPECIAL>最终乌米尔派亚恒星系<>。<NEWLINE>跨星系隧道访问权限：<TRADEABLE>可用<>。<NEWLINE>准备运输战利品：<COMMODITY>439,531<>。}
+UI_EXPED_PIR2_PORTAL_P3_LANG	{传送门目的地：<SPECIAL>最终阿曼尼苏恒星系<>。<NEWLINE>跨星系隧道访问权限：<TRADEABLE>可用<>。<NEWLINE>准备运输战利品：<COMMODITY>439,531<>。}
 UI_EXPED_PIRATE_PORTAL_P3_DESC	{这扇传送门已经被利用非法网络篡改，它的目的地锁定在了这个恒星系的中心。<NEWLINE>这就是瘟疫最宝贵的<SPECIAL>秘密<>：一条跨星系旅行的捷径！}
 UI_EXPED_PIRATE_PORTAL_P_WAIT	{这座建筑中仿佛来自另一个世界的力场闪闪发光、不时发出噼啪声：一扇通往远方的传送门。
 刻在基座上的符文看起来很古老，但有人对这个历史悠久的建筑进行了<FUEL>改动<>。一个廉价的屏幕从石头上伸出来，昭示着新旧技术的笨拙融合。}
-UI_EXPED_PIRATE_PORTAL_WARP_OSD	{最终乌米派亚恒星系}
+UI_EXPED_PIRATE_PORTAL_WARP_OSD	{最终乌米尔派亚恒星系}
 UI_EXPED_PIRATE_PORTAL_WARP_SUB	{相邻星系核心}
 UI_EXPED_PIRATE_PORTAL_OBJ3	{调查地图上的次级坐标}
 UI_EXPED_PIRATE_PORTAL_OBJ3_TIP	{瘟疫的<SPECIAL>海盗地图<>显示了一个次级坐标。
@@ -8255,7 +8256,7 @@ UI_EXPED_PIRATE_TREASURE_ALT_A	{从“瘟疫”手中夺过这样的宝藏令人
 UI_EXPED_PIRATE_TREASURE_RES_A	{当我把货物抬进背包时，我的套装突然报告说收到了一段杂乱无章的通讯，尽管我在这个布满灰尘的箱子里没有看到任何机制来输出它们。}
 UI_EXPED_PIRATE_TREASURE_RES_A2	{<STELLAR>......呲呲......<>来这里存放战利品<STELLAR>......呲呲呲......<>前往跨星系隧道<STELLAR>......呲呲......<>将回来取回<STELLAR>......呲呲......<>更美妙的现实！<STELLAR>......呲呲......<>}
 UI_EXPED_PIRATE_TREASURE_RES_A3	{似乎这份战利品原本将通过星系边境走私到其他地方，但是因为某种莫名原因，一直没有人来取。
-从瘟疫手中夺过这样的宝藏令人心生快意。<NEWLINE>而就在这个星系之外，下一个银河触手可及......}
+从瘟疫手中夺过这样的宝藏令人心生快意。<NEWLINE>而就在这个星系之外，下一个星系触手可及......}
 UI_EXPED_PARTY_PLANET5_DESC_DS6	{接近<SPECIAL>星系核心<>}
 UI_EXPED_GOT_GRAVBALLS_NAME	{被觊觎的恒星}
 UI_EXPED_GOT_GRAVBALLS_NAME_U	{被觊觎的恒星}
@@ -8393,7 +8394,7 @@ UI_ILLEGAL_PROD1_NAME	{血盐}
 UI_ILLEGAL_PROD1_NAME_L	{血盐}
 UI_ILLEGAL_PROD1_DESC	{一袋浑浊的、散发着恶臭的晶体。这些有机盐生产于粘稠的蒸汽陷阱中，用于制造非法信息素。
 
-在几乎所有的银河交易终端购买此产品都是<SPECIAL>非法的<>。只有在<FUEL>亡命之徒恒星系<>内才有正常供应。
+在几乎所有的星系贸易终端购买此产品都是<SPECIAL>非法的<>。只有在<FUEL>亡命之徒恒星系<>内才有正常供应。
 
 将违禁品倒卖到受管制的宇宙空间可能会产生<TRADEABLE>高额利润<>。}
 UI_ILLEGAL_PROD2_NAME	{失窃的DNA样本}
@@ -8983,7 +8984,7 @@ UI_PIRATES1_MSG8_OSD	{侦测到播送点：自由之音}
 NPC_PIRATES2_LANG1	{欢迎，光荣的幸存者！
 这里没有吉克人，没有科尔瓦克斯人，没有维吉恩人。在这里，我们只说一种语言。在这里，我们是自由的！ }
 NPC_PIRATES2_LANG2	{欢迎，新面孔。能找到我们意味着你已被选中。能找到我们意味着你已自由！}
-NPC_PIRATES2_LANG3	{绯红的恶魔腐蚀了整个银河系的思想。我们再也不会在它那只全视的绯红之眼面前卑躬屈膝！}
+NPC_PIRATES2_LANG3	{绯红的恶魔腐蚀了整个星系的思想。我们再也不会在它那只全视的绯红之眼面前卑躬屈膝！}
 NPC_PIRATES2_LANG4	{你是我们的一员了，新面孔。你和我们紧密相连。你自由了！}
 NPC_PIRATES2_OPT	{询问自由之音的事}
 NPC_PIRATES2_RES1	{只有强者有资格和光荣的自由之音一起歌颂！我们不允许弱者找到我们。}
@@ -11286,7 +11287,7 @@ UI_SETTLEMENT_PERK_SHOP_6	{交易场地}
 UI_SETTLEMENT_PERK_SHOP_7	{销售员}
 UI_SETTLEMENT_PERK_SHOP_ADJ_1	{量子}
 UI_SETTLEMENT_PERK_SHOP_ADJ_2	{高带宽}
-UI_SETTLEMENT_PERK_SHOP_ADJ_3	{银河}
+UI_SETTLEMENT_PERK_SHOP_ADJ_3	{星系}
 UI_SETTLEMENT_PERK_SHOP_ADJ_4	{远距离}
 UI_SETTLEMENT_PERK_SHOP_ADJ_5	{自动化}
 UI_SETTLEMENT_PERK_BAR_1	{食品服务}
@@ -11904,7 +11905,7 @@ UI_JUDGEMENT_CRIME13	{%NAME1%指控%NAME2%偷走并粗鲁地驾驶他们的强�
 UI_JUDGEMENT_CRIME14	{%NAME1%指控%NAME2%经营一家地下赌博网络}
 UI_JUDGEMENT_CRIME15	{%NAME1%指控%NAME2%传播危险的异端邪说}
 UI_JUDGEMENT_CRIME16	{%NAME1%指控%NAME2%说了被禁话语}
-UI_JUDGEMENT_CRIME17	{%NAME1%指控%NAME2%操纵银河交易终端的价格}
+UI_JUDGEMENT_CRIME17	{%NAME1%指控%NAME2%操纵星系贸易终端的价格}
 UI_JUDGEMENT_CRIME18	{%NAME1%指控%NAME2%无证运营%BUSINESS%}
 UI_JUDGEMENT_CRIME19	{%NAME1%指控%NAME2%出售的医疗药物其实是毫无价值的硅酸盐药片}
 UI_JUDGEMENT_CRIME_DETAIL1	{据悉，%NAME1%有监视邻居是否有不法行为的习惯}
@@ -12573,7 +12574,7 @@ UI_EXPED_SPOOKY_ATLAS_MSG1	{获取<SPECIAL>诅咒之尘<>：%CURRENT%/%AMOUNT%
 UI_EXPED_SPOOKY_ATLAS_MSG2	{向阿特拉斯呈现<SPECIAL>诅咒之尘<>
 向<SPECIAL>太空异象<>中的<TRANS_TRA>保罗<>寻求帮助}
 UI_EXPED_SPOOKY_ATLAS_MSG2B	{向阿特拉斯呈现<SPECIAL>诅咒之尘<>
-在太空中，使用快捷菜单（<IMG>QUICK_MENU<>）打开银河星图
+在太空中，使用快捷菜单（<IMG>QUICK_MENU<>）打开星系图
 选择<SPECIAL>阿特拉斯之道<>以定位阿特拉斯站}
 UI_EXPED_SPOOKY_ATLAS_MSG2C	{向阿特拉斯呈现<SPECIAL>诅咒之尘<>
 前往<RED>阿特拉斯站<>以接入界面}
@@ -12813,7 +12814,7 @@ UI_WORMCORE_NAME	{血肉之绳}
 UI_WORMCORE_NAME_L	{血肉之绳}
 UI_WORMCORE_DESC	{一根<SPECIAL>饥饿的触手<>的消化道残骸。虽然上面的肉壁依旧在不停抽搐，但是这些残渣绝不可能复原成真正的触手......
 
-银河交易所中极少能见到这种特殊脏器，因此拥有着<STELLAR>十分宝贵<>的价值。}
+星系贸易所中极少能见到这种特殊脏器，因此拥有着<STELLAR>十分宝贵<>的价值。}
 UI_WORMCORE_SUB	{脏器碎片}
 UI_SEASON_5_NAME	{异星生物学}
 UI_SEASON_5_NAME_U	{异星生物学}

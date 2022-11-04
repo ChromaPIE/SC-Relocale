@@ -1,12 +1,3 @@
-UI_GUIDE_BODY_TRADE_1	{你可以在<VAL_ON>银河交易网络<>上出售物品获取<COMMODITY>货币<>（<IMG>UNITS<>）。你可在<VAL_ON>空间站、前哨基站<>和<VAL_ON>商店<>中找到<TECHNOLOGY>交易终端<>。
-
-你可从太空中的<VAL_ON>小行星<>上采集<STELLAR>贵重金属<>，或使用<TECHNOLOGY>分析面甲<>找到星球上宝贵的<STELLAR>资源点<>。
-
-空间站里的<SPECIAL>任务板<>是不错的收入来源。访问任务板以查看可接手的工作。查看<VAL_ON>任务板<>日志了解更多详情。
-
-在你的飞船里安装一台<TECHNOLOGY>经济扫描仪<>来查看星系图上的经济数据，然后规划<COMMODITY>贸易航线<>以实现利润最大化。找出<VAL_ON>互补的经济体类型<>，规划出完美的交易航线。
-
-<TRADEABLE>务农<>非常赚钱。合理分配作物，并使用它们制作新物品。}
 UI_GUIDE_TITLE	{指南}
 UI_GUIDE_HEADING_SURVIVAL	{生存基础知识}
 UI_GUIDE_HEADING_EXPLORATION	{导航与发现}
@@ -339,7 +330,7 @@ UI_GUIDE_BODY_EXPLORATION_7	{建造<TRADEABLE>赛道<>来测试强化艇的性�
 使用启动器以测试并调整你的赛道，或跑出单圈最佳成绩。
 
 造访你基地的玩家可在你的赛道上竞速。}
-UI_GUIDE_BODY_TRADE_1	{你可以在<VAL_ON>银河交易网络<>上出售物品以获取<COMMODITY>货币<>（<IMG>UNITS<>）。你可在<VAL_ON>空间站、前哨基站<>和<VAL_ON>商店<>中找到<TECHNOLOGY>交易终端<>。
+UI_GUIDE_BODY_TRADE_1	{你可以在<VAL_ON>星系贸易网络<>上出售物品以获取<COMMODITY>货币<>（<IMG>UNITS<>）。你可在<VAL_ON>空间站、前哨基站<>和<VAL_ON>商店<>中找到<TECHNOLOGY>交易终端<>。
 
 你可从太空中的<VAL_ON>小行星<>上采集<STELLAR>贵重金属<>，或使用<TECHNOLOGY>分析面甲<>找到星球上宝贵的<STELLAR>资源点<>。
 
@@ -361,7 +352,7 @@ UI_GUIDE_BODY_TRADE_2	{<TRADEABLE>种植<>可以让你获得高额收益。合�
 植物一旦完全成长就可以收获。部分植物需要有<TECHNOLOGY>防护手套<>才能收获。防护手套可从一个<TECHNOLOGY>武器终端<>雇佣的一名军械士取得。
 
 每种植物品种都有各自特定的<VAL_ON>产量<>和<VAL_ON>生长时间<>。合理搭配作物，最大化整体收益。}
-UI_GUIDE_BODY_TRADE_3A	{物品可以在<VAL_ON>银河交易网络<>上出售以换取<COMMODITY>货币<>（<IMG>UNITS<>）。你可以在<VAL_ON>空间站、前哨基站<>和<VAL_ON>商店<>找到<TECHNOLOGY>交易终端<>。
+UI_GUIDE_BODY_TRADE_3A	{物品可以在<VAL_ON>星系贸易网络<>上出售以换取<COMMODITY>货币<>（<IMG>UNITS<>）。你可以在<VAL_ON>空间站、前哨基站<>和<VAL_ON>商店<>找到<TECHNOLOGY>交易终端<>。
 
 拥有基地的玩家可以在<SPECIAL>太空异象<>的<STELLAR>建筑研究站<>解锁设计图后建造自己的交易终端。
 
@@ -1040,7 +1031,7 @@ UI_BASE_SHOP_NAME	{全息商人}
 UI_BASE_SHOP_NAME_L	{全息商人}
 UI_BASE_SHOP_DESC	{这台最先进的全息投影仪，允许使用者在自己家中购买最新的<TECHNOLOGY>建造设计图<>。
 
-网络上进行的交易，都得到银河交易局的充分验证。}
+网络上进行的交易，都得到星系贸易局的充分验证。}
 UI_BASE_SHOP_SUB	{商业全息界标}
 UI_BP_GROUP_ACCESS	{设计图模块：进入基地}
 UI_BP_GROUP_BASE_TECH	{设计图模块：基地技术}
@@ -1852,7 +1843,7 @@ UI_CREW_CONSTRUCTION	{<IMG>DIAMONDBULLET<>工程人员：%CURRENT%/%TOTAL%}
 UI_MP_MISSION_CONFIRM_HEADER	{开始任务？}
 UI_MP_MISSION_CONFIRM_TEXT	{任务坐标......<STELLAR>已锁定<>。
 目标......<STELLAR>已记录<>。
-银河委托监控系统......<STELLAR>已上线<>。
+星系委托监控系统......<STELLAR>已上线<>。
 
 人员准备程度......<TECHNOLOGY>未知<>
 
@@ -3483,8 +3474,8 @@ UI_COMM_DAILY_01_RET_OSD	{回去找监督者}
 UI_COMM_DAILY_01_RET_MARKER	{监督者}
 UI_COMM_WEEK_01_TITLE	{社区研究}
 UI_COMM_WEEK_01_SUB	{帮助保罗专家：八周的第一周}
-UI_COMM_WEEK_01_DESC	{保罗专家正在播送对探险家的请求。它在记录银河新“阶段”时呼求帮助。}
-NPC_COMM_WEEK_01_BRIEF	{朋友！银河在不断地怒吼、变换和更新！你也感觉到了吗？
+UI_COMM_WEEK_01_DESC	{保罗专家正在播送对探险家的请求。它在记录星系新“阶段”时呼求帮助。}
+NPC_COMM_WEEK_01_BRIEF	{朋友！星系在不断地怒吼、变换和更新！你也感觉到了吗？
 边界在闪闪发光！现在是研究、探索和友谊的关键时刻！}
 NPC_COMM_WEEK_01_BRIEF2	{这个吉克人的热情透过通讯器明朗地传递了过来。它气喘吁吁地告诉我，它的研究进入了一个新阶段，而我们可以一起策划......
 保罗专家发来一组坐标，指向一颗返回了“非常奇妙”的扫描数据的星球。一些奇怪的物件，正藏在埋藏的技术模块里。
@@ -3569,8 +3560,8 @@ UI_COMMS_ALL_COMMS_MSG	{接收到消息 // 频率：已知联系人
 按下 <IMG>QUICK_MENU<> 回应通讯}
 UI_COMM_WEEK_02_TITLE	{社区研究}
 UI_COMM_WEEK_02_SUB	{帮助保罗专家：八周的第二周}
-UI_COMM_WEEK_02_DESC	{保罗专家正在播送对探险家的请求。它在记录银河新“阶段”时呼求帮助。}
-NPC_COMM_WEEK_02_BRIEF	{朋友！银河在不断地怒吼、变换和更新！你也感觉到了吗？
+UI_COMM_WEEK_02_DESC	{保罗专家正在播送对探险家的请求。它在记录星系新“阶段”时呼求帮助。}
+NPC_COMM_WEEK_02_BRIEF	{朋友！星系在不断地怒吼、变换和更新！你也感觉到了吗？
 边界在闪闪发光！现在是研究、探索和友谊的关键时刻！}
 NPC_COMM_WEEK_02_BRIEF2	{这个宇宙发生了巨大的变化！进化已完成上千次循环，朋友。世上所有金属和矿物都已刷新，所有奇异而有趣的动物的饮食亦随之改变。
 它们的思维模式也变了吗？它们愿意用何种友谊回报喂到嘴边的食物？我们所做的研究充满了喜悦！}
@@ -3653,8 +3644,8 @@ NPC_COMM_WEEK_02_HEXCORE_LANG	{你把样本弄丢了？粗心，旅行者朋友�
 但我们的研究还得继续。我再给你一批新的。这次请一定要小心！}
 UI_COMM_WEEK_03_TITLE	{社区研究}
 UI_COMM_WEEK_03_SUB	{帮助保罗专家：八周的第三周}
-UI_COMM_WEEK_03_DESC	{保罗专家正在播送对探险家的请求。它在记录银河新“阶段”时呼求帮助。}
-NPC_COMM_WEEK_03_BRIEF	{朋友！银河在闪烁！你看到了，对吧？它那复苏的美丽？
+UI_COMM_WEEK_03_DESC	{保罗专家正在播送对探险家的请求。它在记录星系新“阶段”时呼求帮助。}
+NPC_COMM_WEEK_03_BRIEF	{朋友！星系在闪烁！你看到了，对吧？它那复苏的美丽？
 我们的研究加快了步伐。我敢肯定，我们正在接近目标！但我们也引起了注意......}
 NPC_COMM_WEEK_03_BRIEF2	{护卫给纳达和保罗制造了一些麻烦。它们总是那样。我们飞到外面，不打算遵守规矩。我们要是被找到，异象就完了！
 我敢肯定有一个设施存储着它们的部分逻辑，但我无法进行远程访问。我现在就把坐标传给你，朋友！我们去推它们一把，看看它们的例程和反应。}
@@ -3822,7 +3813,7 @@ NPC_COMM_WEEK_04_GLITCH_END_4	{<IMG>SLASH<>   [0A00] : [009F] : [0A01] : [--X-] 
 NPC_COMM_WEEK_04_GLITCH_END_5	{<IMG>SLASH<>   [0A00] : [009F] : [0A01] : [0100]   <IMG>SLASH<>}
 UI_COMM_WEEK_05_TITLE	{社区研究}
 UI_COMM_WEEK_05_SUB	{帮助保罗专家：八周的第五周}
-UI_COMM_WEEK_05_DESC	{保罗专家正在播送对探险家的请求。它在记录银河新“阶段”时呼求帮助。}
+UI_COMM_WEEK_05_DESC	{保罗专家正在播送对探险家的请求。它在记录星系新“阶段”时呼求帮助。}
 NPC_COMM_WEEK_05_BRIEF	{朋友！你好！我度过许多不眠之夜，苦思我们检索到的坐标，将其与异象数据库进行交叉比较，一次又一次地徒劳无功。可能的现实无限扩大，只能用那唯一的讯息来确定方向......
 但另一个信号已飞过边界。我们以为已经失去了的一位旅行者朋友！它的通讯器突然从黑暗中向纳达和保罗发来信号！真是难以言喻的幸福！
 传输频率非常接近，几乎与那些来自缺口外的讯息对齐。我已在这个现实中用三角测量锁定了一个等同的位置。你会旅行至那里，把我们的旅行者朋友接回家吗？}
@@ -4077,7 +4068,7 @@ NPC_COMM_WEEK_06_STORY_END_16	{我看到陌生人转身离开传送门。它走�
 录像结束了。}
 UI_COMM_WEEK_07_TITLE	{社区研究}
 UI_COMM_WEEK_07_SUB	{帮助神父实体纳达：八周的第七周}
-UI_COMM_WEEK_07_DESC	{神父实体纳达正在播送对探险家的请求。它在记录银河新“阶段”时呼求帮助。}
+UI_COMM_WEEK_07_DESC	{神父实体纳达正在播送对探险家的请求。它在记录星系新“阶段”时呼求帮助。}
 NPC_COMM_WEEK_07_BRIEF	{旅行者！纳达，正在启动通信接口。保罗，因黑暗和悲伤而暂停。硬壳无法穿透。咦哟！
 从建筑照片进行推断。已提出新指令：打破黑暗。获得图像和希望。旅行者必须在黑暗中寻找生命。潜到海底，复制水中景观，返回异象。}
 NPC_COMM_WEEK_07_BRIEF_RES	{正在传送黑暗行星坐标。最深位置：-10.53，-28.39。请求参数：单张照片，内含大量生命。纳达愉快地期待着旅行者返回。}
@@ -4205,8 +4196,8 @@ NPC_COMM_WEEK_08_BRIEF2	{保罗情绪非常激动，手舞足蹈，眼中闪着�
 NPC_COMM_WEEK_08_BRIEF_OPT_A	{倾听}
 NPC_COMM_WEEK_08_BRIEF3	{所有的线索都指向了这里，朋友！我们一直在追踪的那些坐标，土地里的那些奇怪的新种子，其他旅行者朋友传来的连接不同次元的回声。所有信息都匹配了起来！一道余波震荡了整个星空！
 几十万颗休眠的行星现在都苏醒了，在打着呵欠、涌现出无数的新发现！}
-NPC_COMM_WEEK_08_BRIEF4	{我这就把这场银河系剧变的中心坐标发给你。那里有新播种的植物等着你去发现，那都是有着最奇特外形的植物群系......}
-NPC_COMM_WEEK_08_BRIEF4_ALT	{我这就把这场银河系剧变的中心坐标发给你。那里有新诞生的动物等着你去发现，那都是有着最奇特外形的动物群系......}
+NPC_COMM_WEEK_08_BRIEF4	{我这就把这场星系剧变的中心坐标发给你。那里有新播种的植物等着你去发现，那都是有着最奇特外形的植物群系......}
+NPC_COMM_WEEK_08_BRIEF4_ALT	{我这就把这场星系剧变的中心坐标发给你。那里有新诞生的动物等着你去发现，那都是有着最奇特外形的动物群系......}
 NPC_COMM_WEEK_08_BRIEF_RES	{朋友，此处的界限最为薄弱。这颗行星可能会出现异状，也可能已经损坏。
 不过却蕴藏着无比的潜力、无比的希望！
 如果有更多旅行者朋友的迭代可以不断前往那里，我们也许就能够合并到前所未有的庞大数据......}
@@ -5894,17 +5885,17 @@ DNT_EXP_PLANET_MISSION_COMP1	{The Traveller entity returns, with the aura of suc
 DNT_TRA_PLANET_MISSION_COMP1	{Friend! You live! Happy happy day! You bring good news?}
 DNT_WAR_PLANET_MISSION_COMP1	{Grah! You returned in glory, interloper?}
 UI_MP_MISSION_TUT_TITLE	{多人任务}
-UI_MP_MISSION_TUT_SUB	{危险的银河委托}
-UI_MP_MISSION_TUT_DESC	{<STELLAR>银河委托<>能为勇敢的探险家提供大量奖励。
-访问货船上的银河委托终端。
+UI_MP_MISSION_TUT_SUB	{危险的星系委托}
+UI_MP_MISSION_TUT_DESC	{<STELLAR>星系委托<>能为勇敢的探险家提供大量奖励。
+访问货船上的星系委托终端。
 <FUEL>警告<>：建议探险家不要单独执行这些任务。}
-UI_MP_MISSION_TUT_OBJ	{查看银河委托终端}
-UI_MP_MISSION_TUT_OBJ_TIP	{货船上的银河委托终端提供了富有挑战性的任务。
+UI_MP_MISSION_TUT_OBJ	{查看星系委托终端}
+UI_MP_MISSION_TUT_OBJ_TIP	{货船上的星系委托终端提供了富有挑战性的任务。
 建议探险家不要单独执行这些任务。}
 UI_MP_MISSION_TUT_MSG1	{专家任务已可用
 访问你的货船以了解更多信息}
 UI_MP_MISSION_TUT_MSG2	{专家任务已可用
-检视银河委托终端以查看机会}
+检视星系委托终端以查看机会}
 UI_RECOVER_BASE_TITLE	{恢复家园基地}
 UI_RECOVER_BASE_SUB	{寻找新基地位置}
 UI_RECOVER_BASE_DESC	{<FUEL>警告<>：基地已由相关制图当局归档。
@@ -10850,7 +10841,7 @@ FLEET_TRADING_FAIL_21	{停泊在维吉恩控制的空间站。开始贸易谈判
 FLEET_TRADING_FAIL_22	{停泊在%RACE%控制的空间站。发现舰队被悬赏了巨额赏金。在赏金被海盗得到之前，用投资基金偿清赏金，不失为对基金的一次慎重使用。}
 FLEET_TRADING_FAIL_23	{从%SYSTEM%星系购买了大量鲜切花。制冷系统故障导致所有花都分解了。损失：重大。}
 FLEET_TRADING_FAIL_24	{与另一支贸易船队进行谈判。在会谈中，对方特工登上飞船，并在船员中散播谣言。兵变得到避免，但贸易协议被取消了。}
-FLEET_TRADING_FAIL_25	{在%SYSTEM%星系的交易终端订购了低价的技术部件。派出飞艇去工厂取货。到达时，工厂已被废弃。卖方也不再出现在银河交易所的名单上了。}
+FLEET_TRADING_FAIL_25	{在%SYSTEM%星系的交易终端订购了低价的技术部件。派出飞艇去工厂取货。到达时，工厂已被废弃。卖方也不再出现在星系贸易所的名单上了。}
 FLEET_TRADING_FAIL_26	{与吉克商人进行贸易谈判。商人部署了闻起来异常美味的费洛蒙。交易完成后，日志显示舰队购买了 %NUM%000000 吨污垢。}
 FLEET_TRADING_FAIL_27	{尝试在%SYSTEM%星系销售产品。当地人声称已经感到满足，不需要新的消耗品。交易不成功。}
 FLEET_TRADING_FAIL_28	{尝试在%PLANET%行星销售产品。星球人口很大程度上是自治的。无人机劳动力使得当地居民不需要我们的产品。交易不成功。}
@@ -10965,7 +10956,7 @@ FLEET_EXPLORE_T4_6	{调查%PLANET%星球。在废墟中发现了微型传送门�
 FLEET_EXPLORE_T4_7	{在%PLANET%星球进行徒步调查，发现了一个传送门接收器。接收器是一个高度抛光的石柱，在一个基本频率上进行广播。尝试解码传送门地址：正在进行。}
 FLEET_EXPLORE_T4_8	{将研究队部署至%PLANET%星球。跟随重复的信号。查明信号源是一个科尔瓦克斯求救信标。信号似乎是一系列有旋律的口哨声。无法翻译。}
 FLEET_EXPLORE_T4_9	{调查%PLANET%星球的异常信号。信号源是一座维吉恩广播塔。解码信号。广播是一首冗长的哀歌，是一段关于赫客和纳尔的口述历史。记录并归档。}
-FLEET_EXPLORE_T4_10	{研究队探索%PLANET%星球。侦测到星球表面的无线电发射塔之间在共享数据。跟踪并解密了信号。广播内容是吉克商人之间共享的资料，目的是操纵银河贸易市场。}
+FLEET_EXPLORE_T4_10	{研究队探索%PLANET%星球。侦测到星球表面的无线电发射塔之间在共享数据。跟踪并解密了信号。广播内容是吉克商人之间共享的资料，目的是操纵星系贸易市场。}
 FLEET_EXPLORE_T4_11	{侦测到%PLANET%星球上的信号源。部署地面人员。追踪信号，找到一个古老的求救信标，其正在一座被摧毁的石头建筑的中心向外广播。船员扫描了中继器，但无法翻译它的远古语言。}
 FLEET_EXPLORE_T4_12	{探索%PLANET%星球。在一个浅洞里发现了一台小型设备。设备以一定频率进行振动，引起了洞穴中的谐波共振，产生了来自大地本身的美妙音乐。进行了扫描，但未扰动设备。}
 FLEET_EXPLORE_T4_13	{研究队被部署至%PLANET%星球。小队发现了埋藏在古老的石头废墟中的物理记录。对雕刻图案进行了扫描和数字化。回放时，发现记录的是鸟鸣声。估计数据年龄：%NUM%00 年。}
@@ -11723,7 +11714,7 @@ NAMEGEN_FLEET_PLACE_21	{看不见的光明}
 NAMEGEN_FLEET_PLACE_22	{黑暗}
 NAMEGEN_FLEET_PLACE_23	{看不见的陆地}
 NAMEGEN_FLEET_PLACE_24	{看不见的天空}
-NAMEGEN_FLEET_PLACE_25	{广阔的银河}
+NAMEGEN_FLEET_PLACE_25	{广阔的星系}
 NAMEGEN_FLEET_PLACE_26	{星风}
 NAMEGEN_FLEET_PLACE_27	{无尽的太空}
 NAMEGEN_FLEET_PLACE_28	{无缚的宇宙}
@@ -11817,7 +11808,7 @@ UI_STEAM_PLAYER_PROFILE	{Show Steam Profile}
 UPDATE5_NOTES_PC	{《No Man's Sky Beyond》带来了一系列新特色。详情请见www.nomanssky.com。
 
 * 在中枢纽与其他旅行者会面，并一起执行任务。
-* 探索银河系时会遇到其他的随机旅行者。
+* 探索星系时会遇到其他的随机旅行者。
 * 大兴土木后的太空异象带来了全新的商店和技术升级。
 * 农场、烹饪食谱以及驯服和骑行生物。
 * 动力和工业基地部件为游戏增加了新的深度和创新可能性。
@@ -11829,7 +11820,7 @@ Hello Games}
 UPDATE5_NOTES_XBOX	{《No Man's Sky Beyond》带来了一系列新特色。详情请见www.nomanssky.com。
 
 * 在中枢纽与其他旅行者会面，并一起执行任务。
-* 探索银河系时会遇到其他的随机旅行者。
+* 探索星系时会遇到其他的随机旅行者。
 * 大兴土木后的太空异象带来了全新的商店和技术升级。
 * 农场、烹饪食谱以及驯服和骑行生物。
 * 动力和工业基地部件为游戏增加了新的深度和创新可能性。
@@ -13190,7 +13181,7 @@ ALL_TRADER_TRADE_DESC_5	{驾驶员甚至在我说话前就已经准备好了它�
 ALL_TRADER_TRADE_DESC_6	{驾驶员准备好了它的交易系统。它的货物已经在等待检查了。}
 ALL_TRADER_TRADE_DESC_7	{商人检查了我的货物数据。它试图表现的镇定些，但却并没有什么成效。它无法掩饰做交易的渴望之情。}
 ALL_TRADER_TRADE_DESC_8	{驾驶员兴奋而喋喋不休地离开了。它似乎在太空中穿梭了很久，不知道如何进行正常对话。}
-ALL_TRADER_TRADE_DESC_9	{商人打着高兴的手势，渴望不通过银河交易终端的干扰和规则直接做交易。}
+ALL_TRADER_TRADE_DESC_9	{商人打着高兴的手势，渴望不通过星系贸易终端的干扰和规则直接做交易。}
 ALL_TRADER_TRADE_DESC_10	{尽管驾驶员的话语颠三倒四、令人费解，它表达的意思却很明确。它在用通用的语言说着关于金钱的事情。}
 ALL_TRADER_TRADE_OPT_A	{检查货物清单}
 ALL_TRADER_TRADE_OPT_B	{结束通讯}

@@ -1,9 +1,3 @@
-UI_EXPED_GOT_NANITES_OBJ_TIP	{纳米星团可以在探索过程中通过多种渠道获取。也常常可以通过探索行星建筑物，或出售/精炼你获得的物品来得到。
-每次将探索发现<VAL_ON>上传<>时，你也能获得纳米星团。
-<STELLAR>阿瑞斯<>与<STELLAR>赫利俄斯<>会出现在<SPECIAL>太空异象<>上。它们会每天搜寻新的物品与数据，并<VAL_ON>用纳米星团来作为报酬<>。
-<VAL_ON>空间站<>上的<TECHNOLOGY>任务分派员<>派出的任务通常也是纳米星团的重要来源。
-
-详见指南中的“升级和制作”部分中的<STELLAR>获取纳米星团<>。}
 UPDATE6_TITLE	{《No Man's Sky Origins》更新}
 UPDATE6_NOTES	{《No Man's Sky Origins》带来了一系列新特色。详情请见www.nomanssky.com。
 
@@ -669,7 +663,7 @@ UI_NO_SHIP_BUY_TITLE	{无法购买}
 UI_NO_SHIP_BUY_SUB	{当前无法购买飞船}
 UI_TECH_RECHARGED	{%TECH%已充能}
 UI_SWAP_MULTITOOL	{%WEAPON%已启用}
-UI_PROD_NOT_KNOWN_MSG_ALT4	{从<TECHNOLOGY>银河交易终端<>购买%ITEM%：%CURRENT%/%AMOUNT%
+UI_PROD_NOT_KNOWN_MSG_ALT4	{从<TECHNOLOGY>星系贸易终端<>购买%ITEM%：%CURRENT%/%AMOUNT%
 在<STELLAR>基地<>建造交易终端可更轻松地访问市场}
 UI_NO_BUILDING_FOUND	{无已定位的附近建筑}
 UI_BUILDING_ALREADY_MARKED	{已标记附近的建筑}
@@ -4440,7 +4434,7 @@ UI_EXPED_GOT_CASH_DESC_D	{已获取%NUM%货币}
 UI_EXPED_GOT_CASH_MSG	{获取<COMMODITY>货币<>：%CURRENT%／%AMOUNT%
 查看日志（<IMG>OPTIONS<>）中的信息以获得针对性指引}
 UI_EXPED_GOT_CASH_OBJ	{获取货币：%CURRENT%/%AMOUNT%}
-UI_EXPED_GOT_CASH_OBJ_TIP	{你可以在银河交易网络上出售物品获取<COMMODITY>货币<>（<IMG>UNITS<>）。
+UI_EXPED_GOT_CASH_OBJ_TIP	{你可以在星系贸易网络上出售物品获取<COMMODITY>货币<>（<IMG>UNITS<>）。
 <TRADEABLE>耕作<>的收益非常可观。合理分配作物，并使用它们制作新物品。
 在你的飞船里安装一台<TECHNOLOGY>经济扫描仪<>来查看星系图上的经济数据，然后规划<COMMODITY>贸易航线<>以实现利润最大化。找出<VAL_ON>互补的经济体类型<>，规划出完美的交易航线。
 
@@ -5227,7 +5221,7 @@ UI_S2MYSTERY_FLUX_RES_3	{和平的武器<AUDIO>TXT_RadioNoise<>......<STELLAR>�
 UI_S2MYSTERY_FLUX_RES_4	{几乎没有人能驾驭这样的武器<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>几乎没有人能理解它，更没有人能<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......}
 UI_S2MYSTERY_FLUX_RES_5	{这把武器隐蔽而迅速地击中了<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>噢！<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>他们完全没有准备......}
 UI_S2MYSTERY_FLUX_RES_6	{这把武器的命运从一开始就已经注定<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>主星<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>首当其冲！}
-UI_S2MYSTERY_FLUX_RES_7	{它的心就是银河的心<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>浩瀚无垠的星空<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>前往任何需要它的地方！}
+UI_S2MYSTERY_FLUX_RES_7	{它的心就是星系的心<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>浩瀚无垠的星空<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>前往任何需要它的地方！}
 UI_S2MYSTERY_FLUX_RES_8	{它的命运在群星之中<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>是愿意追随之人的领袖和灯塔<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>一条通往无人能及之地的道路......}
 UI_S2MYSTERY_FLUX_RES_9	{穿过如雨般落下的火焰，对抗不可能战胜的<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>仿佛由意志力所生成，仿佛被深红色的命运所追逐<AUDIO>TXT_RadioNoise<><FUEL>......呲呲<>......}
 UI_S2MYSTERY_FLUX_RES_10	{让人畏惧的危险武器<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>囚禁在高塔中<AUDIO>TXT_RadioNoise<>......<STELLAR>呲呲<>......<DELAY>0.8<>束缚在不可能打破的枷锁里。
@@ -5694,7 +5688,7 @@ ION1_SPEC_NAME	{移码投射器}
 ION1_SPEC_NAME_L	{移码投射器}
 ION1_SPEC_DESC	{这种试作型驱动器能够在跃迁初始化阶段扭曲所在空间的几何结构，并大副提高传统<TECHNOLOGY>超光速推进器<>科技的<STELLAR>范围<>以及<STELLAR>效率<>。
 
-建议通过<STELLAR>银河星图<>操作超光速推进系统。}
+建议通过<STELLAR>星系图<>操作超光速推进系统。}
 ION1_SPEC_SUB	{采用了违法改造手段的曲速驱动器}
 SHIP_LIFESUPPORT	{已启用内部维生系统}
 SHIP_LIFESUPPORT_SPEC_NAME	{增压胶囊}
@@ -6688,7 +6682,7 @@ UI_BANNER_NADA_DESC	{装备上这枚专属的<STELLAR>个人旗帜<>将神父实
 在<TECHNOLOGY>外观修改器<>中将这面旗帜应用至你的个人档案。}
 UI_BANNER_CHEF_NAME	{精致美味旗帜}
 UI_BANNER_CHEF_NAME_L	{精致美味旗帜}
-UI_BANNER_CHEF_DESC	{用这枚专属的<STELLAR>个人旗帜<>宣告你对泛银河美味烹饪的热忱。
+UI_BANNER_CHEF_DESC	{用这枚专属的<STELLAR>个人旗帜<>宣告你对泛星系美味烹饪的热忱。
 
 在<TECHNOLOGY>外观修改器<>中将这面旗帜应用至你的个人档案。}
 UI_BANNER_HUB_NAME	{星港旗帜}
@@ -7111,7 +7105,7 @@ UI_ILLEGAL_TECH_FORMAT	{%ILLEGAL%%TECHNAME%}
 UPGRADE_SUB_X	{非法的%NAME%升级}
 ITEMGEN_LUMP_DESC	{一丁点有机物。尚不清楚这是一个独立的生命体，还是从某个更大的生命上弹出或分离的部分。
 
-在银河交易市场上不太可能找到买家。在库存（<IMG>INVENTORY<>）中选择它，用<IMG>FE_ALT1<>将其加工成有用的材料。}
+在星系贸易市场上不太可能找到买家。在库存（<IMG>INVENTORY<>）中选择它，用<IMG>FE_ALT1<>将其加工成有用的材料。}
 ITEMGEN_FORMAT_LUMP	{%LUMPADJ%%LUMPNOUN%}
 ITEMGEN_LUMP_ADJ_1	{凝结的}
 ITEMGEN_LUMP_NOUN_1	{残骸}
@@ -7402,10 +7396,10 @@ UP_TECH_ILLEGAL_ADJ_13	{盗版的}
 UP_TECH_ILLEGAL_ADJ_14	{有风险的}
 UP_TECH_ILLEGAL_ADJ_15	{违法的}
 UPGRADE_DESC_LVLX	{一项可疑的<SPECIAL>黑市改装<>，适用于<TECHNOLOGY>%NAME%<>。}
-UPGRADE_1_STAT_ILLEGAL_DESC	{可绕过几乎所有的工艺和安全的银河标准，这个升级模块会影响到<STELLAR>%STAT1%<>。}
-UPGRADE_2_STAT_ILLEGAL_DESC	{可绕过几乎所有的工艺和安全的银河标准，这个升级模块会影响到<STELLAR>%STAT1%<>和<STELLAR>%STAT2%<>。}
-UPGRADE_3_STAT_ILLEGAL_DESC	{可绕过几乎所有的工艺和安全的银河标准，这个升级模块会影响到<STELLAR>%STAT1%<>、<STELLAR>%STAT2%<>和<STELLAR>%STAT3%<>。}
-UPGRADE_4_STAT_ILLEGAL_DESC	{可绕过几乎所有的工艺和安全的银河标准，这个升级模块会影响到<STELLAR>%STAT1%<>、<STELLAR>%STAT2%<>、<STELLAR>%STAT3%<>和<STELLAR>%STAT4%<>。}
+UPGRADE_1_STAT_ILLEGAL_DESC	{可绕过几乎所有的工艺和安全的星系标准，这个升级模块会影响到<STELLAR>%STAT1%<>。}
+UPGRADE_2_STAT_ILLEGAL_DESC	{可绕过几乎所有的工艺和安全的星系标准，这个升级模块会影响到<STELLAR>%STAT1%<>和<STELLAR>%STAT2%<>。}
+UPGRADE_3_STAT_ILLEGAL_DESC	{可绕过几乎所有的工艺和安全的星系标准，这个升级模块会影响到<STELLAR>%STAT1%<>、<STELLAR>%STAT2%<>和<STELLAR>%STAT3%<>。}
+UPGRADE_4_STAT_ILLEGAL_DESC	{可绕过几乎所有的工艺和安全的星系标准，这个升级模块会影响到<STELLAR>%STAT1%<>、<STELLAR>%STAT2%<>、<STELLAR>%STAT3%<>和<STELLAR>%STAT4%<>。}
 UP_LASER_X_NAME	{可疑的开采光束模块}
 UP_LASER_X_NAME_L	{可疑的开采光束模块}
 UP_LASER_X_DESC	{一项<SPECIAL>黑市改装<>，适用于<TECHNOLOGY>开采光束<>。使用<VAL_ON><IMG>FE_ALT1<><>开始<VAL_ON>安装升级<>。
@@ -7781,8 +7775,8 @@ BLD_INFESTEDPLANT_3_NAME_L	{合成球茎}
 BLD_INFESTEDPLANT_3_DESC	{这种植物富含抗氧化剂，但厚厚的鳞片使得它不适合用于大面积耕种。
 
 可以作为基地的装饰景观。}
-UI_BANNER_AGT_NAME	{银河旅行者联盟旗帜}
-UI_BANNER_AGT_NAME_L	{银河旅行者联盟旗帜}
+UI_BANNER_AGT_NAME	{星系旅行者联盟旗帜}
+UI_BANNER_AGT_NAME_L	{星系旅行者联盟旗帜}
 UI_BANNER_AGT_DESC	{装备上这枚专属的<STELLAR>个人旗帜<>，畅快地漫游和探索宇宙。
 
 在<TECHNOLOGY>外观修改器<>中将这面旗帜应用至你的个人档案。}
@@ -7837,10 +7831,10 @@ UI_SPEC_PET_CUSTOM_03_NAME_L	{能量线圈}
 UI_SPEC_PET_CUSTOM_03_DESC	{专属<STELLAR>同伴外观强化<>。这种两用激光能对佩戴者的重要生物指标做出响应，提供相应的热量和光照，以及舒缓焦虑的软脉冲。
 
 赢得野生动物的信任来收养同伴。与同伴互动来自定义它们的外观。}
-BLD_DECAL_AGT_NAME	{银河旅行者联盟贴花}
-BLD_DECAL_AGT_NAME_L	{银河旅行者联盟贴花}
+BLD_DECAL_AGT_NAME	{星系旅行者联盟贴花}
+BLD_DECAL_AGT_NAME_L	{星系旅行者联盟贴花}
 BLD_DECAL_AGT_DESC	{专属的可放置贴花，可以为你的基地增添风格和美观。
-此贴花代表着银河旅行者联盟，以及游牧探险的价值观。}
+此贴花代表着星系旅行者联盟，以及游牧探险的价值观。}
 BLD_DECAL_AMINO_NAME	{氨基中心贴花}
 BLD_DECAL_AMINO_NAME_L	{氨基中心贴花}
 BLD_DECAL_AMINO_DESC	{专属的可放置贴花，可以为你的基地增添风格和美观。
@@ -8768,7 +8762,7 @@ TRA_CAPT_LOG_LANG_5	{日期<STELLAR><AUDIO>TXT_RadioNoise<>%DATE1%<> :: 我们�
 日期<STELLAR><AUDIO>TXT_RadioNoise<>%DATE3%<> :: 我们在夜晚经过了一座阿特拉斯站......组员有一半跪下祈祷，但是旅行者只是睁大眼睛看着它，还要我们在这里稍待，说他要与“它”说话。
 
 日期<STELLAR><AUDIO>TXT_RadioNoise<>%DATE4%<> :: 还是没有任何音讯。我们派出几名组员，看看他是否需要我们帮忙......}
-TRA_CAPT_LOG_LANG_6	{日期<STELLAR><AUDIO>TXT_RadioNoise<>%DATE1%<> :: 他们的皇后失踪了，星系陷入纷乱，因此找上了整个银河系最厉害的侦探吉客族，我也马上接下了他的委托。
+TRA_CAPT_LOG_LANG_6	{日期<STELLAR><AUDIO>TXT_RadioNoise<>%DATE1%<> :: 他们的皇后失踪了，星系陷入纷乱，因此找上了整个星系最厉害的侦探吉客族，我也马上接下了他的委托。
 日期<STELLAR><AUDIO>TXT_RadioNoise<>%DATE2%<> :: 我们拜访了几个太空站，有几个可疑人物我也不能客气。 「朋友！不要当说谎吉客族，朋友！要说实话！」
 但他们才不是我的朋友。整件事情很不对劲，绝对不是我的费洛蒙问题。
 日期<STELLAR><AUDIO>TXT_RadioNoise<>%DATE3%<> :: 我们遇见了我船上以前的大副，是个维金族，人跟名字一样：令人困惑，凶猛无比，沉默寡言。
@@ -10635,7 +10629,7 @@ UI_TIP_VEH_DEC_12	{7号}
 UI_TIP_VEH_DEC_13	{8号}
 UI_TIP_VEH_DEC_14	{9号}
 UI_TIP_VEH_DEC_15	{头盔}
-UI_TIP_VEH_DEC_16	{银河中枢}
+UI_TIP_VEH_DEC_16	{星系中枢}
 UI_TIP_VEH_DEC_17	{OK手势}
 UI_TIP_VEH_DEC_18	{纳达}
 UI_TIP_VEH_DEC_19	{保罗}
@@ -10854,12 +10848,12 @@ UI_TIP_BANNER_TGUILD	{商人公会}
 UI_TIP_BANNER_VYKEEN	{维吉恩}
 UI_TIP_BANNER_WARP	{黑洞}
 UI_TIP_BANNER_WGUILD	{雇佣兵公会}
-UI_TIP_BANNER_AGT	{银河旅行者联盟}
+UI_TIP_BANNER_AGT	{星系旅行者联盟}
 UI_TIP_BANNER_AMINO	{氨基中心}
 UI_TIP_BANNER_BLOB	{小生物}
 UI_TIP_BANNER_CAFE	{42号咖啡厅}
 UI_TIP_BANNER_CRACKACHU	{奇异动物群系}
-UI_TIP_BANNER_GALACTICHUB	{银河中枢}
+UI_TIP_BANNER_GALACTICHUB	{星系中枢}
 UI_TIP_BANNER_GEKCHEF	{精致美味}
 UI_TIP_BANNER_NADA	{神父实体纳达}
 UI_TIP_BANNER_POLO	{保罗专家}
@@ -11012,7 +11006,7 @@ UI_TITLE_OWNED_REALITY9	{前往埃天斯林}
 UI_TITLE_OWNED_REALITY10	{前往艾森塔姆}
 UI_PLAYER_TITLE_HUB_VISIT	{朝圣者%NAME%}
 UI_PLAYER_TDESC_HUB_VISIT	{访问一个特殊的恒星系}
-UI_TITLE_OWNED_HUB_VISIT	{访问了银河中枢}
+UI_TITLE_OWNED_HUB_VISIT	{访问了星系中枢}
 UI_PLAYER_TITLE_LORE1	{泰坦%NAME%}
 UI_PLAYER_TITLE_LORE2	{视觉大师%NAME%}
 UI_PLAYER_TITLE_LORE3	{边界行者%NAME%}
@@ -11810,7 +11804,7 @@ ION1_ALIEN_NAME	{奇点主茎}
 ION1_ALIEN_NAME_L	{奇点主茎}
 ION1_ALIEN_DESC	{一种复杂的生物金属茎，直接插入反物质心脏。在星际跳跃中特别活跃。它似乎对超光速旅行所需的复杂计算感到高兴。
 
-通过银河星图访问远程导航系统。定期在两个星系之间跃迁，以保持船的快乐。}
+通过星系图访问远程导航系统。定期在两个星系之间跃迁，以保持船的快乐。}
 SHIPSHIELD_ALIEN_NAME	{尖叫抑制器}
 SHIPSHIELD_ALIEN_NAME_L	{尖叫抑制器}
 SHIPSHIELD_ALIEN_DESC	{该舰自动化防御网络的这一小部分延伸似乎是它自己的自主有机体。它的中央有一个小嘴巴渴望吞食<SPECIAL>普茵<>。

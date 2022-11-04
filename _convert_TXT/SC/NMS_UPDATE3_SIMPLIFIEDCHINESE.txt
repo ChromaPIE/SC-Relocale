@@ -2642,7 +2642,7 @@ ITEMGEN_SALVAGE_COMMON_2	{约有 <VAL_ON>%AGE%<> 年的历史。
 这个技术的效用早已过期，因其内含稀有和珍贵的物质而成为价值不菲的回收废料。}
 ITEMGEN_SALVAGE_COMMON_3	{约有 <VAL_ON>%AGE%<> 年的历史。
 
-这个怪异的技术部件违反了多个银河制造协议，似乎由某位业余爱好者打造。但它确实能起到作用。}
+这个怪异的技术部件违反了多个星系制造协议，似乎由某位业余爱好者打造。但它确实能起到作用。}
 ITEMGEN_SALVAGE_COMMON_4	{约有 <VAL_ON>%AGE%<> 年的历史。
 
 很多技术都会用到的重要部件，这种古老的设计已历经千年考验。此样本因受到武器的伤害而稍微有点焦黑。}
@@ -2742,12 +2742,12 @@ UI_SYSTEM_BINOCS_WEALTH	{财富}
 BINOC_SOLARSYSTEM	{太阳系}
 UI_GALAXYMAP_PATH_SELECT	{目的地}
 UI_GALAXYMAP_ATLAS_PATH	{阿特拉斯站（%DISTSTRING%）}
-UI_GALAXYMAP_CORE_PATH	{银河核心（%DISTSTRING%）}
+UI_GALAXYMAP_CORE_PATH	{星系核心（%DISTSTRING%）}
 UI_GALAXYMAP_BHOLE_PATH	{黑洞（%DISTSTRING%）}
 UI_GALAXYMAP_MISSION_PATH	{当前任务（%DISTSTRING%）}
 UI_GALAXYMAP_CUSTOM_PATH	{自定义航路点（%DISTSTRING%）}
 UI_GALAXYMAP_ATLAS_PATH_ONLY	{阿特拉斯站}
-UI_GALAXYMAP_CORE_PATH_ONLY	{银河核心}
+UI_GALAXYMAP_CORE_PATH_ONLY	{星系核心}
 UI_GALAXYMAP_BHOLE_PATH_ONLY	{黑洞}
 UI_GALAXYMAP_MISSION_PATH_ONLY	{当前任务}
 UI_GALAXYMAP_CUSTOM_PATH_ONLY	{自定义航路点}
@@ -2776,7 +2776,7 @@ HELP_WHEN_SYSTEM_UNSELECTED	{<IMG>GALAXYWARP<> 选择目标恒星系 <IMG>SLASH<
 UI_GALAXYMAP_GOHOME	{<IMG>GALAXYHOME<> 选择我的位置}
 UI_GALAXYMAP_SELECT	{<IMG>GALAXYWARP<> 选择目标恒星系}
 UI_GALAXYMAP_MOVEVIEWVR	{<IMG>GALAXY_GESTURE<> 移动视图}
-DISTANCE_FROM_CENTRE_TITLE	{银河核心（%NAME%）}
+DISTANCE_FROM_CENTRE_TITLE	{星系核心（%NAME%）}
 DISTANCE_FROM_CENTRE_LY	{%DIST% 光年}
 UI_GALAXYMAP_PLANETNAME	{%PLANET%（%DIST% 光年）}
 UI_GALAXYMAP_SYSNAME	{%SYSTEM%恒星系}
@@ -3543,7 +3543,7 @@ UI_PLANTSUB_LUSH_DESC	{一颗美丽的宝石，它是<TRADEABLE>星辰灌木<>�
 宿主植物需要在<TRADEABLE>繁茂条件<>下才能在野外旺盛生长，但如果在<TECHNOLOGY>水培盘<>中培养，则可以在任何环境生存。}
 UI_PLANTPROD_SAC_12_DESC	{用海胆类水生生物分泌的毒液制成的样本，已经过稳定化处理。
 
-在银河交易网络中属于稀有的贵重品。}
+在星系贸易网络中属于稀有的贵重品。}
 UI_FARMPROD_1_DESC	{用于多种能量电池中聚集高强度电流的稀酸。
 
 由<SPECIAL>腐藤<>和<TRADEABLE>真菌霉<>制作。}
@@ -3588,7 +3588,7 @@ UI_FARMPROD_BASIC_2_DESC	{坚固强力的有机电池。打造需要内部能量
 UI_FARMPROD_SUBTITLE	{高级农产品}
 UI_ALLOY_SIMPLE_1_DESC	{可塑性很强的轻质合金。由<EARTH>石蜡<>和<EARTH>氯<>制作而成。
 
-此金属广泛运用于行星前哨基站与设施的建筑工作，在银河交易网络中十分抢手。}
+此金属广泛运用于行星前哨基站与设施的建筑工作，在星系贸易网络中十分抢手。}
 UI_ALLOY_SIMPLE_2_DESC	{一种常用的金属合金，具有多种用途。由于其颜色特点，“肮脏青铜”比它的学名更流行。
 
 由<EARTH>纯铁氧体<>和<EARTH>黄铁矿<>制作。}
@@ -3597,7 +3597,7 @@ UI_ALLOY_SIMPLE_3_DESC	{用途极其广泛的中性合金，从医药到重工�
 它是星系合金贸易的核心组成部分。}
 UI_ALLOY_SIMPLE_4_DESC	{纯铁氧体合金。由<EARTH>纯铁氧体<>和<EARTH>铀<>加工而成。
 
-由于强度很高，广泛应用于货运用星际飞船的建造。银河交易网络中广泛使用的填充材料。}
+由于强度很高，广泛应用于货运用星际飞船的建造。星系贸易网络中广泛使用的填充材料。}
 UI_ALLOY_SIMPLE_5_DESC	{柔软光亮的珍贵合金，深受所有已知的星系主要种族的商人喜爱。由<EARTH>离子钴<>和<EARTH>磷<>制作。
 
 由于散发明亮的红光和强磁场而很容易辨认。}
@@ -4235,7 +4235,7 @@ OPTION_TEMPERATURE	{温度：%UNIT%}
 GRAPHICS_FIELD_OF_VIEW	{视野}
 STATS_UNIT_LIGHTYEAR_DISTANCE	{%DISTANCE% 光年}
 BUILD_PROD_STACK	{制作更多}
-BUILD_PROD_STACK_SUB	{创造额外%ITEM%}
+BUILD_PROD_STACK_SUB	{制造更多%ITEM%}
 UI_EMPTY_SLOT	{空槽位}
 UI_SAVE_SELECT	{选择存档游戏}
 UI_SHIPSCAN_TREASURE_NAME	{遗物扫描仪}
@@ -4252,11 +4252,11 @@ SHIP_BOOSTMANEUVERABILITY	{操控性}
 COMPARE_COST	{花费：<STAT>%TOTAL%<>}
 COMPARE_TRADE_IN	{回收价：<STAT>%TOTAL%<>}
 UI_STARSHIP_TRADE	{议价}
-SHORT_SHIP_ADD_DESC	{添加飞船至收藏}
-SHORT_SHIP_BUY_ADD_DESC	{购买并添加至收藏}
+SHORT_SHIP_ADD_DESC	{纳入飞船库}
+SHORT_SHIP_BUY_ADD_DESC	{购买并添加至飞船库}
 SHORT_SHIP_EXCHANGE_DESC	{交易当前飞船}
 SHORT_COMPARE_SHIP_DESC	{对比飞船库存}
-SHORT_TRANSFER_WARNING	{警告：首先转移货物！}
+SHORT_TRANSFER_WARNING	{警告：请先转移货物！}
 SHIP_BUY_ABANDONED	{获取飞船}
 SHIP_SWAP_ABANDONED	{交换飞船}
 SHIP_SWAP_ABANDONED_SUB	{交换将放弃当前飞船和货物}
@@ -4440,17 +4440,17 @@ REFINER_LOST_NOTIFY	{使用分析面甲（<IMG>AIM<>）为<TECHNOLOGY>便携式�
 TEACHWORD	{学习词汇}
 RGB_WARP_1_DESC	{升级超光速推进器的核心约束磁场，避免在尝试抵达稀有级<FUEL>红色星体<>时快速解体。
 
-建议使用者通过<VAL_ON>银河星图<>接入超光速推进系统。}
+建议使用者通过<VAL_ON>星系图<>接入超光速推进系统。}
 RGB_WARP_1_NAME	{强化曲速护盾}
 RGB_WARP_1_NAME_L	{强化曲速护盾}
 RGB_WARP_2_DESC	{对超光速推进器的护盾健全性进行升级，避免在尝试抵达稀有级<TRADEABLE>绿色星体<>时出现现实故障。
 
-建议使用者通过<VAL_ON>银河星图<>接入超光速推进系统。}
+建议使用者通过<VAL_ON>星系图<>接入超光速推进系统。}
 RGB_WARP_2_NAME	{色度曲速防护}
 RGB_WARP_2_NAME_L	{色度曲速防护}
 RGB_WARP_3_DESC	{对超光速推进器的计算矩阵进行升级，避免在尝试抵达稀有级<TECHNOLOGY>蓝色星体<>时遇到时空异常。
 
-建议使用者通过<VAL_ON>银河星图<>接入超光速推进系统。}
+建议使用者通过<VAL_ON>星系图<>接入超光速推进系统。}
 RGB_WARP_3_NAME	{时空曲速计算机}
 RGB_WARP_3_NAME_L	{时空曲速计算机}
 CHARGEBUTTON_DESC	{使用该元素为技术充能}
@@ -9033,13 +9033,13 @@ NPC_OVERS_COMP_RES_A_6	{啊，农场！我们应该开拓土地，从护卫那�
 NPC_OVERS_COMP_RES_B_6	{怎么了？你不想看到另一名吉克进驻你的家园吗？我是不是准备的太多了？}
 NPC_OVERS_BRIEF_MAIN_LANG_7	{一旦你拥有了农民，就能够畅通无阻地进行交易了！不用被来回牵制就能从光荣的收获中获益！
 不要害怕，朋友，我会为你做到的。我只需要一些<TECHNOLOGY>电路板<>就能完成我们自己的交易终端计划了。}
-NPC_OVERS_BRIEF_MAIN_DESC_7	{监督者需要<TECHNOLOGY>电路板<>来打造<TECHNOLOGY>银河交易终端<>设计图。科尔瓦克斯科学家应该能够提供必要的配件。}
+NPC_OVERS_BRIEF_MAIN_DESC_7	{监督者需要<TECHNOLOGY>电路板<>来打造<TECHNOLOGY>星系贸易终端<>设计图。科尔瓦克斯科学家应该能够提供必要的配件。}
 NPC_OVERS_BRIEF_OPT_A_7	{接受}
 NPC_OVERS_BRIEF_OPT_B_7	{拒绝}
-NPC_OVERS_BRIEF_RES_A_7	{我对吉克所执着的交易没有什么热情。不过，从我的家园直接进入银河市场的确很方便。}
+NPC_OVERS_BRIEF_RES_A_7	{我对吉克所执着的交易没有什么热情。不过，从我的家园直接进入星系市场的确很方便。}
 NPC_OVERS_BRIEF_RES_B_7	{吉克对商业痴迷并没有关系，但是这个基地是我自己打造的。我还没准备好把市场的眼光带到这里，对我的墙壁虎视眈眈，时刻为我的时间估价。}
 NPC_OVERS_BRIEF_RET_LANG_7	{来吧，朋友！只需要花费一点钱就能买到些电路来自如进行交易荣耀了！}
-NPC_OVERS_BRIEF_RET_DESC_7	{监督者需要<TECHNOLOGY>电路板<>来打造<TECHNOLOGY>银河交易终端<>设计图。科尔瓦克斯科学家应该能够提供必要的配件。}
+NPC_OVERS_BRIEF_RET_DESC_7	{监督者需要<TECHNOLOGY>电路板<>来打造<TECHNOLOGY>星系贸易终端<>设计图。科尔瓦克斯科学家应该能够提供必要的配件。}
 NPC_OVERS_WAIT_LANG_7	{工厂群集在这个地方，一个个世界毫无目的地倾泻资源，而你就因为毁了一块石头受到护卫的攻击？真是太可恶了。让我感到恶心。}
 NPC_OVERS_WAIT_DESC_7	{监督者是对的。我因为开采少量资源而遭到护卫的攻击，但工厂建筑群却在肆无忌惮地运行。
 为什么？为什么它们无视这种贪欲，而我却要为了生存而战斗？}
@@ -9560,7 +9560,7 @@ NPC_SCI_TERM_DESC_2	{错误。
 诊断：科尔瓦克斯科学单元已由于旅行者的互动而遭到破坏。人格重写|已检测到异常混乱
 解决方案：从集会中隔离科尔瓦克斯科学单元。发现。分析。沉默。
 假设：护卫|阿特拉斯|宇宙焦点|对策处理中
-风险评估：熵。银河毁灭|重生
+风险评估：熵。星系毁灭|重生
 
 错误
 阿特拉斯
@@ -10924,7 +10924,7 @@ CLIENT_EXPLOREGUILD_22	{秘密动物学社}
 CLIENT_EXPLOREGUILD_23	{黑洞局}
 CLIENT_EXPLOREGUILD_24	{深层思考集团}
 CLIENT_EXPLOREGUILD_25	{悖论监管委员会}
-CLIENT_TRADERGUILD_1	{银河系系贸易监管}
+CLIENT_TRADERGUILD_1	{星系系贸易监管}
 CLIENT_TRADERGUILD_2	{商人联合}
 CLIENT_TRADERGUILD_3	{货船之友}
 CLIENT_TRADERGUILD_4	{一名“绅士太空冒险家”}
@@ -11628,7 +11628,7 @@ UI_DELIVERY_OBJ1_MSG_FAIL	{%PRIMARYITEM%放置错误
 UI_DELIVERY_OBJ1_OSD_FAIL	{交付货物放置错误}
 UI_DELIVERY_OBJ1_MARKER_FAIL	{安全仓库}
 UI_COLLECT_OBJ	{为客户获得物品}
-UI_COLLECT_OBJ_TIP	{有多种方式获取物品。可以在星球上探险过程中拾取，也可以从商店或银河市场中购买，还可以制作。}
+UI_COLLECT_OBJ_TIP	{有多种方式获取物品。可以在星球上探险过程中拾取，也可以从商店或星系市场中购买，还可以制作。}
 UI_COLLECT_OBJ_FORMAT	{获取资源%ITEM%：%CURRENT%/%AMOUNT%}
 UI_COLLECT_OBJ_FORMAT_TIP	{%TIP%}
 UI_COLLECT_OBJ1_MSG1	{收集%PRIMARYITEM%：<STELLAR>%CURRENT%/%AMOUNT%<>
@@ -12729,7 +12729,7 @@ EXP_NPC_U3ANOMALY_DESC_1	{这个电子生命体从它漆黑的面具后盯着我
 
 整个基站发出一种奇怪而令人不安的频率。纳达告诉我，我们站在世界交接处，在异象中心。
 
-它可以指引我通往阿特拉斯的意志中。它向我展示了银河核心的道路。或者，如果我愿意，它就能为我提供旅行所需的资源。选择权在我手上。}
+它可以指引我通往阿特拉斯的意志中。它向我展示了星系核心的道路。或者，如果我愿意，它就能为我提供旅行所需的资源。选择权在我手上。}
 EXP_NPC_U3ANOMALY_LANG_1	{那是旅行者吗？第一个还是最后一个？无论如何，都令人高兴！
 
 我是神父实体纳达，一名与众不同的科尔瓦克斯。不过实体必须保守秘密，对吧？}
@@ -12737,7 +12737,7 @@ EXP_NPC_U3ANOMALY_DESC_2	{纳达表示它是科尔瓦克斯神父。它开始对
 
 鉴于此，纳达被科尔瓦克斯驱逐出集体意识，并追捕它直到时空的尽头。在找到它唯一的朋友保罗时，神父实体纳达几乎要放弃了......
 
-纳达向我眨眨眼，等待着我的询问。它会为我指出阿特拉斯之路作为报答，指引我前往银河中心，或为我的旅行提供帮助。纳达只是希望尽力帮助我。 }
+纳达向我眨眨眼，等待着我的询问。它会为我指出阿特拉斯之路作为报答，指引我前往星系中心，或为我的旅行提供帮助。纳达只是希望尽力帮助我。 }
 EXP_NPC_U3ANOMALY_LANG_2	{纳达在科尔瓦克斯主星的阴影下苏醒。无法理解为什么会发生厄运。为什么我们如此孤独。
 
 纳达如今已经不再孤独。纳达已经有了伙伴保罗。我们的集会很小，但是纳达很幸福。}
@@ -12765,7 +12765,7 @@ EXP_NPC_U3ANOMALY_LANG_5	{物理过于简单化。化学太过随意。而万物
 我感到恐惧，旅行者朋友。}
 EXP_NPC_U3ANOMALY_DESC_6	{这次纳达没有靠近我。它面甲上闪动着警示的灯光。我们之间的关系发生了变化。
 
-纳达开始相信银河中没有自由意志的空间，除了残酷的因果关系外其他什么都没有。它凝视着黑暗的空间，只看到了在琴弦上转动的舞者......
+纳达开始相信星系中没有自由意志的空间，除了残酷的因果关系外其他什么都没有。它凝视着黑暗的空间，只看到了在琴弦上转动的舞者......
 
 它会继续帮助我，我知道它会的。}
 EXP_NPC_U3ANOMALY_LANG_6	{梦想家朋友还是敌人？梦想家朋友还是敌人？
@@ -12879,7 +12879,7 @@ TRA_NPC_U3ANOMALY_REQUEST_OPT_A	{购买套装技术}
 TRA_NPC_U3ANOMALY_REQUEST_OPT_B	{购买武器技术}
 TRA_NPC_U3ANOMALY_REQUEST_OPT_C	{购买飞船技术}
 TRA_NPC_U3ANOMALY_REQUEST_RES_A	{明智的选择！套装坚固，活得更久，朋友！}
-TRA_NPC_U3ANOMALY_REQUEST_RES_B	{只为生存而战，朋友。真爱整个银河和其中的奇迹！}
+TRA_NPC_U3ANOMALY_REQUEST_RES_B	{只为生存而战，朋友。真爱整个星系和其中的奇迹！}
 TRA_NPC_U3ANOMALY_REQ_LOOP_DESC	{保罗看向异象的黑暗。它希望和平度过生命的终结。
 
 然而，它渴望我能继续我的探索，并为我提供了大量技术以进一步完成这个目标。}
@@ -12888,7 +12888,7 @@ TRA_NPC_U3ANOMALY_REQ_LOOP_OPT_	{购买套装技术}
 TRA_NPC_U3ANOMALY_REQ_LOOP_OPT_	{购买武器技术}
 TRA_NPC_U3ANOMALY_REQ_LOOP_OPT_	{购买飞船技术}
 TRA_NPC_U3ANOMALY_REQ_LOOP_RES_	{明智的选择！套装坚固才能活得更久，朋友！我真希望能亲自去看看......}
-TRA_NPC_U3ANOMALY_REQ_LOOP_RES_	{只为生存而战，朋友。真爱整个银河和其中的奇迹！你会走得更远，我相信这一点！}
+TRA_NPC_U3ANOMALY_REQ_LOOP_RES_	{只为生存而战，朋友。真爱整个星系和其中的奇迹！你会走得更远，我相信这一点！}
 TRA_NPC_U3ANOMALY_REQ_LOOP_RES_	{开足马力，飞向更遥远的彼方，把一切尽收眼底！不要留有遗憾！我为你骄傲！}
 UI_ATLAS_MISSION_TITLE	{阿特拉斯之道}
 UI_ATLAS_MISSION_SUB	{取回阿特拉斯之种}
@@ -12938,7 +12938,7 @@ UI_EXPLORE_MISSION_MSG	{造访阿特拉斯界面
 NOTIFY_EXPLORE_GAL_U3	{在星系中探索吧}
 NOTIFY_EXPLORE_GAL_U3_TIP	{整个宇宙等待着你去探索。享受旅程吧。}
 U3_NOTIFY_FINAL_GOMAP	{你的命运栖息在彼方
-按 <IMG>QUICK_MENU<> 打开银河星图}
+按 <IMG>QUICK_MENU<> 打开星系图}
 U3_NOTIFY_GOTO_SPACE_ANOM	{侦测到异常信号}
 TRA_PIRATE_THREAT_LANG_1	{朋友......你不知道这条贸易路线是属于我们的吗？要么支付罚金，要么承担后果吧......}
 TRA_PIRATE_THREAT_LANG_2	{这可真是艘漂亮的飞船，朋友！如果它出什么事，那可太遗憾了......}
@@ -14713,7 +14713,7 @@ EXP_CRA_OPT_A_12	{访问数据库}
 EXP_CRA_OPT_B_12	{增强黑匣子信号}
 EXP_CRA_RES_A_12	{我进入了飞船的系统，提取了大量纳米星团。没有其他什么可利用的了，终端由于驾驶员的抽搐而遭到破坏。}
 EXP_CRA_RES_B_12	{我向当局记录了飞船情况，报告了失事飞船。集会因此给了我报酬，为逝世的朋友而哀悼。}
-EXP_CRA_DESC_13	{飞船的一切似乎都可以运作，除了发动机。飞船日志显示，这名电子生命体一直在学习银河贸易。
+EXP_CRA_DESC_13	{飞船的一切似乎都可以运作，除了发动机。飞船日志显示，这名电子生命体一直在学习星系贸易。
 
 科尔瓦克斯进行交易的原因更多是出于好奇，而非必要。利益、得失、积累......这些概念对它来说很陌生，它似乎一直试图更好地理解其他生命体。
 
@@ -15190,7 +15190,7 @@ WAR_OBS_LANG_8	{9214 - 4921 - 1492 - ****}
 WAR_OBS_OPT_A_8	{输入: 4219}
 WAR_OBS_OPT_B_8	{输入: 1249}
 WAR_OBS_OPT_C_8	{输入: 2149}
-WAR_OBS_DESC_9	{了望台包含着分析银河市场和追踪贸易路线的机器。
+WAR_OBS_DESC_9	{了望台包含着分析星系市场和追踪贸易路线的机器。
 
 无论维吉恩为什么制作这座了望台，相比做研究，它们似乎对潜在的利益更有兴趣。它们似乎一直在因类似吉克的行为而受到谴责，并被流放到了另一个地方。
 
