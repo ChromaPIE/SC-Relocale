@@ -5855,7 +5855,7 @@ UI_EXPLORE_LOG_SYSTEM	{<VAL_ON>星球分级<>：%STAR%<IMG>SLASH<>%STARAGE%
 <VAL_ON>已发现的行星<>：<%GRADE%>%PLANET_CURR%<> / <%GRADE%>%PLANET_MAX%<>
 <VAL_ON>优势生命体<>：<%RACE_GRADE%>%RACE%<>
 <VAL_ON>冲突等级<>：<%CONFLICT_GRADE%>%CONFLICT%<>
-<VAL_ON>经济<>：%ECON%，<%WEALTH_GRADE%>%WEALTH%<>
+<VAL_ON>经济情况<>：%ECON%，<%WEALTH_GRADE%>%WEALTH%<>
 
 规划贸易航线以实现利润最大化。找出互补的经济体类型，规划出完美的交易航线。
 
@@ -5866,7 +5866,7 @@ UI_EXPLORE_LOG_ABAND	{<VAL_ON>星球分级<>：%STAR%
 <VAL_ON>已发现的行星<>：<%GRADE%>%PLANET_CURR%<> / <%GRADE%>%PLANET_MAX%<>
 <VAL_ON>优势生命体<>：[<FUEL>已撤离<>]
 <VAL_ON>冲突等级<>：???
-<VAL_ON>经济<>：???
+<VAL_ON>经济情况<>：???
 
 <IMG>SLASH<>未侦测到空间站<IMG>SLASH<>紧急广播频道无声<IMG>SLASH<>}
 UI_EXPLORE_LOG_EMPTY	{<VAL_ON>星球分级<>：%STAR%
@@ -5875,7 +5875,7 @@ UI_EXPLORE_LOG_EMPTY	{<VAL_ON>星球分级<>：%STAR%
 <VAL_ON>已发现的行星<>：<%GRADE%>%PLANET_CURR%<> / <%GRADE%>%PLANET_MAX%<>
 <VAL_ON>优势生命体<>：无
 <VAL_ON>冲突等级<>：无
-<VAL_ON>经济<>：无
+<VAL_ON>经济情况<>：无
 
 此恒星系<SPECIAL>无人居住<>。无空间站，所有行星均无生命迹象。}
 UI_EXPLORE_LOG_PLANET	{<VAL_ON>已发现的生物：<><%CRE_GRADE%>%CREA_CURR%<> / <%CRE_GRADE%>%CREA_MAX%<>
@@ -11755,11 +11755,11 @@ UI_PHOTO_BIO_LAVA_OBJ_MSG1	{客户需要火山世界的照片
 UI_PHOTO_BIO_GUIDED_OBJ2	{拍一张景色的照片}
 UI_PHOTO_BIO_GUIDED_OBJ2_ALT	{在%BIOME%上拍一张照片}
 UI_PHOTO_BIO_GUIDED_OBJ2_TIP	{为客户拍张照片。
-使用<IMG>QUICK_MENU<>激活相片模式。}
+使用<IMG>QUICK_MENU<>激活照片模式。}
 UI_PHOTO_BIO_GUIDED_OBJ2_MSG	{客户需要%BIOME%的照片
 用<IMG>SHIPSCAN<>在太空中扫描行星。}
 UI_PHOTO_BIO_GUIDED_OBJ2_MSG2	{拍一张照片
-用<IMG>QUICK_MENU<>激活相片模式}
+用<IMG>QUICK_MENU<>激活照片模式}
 UI_PHOTO_BIO_GUIDED_PLANET_OSD	{已定位目标行星}
 UI_PHOTO_BIO_GUIDED_PLANET_LAB	{目标行星}
 BASESTATS_ALIENSHIP_L	{感知力}

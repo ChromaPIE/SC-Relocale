@@ -7837,9 +7837,9 @@ MP_HIVE_OPT	{上传档案数据}
 MP_HIVE_RES	{[超控代码：<SPECIAL>纳达<>]
 正在访问<SPECIAL>巡逻路径<>......<SPECIAL>审计日志<>...... <SPECIAL>清理协议<>......
 上传完成！}
-UI_MP_HIVE_MSG1	{已找到<STELLAR>具有高阶护卫活动行星<>
+UI_MP_HIVE_MSG1	{已找到<STELLAR>存在频繁护卫活动的行星<>
 到达目标行星}
-UI_MP_HIVE_MSG1A	{已找到<STELLAR>具有高阶护卫活动行星<>
+UI_MP_HIVE_MSG1A	{已找到<STELLAR>存在频繁护卫活动的行星<>
 锁定护卫之柱}
 UI_MP_HIVE_OBJ2	{收获护卫之柱档案}
 UI_MP_HIVE_OBJ2_TIP	{护卫之柱受到守卫的严密保护。
@@ -12981,15 +12981,15 @@ UI_EXPED_COOK_CAKE_MSG5	{使用<TECHNOLOGY>营养处理器<>准备<STELLAR>面�
 混合<STELLAR>加糖黄油<>与<STELLAR>卵<>还有<STELLAR>面粉<>以制作面糊}
 UI_EXPED_COOK_CAKE_MSG6	{烘焙美味蛋糕
 混合<STELLAR>面糊<>与不同原料以尝试烘焙各色糕点}
-UI_EXPED_PHOTO_PET_NAME	{最佳好友的相片}
-UI_EXPED_PHOTO_PET_NAME_U	{最佳好友的相片}
+UI_EXPED_PHOTO_PET_NAME	{最佳好友的照片}
+UI_EXPED_PHOTO_PET_NAME_U	{最佳好友的照片}
 UI_EXPED_PHOTO_PET_DESC	{为同伴拍照}
 UI_EXPED_PHOTO_PET_DESC_D	{已为同伴拍照}
 UI_EXPED_PHOTO_PET_MSG	{为你的生物同伴拍照
-在快捷菜单中激活相片模式（<IMG>QUICK_MENU<>）}
+在快捷菜单中激活照片模式（<IMG>QUICK_MENU<>）}
 UI_EXPED_PHOTO_PET_OBJ	{为同伴拍照}
 UI_EXPED_PHOTO_PET_OBJ_TIP	{拍一张你的生物伴侣的照片。
-通过快捷菜单（<IMG>QUICK_MENU<>）召唤同伴并激活相片模式。}
+通过快捷菜单（<IMG>QUICK_MENU<>）召唤同伴并激活照片模式。}
 UI_EXPED_PET_BEETLE_NAME	{鞘翅学}
 UI_EXPED_PET_BEETLE_NAME_U	{鞘翅学}
 UI_EXPED_PET_BEETLE_DESC	{收养一位甲虫同伴}
@@ -13019,11 +13019,11 @@ UI_EXPED_PHOTO_CRE_DESC	{同时为%AMOUNT%只陆行生物拍照}
 UI_EXPED_PHOTO_CRE_DESC_D	{已为一群生物拍照}
 UI_EXPED_PHOTO_CRE_MSG	{同时为%AMOUNT%只陆行生物拍照
 使用分析面甲（<IMG>AIM<>）定位生物
-在快捷菜单（<IMG>QUICK_MENU<>）激活相片模式}
+在快捷菜单（<IMG>QUICK_MENU<>）激活照片模式}
 UI_EXPED_PHOTO_CRE_OBJ	{为一群陆行生物拍照}
-UI_EXPED_PHOTO_CRE_OBJ_TIP	{拍摄一张包含%AMOUNT%只陆行生物的相片。
+UI_EXPED_PHOTO_CRE_OBJ_TIP	{拍摄一张包含%AMOUNT%只陆行生物的照片。
 使用分析面甲（<IMG>AIM<>）定位生物。
-在快捷菜单（<IMG>QUICK_MENU<>）激活相片模式。}
+在快捷菜单（<IMG>QUICK_MENU<>）激活照片模式。}
 UI_EXPED_NEXUSCHEF_BEST_NAME	{挑剔的味蕾}
 UI_EXPED_NEXUSCHEF_BEST_NAME_U	{挑剔的味蕾}
 UI_EXPED_NEXUSCHEF_BEST_DESC	{打动克洛诺斯}

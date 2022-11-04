@@ -1223,7 +1223,7 @@ UI_PIN_REFINE	{精炼%ITEM%}
 UI_PIN_CRAFT	{制作%ITEM%}
 UI_TITLE_MILESTONES	{里程碑}
 PHOTO_MODE_CONTROLS_NEW	{<IMG>PHOTO_HIDE<> 隐藏菜单  <IMG>DIAMONDBULLET<>  <IMG>PHOTO_SUN<> 将太阳移至光标  <IMG>DIAMONDBULLET<>  <IMG>PHOTO_CAM<> 保存效果  <IMG>DIAMONDBULLET<>  <IMG>PHOTO_EXIT<> 退出}
-PHOTO_MODE_CONTROLS_NEW_VR	{<IMG>PHOTO_HIDE<> 隐藏菜单  <IMG>DIAMONDBULLET<>  <IMG>PHOTO_CAM<> 保存效果  <IMG>DIAMONDBULLET<>  <IMG>PHOTO_EXIT<> 退出相片模式}
+PHOTO_MODE_CONTROLS_NEW_VR	{<IMG>PHOTO_HIDE<> 隐藏菜单  <IMG>DIAMONDBULLET<>  <IMG>PHOTO_CAM<> 保存效果  <IMG>DIAMONDBULLET<>  <IMG>PHOTO_EXIT<> 退出照片模式}
 PHOTO_CAMMODE_CONTROLS_NEW	{<IMG>PHOTO_SUN<> 移动太阳  <IMG>DIAMONDBULLET<>  <IMG>PHOTO_CAMDOWN<>/<IMG>PHOTO_CAMUP<> 变更高度  <IMG>DIAMONDBULLET<>  <IMG>PHOTO_CAMROLLLEFT<>/<IMG>PHOTO_CAMROLLRIGHT<> 倾斜  <IMG>DIAMONDBULLET<>  <IMG>PHOTO_CAM<> 调整效果
 
 <IMG>PHOTO_CAPTURE<> 屏幕截图 <IMG>DIAMONDBULLET<>  <IMG>PHOTO_HIDE<> 隐藏菜单  <IMG>DIAMONDBULLET<>  <IMG>PHOTO_EXIT<> 退出}
@@ -2161,14 +2161,14 @@ UI_BEST_TIME	{跟踪记录}
 ALL_VEHICLES	{强化艇}
 DISC_TODAY	{<VAL_ON>今日<>已发现；发现者：<VAL_ON>%NAME%<>}
 DISC_YESTERDAY	{<VAL_ON>昨日<>已发现；发现者：<VAL_ON>%NAME%<>}
-DISC_DAYS_AGO	{<VAL_ON>%NUM%<> 天前已发现；发现者：<VAL_ON>%NAME%<>}
-DISC_WEEKS_AGO	{<VAL_ON>%NUM%<> 周前已发现；发现者：<VAL_ON>%NAME%<>}
-DISC_MONTHS_AGO	{<VAL_ON>%NUM%<> 个月前已发现；发现者：<VAL_ON>%NAME%<>}
-DISC_YEARS_AGO	{<VAL_ON>%NUM%<> 年前已发现；发现者：<VAL_ON>%NAME%<>}
-DISC_DAYS_AGO_SINGLE	{<VAL_ON>一<>天前已发现；发现者：<VAL_ON>%NAME%<>}
-DISC_WEEKS_AGO_SINGLE	{<VAL_ON>一<>周前已发现；发现者：<VAL_ON>%NAME%<>}
-DISC_MONTHS_AGO_SINGLE	{<VAL_ON>一<>个月前已发现；发现者：<VAL_ON>%NAME%<>}
-DISC_YEARS_AGO_SINGLE	{<VAL_ON>一<>年前已发现；发现者：<VAL_ON>%NAME%<>}
+DISC_DAYS_AGO	{<VAL_ON>%NUM%<>天前由<VAL_ON>%NAME%<>发现}
+DISC_WEEKS_AGO	{<VAL_ON>%NUM%<>周前由<VAL_ON>%NAME%<>发现}
+DISC_MONTHS_AGO	{<VAL_ON>%NUM%<>个月前由<VAL_ON>%NAME%<>发现}
+DISC_YEARS_AGO	{<VAL_ON>%NUM%<>年前由<VAL_ON>%NAME%<>发现}
+DISC_DAYS_AGO_SINGLE	{<VAL_ON>一<>天前由<VAL_ON>%NAME%<>发现}
+DISC_WEEKS_AGO_SINGLE	{<VAL_ON>一<>周前由<VAL_ON>%NAME%<>发现}
+DISC_MONTHS_AGO_SINGLE	{<VAL_ON>一<>个月前由<VAL_ON>%NAME%<>发现}
+DISC_YEARS_AGO_SINGLE	{<VAL_ON>一<>年前由<VAL_ON>%NAME%<>发现}
 MONTH1	{一月}
 MONTH2	{二月}
 MONTH3	{三月}
@@ -3967,8 +3967,8 @@ NPC_COMM_WEEK_06_PORTAL_DESC	{传送门在我的面前打开。
 
 保罗失去的朋友是否曾站在这样的一个传送门前？有多少人像我一样去过那里，穿越时空追逐幽灵？也许有另一个人，在我的吉克同伴的其他迭代的请求下，正在跟随我的脚步......}
 UI_COMM_WEEK_06_OBJ6_MSG	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
-拍一张%BUILDING%的照片
-用 <IMG>QUICK_MENU<> 激活相片模式}
+为%BUILDING%拍一张照片
+用 <IMG>QUICK_MENU<> 激活照片模式}
 UI_COMM_WEEK_06_OBJ6_MSG_ALT	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 为保罗拍摄建筑的照片
 使用 <IMG>SCAN<> 联系异象和交换数据}
@@ -4108,11 +4108,11 @@ UI_COMM_WEEK_07_OBJ3	{拍摄水下生物群}
 UI_COMM_WEEK_07_OBJ3_MSG	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 拍摄一群由 10 只水下生物组成的集群。
 使用<TECHNOLOGY>分析面甲<>（<IMG>AIM<>）在<STELLAR> -10.53，-28.39 <>附近定位生物。
-用 <IMG>QUICK_MENU<> 激活相片模式。}
+用 <IMG>QUICK_MENU<> 激活照片模式。}
 UI_COMM_WEEK_07_OBJ3_TIP	{纳达要求拍摄一群由 10 只水下生物组成的集群的照片。
 它已经找到了一个可能合适的拍摄位置，就在<STELLAR> -10.53，-28.39 <>。
 可以用<STELLAR>飞船驾驶舱<>或<TECHNOLOGY>分析面甲<>查看行星坐标。
-用 <IMG>QUICK_MENU<> 激活相片模式。}
+用 <IMG>QUICK_MENU<> 激活照片模式。}
 UI_COMM_WEEK_07_OBJ4	{联系<SPECIAL>太空异象<>}
 UI_COMM_WEEK_07_OBJ4_MSG	{<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 起飞返回太空去联系纳达}
@@ -4123,52 +4123,52 @@ UI_COMM_WEEK_07_OBJ5_MSG_PROMPT	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %M
 前往不同的恒星系开始你的摄影。}
 UI_COMM_WEEK_07_OBJ5_MSG	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 纳达要求你在<STELLAR>%BIOME%<>上进一步拍摄<TECHNOLOGY>水下生物<>。
-用 <IMG>QUICK_MENU<> 激活相片模式。
+用 <IMG>QUICK_MENU<> 激活照片模式。
 当前数量：0/10
 起飞返回太空去联系纳达}
 UI_COMM_WEEK_07_OBJ5_MSG2	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 纳达要求你在<STELLAR>%BIOME%<>上进一步拍摄<TECHNOLOGY>水下生物<>。
-用 <IMG>QUICK_MENU<> 激活相片模式。
+用 <IMG>QUICK_MENU<> 激活照片模式。
 当前数量：1/10
 起飞返回太空去联系纳达}
 UI_COMM_WEEK_07_OBJ5_MSG3	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 纳达要求你在<STELLAR>%BIOME%<>上进一步拍摄<TECHNOLOGY>水下生物<>。
-用 <IMG>QUICK_MENU<> 激活相片模式。
+用 <IMG>QUICK_MENU<> 激活照片模式。
 当前数量：2/10
 起飞返回太空去联系纳达}
 UI_COMM_WEEK_07_OBJ5_MSG4	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 纳达要求你在<STELLAR>%BIOME%<>上进一步拍摄<TECHNOLOGY>水下生物<>。
-用 <IMG>QUICK_MENU<> 激活相片模式。
+用 <IMG>QUICK_MENU<> 激活照片模式。
 当前数量：3/10
 起飞返回太空去联系纳达}
 UI_COMM_WEEK_07_OBJ5_MSG5	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 纳达要求你在<STELLAR>%BIOME%<>上进一步拍摄<TECHNOLOGY>水下生物<>。
-用 <IMG>QUICK_MENU<> 激活相片模式。
+用 <IMG>QUICK_MENU<> 激活照片模式。
 当前数量：4/10
 起飞返回太空去联系纳达}
 UI_COMM_WEEK_07_OBJ5_MSG6	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 纳达要求你在<STELLAR>%BIOME%<>上进一步拍摄<TECHNOLOGY>水下生物<>。
-用 <IMG>QUICK_MENU<> 激活相片模式。
+用 <IMG>QUICK_MENU<> 激活照片模式。
 当前数量：5/10
 起飞返回太空去联系纳达}
 UI_COMM_WEEK_07_OBJ5_MSG7	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 纳达要求你在<STELLAR>%BIOME%<>上进一步拍摄<TECHNOLOGY>水下生物<>。
-用 <IMG>QUICK_MENU<> 激活相片模式。
+用 <IMG>QUICK_MENU<> 激活照片模式。
 当前数量：6/10
 起飞返回太空去联系纳达}
 UI_COMM_WEEK_07_OBJ5_MSG8	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 纳达要求你在<STELLAR>%BIOME%<>上进一步拍摄<TECHNOLOGY>水下生物<>。
-用 <IMG>QUICK_MENU<> 激活相片模式。
+用 <IMG>QUICK_MENU<> 激活照片模式。
 当前数量：7/10
 起飞返回太空去联系纳达}
 UI_COMM_WEEK_07_OBJ5_MSG9	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 纳达要求你在<STELLAR>%BIOME%<>上进一步拍摄<TECHNOLOGY>水下生物<>。
-用 <IMG>QUICK_MENU<> 激活相片模式。
+用 <IMG>QUICK_MENU<> 激活照片模式。
 当前数量：8/10
 起飞返回太空去联系纳达}
 UI_COMM_WEEK_07_OBJ5_MSG10	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
 纳达要求你在<STELLAR>%BIOME%<>上进一步拍摄<TECHNOLOGY>水下生物<>。
-用 <IMG>QUICK_MENU<> 激活相片模式。
+用 <IMG>QUICK_MENU<> 激活照片模式。
 当前数量：9/10
 起飞返回太空去联系纳达}
 UI_COMM_WEEK_07_OBJ5_MSG_ALT	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISSIONTIME%<>
@@ -4177,7 +4177,7 @@ UI_COMM_WEEK_07_OBJ5_MSG_ALT	{剩余研究时间：<HIGHLIGHT><IMG>CLOCK<> %MISS
 用 <IMG>SCAN<> 联系异象和交换数据}
 UI_COMM_WEEK_07_OBJ5_TIP	{纳达要求拍摄更多水下生物的照片。
 使用<TECHNOLOGY>分析面甲<>（<IMG>AIM<>）定位生物。
-用 <IMG>QUICK_MENU<> 激活相片模式。
+用 <IMG>QUICK_MENU<> 激活照片模式。
 起飞返回太空去联系纳达}
 UI_COMM_WEEK_07_STR_OSD	{广播信号已强化<IMG>SLASH<>研究区域已扩展}
 UI_COMM_WEEK_07_CAP_OSD	{研究数据已达上限}
@@ -5502,7 +5502,7 @@ UI_FRIG_REPAIR_OBJ_TIP	{找到并修复所有标记的部件。你可以离开�
 
 可以随时通过<TECHNOLOGY>护卫舰传送器<>瞬时返回你的货船。}
 UI_FRIG_REPAIR_MSG	{修复受损的护卫舰部件
-受损的空间站：<FUEL>%AMOUNT%<>}
+剩余受损站点：<FUEL>%AMOUNT%<>}
 UI_BASEFLAG_TITLE	{基地电脑档案}
 UI_BASEFLAG_SUB	{在档案中搜寻数据}
 UI_BASEFLAG_DESC	{<STELLAR>基地电脑<>正在继续档案恢复程序。
@@ -7016,7 +7016,7 @@ ALL_FLEET_COMMAND_POST_INTERV	{舰队指挥在线......有紧急信息待处理
 ALL_FLEET_COMM_POST_INTERV_OPT	{与指挥官通话}
 ALL_FLEET_COMM_POST_DEBRIEF_OPT	{听取指挥官汇报}
 ALL_FLEET_COMM_STATUS_OPT	{检查飞船}
-ALL_FLEET_STATUS_UPDATE	{向您问好，%CAP_RACE%。本次远征已航行 %EXP_DIST% 光年，距完成预定航线估计还需耗时%EXP_TIME%。所有系统运转正常。}
+ALL_FLEET_STATUS_UPDATE	{向您问好，%CAP_RACE%。本次远征已航行 %EXP_DIST% 光年，距完成预定航线估计还需耗时 %EXP_TIME%。所有系统运转正常。}
 ALL_FLEET_COMM_FIRST_OPT	{下载数据}
 ALL_FLEET_COMM_FIRST_LANG	{正在校准指挥站至新主人名下......成功！
 主人档案显示有<COMMODITY>1<>艘支援护卫舰可用。
@@ -11733,7 +11733,7 @@ NAMEGEN_FLEET_PLACE_31	{远方的太空}
 NAMEGEN_FLEET_PLACE_32	{美丽}
 NAMEGEN_FLEET_PLACE_33	{遥远的地方}
 UI_SHOW_GAMERCARD	{<IMG>GAMERCARD<> 显示玩家卡}
-PHOTO_CAMMODE_CONTROLS_XBOX	{<IMG>PHOTO_HIDE<> 隐藏菜单  <IMG>PHOTO_SUN<> 移动太阳  <IMG>PHOTO_CAMDOWN<>/<IMG>PHOTO_CAMUP<> 变更摄像头高度 <IMG>PHOTO_CAM<> 变更设置  <IMG>PHOTO_CAPTURE<> 屏幕截取  <IMG>PHOTO_EXIT<> 退出相片模式}
+PHOTO_CAMMODE_CONTROLS_XBOX	{<IMG>PHOTO_HIDE<> 隐藏菜单  <IMG>PHOTO_SUN<> 移动太阳  <IMG>PHOTO_CAMDOWN<>/<IMG>PHOTO_CAMUP<> 变更摄像头高度 <IMG>PHOTO_CAM<> 变更设置  <IMG>PHOTO_CAPTURE<> 屏幕截取  <IMG>PHOTO_EXIT<> 退出照片模式}
 UI_QUIT_TITLE	{退到标题屏幕}
 UI_NOUSER_TITLE	{用户注销}
 UI_NOUSER_PROMPT	{注销后将丢失所有未保存的进度。无论是再次登录还是退到标题屏幕都会丢失未保存的进度。}
