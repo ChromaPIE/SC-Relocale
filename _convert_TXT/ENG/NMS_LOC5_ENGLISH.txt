@@ -1,16 +1,3 @@
-UI_NEXUS_DETAIL_DESC	{The <SPECIAL>Space Anomaly<> is a hub for Travellers, a nexus that unites them wherever they are in the universe.
-Use Nada and Polo's home to undertake <COMMODITY>missions<>, earn <SPECIAL>nanites<> or <TECHNOLOGY>upgrade your equipment<>.}
-UI_GUIDE_BODY_NANITES	{<STELLAR>Nanite Clusters<> are a valuable material, a strange substance that bubbles up from cracks in reality. Nanites are used as a currency for the purchase of <TECHNOLOGY>Equipment Upgrades<>.
-
-Nanites are earned from a variety of sources as you explore. Many alien outposts and relics offer a chance to earn nanites as you explore their interiors and uncover their mysteries. Maps to such planetary sites can be purchased from the <TRADEABLE>Cartographer<> on the <VAL_ON>Space Station<>.
-
-<STELLAR>Discoveries<> are made by landing on planets, visiting new systems, or scanning objects with the <TECHNOLOGY>Analysis Visor<>. Nanites are earned for each discovery <VAL_ON>Uploaded<> for other Travellers to see. Upload discoveries from the <STELLAR>Discoveries tab<>.
-
-Traveller Iterations <STELLAR>Ares<> and <STELLAR>Helios<> are found aboard the <SPECIAL>Space Anomaly<>. They seek new items and data each day, and <VAL_ON>offer Nanites in exchange<>.
-
-Specific missions offered from the <TECHNOLOGY>Listings Agent<> aboard the <VAL_ON>Space Station<> are frequently a rich source of Nanites.
-
-Finally, <STELLAR>Fleet Expeditions<> dispatched from your <TECHNOLOGY>Capital Ship<> often return with large quantities of Nanites.}
 UI_VR_RECENTRE	{Recentre VR View}
 UI_PADOPTION_STICKS	{Sticks: Smooth Turns}
 UI_PADOPTIONS_STICKSSNAP	{Sticks: Snap Turns}

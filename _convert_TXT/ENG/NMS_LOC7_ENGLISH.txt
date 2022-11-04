@@ -8231,6 +8231,7 @@ UI_EXPED_PIRATE_PORTAL_P2_LANG	{Welcome, pirate recruit. Please select option:}
 UI_EXPED_PIRATE_PORTAL_P2_OPT_A	{Activate Portal}
 UI_EXPED_PIRATE_PORTAL_P2_OPT_B	{Query Destination}
 UI_EXPED_PIRATE_PORTAL_P3_LANG	{Portal Destination: <SPECIAL>Final Umirpaiya system<>.<NEWLINE>Intergalactic tunnel access: <TRADEABLE>available<>.<NEWLINE>Plunder caches primed for transport: <COMMODITY>439,531<>.}
+UI_EXPED_PIR2_PORTAL_P3_LANG	{Portal Destination: <SPECIAL>Final Apmaneessu system<>.<NEWLINE>Intergalactic tunnel access: <TRADEABLE>available<>.<NEWLINE>Plunder caches primed for transport: <COMMODITY>439,531<>.}
 UI_EXPED_PIRATE_PORTAL_P3_DESC	{The portal has been re-routed through an illegal network, its destination locked to the centre of this galaxy.<NEWLINE>The Blight's <SPECIAL>secret<> revealed: a shortcut to intergalactic travel!}
 UI_EXPED_PIRATE_PORTAL_P_WAIT	{The otherworldly field within the structure shimmers and crackles: a portal to a distant location.
 The glyphs engraved upon the pedestal look ancient, but someone has <FUEL>tampered<> with this historic structure. A cheaply-made screen protrudes from the stone, a clumsy fusion of new technology and old.}

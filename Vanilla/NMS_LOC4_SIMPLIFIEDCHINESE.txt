@@ -1,12 +1,3 @@
-UI_GUIDE_BODY_TRADE_1	{你可以在<VAL_ON>银河交易网络<>上出售物品获取<COMMODITY>货币<>（<IMG>UNITS<>）。你可在<VAL_ON>空间站、前哨基站<>和<VAL_ON>商店<>中找到<TECHNOLOGY>交易终端<>。
-
-你可从太空中的<VAL_ON>小行星<>上采集<STELLAR>贵重金属<>，或使用<TECHNOLOGY>分析面甲<>找到星球上宝贵的<STELLAR>资源点<>。
-
-空间站里的<SPECIAL>任务板<>是不错的收入来源。访问任务板以查看可接手的工作。查看<VAL_ON>任务板<>日志了解更多详情。
-
-在你的飞船里安装一台<TECHNOLOGY>经济扫描仪<>来查看星系图上的经济数据，然后规划<COMMODITY>贸易航线<>以实现利润最大化。找出<VAL_ON>互补的经济体类型<>，规划出完美的交易航线。
-
-<TRADEABLE>务农<>非常赚钱。合理分配作物，并使用它们制作新物品。}
 UI_GUIDE_TITLE	{指南}
 UI_GUIDE_HEADING_SURVIVAL	{生存基础知识}
 UI_GUIDE_HEADING_EXPLORATION	{导航与发现}

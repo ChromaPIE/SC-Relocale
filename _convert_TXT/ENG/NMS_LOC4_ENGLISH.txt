@@ -1,12 +1,3 @@
-UI_GUIDE_BODY_TRADE_1	{Sell items for <COMMODITY>units<> (<IMG>UNITS<>) on the <VAL_ON>Galactic Trade Network<>. Find <TECHNOLOGY>Trade Terminals<> in <VAL_ON>Space Stations, Outposts<> and <VAL_ON>Shops<>.
-
-Mine <STELLAR>Precious Metals<> from <VAL_ON>asteroids<> in space, or use the <TECHNOLOGY>Analysis Visor<> to locate valuable <STELLAR>resource deposits<> on planets.
-
-The <SPECIAL>Mission Board<> on Space Stations is a good source of income. Visit the Mission Board to find available jobs. See the <VAL_ON>Mission Board<> entry for more details.
-
-Install an <TECHNOLOGY>Economy Scanner<> in your starship to gain access to economic data on the Galaxy Map, then plan <COMMODITY>trade routes<> to maximise profit. Find <VAL_ON>complementary economy types<> for the perfect trade route.
-
-<TRADEABLE>Farming<> can be highly lucrative. Find a good balance of crops and use them to craft new items.}
 UI_GUIDE_TITLE	{GUIDE}
 UI_GUIDE_HEADING_SURVIVAL	{Survival Basics}
 UI_GUIDE_HEADING_EXPLORATION	{Navigation & Discovery}

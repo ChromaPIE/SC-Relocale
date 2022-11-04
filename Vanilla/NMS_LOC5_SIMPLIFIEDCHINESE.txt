@@ -1,16 +1,3 @@
-UI_NEXUS_DETAIL_DESC	{“<SPECIAL>太空异象<>是旅行者的中枢，将无论在宇宙何处的旅行者联合在一起的中枢纽。
-使用纳达和保罗的家来接受<COMMODITY>任务<>、赚取<SPECIAL>纳米星团<>或<TECHNOLOGY>升级你的装备<>。”}
-UI_GUIDE_BODY_NANITES	{<STELLAR>纳米星团<>是珍贵的材料。它是一种从现实裂缝中冒出来的奇特物质。纳米星团可作为货币购买<TECHNOLOGY>设备升级<>。
-
-纳米星团可以在探索过程中通过多种渠道获取。在探索外星人的前哨基站和遗物内部，并探寻它们的秘密时，你将有机会获取纳米星团。这些行星区域的地图可以从<VAL_ON>空间站<>的<TRADEABLE>制图师<>处购买。
-
-你可以通过降落在行星，探访新恒星系，以及用<TECHNOLOGY>分析面甲<>扫描进行<STELLAR>探索<>。每次将探索发现<VAL_ON>上传<>分享给其他旅行者时，你都能获得纳米星团。通过<STELLAR>发现选项<>上传探索发现。
-
-你可以在<SPECIAL>太空异象<>上发现旅行者的迭代<STELLAR>阿瑞斯<>与<STELLAR>赫利俄斯<>，它们每天搜寻新的物品与数据，并<VAL_ON>用纳米星团来交换<>。
-
-<VAL_ON>空间站<>上的<TECHNOLOGY>任务分派员<>派发的特殊任务通常也是纳米星团的重要来源。
-
-最后，从<TECHNOLOGY>主力飞船<>派出的<STELLAR>远征舰队<>经常会带回大量纳米星团。}
 UI_VR_RECENTRE	{重定位虚拟现实视角}
 UI_PADOPTION_STICKS	{摇杆：平滑转向}
 UI_PADOPTIONS_STICKSSNAP	{摇杆：急转}

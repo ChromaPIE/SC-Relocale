@@ -8224,6 +8224,7 @@ UI_EXPED_PIRATE_PORTAL_P2_LANG	{欢迎，海盗新兵。请选择：}
 UI_EXPED_PIRATE_PORTAL_P2_OPT_A	{激活传送门}
 UI_EXPED_PIRATE_PORTAL_P2_OPT_B	{查询目的地}
 UI_EXPED_PIRATE_PORTAL_P3_LANG	{传送门目的地：<SPECIAL>最终乌米派亚恒星系<>。<NEWLINE>跨星系隧道访问权限：<TRADEABLE>可用<>。<NEWLINE>准备运输战利品：<COMMODITY>439,531<>。}
+UI_EXPED_PIR2_PORTAL_P3_LANG	{}
 UI_EXPED_PIRATE_PORTAL_P3_DESC	{这扇传送门已经被利用非法网络篡改，它的目的地锁定在了这个恒星系的中心。<NEWLINE>这就是瘟疫最宝贵的<SPECIAL>秘密<>：一条跨星系旅行的捷径！}
 UI_EXPED_PIRATE_PORTAL_P_WAIT	{这座建筑中仿佛来自另一个世界的力场闪闪发光、不时发出噼啪声：一扇通往远方的传送门。
 刻在基座上的符文看起来很古老，但有人对这个历史悠久的建筑进行了<FUEL>改动<>。一个廉价的屏幕从石头上伸出来，昭示着新旧技术的笨拙融合。}
